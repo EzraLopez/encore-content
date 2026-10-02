@@ -1,1 +1,1718 @@
-{"festivals":[{"days":[{"date":"2025-10-10","stages":[{"name":"Main Stage","sets":[{"artist":"Nova Reyes","end":"15:30","id":"nf-2025-10-10-main-1","start":"14:00"},{"artist":"Glass Animals","end":"17:30","id":"nf-2025-10-10-main-2","start":"16:00"},{"artist":"Midnight Circuit","end":"21:30","id":"nf-2025-10-10-main-3","start":"20:00"}]},{"name":"Neon Dome","sets":[{"artist":"Lumen","end":"15:30","id":"nf-2025-10-10-dome-1","start":"14:00"},{"artist":"Velvet Static","end":"19:30","id":"nf-2025-10-10-dome-2","start":"18:00"}]}]},{"date":"2025-10-11","stages":[{"name":"Main Stage","sets":[{"artist":"ISOxo","end":"17:30","id":"nf-2025-10-11-main-1","start":"16:00"},{"artist":"Aurora Fields","end":"21:30","id":"nf-2025-10-11-main-2","start":"20:00"}]}]}],"endDate":"2025-10-12","id":"neon-fields-2025","instagramUrl":"https://instagram.com/neonfields","location":"Austin, Texas","mapImageUrl":"https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/neon-fields.png","name":"Neon Fields","startDate":"2025-10-10","tagline":"Three days of electronic music under the desert sky","venue":"Zilker Park","websiteUrl":"https://example.com/neon-fields"},{"days":[{"date":"2025-11-14","stages":[{"name":"Sun Stage","sets":[{"artist":"Golden Hour","end":"16:00","id":"db-2025-11-14-sun-1","start":"15:00"},{"artist":"Cactus Club","end":"18:30","id":"db-2025-11-14-sun-2","start":"17:00"}]},{"name":"Mirage Tent","sets":[{"artist":"Dust Choir","end":"17:00","id":"db-2025-11-14-mirage-1","start":"16:00"}]}]}],"endDate":"2025-11-16","id":"desert-bloom-2025","instagramUrl":"https://instagram.com/desertbloom","location":"Indio, California","mapImageUrl":"https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/desert-bloom-2025.png","name":"Desert Bloom","startDate":"2025-11-14","tagline":"Indie and folk in the golden hour","venue":"Desert Rose Grounds","websiteUrl":"https://example.com/desert-bloom"},{"days":[{"date":"2026-10-09","stages":[{"name":"Main Stage","sets":[{"artist":"Nova Reyes","end":"15:30","id":"nf-2026-10-09-main-stage-1","start":"14:00"},{"artist":"Glass Animals","end":"17:30","id":"nf-2026-10-09-main-stage-2","start":"16:00"},{"artist":"Midnight Circuit","end":"19:30","id":"nf-2026-10-09-main-stage-3","start":"18:00"},{"artist":"Velvet Static","end":"21:30","id":"nf-2026-10-09-main-stage-4","start":"20:00"},{"artist":"ISOxo","end":"23:30","id":"nf-2026-10-09-main-stage-5","start":"22:00"}]},{"name":"Neon Dome","sets":[{"artist":"Lumen","end":"15:30","id":"nf-2026-10-09-neon-dome-1","start":"14:00"},{"artist":"Aurora Fields","end":"17:30","id":"nf-2026-10-09-neon-dome-2","start":"16:00"},{"artist":"Cassette Waves","end":"21:30","id":"nf-2026-10-09-neon-dome-3","start":"20:00"}]}]},{"date":"2026-10-10","stages":[{"name":"Main Stage","sets":[{"artist":"Glass Animals","end":"21:30","id":"nf-2026-10-10-main-stage-1","start":"20:00"},{"artist":"Midnight Circuit","end":"23:30","id":"nf-2026-10-10-main-stage-2","start":"22:00"}]},{"name":"Neon Dome","sets":[{"artist":"ISOxo","end":"21:30","id":"nf-2026-10-10-neon-dome-1","start":"20:00"}]}]}],"endDate":"2026-10-11","id":"neon-fields-2026","instagramUrl":"https://instagram.com/neonfields","location":"Austin, Texas","mapImageUrl":"https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/neon-fields.png","name":"Neon Fields","startDate":"2026-10-09","tagline":"Three days of electronic music under the desert sky","venue":"Zilker Park","websiteUrl":"https://example.com/neon-fields"},{"days":[{"date":"2026-12-31","stages":[{"name":"Igloo Stage","sets":[{"artist":"Glacier Sons","end":"21:30","id":"an-2026-12-31-igloo-1","start":"20:00"},{"artist":"Northern Bloom","end":"23:30","id":"an-2026-12-31-igloo-2","start":"22:00"}]},{"name":"Aurora Arch","sets":[{"artist":"Frost Signal","end":"22:30","id":"an-2026-12-31-arch-1","start":"21:00"},{"artist":"Midnight Sun","end":"01:00","id":"an-2026-12-31-arch-2","start":"23:30"}]}]}],"endDate":"2027-01-01","id":"aurora-nye-2026","instagramUrl":"https://instagram.com/auroranye","location":"Reykjavík, Iceland","mapImageUrl":"https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/aurora-nye-2026.png","name":"Aurora NYE","startDate":"2026-12-31","tagline":"Ring in the new year under the northern lights","venue":"Harpa Grounds","websiteUrl":"https://example.com/aurora-nye"},{"days":[],"endDate":"2027-05-02","id":"tomorrowland-brasil-2027","instagramUrl":"https://instagram.com/tomorrowlandbrasil","location":"Itu, São Paulo","name":"Tomorrowland Brasil","startDate":"2027-04-30","tagline":"The world's most magical festival returns to Brasil","venue":"Parque Maeda","websiteUrl":"https://brasil.tomorrowland.com"}]}
+{
+ "festivals": [
+  {
+   "id": "acl-2026-weekend-1",
+   "name": "ACL Music Festival — Weekend One",
+   "tagline": "25th anniversary — Weekend One: Charli XCX, Skrillex, Turnstile",
+   "location": "Austin, Texas",
+   "venue": "Zilker Park",
+   "startDate": "2026-10-02",
+   "endDate": "2026-10-04",
+   "websiteUrl": "https://www.aclfestival.com",
+   "instagramUrl": "https://instagram.com/aclfestival",
+   "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
+   "days": [
+    {
+     "date": "2026-10-02",
+     "stages": [
+      {
+       "name": "T-Mobile",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-t-mobile-1",
+         "artist": "ASLEEP AT THE WHEEL",
+         "start": "13:00",
+         "end": "13:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-t-mobile-2",
+         "artist": "NEW CONSTELLATIONS",
+         "start": "14:30",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-t-mobile-3",
+         "artist": "JESSE WELLES",
+         "start": "16:15",
+         "end": "17:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-t-mobile-4",
+         "artist": "TURNSTILE",
+         "start": "18:15",
+         "end": "19:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-t-mobile-5",
+         "artist": "SKRILLEX",
+         "start": "20:15",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Miller Lite",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-miller-lite-1",
+         "artist": "FAOUZIA",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-miller-lite-2",
+         "artist": "PARIS PALOMA",
+         "start": "15:15",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-miller-lite-3",
+         "artist": "BRANDON FLOWERS",
+         "start": "17:15",
+         "end": "18:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-miller-lite-4",
+         "artist": "LEON THOMAS",
+         "start": "19:15",
+         "end": "20:15"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bmi-1",
+         "artist": "ELLE COVES",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bmi-2",
+         "artist": "IZZY ESCOBAR",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bmi-3",
+         "artist": "GROCERY BAG",
+         "start": "17:15",
+         "end": "18:15"
+        }
+       ]
+      },
+      {
+       "name": "Beatbox",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-beatbox-1",
+         "artist": "NIGHT TRAVELER",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-beatbox-2",
+         "artist": "MARLON FUNAKI",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-beatbox-3",
+         "artist": "RUSOWSKY",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-beatbox-4",
+         "artist": "MOLLY SANTANA",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Tito's Handmade Vodka",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-1",
+         "artist": "THE 4411",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-2",
+         "artist": "SOLOMON HICKS",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-3",
+         "artist": "BO STALOCH",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-4",
+         "artist": "REBECCA BLACK",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-5",
+         "artist": "STEVE AOKI",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Snapchat",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-snapchat-1",
+         "artist": "ELIJAH DELGADO",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-snapchat-2",
+         "artist": "LP",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-snapchat-3",
+         "artist": "BUNT.",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-snapchat-4",
+         "artist": "THE CHAINSMOKERS",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Bonus Tracks",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bonus-tracks-1",
+         "artist": "COWBOY CAN CAN",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bonus-tracks-2",
+         "artist": "STEVE AOKI WITH MACK",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-bonus-tracks-3",
+         "artist": "SPECIAL GUEST COMING SOON",
+         "start": "18:30",
+         "end": "19:00"
+        }
+       ]
+      },
+      {
+       "name": "American Express",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-american-express-1",
+         "artist": "HUNX AND HIS PUNX",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-american-express-2",
+         "artist": "CMAT",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-american-express-3",
+         "artist": "AMYL AND THE SNIFFERS",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-american-express-4",
+         "artist": "LABRINTH",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-american-express-5",
+         "artist": "CHARLI XCX",
+         "start": "20:35",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-kiddie-limits-1",
+         "artist": "SONIA DE LOS SANTOS",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-kiddie-limits-2",
+         "artist": "SCHOOL OF ROCK",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-02-kiddie-limits-3",
+         "artist": "WILD CHILD",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-10-03",
+     "stages": [
+      {
+       "name": "T-Mobile",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-t-mobile-1",
+         "artist": "NIGHT TAPES",
+         "start": "13:00",
+         "end": "13:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-t-mobile-2",
+         "artist": "BALU BRIGADA",
+         "start": "14:30",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-t-mobile-3",
+         "artist": "SUKI WATERHOUSE",
+         "start": "16:15",
+         "end": "17:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-t-mobile-4",
+         "artist": "BLEACHERS",
+         "start": "18:15",
+         "end": "19:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-t-mobile-5",
+         "artist": "LORDE",
+         "start": "20:15",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Miller Lite",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-miller-lite-1",
+         "artist": "TEMPER CITY",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-miller-lite-2",
+         "artist": "ARCY DRIVE",
+         "start": "15:15",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-miller-lite-3",
+         "artist": "PALACE",
+         "start": "17:15",
+         "end": "18:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-miller-lite-4",
+         "artist": "LEVITY",
+         "start": "19:15",
+         "end": "20:15"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bmi-1",
+         "artist": "FIGHTMASTER",
+         "start": "12:45",
+         "end": "13:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bmi-2",
+         "artist": "EMMA OGIER",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bmi-3",
+         "artist": "COLEMAN JENNINGS",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bmi-4",
+         "artist": "FAI LACI",
+         "start": "17:15",
+         "end": "18:15"
+        }
+       ]
+      },
+      {
+       "name": "Beatbox",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-beatbox-1",
+         "artist": "CURE FOR PARANOIA",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-beatbox-2",
+         "artist": "RYAN BEATTY",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-beatbox-3",
+         "artist": "SNOW STRIPPERS",
+         "start": "19:30",
+         "end": "20:10"
+        }
+       ]
+      },
+      {
+       "name": "Tito's Handmade Vodka",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-1",
+         "artist": "LEFT LUCID",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-2",
+         "artist": "DJ CASSANDRA",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-3",
+         "artist": "DON WEST",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-4",
+         "artist": "RODRIGO Y GABRIELA",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-5",
+         "artist": "YOÜSUKĖ YUK1MATŞU",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Snapchat",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-snapchat-1",
+         "artist": "ROCHELLE JORDAN",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-snapchat-2",
+         "artist": "SKYE NEWMAN",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-snapchat-3",
+         "artist": "IT'S MURPH",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-snapchat-4",
+         "artist": "LYKKE LI",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Bonus Tracks",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bonus-tracks-1",
+         "artist": "UNFOLLOW THE ALGORITHM: ANTONI POROWSKI",
+         "start": "13:00",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bonus-tracks-2",
+         "artist": "SUKI WATERHOUSE WITH MACK",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bonus-tracks-3",
+         "artist": "DRAG BINGO BY EXTRAGRAMS",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-bonus-tracks-4",
+         "artist": "9 TO 5 DRAG: A DOLLY TRIBUTE",
+         "start": "18:30",
+         "end": "19:00"
+        }
+       ]
+      },
+      {
+       "name": "American Express",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-american-express-1",
+         "artist": "ANNIE DIRUSSO",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-american-express-2",
+         "artist": "FINN WOLFHARD",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-american-express-3",
+         "artist": "YOUNG MIKO",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-american-express-4",
+         "artist": "LOLA YOUNG",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-american-express-5",
+         "artist": "RÜFÜS DU SOL",
+         "start": "20:30",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-kiddie-limits-1",
+         "artist": "THE BARTON HILLS CHOIR",
+         "start": "12:15",
+         "end": "12:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-kiddie-limits-2",
+         "artist": "SONIA DE LOS SANTOS",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-kiddie-limits-3",
+         "artist": "MEGA RAN",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-03-kiddie-limits-4",
+         "artist": "Q BROTHERS",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-10-04",
+     "stages": [
+      {
+       "name": "T-Mobile",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-t-mobile-1",
+         "artist": "SOLYA",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-t-mobile-2",
+         "artist": "STELLA LEFTY",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-t-mobile-3",
+         "artist": "AUDREY HOBERT",
+         "start": "16:30",
+         "end": "17:20"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-t-mobile-4",
+         "artist": "GEESE",
+         "start": "18:20",
+         "end": "19:20"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-t-mobile-5",
+         "artist": "THE XX",
+         "start": "20:35",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Miller Lite",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-miller-lite-1",
+         "artist": "JESS WILLIAMSON",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-miller-lite-2",
+         "artist": "CLAIRE ROSINKRANZ",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-miller-lite-3",
+         "artist": "SAINT MOTEL",
+         "start": "17:20",
+         "end": "18:20"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-miller-lite-4",
+         "artist": "PARCELS",
+         "start": "19:20",
+         "end": "20:35"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bmi-1",
+         "artist": "VINNY",
+         "start": "12:45",
+         "end": "13:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bmi-2",
+         "artist": "AARON ROWE",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bmi-3",
+         "artist": "FANCY HAGOOD",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bmi-4",
+         "artist": "LAUREN SANDERSON",
+         "start": "17:30",
+         "end": "18:30"
+        }
+       ]
+      },
+      {
+       "name": "Beatbox",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-beatbox-1",
+         "artist": "FLIGHT BY NOTHING",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-beatbox-2",
+         "artist": "UNDERSCORES",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-beatbox-3",
+         "artist": "NOGA EREZ",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-beatbox-4",
+         "artist": "BLOOD ORANGE",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Tito's Handmade Vodka",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-1",
+         "artist": "THE MORIAH SISTERS",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-2",
+         "artist": "GIRLSWEETVOICED",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-3",
+         "artist": "CALDER ALLEN",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-4",
+         "artist": "RIO KOSTA",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-5",
+         "artist": "FCUKERS",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Snapchat",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-snapchat-1",
+         "artist": "SUNDAY (1994)",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-snapchat-2",
+         "artist": "BRITTON",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-snapchat-3",
+         "artist": "CANNONS",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-snapchat-4",
+         "artist": "THE WAR ON DRUGS",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Bonus Tracks",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bonus-tracks-1",
+         "artist": "CANNONS WITH TATIANA",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bonus-tracks-2",
+         "artist": "SUPERMUSH X MIKE POSNER",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-bonus-tracks-3",
+         "artist": "SPECIAL GUEST COMING SOON",
+         "start": "18:30",
+         "end": "19:00"
+        }
+       ]
+      },
+      {
+       "name": "American Express",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-american-express-1",
+         "artist": "VILLANELLE",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-american-express-2",
+         "artist": "DEXTER AND THE MOONROCKS",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-american-express-3",
+         "artist": "MAX MCNOWN",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-american-express-4",
+         "artist": "SOFI TUKKER",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-american-express-5",
+         "artist": "TWENTY ONE PILOTS",
+         "start": "20:30",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-kiddie-limits-1",
+         "artist": "SCHOOL OF ROCK",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-kiddie-limits-2",
+         "artist": "WILD CHILD",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-1-2026-10-04-kiddie-limits-3",
+         "artist": "MEGA RAN",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "acl-2026-weekend-2",
+   "name": "ACL Music Festival — Weekend Two",
+   "tagline": "25th anniversary — Weekend Two: Lorde, Kings of Leon, RÜFÜS DU SOL",
+   "location": "Austin, Texas",
+   "venue": "Zilker Park",
+   "startDate": "2026-10-09",
+   "endDate": "2026-10-11",
+   "websiteUrl": "https://www.aclfestival.com",
+   "instagramUrl": "https://instagram.com/aclfestival",
+   "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
+   "days": [
+    {
+     "date": "2026-10-09",
+     "stages": [
+      {
+       "name": "T-Mobile",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-t-mobile-1",
+         "artist": "HAPPY LANDING",
+         "start": "13:00",
+         "end": "13:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-t-mobile-2",
+         "artist": "BELLA KAY",
+         "start": "14:30",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-t-mobile-3",
+         "artist": "JESSE WELLES",
+         "start": "16:15",
+         "end": "17:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-t-mobile-4",
+         "artist": "TURNSTILE",
+         "start": "18:15",
+         "end": "19:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-t-mobile-5",
+         "artist": "KINGS OF LEON",
+         "start": "20:15",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Miller Lite",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-miller-lite-1",
+         "artist": "RADIO FREE ALICE",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-miller-lite-2",
+         "artist": "SIENNA SPIRO",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-miller-lite-3",
+         "artist": "PARIS PALOMA",
+         "start": "17:15",
+         "end": "18:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-miller-lite-4",
+         "artist": "LEON THOMAS",
+         "start": "19:15",
+         "end": "20:15"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bmi-1",
+         "artist": "LEON KNIGHT",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bmi-2",
+         "artist": "GIRLFRIEND",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bmi-3",
+         "artist": "JOE JORDAN",
+         "start": "17:15",
+         "end": "18:15"
+        }
+       ]
+      },
+      {
+       "name": "Beatbox",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-beatbox-1",
+         "artist": "S.G. GOODMAN",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-beatbox-2",
+         "artist": "WORLD FAMOUS PETS",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-beatbox-3",
+         "artist": "RUSOWSKY",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-beatbox-4",
+         "artist": "LIVE",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Tito's Handmade Vodka",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-1",
+         "artist": "ALMOST HEAVEN",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-2",
+         "artist": "CASSANDRA COLEMAN",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-3",
+         "artist": "BO STALOCH",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-4",
+         "artist": "NATASHA BEDINGFIELD",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-5",
+         "artist": "STEVE AOKI",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Snapchat",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-snapchat-1",
+         "artist": "DALLAS WAX",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-snapchat-2",
+         "artist": "LP",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-snapchat-3",
+         "artist": "BUNT.",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-snapchat-4",
+         "artist": "THE CHAINSMOKERS",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Bonus Tracks",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bonus-tracks-1",
+         "artist": "TGIF WITH SUNDAY SESSIONS",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bonus-tracks-2",
+         "artist": "PARTY WITH DJ BAD APPLE",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-bonus-tracks-3",
+         "artist": "PARTY PUPILS PRESENTS YACHT HOUSE",
+         "start": "18:30",
+         "end": "19:30"
+        }
+       ]
+      },
+      {
+       "name": "American Express",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-american-express-1",
+         "artist": "BRIGITTE CALLS ME BABY",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-american-express-2",
+         "artist": "FAOUZIA",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-american-express-3",
+         "artist": "AMYL AND THE SNIFFERS",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-american-express-4",
+         "artist": "LABRINTH",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-american-express-5",
+         "artist": "CHARLI XCX",
+         "start": "20:35",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-kiddie-limits-1",
+         "artist": "SCHOOL OF ROCK",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-kiddie-limits-2",
+         "artist": "PIERCE FREELON",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-09-kiddie-limits-3",
+         "artist": "Q BROTHERS",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-10-10",
+     "stages": [
+      {
+       "name": "T-Mobile",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-t-mobile-1",
+         "artist": "NIGHT TAPES",
+         "start": "13:00",
+         "end": "13:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-t-mobile-2",
+         "artist": "BALU BRIGADA",
+         "start": "14:30",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-t-mobile-3",
+         "artist": "SUKI WATERHOUSE",
+         "start": "16:15",
+         "end": "17:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-t-mobile-4",
+         "artist": "BLEACHERS",
+         "start": "18:15",
+         "end": "19:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-t-mobile-5",
+         "artist": "LORDE",
+         "start": "20:15",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Miller Lite",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-miller-lite-1",
+         "artist": "TEMPER CITY",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-miller-lite-2",
+         "artist": "ŁASZEWO",
+         "start": "15:15",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-miller-lite-3",
+         "artist": "ARCY DRIVE",
+         "start": "17:15",
+         "end": "18:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-miller-lite-4",
+         "artist": "LEVITY",
+         "start": "19:15",
+         "end": "20:15"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bmi-1",
+         "artist": "MACY TODD",
+         "start": "12:45",
+         "end": "13:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bmi-2",
+         "artist": "DAMARIS BOJOR",
+         "start": "13:45",
+         "end": "14:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bmi-3",
+         "artist": "COMMON PEOPLE",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bmi-4",
+         "artist": "CHLOE QISHA",
+         "start": "17:15",
+         "end": "18:15"
+        }
+       ]
+      },
+      {
+       "name": "Beatbox",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-beatbox-1",
+         "artist": "LLUVII",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-beatbox-2",
+         "artist": "RYAN BEATTY",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-beatbox-3",
+         "artist": "SNOW STRIPPERS",
+         "start": "19:30",
+         "end": "20:10"
+        }
+       ]
+      },
+      {
+       "name": "Tito's Handmade Vodka",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-1",
+         "artist": "MONTCLAIR",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-2",
+         "artist": "DJ CASSANDRA",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-3",
+         "artist": "DON WEST",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-4",
+         "artist": "RODRIGO Y GABRIELA",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-5",
+         "artist": "¥ØU$UK€ ¥UK1MAT$U",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Snapchat",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-snapchat-1",
+         "artist": "GABRIEL JACOBY",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-snapchat-2",
+         "artist": "SKYE NEWMAN",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-snapchat-3",
+         "artist": "IT'S MURPH",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-snapchat-4",
+         "artist": "LYKKE LI",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "Bonus Tracks",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bonus-tracks-1",
+         "artist": "ANDY LANGER X AARON FRANKLIN",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bonus-tracks-2",
+         "artist": "COUNTRY FRIED LINE DANCE",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bonus-tracks-3",
+         "artist": "SPECIAL GUEST COMING SOON",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-bonus-tracks-4",
+         "artist": "9 TO 5 DRAG: A DOLLY TRIBUTE",
+         "start": "18:30",
+         "end": "19:00"
+        }
+       ]
+      },
+      {
+       "name": "American Express",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-american-express-1",
+         "artist": "ANNIE DIRUSSO",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-american-express-2",
+         "artist": "FINN WOLFHARD",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-american-express-3",
+         "artist": "YOUNG MIKO",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-american-express-4",
+         "artist": "LOLA YOUNG",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-american-express-5",
+         "artist": "RÜFÜS DU SOL",
+         "start": "20:30",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-kiddie-limits-1",
+         "artist": "THE BARTON HILLS CHOIR",
+         "start": "12:15",
+         "end": "12:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-kiddie-limits-2",
+         "artist": "FLOR BROMLEY",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-kiddie-limits-3",
+         "artist": "PIERCE FREELON",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-10-kiddie-limits-4",
+         "artist": "MEGA RAN",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-10-11",
+     "stages": [
+      {
+       "name": "T-MOBILE",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-t-mobile-1",
+         "artist": "THOMAS DAY",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-t-mobile-2",
+         "artist": "CHARLOTTE LAWRENCE",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-t-mobile-3",
+         "artist": "AUDREY HOBERT",
+         "start": "16:30",
+         "end": "17:20"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-t-mobile-4",
+         "artist": "GEESE",
+         "start": "18:20",
+         "end": "19:20"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-t-mobile-5",
+         "artist": "THE XX",
+         "start": "20:35",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "MILLER LITE",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-miller-lite-1",
+         "artist": "JOSHUA JENSEN",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-miller-lite-2",
+         "artist": "CLAIRE ROSINKRANZ",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-miller-lite-3",
+         "artist": "SAINT MOTEL",
+         "start": "17:20",
+         "end": "18:20"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-miller-lite-4",
+         "artist": "PARCELS",
+         "start": "19:20",
+         "end": "20:35"
+        }
+       ]
+      },
+      {
+       "name": "BMI",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bmi-1",
+         "artist": "MARZZ",
+         "start": "12:45",
+         "end": "13:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bmi-2",
+         "artist": "CHELSEA JORDAN",
+         "start": "14:15",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bmi-3",
+         "artist": "VWILLZ",
+         "start": "15:30",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bmi-4",
+         "artist": "JASON SCOTT & THE HIGH HEAT",
+         "start": "18:00",
+         "end": "18:30"
+        }
+       ]
+      },
+      {
+       "name": "BEATBOX",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-beatbox-1",
+         "artist": "KEVIN ATWATER",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-beatbox-2",
+         "artist": "BAD NERVES",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-beatbox-3",
+         "artist": "NOGA EREZ",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-beatbox-4",
+         "artist": "BLOOD ORANGE",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "TITO'S HANDMADE VODKA",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-1",
+         "artist": "THE HUSTON-TILLOTSON UNIVERSITY JAZZ COLLECTIVE",
+         "start": "12:45",
+         "end": "13:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-2",
+         "artist": "GIRLSWEETVOICED",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-3",
+         "artist": "CALDER ALLEN",
+         "start": "15:15",
+         "end": "16:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-4",
+         "artist": "RIO KOSTA",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-5",
+         "artist": "FCUKERS",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-tito-s-handmade-vodka-6",
+         "artist": "SILENT DISCO",
+         "start": "20:00",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "SNAPCHAT",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-snapchat-1",
+         "artist": "SUNDAY (1994)",
+         "start": "14:00",
+         "end": "14:45"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-snapchat-2",
+         "artist": "GRACE IVES",
+         "start": "15:30",
+         "end": "16:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-snapchat-3",
+         "artist": "HOUNDMOUTH",
+         "start": "17:30",
+         "end": "18:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-snapchat-4",
+         "artist": "THE WAR ON DRUGS",
+         "start": "19:30",
+         "end": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "BONUS TRACKS",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bonus-tracks-1",
+         "artist": "3RD & LONGHORN",
+         "start": "15:00",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bonus-tracks-2",
+         "artist": "DRAG BINGO BY EXTRAGRAMS",
+         "start": "17:00",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-bonus-tracks-3",
+         "artist": "PARTY WITH DJ BAD APPLE",
+         "start": "18:30",
+         "end": "19:00"
+        }
+       ]
+      },
+      {
+       "name": "AMERICAN EXPRESS",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-american-express-1",
+         "artist": "RUM JUNGLE",
+         "start": "13:15",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-american-express-2",
+         "artist": "ETHAN REGAN",
+         "start": "14:45",
+         "end": "15:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-american-express-3",
+         "artist": "MAX MCNOWN",
+         "start": "16:30",
+         "end": "17:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-american-express-4",
+         "artist": "SOFI TUKKER",
+         "start": "18:30",
+         "end": "19:30"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-american-express-5",
+         "artist": "TWENTY ONE PILOTS",
+         "start": "20:30",
+         "end": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Kiddie Limits",
+       "sets": [
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-kiddie-limits-1",
+         "artist": "FLOR BROMLEY",
+         "start": "13:30",
+         "end": "14:00"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-kiddie-limits-2",
+         "artist": "SCHOOL OF ROCK",
+         "start": "14:45",
+         "end": "15:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-kiddie-limits-3",
+         "artist": "WILD CHILD",
+         "start": "15:45",
+         "end": "16:15"
+        },
+        {
+         "id": "acl-2026-weekend-2-2026-10-11-kiddie-limits-4",
+         "artist": "MEGA RAN",
+         "start": "16:30",
+         "end": "17:00"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "days": [],
+   "endDate": "2027-05-02",
+   "id": "tomorrowland-brasil-2027",
+   "instagramUrl": "https://instagram.com/tomorrowlandbrasil",
+   "location": "Itu, São Paulo",
+   "name": "Tomorrowland Brasil",
+   "startDate": "2027-04-30",
+   "tagline": "The world's most magical festival returns to Brasil",
+   "venue": "Parque Maeda",
+   "websiteUrl": "https://brasil.tomorrowland.com"
+  }
+ ]
+}
