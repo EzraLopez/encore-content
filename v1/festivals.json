@@ -1716,6 +1716,19 @@
    "tagline": "The world's most magical festival returns to Brasil",
    "venue": "Parque Maeda",
    "websiteUrl": "https://brasil.tomorrowland.com"
+  },
+  {
+   "days": [],
+   "endDate": "2026-11-21",
+   "id": "dreamstate-socal-2026",
+   "instagramUrl": "https://instagram.com/dreamstateusa",
+   "location": "Long Beach, CA",
+   "timezone": "America/Los_Angeles",
+   "name": "Dreamstate SoCal 2026",
+   "startDate": "2026-11-20",
+   "tagline": "The world's premier all-trance music festival",
+   "venue": "Queen Mary Waterfront",
+   "websiteUrl": "https://socal.dreamstateusa.com"
   }
  ]
 }
