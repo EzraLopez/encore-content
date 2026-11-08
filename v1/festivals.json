@@ -1729,6 +1729,32 @@
    "tagline": "The world's premier all-trance music festival",
    "venue": "Queen Mary Waterfront",
    "websiteUrl": "https://socal.dreamstateusa.com"
+  },
+  {
+   "days": [],
+   "endDate": "2027-03-27",
+   "id": "tomorrowland-winter-2027",
+   "instagramUrl": "https://instagram.com/tomorrowlandwinter",
+   "location": "Alpe d'Huez, France",
+   "timezone": "Europe/Paris",
+   "name": "Tomorrowland Winter 2027",
+   "startDate": "2027-03-20",
+   "tagline": "Where the mountains meet magic",
+   "venue": "Alpe d'Huez",
+   "websiteUrl": "https://winter.tomorrowland.com"
+  },
+  {
+   "days": [],
+   "endDate": "2027-05-23",
+   "id": "edc-las-vegas-2027",
+   "instagramUrl": "https://instagram.com/edc_lasvegas",
+   "location": "Las Vegas, NV",
+   "timezone": "America/Los_Angeles",
+   "name": "EDC Las Vegas 2027",
+   "startDate": "2027-05-21",
+   "tagline": "Dusk Till Dawn 2027 \u2014 the EDC Dawn weekend, three nights under the electric sky",
+   "venue": "Las Vegas Motor Speedway",
+   "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
   }
  ]
 }
