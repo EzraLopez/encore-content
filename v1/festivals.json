@@ -1755,6 +1755,776 @@
    "tagline": "Dusk Till Dawn 2027 \u2014 the EDC Dawn weekend, three nights under the electric sky",
    "venue": "Las Vegas Motor Speedway",
    "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
+  },
+  {
+   "days": [
+    {
+     "date": "2026-11-13",
+     "stages": [
+      {
+       "name": "Volcano",
+       "sets": [
+        {
+         "artist": "Jenna Shaw",
+         "end": "17:30",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-1",
+         "start": "16:00"
+        },
+        {
+         "artist": "Chris Liebing",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-2",
+         "start": "17:30"
+        },
+        {
+         "artist": "Conrad Taylor",
+         "end": "20:30",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-3",
+         "start": "19:00"
+        },
+        {
+         "artist": "Marie Vaunt",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-4",
+         "start": "20:30"
+        },
+        {
+         "artist": "VTSS",
+         "end": "23:30",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-5",
+         "start": "22:00"
+        },
+        {
+         "artist": "Maddix",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-13-volcano-6",
+         "start": "23:30"
+        }
+       ]
+      },
+      {
+       "name": "Tsunami",
+       "sets": [
+        {
+         "artist": "Hank Harrison b2b point.reyes",
+         "end": "17:30",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-1",
+         "start": "16:00"
+        },
+        {
+         "artist": "Cole Knight b2b Dreya V",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-2",
+         "start": "17:30"
+        },
+        {
+         "artist": "Mestiza",
+         "end": "20:30",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-3",
+         "start": "19:00"
+        },
+        {
+         "artist": "Chris Lorenzo",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-4",
+         "start": "20:30"
+        },
+        {
+         "artist": "Porter Robinson (DJ Set)",
+         "end": "23:30",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-5",
+         "start": "22:00"
+        },
+        {
+         "artist": "HorsegiirL",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-13-tsunami-6",
+         "start": "23:30"
+        }
+       ]
+      },
+      {
+       "name": "Frequency",
+       "sets": [
+        {
+         "artist": "Skye",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-1",
+         "start": "16:00"
+        },
+        {
+         "artist": "Maesic",
+         "end": "18:30",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-2",
+         "start": "17:00"
+        },
+        {
+         "artist": "Kamino",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-3",
+         "start": "18:30"
+        },
+        {
+         "artist": "BOLO",
+         "end": "21:30",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-4",
+         "start": "20:00"
+        },
+        {
+         "artist": "Marco Strous",
+         "end": "23:30",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-5",
+         "start": "21:30"
+        },
+        {
+         "artist": "HNTR",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-13-frequency-6",
+         "start": "23:30"
+        }
+       ]
+      },
+      {
+       "name": "The Secret",
+       "sets": [
+        {
+         "artist": "Jakmin",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-1",
+         "start": "16:00"
+        },
+        {
+         "artist": "Addison Lynch",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-2",
+         "start": "17:00"
+        },
+        {
+         "artist": "REVN",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-3",
+         "start": "18:00"
+        },
+        {
+         "artist": "BLVKWELL",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-4",
+         "start": "19:00"
+        },
+        {
+         "artist": "Austin Ashtin",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-5",
+         "start": "20:00"
+        },
+        {
+         "artist": "Cartfish",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-6",
+         "start": "21:00"
+        },
+        {
+         "artist": "Kai Castro",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-7",
+         "start": "22:00"
+        },
+        {
+         "artist": "Ferno",
+         "end": "00:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-8",
+         "start": "23:00"
+        },
+        {
+         "artist": "Madison Palmer",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-13-the-secret-9",
+         "start": "00:00"
+        }
+       ]
+      },
+      {
+       "name": "Technobus",
+       "sets": [
+        {
+         "artist": "Jack the Tripper",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-1",
+         "start": "17:00"
+        },
+        {
+         "artist": "Zara Mustafa",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-2",
+         "start": "18:00"
+        },
+        {
+         "artist": "Merkaba",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-3",
+         "start": "19:00"
+        },
+        {
+         "artist": "Juan40",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-4",
+         "start": "20:00"
+        },
+        {
+         "artist": "Gondra",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-5",
+         "start": "21:00"
+        },
+        {
+         "artist": "Santino",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-6",
+         "start": "22:00"
+        },
+        {
+         "artist": "Shadowstar",
+         "end": "00:00",
+         "id": "seismic-dance-event-2026-2026-11-13-technobus-7",
+         "start": "23:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-11-14",
+     "stages": [
+      {
+       "name": "Volcano",
+       "sets": [
+        {
+         "artist": "Zak Dean",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-1",
+         "start": "15:00"
+        },
+        {
+         "artist": "Alec Michael",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-2",
+         "start": "16:00"
+        },
+        {
+         "artist": "Joss Dean",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "1TBSP",
+         "end": "20:30",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-4",
+         "start": "19:00"
+        },
+        {
+         "artist": "Adam Sellouk",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-5",
+         "start": "20:30"
+        },
+        {
+         "artist": "Luke Alessi",
+         "end": "23:30",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-6",
+         "start": "22:00"
+        },
+        {
+         "artist": "Brunello",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-14-volcano-7",
+         "start": "23:30"
+        }
+       ]
+      },
+      {
+       "name": "Tsunami",
+       "sets": [
+        {
+         "artist": "Errow",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-1",
+         "start": "15:00"
+        },
+        {
+         "artist": "Andrew Parsons",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-2",
+         "start": "16:00"
+        },
+        {
+         "artist": "Fallon",
+         "end": "18:30",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "Devault",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-4",
+         "start": "18:30"
+        },
+        {
+         "artist": "SG Lewis",
+         "end": "21:30",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-5",
+         "start": "20:00"
+        },
+        {
+         "artist": "Max Styler",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-6",
+         "start": "21:30"
+        },
+        {
+         "artist": "Above & Beyond",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-14-tsunami-7",
+         "start": "23:00"
+        }
+       ]
+      },
+      {
+       "name": "Frequency",
+       "sets": [
+        {
+         "artist": "XOY",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-1",
+         "start": "15:00"
+        },
+        {
+         "artist": "Amarji King",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-2",
+         "start": "16:00"
+        },
+        {
+         "artist": "OZA",
+         "end": "18:30",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "Frederic.",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-4",
+         "start": "18:30"
+        },
+        {
+         "artist": "Toccororo",
+         "end": "21:30",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-5",
+         "start": "20:00"
+        },
+        {
+         "artist": "SPFDJ",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-6",
+         "start": "21:30"
+        },
+        {
+         "artist": "ØTTA",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-14-frequency-7",
+         "start": "23:00"
+        }
+       ]
+      },
+      {
+       "name": "The Secret",
+       "sets": [
+        {
+         "artist": "Nolace",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-1",
+         "start": "15:00"
+        },
+        {
+         "artist": "Ganimal",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-2",
+         "start": "16:00"
+        },
+        {
+         "artist": "Nick Moreno",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "Sunniva",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-4",
+         "start": "18:00"
+        },
+        {
+         "artist": "Thathitmaker",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-5",
+         "start": "19:00"
+        },
+        {
+         "artist": "Shep",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-6",
+         "start": "20:00"
+        },
+        {
+         "artist": "B Side",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-7",
+         "start": "21:00"
+        },
+        {
+         "artist": "Boogietraxx",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-8",
+         "start": "22:00"
+        },
+        {
+         "artist": "Mirror Mirror",
+         "end": "00:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-9",
+         "start": "23:00"
+        },
+        {
+         "artist": "DJ Pressed",
+         "end": "01:00",
+         "id": "seismic-dance-event-2026-2026-11-14-the-secret-10",
+         "start": "00:00"
+        }
+       ]
+      },
+      {
+       "name": "Technobus",
+       "sets": [
+        {
+         "artist": "Aria",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-1",
+         "start": "15:00"
+        },
+        {
+         "artist": "YVNG Prieto",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-2",
+         "start": "16:00"
+        },
+        {
+         "artist": "NM4P",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "Selina Eshraghi b2b Dune",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-4",
+         "start": "18:00"
+        },
+        {
+         "artist": "Josor",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-5",
+         "start": "19:00"
+        },
+        {
+         "artist": "Gamma",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-6",
+         "start": "20:00"
+        },
+        {
+         "artist": "Dragonnqueen",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-7",
+         "start": "21:00"
+        },
+        {
+         "artist": "Alaska",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-8",
+         "start": "22:00"
+        },
+        {
+         "artist": "Emski",
+         "end": "00:00",
+         "id": "seismic-dance-event-2026-2026-11-14-technobus-9",
+         "start": "23:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "date": "2026-11-15",
+     "stages": [
+      {
+       "name": "Volcano",
+       "sets": [
+        {
+         "artist": "Jess James",
+         "end": "15:00",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-1",
+         "start": "14:00"
+        },
+        {
+         "artist": "Phamstar",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-2",
+         "start": "15:00"
+        },
+        {
+         "artist": "Welker",
+         "end": "17:30",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-3",
+         "start": "16:00"
+        },
+        {
+         "artist": "HILLS",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-4",
+         "start": "17:30"
+        },
+        {
+         "artist": "Starjunk 95",
+         "end": "20:15",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-5",
+         "start": "19:00"
+        },
+        {
+         "artist": "Notion",
+         "end": "21:30",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-6",
+         "start": "20:15"
+        },
+        {
+         "artist": "Layton Giordani",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-15-volcano-7",
+         "start": "21:30"
+        }
+       ]
+      },
+      {
+       "name": "Tsunami",
+       "sets": [
+        {
+         "artist": "Casmir",
+         "end": "15:30",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-1",
+         "start": "14:00"
+        },
+        {
+         "artist": "Volkoder",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-2",
+         "start": "15:30"
+        },
+        {
+         "artist": "MPH",
+         "end": "18:30",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-3",
+         "start": "17:00"
+        },
+        {
+         "artist": "KI/KI",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-4",
+         "start": "18:30"
+        },
+        {
+         "artist": "Brutalismus 3000",
+         "end": "21:20",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-5",
+         "start": "20:10"
+        },
+        {
+         "artist": "Sara Landry",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-15-tsunami-6",
+         "start": "21:30"
+        }
+       ]
+      },
+      {
+       "name": "Frequency",
+       "sets": [
+        {
+         "artist": "Cielo",
+         "end": "15:15",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-1",
+         "start": "14:00"
+        },
+        {
+         "artist": "TWOFACED",
+         "end": "16:30",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-2",
+         "start": "15:15"
+        },
+        {
+         "artist": "STÜM",
+         "end": "17:45",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-3",
+         "start": "16:30"
+        },
+        {
+         "artist": "Paige Tomlinson",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-4",
+         "start": "17:45"
+        },
+        {
+         "artist": "Kyle Starkey",
+         "end": "20:30",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-5",
+         "start": "19:00"
+        },
+        {
+         "artist": "Benwal",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-15-frequency-6",
+         "start": "20:30"
+        }
+       ]
+      },
+      {
+       "name": "The Secret",
+       "sets": [
+        {
+         "artist": "Weird City",
+         "end": "15:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-1",
+         "start": "14:00"
+        },
+        {
+         "artist": "Kydro",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-2",
+         "start": "15:00"
+        },
+        {
+         "artist": "B1",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-3",
+         "start": "16:00"
+        },
+        {
+         "artist": "Duhrdy",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-4",
+         "start": "17:00"
+        },
+        {
+         "artist": "Chad Koss",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-5",
+         "start": "18:00"
+        },
+        {
+         "artist": "Toddy B",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-6",
+         "start": "19:00"
+        },
+        {
+         "artist": "Brede",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-7",
+         "start": "20:00"
+        },
+        {
+         "artist": "OLDGOLD",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-8",
+         "start": "21:00"
+        },
+        {
+         "artist": "Lazy K",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-15-the-secret-9",
+         "start": "22:00"
+        }
+       ]
+      },
+      {
+       "name": "Technobus",
+       "sets": [
+        {
+         "artist": "XK",
+         "end": "15:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-1",
+         "start": "14:00"
+        },
+        {
+         "artist": "Grympho b2b Phase3",
+         "end": "16:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-2",
+         "start": "15:00"
+        },
+        {
+         "artist": "Penny Lane",
+         "end": "17:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-3",
+         "start": "16:00"
+        },
+        {
+         "artist": "Pistoleros Del Amor",
+         "end": "18:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-4",
+         "start": "17:00"
+        },
+        {
+         "artist": "Samwise b2b Hektek",
+         "end": "19:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-5",
+         "start": "18:00"
+        },
+        {
+         "artist": "Hana Sabri",
+         "end": "20:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-6",
+         "start": "19:00"
+        },
+        {
+         "artist": "Natch Nadjafi",
+         "end": "21:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-7",
+         "start": "20:00"
+        },
+        {
+         "artist": "Casie Farrell",
+         "end": "22:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-8",
+         "start": "21:00"
+        },
+        {
+         "artist": "Hank Harrison",
+         "end": "23:00",
+         "id": "seismic-dance-event-2026-2026-11-15-technobus-9",
+         "start": "22:00"
+        }
+       ]
+      }
+     ]
+    }
+   ],
+   "endDate": "2026-11-15",
+   "id": "seismic-dance-event-2026",
+   "instagramUrl": "https://instagram.com/seismicdanceevent",
+   "location": "Austin, TX",
+   "name": "Seismic Dance Event 2026",
+   "startDate": "2026-11-13",
+   "tagline": "A curated dance experience for house, techno, and underground music enthusiasts",
+   "timezone": "America/Chicago",
+   "venue": "The Concourse Project",
+   "websiteUrl": "https://www.seismicdanceevent.com"
   }
  ]
 }
