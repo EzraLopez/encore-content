@@ -1,17 +1,53 @@
 # Encore Content
 
-Remote content for the Encore festival app. The app fetches
-`v1/festivals.json` on launch, caches it on-device, and falls back to its
-bundled copy when offline.
+Remote content for the Encore festival app. This repo is the publishing
+side of Encore's remote-configuration system: the apps fetch the config on
+launch, cache the last good payload on-device, and fall back to their
+bundled copy when a fetch fails or returns something malformed — a bad
+payload never clobbers good data. **Content changes need no app release.**
 
-## Updating content
+Two config versions live side by side:
 
-Edit `v1/festivals.json`, commit, and push. Changes go live within minutes
-(raw.githubusercontent.com caches briefly). No app update needed.
+- **`v2/config.json`** — the current config (festivals + standalone shows,
+  wrapped in a versioned envelope). Current app builds read this.
+- **`v1/festivals.json`** — the original festivals-only format. It stays
+  live and unchanged for older app builds that pin v1. Do not edit `v1/`
+  when publishing anymore; publish to v2 (and leave v1 as-is).
 
-### Adding a festival
+## v2 publishing workflow
 
-Append an object to the `festivals` array:
+Every publish follows the same steps:
+
+1. Edit `v2/config.json` — add or change a festival, a lineup, set times,
+   a map, or a show (formats below).
+2. **Bump `meta.version` by exactly 1** and set `meta.publishedAt` to the
+   current UTC time (ISO 8601, e.g. `2026-11-09T03:04:58Z`). The apps use
+   `meta.version` as the change trigger for update notifications, so a
+   content edit without a version bump will be picked up silently at best.
+3. Run the validator — it must pass before you push:
+
+   ```sh
+   python3 tools/validate_config.py
+   ```
+
+4. Commit and push. Changes go live within minutes
+   (raw.githubusercontent.com caches briefly). Apps pick the new config up
+   on their next fetch — on launch, on pull-to-refresh, or on a background
+   refresh — with no app update.
+
+### v2 envelope
+
+```json
+{
+  "meta": { "version": 3, "publishedAt": "2026-11-09T03:04:58Z" },
+  "festivals": [ /* festival objects, same shape as v1 */ ],
+  "shows": [ /* standalone show objects */ ]
+}
+```
+
+### Adding a festival (v2)
+
+Append an object to the `festivals` array in `v2/config.json`:
 
 ```json
 {
@@ -24,6 +60,7 @@ Append an object to the `festivals` array:
   "instagramUrl": "https://instagram.com/myfest",
   "startDate": "2027-06-04",
   "endDate": "2027-06-06",
+  "timezone": "America/Chicago",
   "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/my-fest.png",
   "days": [
     {
@@ -44,16 +81,77 @@ Append an object to the `festivals` array:
 Notes:
 
 - `id` must be unique and stable — favorites and RSVPs are keyed off it.
-- `days` may be `[]` for a TBA lineup; the app hides the lineup UI.
+  Set ids must be unique too, for the same reason.
+- `timezone` is required (IANA name, e.g. `America/Chicago`): reminders,
+  the Now tab, and schedule times are computed in the festival's timezone.
+- `days` may be `[]` for a TBA lineup; the app hides the lineup UI. When a
+  lineup later lands (days go from `[]` to non-empty), followers get an
+  update notification.
 - `mapImageUrl` may be omitted or `null`; the app shows its placeholder map.
-- Dates are `YYYY-MM-DD`, times are 24h `HH:MM`.
+- Dates are `YYYY-MM-DD`, set times are 24h `HH:MM`. An overnight set ends
+  after midnight (`"start": "23:30", "end": "01:00"`); `start` may not
+  equal `end`.
+
+### Adding a standalone show (v2)
+
+Append an object to the `shows` array in `v2/config.json`. Remote shows
+are editorial content shown to every install (they appear in Home, Search,
+and Now like festivals); they are separate from shows a user adds for
+themselves in the app.
+
+```json
+{
+  "id": "svdden-death-brooklyn-2026",
+  "artist": "SVDDEN DEATH",
+  "support": ["Support Act"],
+  "venue": "The Brooklyn Monarch",
+  "city": "New York, NY",
+  "start": "2026-11-28T23:00:00",
+  "timezone": "America/New_York"
+}
+```
+
+`id`, `artist`, `venue`, `city`, `start` (ISO local datetime in the show's
+timezone), and `timezone` are required; `support` is optional.
 
 ### Map artwork
 
-Put PNGs in `v1/maps/` and reference them with the raw URL above.
-Landscape, ~1920px wide works well. Keep files under ~3 MB.
+Put PNGs in `v1/maps/` (shared by both config versions) and reference them
+with the raw URL above. Landscape, ~1920px wide works well. Keep files
+under ~3 MB.
 
-## Versioning
+### The validator
 
-Breaking schema changes go in a new top-level folder (`v2/`). The app
-pins the version it understands.
+`tools/validate_config.py` (Python 3, standard library only) checks the
+envelope (`meta.version` is a positive integer, `meta.publishedAt` parses),
+required festival fields, unique festival/set/show ids, IANA timezones,
+`YYYY-MM-DD` dates, 24h `HH:MM` set times, that no set has `start == end`,
+and the required show fields. It prints every problem it finds and exits
+non-zero. Run it against another file with
+`python3 tools/validate_config.py path/to/config.json`.
+
+## Update notifications and deep links
+
+There is no server and there are no accounts yet, so update notifications
+are generated **on-device**: when an app fetches a config whose
+`meta.version` is newer than its stored baseline, it diffs the two and
+posts local notifications for what changed — a new festival, a lineup
+published for a festival the user follows, artists added/removed or set
+times changed on a followed festival, a new festival map, changed dates,
+or a new remote show.
+
+Every notification (and every set reminder) deep-links into the app:
+
+- `encore://festival/<id>` — the festival's detail page
+- `encore://festival/<id>/schedule` — the festival's Schedule tab
+  (lineup-change notifications link here)
+- `encore://artist/<festivalId>/<artistName>` — the artist page
+- `encore://show/<id>` — the show
+
+## v1 (legacy)
+
+Older app builds fetch `v1/festivals.json` on launch, cache it on-device,
+and fall back to their bundled copy when offline. The file keeps its
+original shape (`{ "festivals": [...] }`, same festival objects as v2) and
+stays live for those builds. Breaking schema changes go in a new top-level
+folder (`v2/`, `v3/`, …); each app pins the version it understands.
