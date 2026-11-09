@@ -222,6 +222,29 @@ def validate(path):
     for i, show in enumerate(shows):
         validate_show(show, i, seen_ids)
 
+    # Optional per-artist enrichment (Apple Music artist pages and
+    # profile photos). Apps ignore it when absent, and ignore
+    # entries they don't recognise; only the value shapes are
+    # checked so a malformed URL can never reach a tap handler.
+    artists = config.get("artists", {})
+    if not isinstance(artists, dict):
+        err("artists: must be an object keyed by artist billing when present")
+        artists = {}
+    for name, entry in artists.items():
+        where = f"artists[{name!r}]"
+        if not isinstance(entry, dict) or not entry:
+            err(f"{where}: entry must be a non-empty object")
+            continue
+        for field in ("appleMusicUrl", "imageUrl"):
+            value = entry.get(field)
+            if value is None:
+                continue
+            if not isinstance(value, str) or not value.startswith("https://"):
+                err(f"{where}: {field} {value!r} is not an https URL")
+        if "appleMusicUrl" in entry and not str(
+                entry["appleMusicUrl"]).startswith("https://music.apple.com/"):
+            err(f"{where}: appleMusicUrl must be a music.apple.com artist page")
+
     if errors:
         print(f"INVALID: {path} failed validation with {len(errors)} error(s):", file=sys.stderr)
         for e in errors:

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 1,
-    "publishedAt": "2026-11-09T03:04:58Z"
+    "version": 2,
+    "publishedAt": "2026-11-09T18:15:25Z"
   },
   "festivals": [
     {
@@ -2531,5 +2531,748 @@
       "websiteUrl": "https://www.seismicdanceevent.com"
     }
   ],
-  "shows": []
+  "shows": [],
+  "artists": {
+    "1TBSP": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/1tbsp/1548254435",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/1TBSP-PROFILE-SDE9-600x600.png"
+    },
+    "AARON ROWE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aaron-rowe/1809204657"
+    },
+    "ALMOST HEAVEN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/almost-heaven/1625944016"
+    },
+    "AMYL AND THE SNIFFERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amyl-and-the-sniffers/1215764503"
+    },
+    "ANNIE DIRUSSO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/annie-dirusso/1213903929"
+    },
+    "ARCY DRIVE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arcy-drive/1623935681"
+    },
+    "ASLEEP AT THE WHEEL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/asleep-at-the-wheel/814340"
+    },
+    "AUDREY HOBERT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/audrey-hobert/1812750994"
+    },
+    "Above & Beyond": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/above-beyond/20318188",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/AboveBeyond-PROFILE-SDE9-600x600.png"
+    },
+    "Adam Sellouk": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adam-sellouk/1546131877",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/AdamSellouk-PROFILE-SDE9-600x600.png"
+    },
+    "Alaska": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626"
+    },
+    "Alec Michael": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alec-michael/1479090657"
+    },
+    "Andrew Parsons": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andrew-parsons/164647411"
+    },
+    "Aria": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aria/1588267301"
+    },
+    "Austin Ashtin": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/austin-ashtin/1508710164"
+    },
+    "B Side": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/b-side/268200633"
+    },
+    "B1": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/b1/1786653825"
+    },
+    "BAD NERVES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bad-nerves/1213806228"
+    },
+    "BALU BRIGADA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/balu-brigada/1171521321"
+    },
+    "BELLA KAY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bella-kay/1706434165"
+    },
+    "BLEACHERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bleachers/824434533"
+    },
+    "BLOOD ORANGE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/blood-orange/440698865"
+    },
+    "BLVKWELL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/blvkwell/1856409026"
+    },
+    "BO STALOCH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bo-staloch/1698048247"
+    },
+    "BOLO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bolo-the-dj/1618572991",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/BOLO-PROFILE-SDE9-600x600.png"
+    },
+    "BRANDON FLOWERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brandon-flowers/23934543"
+    },
+    "BRIGITTE CALLS ME BABY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brigitte-calls-me-baby/1647490311"
+    },
+    "BRITTON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/britton/250599027"
+    },
+    "BUNT.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bunt/1436090348"
+    },
+    "Benwal": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/benwal/1704640695",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Benwal-PROFILE-SDE9-600x600.png"
+    },
+    "Boogietraxx": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/boogietraxx/1509884721"
+    },
+    "Brede": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brede/300238044"
+    },
+    "Brunello": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brunello/1697000713",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/BRUNELLO-PROFILE-SDE9-600x600.png"
+    },
+    "Brutalismus 3000": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Brutalismus3000-PROFILE-SDE9-600x600.png"
+    },
+    "CALDER ALLEN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/calder-allen/1608248970"
+    },
+    "CANNONS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cannons/65568551"
+    },
+    "CASSANDRA COLEMAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cassandra-coleman/1600330632"
+    },
+    "CHARLI XCX": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/charli-xcx/432942256"
+    },
+    "CHARLOTTE LAWRENCE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/charlotte-lawrence/766217679"
+    },
+    "CHELSEA JORDAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chelsea-jordan/1441617126"
+    },
+    "CHLOE QISHA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chloe-qisha/1751460376"
+    },
+    "CLAIRE ROSINKRANZ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/claire-rosinkranz/1483262366"
+    },
+    "CMAT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cmat/1506697965"
+    },
+    "COLEMAN JENNINGS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/coleman-jennings/1730130664"
+    },
+    "COMMON PEOPLE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/common-people/1829795802"
+    },
+    "CURE FOR PARANOIA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cure-for-paranoia/1223853229"
+    },
+    "Cartfish": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cartfish/1758179434"
+    },
+    "Casmir": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/casmir/1828216560"
+    },
+    "Chris Liebing": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chris-liebing/4382245",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/ChrisLiebing-PROFILE-SDE9-600x600.png"
+    },
+    "Chris Lorenzo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chris-lorenzo/621431022",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/ChrisLorenzo-PROFILE-SDE9-600x600.png"
+    },
+    "Cielo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cielo/6784723046"
+    },
+    "Cole Knight b2b Dreya V": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cole-knight/589962652",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ColeKnight-PROFILE-SDE9-600x600.png"
+    },
+    "Conrad Taylor": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/conrad-taylor/1625325260",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ConradTaylor-PROFILE-SDE9-600x600.png"
+    },
+    "DALLAS WAX": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dallas-wax/1727008720"
+    },
+    "DAMARIS BOJOR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/damaris-bojor/1657753052"
+    },
+    "DEXTER AND THE MOONROCKS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dexter-and-the-moonrocks/1581657500"
+    },
+    "DJ CASSANDRA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dj-cassandra/6779930773"
+    },
+    "DJ Pressed": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dj-pressed/1681641973"
+    },
+    "DON WEST": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/don-west/551652575"
+    },
+    "Devault": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/devault/1068294292",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png"
+    },
+    "ELIJAH DELGADO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/elijah-delgado/1504354264"
+    },
+    "ELLE COVES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/elle-coves/1687094318"
+    },
+    "EMMA OGIER": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/emma-ogier/1571801234"
+    },
+    "ETHAN REGAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ethan-regan/1329542870"
+    },
+    "Emski": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/emski/1658955209"
+    },
+    "Errow": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/errow/1565558802"
+    },
+    "FAI LACI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fai-laci/1524039071"
+    },
+    "FANCY HAGOOD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fancy-hagood/859825960"
+    },
+    "FAOUZIA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/faouzia/414067643"
+    },
+    "FCUKERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fcukers/1679474991"
+    },
+    "FIGHTMASTER": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fightmaster/1695043324"
+    },
+    "FINN WOLFHARD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/finn-wolfhard/1275324142"
+    },
+    "FLIGHT BY NOTHING": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/flight-by-nothing/1434997058"
+    },
+    "FLOR BROMLEY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/flor-bromley/1073257354"
+    },
+    "Fallon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fallon/1438738486",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Fallon-PROFILE-SDE9-600x600.png"
+    },
+    "Ferno": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ferno/1299747659"
+    },
+    "Frederic.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/frederic/1863710822",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/Frederic.-PROFILE-SDE9-600x600.png"
+    },
+    "GABRIEL JACOBY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/gabriel-jacoby/1610957262"
+    },
+    "GEESE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/geese/1378038472"
+    },
+    "GIRLFRIEND": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/girlfriend/1511096374"
+    },
+    "GIRLSWEETVOICED": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/girlsweetvoiced/1791358712"
+    },
+    "GRACE IVES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/grace-ives/1390289298"
+    },
+    "GROCERY BAG": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/grocery-bag/1690916530"
+    },
+    "Gamma": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/gamma/3636156"
+    },
+    "Ganimal": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ganimal/1770385201"
+    },
+    "Gondra": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ale-gondra-music/1479487462"
+    },
+    "Grympho b2b Phase3": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/phase-3/350912299"
+    },
+    "HAPPY LANDING": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/happy-landing/1525416582"
+    },
+    "HILLS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hills/1771911949",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/HILLS-PROFILE-SDE9-600x600.png"
+    },
+    "HNTR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hntr/901890750",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/HNTR-PROFILE-SDE9-600x600.png"
+    },
+    "HOUNDMOUTH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/houndmouth/552021268"
+    },
+    "Hank Harrison": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hank-harrison/289709777"
+    },
+    "Hank Harrison b2b point.reyes": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hank-harrison/289709777"
+    },
+    "HorsegiirL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/horsegiirl/1608374327",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/horsegiirl-PROFILE-SDE9-600x600.png"
+    },
+    "IT'S MURPH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/its-murph/1650216419"
+    },
+    "IZZY ESCOBAR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/izzy-escobar/1411652186"
+    },
+    "JASON SCOTT & THE HIGH HEAT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jason-scott-the-high-heat/1770828691"
+    },
+    "JESS WILLIAMSON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jess-williamson/501248881"
+    },
+    "JESSE WELLES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jesse-welles/1737507146"
+    },
+    "JOE JORDAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/joe-jordan/1681115748"
+    },
+    "JOSHUA JENSEN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/joshua-jensen/1878170713"
+    },
+    "Jack the Tripper": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jack-the-tripper/1044332740"
+    },
+    "Jenna Shaw": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jenna-shaw/1733804098",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/JennaShaw-PROFILE-SDE9-600x600.png"
+    },
+    "Jess James": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jess-james/1846295141"
+    },
+    "Joss Dean": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/joss-dean/1780656530",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/JossDean-PROFILE-SDE9-600x600.png"
+    },
+    "Juan40": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/juan40/6777896415"
+    },
+    "KEVIN ATWATER": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kevin-atwater/1523576425"
+    },
+    "KI/KI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ki-ki/1532800043",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Kiki-PROFILE-SDE9-600x600.png"
+    },
+    "KINGS OF LEON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kings-of-leon/1883403"
+    },
+    "Kai Castro": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kai-castro/1303196217"
+    },
+    "Kamino": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kamino/484818593",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/KAMINO-PROFILE-SDE9-600x600.png"
+    },
+    "Kydro": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kydro/1453923927"
+    },
+    "Kyle Starkey": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kyle-starkey/1631109378",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/KyleStarkey-PROFILE-SDE9-600x600.png"
+    },
+    "LABRINTH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/labrinth/205732582"
+    },
+    "LAUREN SANDERSON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lauren-sanderson/993820394"
+    },
+    "LEFT LUCID": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/left-lucid/1584511635"
+    },
+    "LEON KNIGHT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/leon-knight/467641177"
+    },
+    "LEON THOMAS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/leon-thomas/267251475"
+    },
+    "LEVITY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/levity/1505353688"
+    },
+    "LIVE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/live/61027"
+    },
+    "LLUVII": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lluvii/1720462063"
+    },
+    "LOLA YOUNG": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lola-young/452271760"
+    },
+    "LORDE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lorde/602767352"
+    },
+    "LP": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lp/516169807"
+    },
+    "LYKKE LI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lykke-li/263435943"
+    },
+    "Layton Giordani": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/layton-giordani/748431694",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/LaytonGiordani-PROFILE-SDE9-600x600.png"
+    },
+    "Lazy K": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lazy-k/1493600104"
+    },
+    "Luke Alessi": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/luke-alessi/1072900724",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/LukeAlessi-PROFILE-SDE9-600x600.png"
+    },
+    "MACY TODD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/macy-todd/1131739077"
+    },
+    "MARLON FUNAKI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marlon-funaki/1513742282"
+    },
+    "MARZZ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marzz/1475549778"
+    },
+    "MAX MCNOWN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/max-mcnown/1682299543"
+    },
+    "MEGA RAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mega-ran/351995480"
+    },
+    "MOLLY SANTANA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/molly-santana/1589625158"
+    },
+    "MONTCLAIR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/montclair/1581652549"
+    },
+    "MPH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mph/465495678",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/MPH-PROFILE-SDE9-600x600.png"
+    },
+    "Maddix": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/maddix/268115002",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/MADDIX-PROFILE-SDE9-600x600.png"
+    },
+    "Madison Palmer": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/madison-palmer/1492579914"
+    },
+    "Maesic": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/maesic/1224843674"
+    },
+    "Marco Strous": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marco-strous/923640710",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/MarcoStrous-PROFILE-SDE9-600x600.png"
+    },
+    "Marie Vaunt": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marie-vaunt/1347163438",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MarieVaunt-PROFILE-SDE9-600x600.png"
+    },
+    "Max Styler": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/max-styler/912353079",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MaxStyler-PROFILE-SDE9-600x600.png"
+    },
+    "Merkaba": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/merkaba/30837345"
+    },
+    "Mestiza": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mestiza/1683389684",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MESTIZA-PROFILE-SDE9-600x600.png"
+    },
+    "Mirror Mirror": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mirror-mirror/1534943949"
+    },
+    "NATASHA BEDINGFIELD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/natasha-bedingfield/17768486"
+    },
+    "NEW CONSTELLATIONS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/new-constellations/1543078051"
+    },
+    "NIGHT TAPES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/night-tapes/1476057311"
+    },
+    "NIGHT TRAVELER": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/night-traveler/1363342724"
+    },
+    "NOGA EREZ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/noga-erez/1166657901"
+    },
+    "Natch Nadjafi": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/natch-nadjafi/1112385645"
+    },
+    "Nick Moreno": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nick-moreno/1449595622"
+    },
+    "Nolace": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nolace/1887303030"
+    },
+    "Notion": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/notion/576443911",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Notion-PROFILE-SDE9-600x600.png"
+    },
+    "OLDGOLD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/oldgold/895873917"
+    },
+    "OZA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/oza/1632759360",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/OZA-PROFILE-SDE9-600x600.png"
+    },
+    "PALACE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/palace/899652201"
+    },
+    "PARCELS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/parcels/1148094312"
+    },
+    "PARIS PALOMA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/paris-paloma/1530898376"
+    },
+    "PARTY WITH DJ BAD APPLE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bad-apple/5970053"
+    },
+    "PIERCE FREELON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/pierce-freelon/1517536546"
+    },
+    "Paige Tomlinson": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/paige-tomlinson/1675990140",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/PaigeTomlinson-PROFILE-SDE9-600x600.png"
+    },
+    "Penny Lane": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/penny-lane/1973629"
+    },
+    "Porter Robinson (DJ Set)": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/porter-robinson/282330711"
+    },
+    "Q BROTHERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/q-brothers/217200177"
+    },
+    "RADIO FREE ALICE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/radio-free-alice/1509790283"
+    },
+    "REBECCA BLACK": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rebecca-black/426285675"
+    },
+    "REVN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/revn/1438294245"
+    },
+    "RIO KOSTA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rio-kosta/1641407453"
+    },
+    "ROCHELLE JORDAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rochelle-jordan/537708607"
+    },
+    "RODRIGO Y GABRIELA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685"
+    },
+    "RUM JUNGLE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rum-jungle/1316375874"
+    },
+    "RUSOWSKY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rusowsky/1388592825"
+    },
+    "RYAN BEATTY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ryan-beatty/483234172"
+    },
+    "RÜFÜS DU SOL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/r%C3%BCf%C3%BCs-du-sol/799587823"
+    },
+    "S.G. GOODMAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/s-g-goodman/1450439730"
+    },
+    "SAINT MOTEL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/saint-motel/301341347"
+    },
+    "SCHOOL OF ROCK": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/school-of-rock/322353041"
+    },
+    "SG Lewis": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sg-lewis/966324292",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/SGLewis-PROFILE-SDE9-600x600.png"
+    },
+    "SIENNA SPIRO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sienna-spiro/1745678083"
+    },
+    "SILENT DISCO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/silent-disco/459622468"
+    },
+    "SKRILLEX": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/skrillex/356545647"
+    },
+    "SKYE NEWMAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/skye-newman/1799174381"
+    },
+    "SNOW STRIPPERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/snow-strippers/1597165659"
+    },
+    "SOFI TUKKER": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sofi-tukker/998656537"
+    },
+    "SOLOMON HICKS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/solomon-hicks/514734441"
+    },
+    "SOLYA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/solya/1663977507"
+    },
+    "SONIA DE LOS SANTOS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sonia-de-los-santos/339210693"
+    },
+    "SPFDJ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/spfdj/1531029036",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/SPFDJ-PROFILE-SDE9-600x600.png"
+    },
+    "STELLA LEFTY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stella-lefty/1641742186"
+    },
+    "STEVE AOKI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/steve-aoki/271066694"
+    },
+    "STÜM": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/st%C3%BCm/1577895475",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/STUM-PROFILE-SDE9-600x600.png"
+    },
+    "SUKI WATERHOUSE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/suki-waterhouse/926014669"
+    },
+    "SUNDAY (1994)": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sunday-1994/1728938785"
+    },
+    "Samwise b2b Hektek": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/samwise/1895581334"
+    },
+    "Santino": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/santino/1503774490"
+    },
+    "Sara Landry": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sara-landry/1332641349",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/SaraLandry-PROFILE-SDE9-600x600.png"
+    },
+    "Selina Eshraghi b2b Dune": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dune/2898764"
+    },
+    "Shadowstar": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/shadowstar/415090878"
+    },
+    "Shep": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/shep/1525738499"
+    },
+    "Skye": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sk%C3%BFe/1477617747"
+    },
+    "Starjunk 95": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/starjunk-95/1526352957",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Starjunk95-PROFILE-SDE9-600x600.png"
+    },
+    "Sunniva": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sunniva/1790564840"
+    },
+    "TEMPER CITY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/temper-city/1872869285"
+    },
+    "THE 4411": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-4411/1533032757"
+    },
+    "THE BARTON HILLS CHOIR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nakia-and-the-barton-hills-choir/1165031035"
+    },
+    "THE CHAINSMOKERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-chainsmokers/580391756"
+    },
+    "THE MORIAH SISTERS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-moriah-sisters/1266062300"
+    },
+    "THE WAR ON DRUGS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-war-on-drugs/282078681"
+    },
+    "THE XX": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-xx/315473044"
+    },
+    "THOMAS DAY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/thomas-day/1576542827"
+    },
+    "TURNSTILE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/turnstile/4472006"
+    },
+    "TWENTY ONE PILOTS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/twenty-one-pilots/349736311"
+    },
+    "TWOFACED": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/twofaced/1718017473",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/TWOFACED-PROFILE-SDE9-600x600.png"
+    },
+    "Toccororo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/toccororo/1840237881"
+    },
+    "UNDERSCORES": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/underscores/1204838812"
+    },
+    "VILLANELLE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/villanelle/1836519194"
+    },
+    "VINNY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/vinny/1694497588"
+    },
+    "VTSS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/vtss/1127456384",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/VTSS-PROFILE-SDE9-600x600.png"
+    },
+    "VWILLZ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/vwillz/1483708170"
+    },
+    "Volkoder": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/volkoder/452994007",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/VOLKODER-PROFILE-SDE9-600x600.png"
+    },
+    "WILD CHILD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/wild-child/694916483"
+    },
+    "WORLD FAMOUS PETS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/world-famous-pets/1896255592"
+    },
+    "Weird City": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/weird-city/1734564000"
+    },
+    "Welker": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/welker/1796216139",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/Welker-PROFILE-SDE9-600x600.png"
+    },
+    "XK": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/xk/1462538112"
+    },
+    "XOY": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/xoy/1505825626"
+    },
+    "YOUNG MIKO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/young-miko/1576521417"
+    },
+    "YVNG Prieto": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/yvng-prieto/1759395396"
+    },
+    "Zak Dean": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/zak-dean/1604421315"
+    },
+    "Zara Mustafa": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/yara-mustafa/1743207319"
+    },
+    "ØTTA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/%C3%B8tta/1605814517"
+    },
+    "ŁASZEWO": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296"
+    }
+  }
 }
