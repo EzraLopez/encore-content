@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 2,
-    "publishedAt": "2026-11-09T18:15:25Z"
+    "version": 3,
+    "publishedAt": "2026-11-10T16:14:13Z"
   },
   "festivals": [
     {
@@ -2523,6 +2523,7 @@
       "id": "seismic-dance-event-2026",
       "instagramUrl": "https://instagram.com/seismicdanceevent",
       "location": "Austin, TX",
+      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/seismic-concourse.jpg",
       "name": "Seismic Dance Event 2026",
       "startDate": "2026-11-13",
       "tagline": "A curated dance experience for house, techno, and underground music enthusiasts",
