@@ -58,6 +58,7 @@ Append an object to the `festivals` array in `v2/config.json`:
   "venue": "Venue Name",
   "websiteUrl": "https://example.com",
   "instagramUrl": "https://instagram.com/myfest",
+  "accentColor": "#FE005E",
   "startDate": "2027-06-04",
   "endDate": "2027-06-06",
   "timezone": "America/Chicago",
@@ -88,6 +89,17 @@ Notes:
   lineup later lands (days go from `[]` to non-empty), followers get an
   update notification.
 - `mapImageUrl` may be omitted or `null`; the app shows its placeholder map.
+- `accentColor` is the festival's own color as `#RRGGBB`: its cards, its
+  glow, its Home countdown card. Take it from the festival's site or logo
+  (the highlight color, not a background). The apps darken or lighten it
+  where text sits on it, so pick the brand color as it is, not a
+  "readable" version of it. Two festivals may share a color only when they
+  are the same event (two weekends, read off the `websiteUrl` host); any
+  other pair must be far enough apart to tell their cards apart, and the
+  validator rejects it otherwise: pick the festival's second color.
+  Optional. Without it the app uses the color it ships for that id, or one
+  derived from the id. Changing only a color notifies nobody. Builds
+  before iOS 34 / Android 26 ignore the field.
 - Dates are `YYYY-MM-DD`, set times are 24h `HH:MM`. An overnight set ends
   after midnight (`"start": "23:30", "end": "01:00"`); `start` may not
   equal `end`.
@@ -126,7 +138,8 @@ under ~3 MB.
 envelope (`meta.version` is a positive integer, `meta.publishedAt` parses),
 required festival fields, unique festival/set/show ids, IANA timezones,
 `YYYY-MM-DD` dates, 24h `HH:MM` set times, that no set has `start == end`,
-and the required show fields. It prints every problem it finds and exits
+the required show fields, and that each `accentColor` is `#RRGGBB` and
+not a near-copy of another festival's. It prints every problem it finds and exits
 non-zero. Run it against another file with
 `python3 tools/validate_config.py path/to/config.json`.
 

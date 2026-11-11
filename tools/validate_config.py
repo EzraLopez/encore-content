@@ -20,6 +20,11 @@ from pathlib import Path
 
 TIME_RE = re.compile(r"^([01]\d|2[0-3]):[0-5]\d$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+ACCENT_RE = re.compile(r"^#[0-9A-Fa-f]{6}$")
+# Two different festivals' accents must sit at least this far apart
+# (CIE76 delta E) to tell their cards apart; the apps' own tests hold
+# the colors they ship to the same number.
+MIN_ACCENT_DISTANCE = 30.0
 
 errors = []
 
@@ -82,6 +87,63 @@ def require_str(obj, field, where):
         err(f"{where}: missing or empty required field {field!r}")
         return None
     return value
+
+
+def lab(hex_color):
+    """'#RRGGBB' -> CIE L*a*b* (D65), for a perceptual distance."""
+    def linear(channel):
+        return channel / 12.92 if channel <= 0.04045 else ((channel + 0.055) / 1.055) ** 2.4
+
+    r, g, b = (linear(int(hex_color[i:i + 2], 16) / 255) for i in (1, 3, 5))
+    x = (0.4124 * r + 0.3576 * g + 0.1805 * b) / 0.95047
+    y = 0.2126 * r + 0.7152 * g + 0.0722 * b
+    z = (0.0193 * r + 0.1192 * g + 0.9505 * b) / 1.08883
+
+    def f(t):
+        return t ** (1 / 3) if t > 0.008856 else 7.787 * t + 16 / 116
+
+    return (116 * f(y) - 16, 500 * (f(x) - f(y)), 200 * (f(y) - f(z)))
+
+
+def site_host(fest):
+    """The festival's website host, lowercased, without a leading 'www.'."""
+    url = fest.get("websiteUrl")
+    if not isinstance(url, str):
+        return None
+    match = re.match(r"^https?://([^/]+)", url.strip().lower())
+    if not match:
+        return None
+    host = match.group(1)
+    return host[4:] if host.startswith("www.") else host
+
+
+def validate_accents(festivals):
+    """accentColor is optional; when present it is '#RRGGBB', and two
+    festivals share (or nearly share) one only when they are the same
+    event brand, which is read off the website host (two weekends of
+    one festival)."""
+    valid = []
+    for fest in festivals:
+        if not isinstance(fest, dict) or "accentColor" not in fest:
+            continue
+        where = f"festival {fest.get('id')!r}"
+        value = fest["accentColor"]
+        if not isinstance(value, str) or not ACCENT_RE.match(value):
+            err(f"{where}: accentColor {value!r} is not a '#RRGGBB' color")
+            continue
+        valid.append(fest)
+    for i, first in enumerate(valid):
+        for second in valid[i + 1:]:
+            host = site_host(first)
+            if host is not None and host == site_host(second):
+                continue
+            a, b = lab(first["accentColor"]), lab(second["accentColor"])
+            distance = sum((p - q) ** 2 for p, q in zip(a, b)) ** 0.5
+            if distance < MIN_ACCENT_DISTANCE:
+                err(f"festival {first.get('id')!r} and {second.get('id')!r}: accentColor "
+                    f"{first['accentColor']} and {second['accentColor']} are too close to tell "
+                    f"apart (delta E {distance:.1f}, need {MIN_ACCENT_DISTANCE:.0f}); "
+                    "pick another color from one festival's branding")
 
 
 def validate_set(s, where):
@@ -221,6 +283,7 @@ def validate(path):
         validate_festival(fest, i, seen_ids, seen_set_ids)
     for i, show in enumerate(shows):
         validate_show(show, i, seen_ids)
+    validate_accents(festivals)
 
     # Optional per-artist enrichment (Apple Music artist pages and
     # profile photos). Apps ignore it when absent, and ignore

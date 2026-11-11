@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 4,
-    "publishedAt": "2026-11-10T16:21:10Z"
+    "version": 5,
+    "publishedAt": "2026-11-11T10:25:27Z"
   },
   "festivals": [
     {
@@ -15,6 +15,7 @@
       "endDate": "2026-10-04",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
         {
@@ -864,6 +865,7 @@
       "endDate": "2026-10-11",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
         {
@@ -1713,6 +1715,7 @@
       "endDate": "2027-05-02",
       "id": "tomorrowland-brasil-2027",
       "instagramUrl": "https://instagram.com/tomorrowlandbrasil",
+      "accentColor": "#1F9D66",
       "location": "Itu, São Paulo",
       "timezone": "America/Sao_Paulo",
       "name": "Tomorrowland Brasil",
@@ -1726,6 +1729,7 @@
       "endDate": "2026-11-21",
       "id": "dreamstate-socal-2026",
       "instagramUrl": "https://instagram.com/dreamstateusa",
+      "accentColor": "#234B8E",
       "location": "Long Beach, CA",
       "timezone": "America/Los_Angeles",
       "name": "Dreamstate SoCal 2026",
@@ -1739,6 +1743,7 @@
       "endDate": "2027-03-27",
       "id": "tomorrowland-winter-2027",
       "instagramUrl": "https://instagram.com/tomorrowlandwinter",
+      "accentColor": "#3E9BDC",
       "location": "Alpe d'Huez, France",
       "timezone": "Europe/Paris",
       "name": "Tomorrowland Winter 2027",
@@ -1752,6 +1757,7 @@
       "endDate": "2027-05-23",
       "id": "edc-las-vegas-2027",
       "instagramUrl": "https://instagram.com/edc_lasvegas",
+      "accentColor": "#F8AA38",
       "location": "Las Vegas, NV",
       "timezone": "America/Los_Angeles",
       "name": "EDC Las Vegas 2027",
@@ -2522,6 +2528,7 @@
       "endDate": "2026-11-15",
       "id": "seismic-dance-event-2026",
       "instagramUrl": "https://instagram.com/seismicdanceevent",
+      "accentColor": "#FE005E",
       "location": "Austin, TX",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/seismic-concourse.jpg",
       "mapImageUrls": [
