@@ -89,6 +89,12 @@ Notes:
   lineup later lands (days go from `[]` to non-empty), followers get an
   update notification.
 - `mapImageUrl` may be omitted or `null`; the app shows its placeholder map.
+- `requestedAs` (optional) lists the names people asked for this festival
+  by in the apps ("Request a festival"), when they differ from its own
+  name: `"requestedAs": ["fs fest"]`. A phone that asked for one of them
+  is notified, on that phone only, when the festival appears here. The
+  festival's own name already answers a request for it (the year and
+  anything after a dash are ignored), so this is only for other spellings.
 - `accentColor` is the festival's own color as `#RRGGBB`: its cards, its
   glow, its Home countdown card. Take it from the festival's site or logo
   (the highlight color, not a background). The apps darken or lighten it

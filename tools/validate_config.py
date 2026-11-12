@@ -117,6 +117,21 @@ def site_host(fest):
     return host[4:] if host.startswith("www.") else host
 
 
+def validate_requested_as(festivals):
+    """requestedAs is optional; when present it is a list of non-empty
+    strings (the names people asked for the festival by). Android reads
+    it strictly: a wrong type there would cost the whole catalog."""
+    for fest in festivals:
+        if not isinstance(fest, dict) or "requestedAs" not in fest:
+            continue
+        value = fest["requestedAs"]
+        where = f"festival {fest.get('id')!r}"
+        if not isinstance(value, list) or not all(
+            isinstance(name, str) and name.strip() for name in value
+        ):
+            err(f"{where}: requestedAs must be a list of non-empty strings")
+
+
 def validate_accents(festivals):
     """accentColor is optional; when present it is '#RRGGBB', and two
     festivals share (or nearly share) one only when they are the same
@@ -284,6 +299,7 @@ def validate(path):
     for i, show in enumerate(shows):
         validate_show(show, i, seen_ids)
     validate_accents(festivals)
+    validate_requested_as(festivals)
 
     # Optional per-artist enrichment (Apple Music artist pages and
     # profile photos). Apps ignore it when absent, and ignore
