@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 5,
-    "publishedAt": "2026-11-11T10:25:27Z"
+    "version": 6,
+    "publishedAt": "2026-11-12T00:30:00Z"
   },
   "festivals": [
     {
@@ -2541,6 +2541,299 @@
       "timezone": "America/Chicago",
       "venue": "The Concourse Project",
       "websiteUrl": "https://www.seismicdanceevent.com"
+    },
+    {
+      "id": "countdown-nye-2026",
+      "name": "Countdown NYE 2026",
+      "location": "San Bernardino, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2026-12-31",
+      "endDate": "2027-01-01",
+      "days": [],
+      "venue": "NOS Events Center",
+      "websiteUrl": "https://countdownnye.com"
+    },
+    {
+      "id": "decadence-colorado-2026",
+      "name": "Decadence Colorado 2026",
+      "location": "Denver, CO",
+      "timezone": "America/Denver",
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-31",
+      "days": [],
+      "venue": "Colorado Convention Center",
+      "websiteUrl": "https://decadencenye.com"
+    },
+    {
+      "id": "decadence-arizona-2026",
+      "name": "Decadence Arizona 2026",
+      "location": "Avondale, AZ",
+      "timezone": "America/Phoenix",
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-31",
+      "days": [],
+      "venue": "Phoenix Raceway",
+      "websiteUrl": "https://decadencearizona.com"
+    },
+    {
+      "id": "lights-all-night-2026",
+      "name": "Lights All Night 2026",
+      "location": "Dallas, TX",
+      "timezone": "America/Chicago",
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-31",
+      "days": [],
+      "venue": "Fair Park",
+      "websiteUrl": "https://lightsallnight.com"
+    },
+    {
+      "id": "proper-nye-2026",
+      "name": "Proper NYE 2026",
+      "location": "San Diego, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2026-12-31",
+      "endDate": "2027-01-01",
+      "days": [],
+      "venue": "Petco Park"
+    },
+    {
+      "id": "edc-mexico-2027",
+      "name": "EDC México 2027",
+      "location": "Mexico City, Mexico",
+      "timezone": "America/Mexico_City",
+      "startDate": "2027-02-19",
+      "endDate": "2027-02-21",
+      "days": [],
+      "venue": "Autódromo Hermanos Rodríguez",
+      "websiteUrl": "https://mexico.electricdaisycarnival.com"
+    },
+    {
+      "id": "ultra-miami-2027",
+      "name": "Ultra Music Festival 2027",
+      "location": "Miami, FL",
+      "timezone": "America/New_York",
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-28",
+      "days": [],
+      "venue": "Bayfront Park",
+      "websiteUrl": "https://ultramusicfestival.com"
+    },
+    {
+      "id": "beyond-wonderland-socal-2027",
+      "name": "Beyond Wonderland SoCal 2027",
+      "location": "San Bernardino, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-27",
+      "days": [],
+      "venue": "NOS Events Center",
+      "websiteUrl": "https://socal.beyondwonderland.com"
+    },
+    {
+      "id": "coachella-2027-weekend-1",
+      "name": "Coachella 2027 — Weekend One",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "days": [],
+      "venue": "Empire Polo Club",
+      "websiteUrl": "https://www.coachella.com"
+    },
+    {
+      "id": "coachella-2027-weekend-2",
+      "name": "Coachella 2027 — Weekend Two",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-18",
+      "days": [],
+      "venue": "Empire Polo Club",
+      "websiteUrl": "https://www.coachella.com"
+    },
+    {
+      "id": "stagecoach-2027",
+      "name": "Stagecoach 2027",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-25",
+      "days": [],
+      "venue": "Empire Polo Club",
+      "websiteUrl": "https://www.stagecoachfestival.com"
+    },
+    {
+      "id": "rolling-loud-florida-2027",
+      "name": "Rolling Loud Florida 2027",
+      "location": "Orlando, FL",
+      "timezone": "America/New_York",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-09",
+      "days": [],
+      "venue": "Camping World Stadium",
+      "websiteUrl": "https://www.rollingloud.com"
+    },
+    {
+      "id": "lightning-in-a-bottle-2027",
+      "name": "Lightning in a Bottle 2027",
+      "location": "Kern County, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-30",
+      "days": [],
+      "venue": "Buena Vista Lake",
+      "websiteUrl": "https://www.lightninginabottle.org"
+    },
+    {
+      "id": "bottlerock-napa-valley-2027",
+      "name": "BottleRock Napa Valley 2027",
+      "location": "Napa, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-05-28",
+      "endDate": "2027-05-30",
+      "days": [],
+      "venue": "Napa Valley Expo",
+      "websiteUrl": "https://www.bottlerocknapavalley.com"
+    },
+    {
+      "id": "movement-detroit-2027",
+      "name": "Movement 2027",
+      "location": "Detroit, MI",
+      "timezone": "America/Detroit",
+      "startDate": "2027-05-29",
+      "endDate": "2027-05-31",
+      "days": [],
+      "venue": "Hart Plaza",
+      "websiteUrl": "https://movementfestival.com"
+    },
+    {
+      "id": "primavera-sound-barcelona-2027",
+      "name": "Primavera Sound Barcelona 2027",
+      "location": "Barcelona, Spain",
+      "timezone": "Europe/Madrid",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-05",
+      "days": [],
+      "venue": "Parc del Fòrum",
+      "websiteUrl": "https://www.primaverasound.com"
+    },
+    {
+      "id": "sonar-barcelona-2027",
+      "name": "Sónar 2027",
+      "location": "Barcelona, Spain",
+      "timezone": "Europe/Madrid",
+      "startDate": "2027-06-17",
+      "endDate": "2027-06-19",
+      "days": [],
+      "websiteUrl": "https://sonar.es"
+    },
+    {
+      "id": "glastonbury-2027",
+      "name": "Glastonbury 2027",
+      "location": "Pilton, Somerset, UK",
+      "timezone": "Europe/London",
+      "startDate": "2027-06-23",
+      "endDate": "2027-06-27",
+      "days": [],
+      "venue": "Worthy Farm",
+      "websiteUrl": "https://www.glastonburyfestivals.co.uk"
+    },
+    {
+      "id": "defqon1-2027",
+      "name": "Defqon.1 2027",
+      "location": "Biddinghuizen, Netherlands",
+      "timezone": "Europe/Amsterdam",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-27",
+      "days": [],
+      "websiteUrl": "https://www.q-dance.com"
+    },
+    {
+      "id": "shambhala-2027",
+      "name": "Shambhala 2027",
+      "location": "Salmo, BC, Canada",
+      "timezone": "America/Vancouver",
+      "startDate": "2027-07-23",
+      "endDate": "2027-07-26",
+      "days": [],
+      "venue": "Salmo River Ranch",
+      "websiteUrl": "https://www.shambhalamusicfestival.com"
+    },
+    {
+      "id": "untold-2027",
+      "name": "UNTOLD 2027",
+      "location": "Cluj-Napoca, Romania",
+      "timezone": "Europe/Bucharest",
+      "startDate": "2027-08-05",
+      "endDate": "2027-08-08",
+      "days": [],
+      "websiteUrl": "https://untold.com"
+    },
+    {
+      "id": "outside-lands-2027",
+      "name": "Outside Lands 2027",
+      "location": "San Francisco, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-08-06",
+      "endDate": "2027-08-08",
+      "days": [],
+      "venue": "Golden Gate Park",
+      "websiteUrl": "https://www.sfoutsidelands.com"
+    },
+    {
+      "id": "sziget-2027",
+      "name": "Sziget 2027",
+      "location": "Budapest, Hungary",
+      "timezone": "Europe/Budapest",
+      "startDate": "2027-08-10",
+      "endDate": "2027-08-14",
+      "days": [],
+      "venue": "Óbuda Island",
+      "websiteUrl": "https://szigetfestival.com"
+    },
+    {
+      "id": "reading-festival-2027",
+      "name": "Reading Festival 2027",
+      "location": "Reading, UK",
+      "timezone": "Europe/London",
+      "startDate": "2027-08-26",
+      "endDate": "2027-08-29",
+      "days": [],
+      "venue": "Richfield Avenue",
+      "websiteUrl": "https://www.readingfestival.com"
+    },
+    {
+      "id": "leeds-festival-2027",
+      "name": "Leeds Festival 2027",
+      "location": "Leeds, UK",
+      "timezone": "Europe/London",
+      "startDate": "2027-08-26",
+      "endDate": "2027-08-29",
+      "days": [],
+      "venue": "Bramham Park",
+      "websiteUrl": "https://www.leedsfestival.com"
+    },
+    {
+      "id": "creamfields-2027",
+      "name": "Creamfields 2027",
+      "location": "Daresbury, Cheshire, UK",
+      "timezone": "Europe/London",
+      "startDate": "2027-08-26",
+      "endDate": "2027-08-29",
+      "days": [],
+      "venue": "Daresbury Estate",
+      "websiteUrl": "https://www.creamfields.com"
+    },
+    {
+      "id": "rolling-loud-california-2027",
+      "name": "Rolling Loud California 2027",
+      "location": "San Bernardino, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2027-12-10",
+      "endDate": "2027-12-12",
+      "days": [],
+      "venue": "NOS Events Center",
+      "websiteUrl": "https://www.rollingloud.com"
     }
   ],
   "shows": [],
