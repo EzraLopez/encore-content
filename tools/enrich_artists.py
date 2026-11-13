@@ -29,6 +29,7 @@ import re
 import sys
 import time
 import unicodedata
+import urllib.error
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -78,7 +79,16 @@ def itunes_artist_url(candidate: str):
     try:
         query = urllib.parse.urlencode(
             {"term": candidate, "entity": "musicArtist", "limit": 5, "country": "US"})
-        data = json.loads(fetch(f"https://itunes.apple.com/search?{query}"))
+        # The iTunes Search API allows about 20 calls a minute; on a 429
+        # wait and retry rather than leaving the artist unmatched.
+        for attempt in range(4):
+            try:
+                data = json.loads(fetch(f"https://itunes.apple.com/search?{query}"))
+                break
+            except urllib.error.HTTPError as exc:
+                if exc.code != 429 or attempt == 3:
+                    raise
+                time.sleep(30 * (attempt + 1))
         for result in data.get("results", []):
             name = result.get("artistName", "")
             if norm(name) == key or (
@@ -87,10 +97,12 @@ def itunes_artist_url(candidate: str):
                 link = result.get("artistLinkUrl", "")
                 url = link.split("?")[0] if link else None
                 break
-    except Exception as exc:  # network hiccup: leave unmatched
+    except Exception as exc:  # network hiccup: leave unmatched, retry next run
         print(f"  ! lookup failed for {candidate!r}: {exc}", file=sys.stderr)
+        time.sleep(3.1)
+        return None
     _cache[key] = url
-    time.sleep(0.12)
+    time.sleep(3.1)
     return url
 
 
@@ -166,9 +178,11 @@ def main() -> int:
     artists = dict(existing)
     stats = {"am": 0, "img": 0, "both": 0, "none": 0}
     for billing in billings:
-        if billing in artists:
+        # Fill what an entry is missing (a Spotify-only entry still gets
+        # its Apple Music link and photo looked up).
+        if "appleMusicUrl" in artists.get(billing, {}):
             continue
-        entry = {}
+        entry = dict(artists.get(billing, {}))
         for cand in candidates(billing):
             if "appleMusicUrl" not in entry:
                 found = itunes_artist_url(cand)
@@ -176,7 +190,7 @@ def main() -> int:
                     entry["appleMusicUrl"] = found
             if "imageUrl" not in entry and norm(cand) in slugs:
                 entry["imageUrl"] = slugs[norm(cand)]
-            if len(entry) == 2:
+            if "appleMusicUrl" in entry and "imageUrl" in entry:
                 break
         if entry:
             artists[billing] = entry
@@ -184,7 +198,7 @@ def main() -> int:
             stats["am"] += 1
         if "imageUrl" in entry:
             stats["img"] += 1
-        if len(entry) == 2:
+        if "appleMusicUrl" in entry and "imageUrl" in entry:
             stats["both"] += 1
         if not entry:
             stats["none"] += 1
@@ -202,7 +216,15 @@ def main() -> int:
 
     config["artists"] = dict(sorted(artists.items()))
     from datetime import datetime, timezone
-    config["meta"]["version"] = int(config["meta"].get("version", 1)) + 1
+    # One bump per branch: main's version + 1, however often this runs.
+    try:
+        import subprocess
+        main_doc = subprocess.run(
+            ["git", "show", "origin/main:v2/config.json"], cwd=ROOT,
+            capture_output=True, text=True, check=True).stdout
+        config["meta"]["version"] = int(json.loads(main_doc)["meta"]["version"]) + 1
+    except Exception:  # noqa: BLE001 - no git or no origin/main: plain bump
+        config["meta"]["version"] = int(config["meta"].get("version", 1)) + 1
     config["meta"]["publishedAt"] = (
         datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
     CONFIG.write_text(json.dumps(config, indent=2, ensure_ascii=False) + "\n",
