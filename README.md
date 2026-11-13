@@ -35,6 +35,32 @@ Every publish follows the same steps:
    on their next fetch — on launch, on pull-to-refresh, or on a background
    refresh — with no app update.
 
+### Announced lineups (names before set times)
+
+Most festivals announce artists weeks or months before set times. Put
+them in the festival's optional `lineup` array; leave `days` empty
+until times are published:
+
+```json
+"lineup": [
+  { "id": "dreamstate-socal-2026-armin-van-buuren", "artist": "Armin van Buuren",
+    "day": "2026-11-20", "stage": "Dream" },
+  { "id": "dreamstate-socal-2026-alpha-9", "artist": "Alpha 9" }
+]
+```
+
+- `day` (YYYY-MM-DD, within the festival) and `stage` are optional:
+  include them only when the festival has said them.
+- **Ids are permanent.** Use `<festival-id>-<artist-slug>`. When set times
+  come out, move each artist into `days` as a set **with the same id**
+  and remove it from `lineup`; a favourite made from the lineup then
+  becomes a timed favourite, with a reminder, on the next refresh. (The
+  apps also match by artist name if an id changes, but don't rely on it.)
+- An artist playing twice gets `-2` on the second set's id.
+- Apps since iOS build 61 / Android 49 show the lineup on About, let
+  people favourite it, and notify followers "Lineup announced", then
+  "Set times are out". Older builds ignore the field.
+
 ### v2 envelope
 
 ```json

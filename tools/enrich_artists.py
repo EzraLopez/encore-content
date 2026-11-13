@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 """Enrich v2/config.json with per-artist data (the top-level `artists`
-object): real Apple Music artist-page URLs and festival profile
-photos.
+object): real Apple Music and Spotify artist-page URLs and festival
+profile photos.
 
-Sources, both keyless:
+Sources, all keyless:
+  * Spotify URLs (Nov 13, 2026) — Wikidata's "Spotify artist ID"
+    (P1902), looked up by the artist's exact label or alias. Only an
+    unambiguous match is taken (one Spotify id across every item with
+    that name); the apps fall back to a Spotify search otherwise.
   * Apple Music URLs — the iTunes Search API
     (entity=musicArtist). The returned artistLinkUrl is a real
     artist page; linking the /us/search?term= page instead is a
@@ -101,6 +105,42 @@ def candidates(billing: str):
     return out
 
 
+WIKIDATA_SPARQL = "https://query.wikidata.org/sparql"
+
+
+def wikidata_spotify_ids(names):
+    """{normalized name: Spotify artist id} for names Wikidata knows
+    unambiguously. Exact label/alias match (case as written, English or
+    no language), batched; a name whose items carry more than one
+    Spotify id is skipped rather than guessed."""
+    found = {}
+    names = sorted(set(names))
+    for i in range(0, len(names), 40):
+        batch = names[i:i + 40]
+        values = " ".join(
+            '"%s"@en' % n.replace("\\", "\\\\").replace('"', '\\"') for n in batch
+        )
+        query = (
+            "SELECT ?name ?spotify WHERE { VALUES ?name { %s } "
+            "{ ?item rdfs:label ?name } UNION { ?item skos:altLabel ?name } "
+            "?item wdt:P1902 ?spotify . }" % values
+        )
+        url = WIKIDATA_SPARQL + "?" + urllib.parse.urlencode({"query": query, "format": "json"})
+        try:
+            data = json.loads(fetch(url))
+        except Exception as exc:  # noqa: BLE001 - best effort per batch
+            print(f"  wikidata batch {i // 40} failed: {exc}")
+            continue
+        ids = {}
+        for row in data["results"]["bindings"]:
+            ids.setdefault(norm(row["name"]["value"]), set()).add(row["spotify"]["value"])
+        for key, values_found in ids.items():
+            if len(values_found) == 1:
+                found[key] = next(iter(values_found))
+        time.sleep(1)
+    return found
+
+
 def main() -> int:
     force = "--force" in sys.argv
     config = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -112,6 +152,11 @@ def main() -> int:
         for day in fest.get("days", [])
         for stage in day.get("stages", [])
         for s in stage.get("sets", [])
+    } | {
+        # Announced artists without set times count too.
+        entry["artist"]
+        for fest in config["festivals"]
+        for entry in fest.get("lineup", [])
     })
     print(f"{len(billings)} unique billings")
 
@@ -143,6 +188,17 @@ def main() -> int:
             stats["both"] += 1
         if not entry:
             stats["none"] += 1
+
+    # Spotify, for every billing still without one (existing entries too).
+    want = {b: candidates(b) for b in billings if "spotifyUrl" not in artists.get(b, {})}
+    spotify = wikidata_spotify_ids([c for cands in want.values() for c in cands])
+    added_spotify = 0
+    for billing, cands in want.items():
+        sid = next((spotify[norm(c)] for c in cands if norm(c) in spotify), None)
+        if sid:
+            artists.setdefault(billing, {})["spotifyUrl"] = f"https://open.spotify.com/artist/{sid}"
+            added_spotify += 1
+    print(f"spotify: {added_spotify} of {len(want)} billings matched on Wikidata")
 
     config["artists"] = dict(sorted(artists.items()))
     from datetime import datetime, timezone

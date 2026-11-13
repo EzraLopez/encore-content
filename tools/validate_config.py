@@ -235,6 +235,43 @@ def validate_festival(fest, index, seen_ids, seen_set_ids):
                         err(f"{swhere}: duplicate set id {s['id']!r} — set ids must be "
                             "unique; favorites are keyed off them")
                     seen_set_ids.add(s["id"])
+    validate_lineup(fest, where, start_d, end_d, seen_set_ids)
+
+
+def validate_lineup(fest, where, start_d, end_d, seen_set_ids):
+    """`lineup` is optional: artists announced before their set times.
+    Each entry is {id, artist, day?, stage?}; ids share the set-id
+    namespace (a favourite keys off them) and an entry keeps its id
+    when it moves into `days` with a time, so it must not ALSO appear
+    as a set; `day` falls within the festival's dates."""
+    lineup = fest.get("lineup")
+    if lineup is None:
+        return
+    if not isinstance(lineup, list):
+        err(f"{where}: 'lineup' must be an array of {{id, artist, day?, stage?}}")
+        return
+    for li, entry in enumerate(lineup):
+        lwhere = f"{where} lineup[{li}]"
+        if not isinstance(entry, dict):
+            err(f"{lwhere}: entry is not an object")
+            continue
+        lid = require_str(entry, "id", lwhere)
+        require_str(entry, "artist", lwhere)
+        if lid:
+            if lid in seen_set_ids:
+                err(f"{lwhere}: id {lid!r} is already a set id; when an artist gets a "
+                    "time, move the entry into 'days' (same id) and remove it here")
+            seen_set_ids.add(lid)
+        day = entry.get("day")
+        if day is not None:
+            d = parse_date(day)
+            if d is None:
+                err(f"{lwhere}: day {day!r} is not a valid 'YYYY-MM-DD' date")
+            elif start_d and end_d and not (start_d <= d <= end_d):
+                err(f"{lwhere}: day {day} is outside the festival's dates")
+        stage = entry.get("stage")
+        if stage is not None and (not isinstance(stage, str) or not stage.strip()):
+            err(f"{lwhere}: stage must be a non-empty string when present")
 
 
 def validate_show(show, index, seen_ids):
