@@ -14,6 +14,13 @@ Sources, all keyless:
     dead end inside the Music app, which is why this exists.
   * Photos — Seismic Dance Event's official lineup page publishes
     a `*-PROFILE-SDE9` portrait per artist (600x600 variant used).
+  * Photos (Nov 13, 2026) — Apple Music artist artwork from the
+    MusicKit catalog API (api.music.apple.com), for every artist with
+    an Apple Music link and no photo yet. This one needs a MusicKit
+    developer token: set APPLE_MUSIC_TOKEN locally, or run where a
+    network secret injects it for api.music.apple.com (the cloud
+    routine's environment). Without either the pass is skipped. The
+    token is never written anywhere by this script.
 
 Matching is conservative: a result is only accepted when the
 normalized names agree (accents/case/punctuation stripped), so a
@@ -153,6 +160,51 @@ def wikidata_spotify_ids(names):
     return found
 
 
+APPLE_MUSIC_API = "https://api.music.apple.com/v1/catalog/us/artists"
+ARTWORK_SIZE = 600
+
+
+def apple_music_artist_id(url: str):
+    """The numeric artist id at the end of an Apple Music artist URL."""
+    match = re.search(r"/artist/[^/]+/(\d+)", url) or re.search(r"/artist/(\d+)", url)
+    return match.group(1) if match else None
+
+
+def apple_music_artwork(ids):
+    """artist id -> 600x600 artwork URL, from the MusicKit catalog API.
+    Returns {} when no token is available (no env var and no proxy)."""
+    import os
+    token = os.environ.get("APPLE_MUSIC_TOKEN")
+    found = {}
+    ids = sorted(set(ids))
+    for i in range(0, len(ids), 25):
+        batch = ids[i:i + 25]
+        headers = dict(UA)
+        if token:
+            headers["Authorization"] = f"Bearer {token}"
+        req = urllib.request.Request(f"{APPLE_MUSIC_API}?ids={','.join(batch)}", headers=headers)
+        try:
+            with urllib.request.urlopen(req, timeout=20) as resp:
+                data = json.loads(resp.read())
+        except urllib.error.HTTPError as exc:
+            if exc.code in (401, 403):
+                print("apple music: no developer token (APPLE_MUSIC_TOKEN or a network secret); skipping photos")
+                return {}
+            print(f"  apple music batch {i // 25} failed: {exc}")
+            continue
+        except Exception as exc:  # noqa: BLE001 - network hiccup: next batch
+            print(f"  apple music batch {i // 25} failed: {exc}")
+            continue
+        for item in data.get("data", []):
+            art = item.get("attributes", {}).get("artwork", {})
+            template = art.get("url")
+            if template:
+                found[item["id"]] = (template.replace("{w}", str(ARTWORK_SIZE))
+                                     .replace("{h}", str(ARTWORK_SIZE)).replace("{f}", "jpg"))
+        time.sleep(0.3)
+    return found
+
+
 def main() -> int:
     force = "--force" in sys.argv
     config = json.loads(CONFIG.read_text(encoding="utf-8"))
@@ -202,6 +254,21 @@ def main() -> int:
             stats["both"] += 1
         if not entry:
             stats["none"] += 1
+
+    # Apple Music artwork, for every artist with a link and no photo.
+    want_art = {
+        billing: apple_music_artist_id(entry["appleMusicUrl"])
+        for billing, entry in artists.items()
+        if "imageUrl" not in entry and "appleMusicUrl" in entry
+    }
+    want_art = {b: i for b, i in want_art.items() if i}
+    artwork = apple_music_artwork(want_art.values()) if want_art else {}
+    added_art = 0
+    for billing, artist_id in want_art.items():
+        if artist_id in artwork:
+            artists[billing]["imageUrl"] = artwork[artist_id]
+            added_art += 1
+    print(f"apple music photos: {added_art} of {len(want_art)} artists without one")
 
     # Spotify, for every billing still without one (existing entries too).
     want = {b: candidates(b) for b in billings if "spotifyUrl" not in artists.get(b, {})}

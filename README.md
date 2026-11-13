@@ -200,3 +200,22 @@ and fall back to their bundled copy when offline. The file keeps its
 original shape (`{ "festivals": [...] }`, same festival objects as v2) and
 stays live for those builds. Breaking schema changes go in a new top-level
 folder (`v2/`, `v3/`, …); each app pins the version it understands.
+
+## Artist photos from Apple Music (Nov 13, 2026)
+
+`tools/enrich_artists.py` fills `imageUrl` from Apple Music artist
+artwork (MusicKit catalog API, 600x600) for every artist that has an
+`appleMusicUrl` and no photo. It needs a MusicKit developer token,
+which this repo never holds:
+
+1. developer.apple.com → Certificates, Identifiers & Profiles → Keys →
+   "+" → enable MusicKit → download the `.p8` (Ezra keeps it).
+2. Sign a developer token from that key (ES256 JWT, `kid` = key id,
+   `iss` = team `4DS7X7GGR3`, up to 6 months).
+3. Locally: `APPLE_MUSIC_TOKEN=… python3 tools/enrich_artists.py`.
+   In the cloud routines: a network secret on the Default environment
+   (Bearer, host `api.music.apple.com`, path `/v1/`), so the token
+   never reaches a session.
+
+Without a token the pass prints a note and is skipped.
+
