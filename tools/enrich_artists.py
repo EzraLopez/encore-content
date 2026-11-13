@@ -29,6 +29,7 @@ first-billed artist supplies both fields. Re-runnable: existing
 entries are kept unless --force is passed.
 
 Usage: python3 tools/enrich_artists.py [--force]
+(token: APPLE_MUSIC_TOKEN=$(swift tools/musickit_token.swift <AuthKey.p8> <keyId> <teamId>))
 """
 
 import json
