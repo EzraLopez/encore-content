@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 7,
-    "publishedAt": "2026-11-12T06:30:00Z"
+    "version": 8,
+    "publishedAt": "2026-11-13T17:48:26Z"
   },
   "festivals": [
     {
@@ -1736,7 +1736,359 @@
       "startDate": "2026-11-20",
       "tagline": "The world's premier all-trance music festival",
       "venue": "Queen Mary Waterfront",
-      "websiteUrl": "https://socal.dreamstateusa.com"
+      "websiteUrl": "https://socal.dreamstateusa.com",
+      "lineup": [
+        {
+          "id": "dreamstate-socal-2026-4-strings-classics-set",
+          "artist": "4 Strings (Classics Set)",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-a-n-i",
+          "artist": "A.N.I.",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-aaron-hibell-live",
+          "artist": "Aaron Hibell (Live)",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-above-and-beyond-anjunabeats-classics",
+          "artist": "Above & Beyond (Anjunabeats Classics)",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-ace-ventura",
+          "artist": "Ace Ventura",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-allen-watts-and-talla-2xlc",
+          "artist": "Allen Watts + Talla 2XLC",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-alpha-9-and-ilan-bluestone",
+          "artist": "ALPHA 9 + Ilan Bluestone",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-aly-and-fila-and-billy-gillies",
+          "artist": "Aly & Fila + Billy Gillies",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-andrew-rayel-pres-extasia",
+          "artist": "Andrew Rayel pres Extasia",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-andy-moor",
+          "artist": "Andy Moor",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-animato",
+          "artist": "Animato",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-artbat",
+          "artist": "ARTBAT",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-astrix",
+          "artist": "Astrix",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-barakuda",
+          "artist": "Barakuda",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-bk",
+          "artist": "BK",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-bt-and-matt-fax",
+          "artist": "BT + Matt Fax",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-burn-in-noise",
+          "artist": "Burn In Noise",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-chris-metcalfe",
+          "artist": "Chris Metcalfe",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-cold-blue",
+          "artist": "Cold Blue",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-darren-porter-and-sean-tyas",
+          "artist": "Darren Porter + Sean Tyas",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-das-pharaoh",
+          "artist": "Das Pharaoh",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-dash-berlin",
+          "artist": "Dash Berlin",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-david-forbes-and-mark-sherry-pres-thick-as-thieves",
+          "artist": "David Forbes + Mark Sherry pres Thick As Thieves",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-david-rust-and-olly-james",
+          "artist": "David Rust + Olly James",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-discovery-project",
+          "artist": "Discovery Project",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-eddie-halliwell-and-judge-jules",
+          "artist": "Eddie Halliwell + Judge Jules",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-enrico-sangiuliano",
+          "artist": "Enrico Sangiuliano",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-ferry-corsten-and-marsh",
+          "artist": "Ferry Corsten + Marsh",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-frankyeffe",
+          "artist": "FRANKYEFFE",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-giorgia-angiuli",
+          "artist": "Giorgia Angiuli",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-gms",
+          "artist": "GMS",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-hannah-laing-and-marie-vaunt",
+          "artist": "Hannah Laing + Marie Vaunt",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-infected-mushroom",
+          "artist": "Infected Mushroom",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-joa",
+          "artist": "JOA",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-john-00-fleming",
+          "artist": "John 00 Fleming",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-john-askew-and-simon-patterson",
+          "artist": "John Askew + Simon Patterson",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-karma",
+          "artist": "KARMÅ",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-kaufmann",
+          "artist": "KAUFMANN",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-key4050",
+          "artist": "Key4050",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-lee-ann-roberts",
+          "artist": "Lee Ann Roberts",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-marco-v",
+          "artist": "Marco V",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-maria-healy",
+          "artist": "Maria Healy",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-marlo",
+          "artist": "MaRLo",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-matty-ralph",
+          "artist": "Matty Ralph",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-mauro-picotto",
+          "artist": "Mauro Picotto",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-maximizer",
+          "artist": "Maximizer",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-mirage-live",
+          "artist": "Mirage (Live)",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-neelix",
+          "artist": "Neelix",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-nrg2000",
+          "artist": "NRG2000",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-nu-aspect",
+          "artist": "Nu Aspect",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-panteros666",
+          "artist": "Panteros666",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-parallel-worlds",
+          "artist": "Parallel Worlds",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-paul-van-dyk-pres-essence-of-acid",
+          "artist": "Paul van Dyk pres Essence Of Acid",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-pegassi",
+          "artist": "Pegassi",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-perfect-stranger",
+          "artist": "Perfect Stranger",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-phaxe",
+          "artist": "Phaxe",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-reinier-zonneveld-live",
+          "artist": "Reinier Zonneveld (Live)",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-rising-dust",
+          "artist": "Rising Dust",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-the-rocketman",
+          "artist": "The Rocketman",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-schrotthagen",
+          "artist": "Schrotthagen",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-sequence-six",
+          "artist": "Sequence Six",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-shay-de-castro",
+          "artist": "Shay De Castro",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-sighter",
+          "artist": "Sighter",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-solarstone",
+          "artist": "Solarstone",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-steve-dekay",
+          "artist": "Steve Dekay",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-terra",
+          "artist": "Terra",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-th-en",
+          "artist": "TH;EN",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-vini-vici",
+          "artist": "Vini Vici",
+          "day": "2026-11-21"
+        },
+        {
+          "id": "dreamstate-socal-2026-visionv",
+          "artist": "VisionV",
+          "day": "2026-11-20"
+        },
+        {
+          "id": "dreamstate-socal-2026-warp-brothers",
+          "artist": "Warp Brothers",
+          "day": "2026-11-20"
+        }
+      ]
     },
     {
       "days": [],
@@ -2565,7 +2917,359 @@
       "endDate": "2027-01-01",
       "days": [],
       "venue": "NOS Events Center",
-      "websiteUrl": "https://countdownnye.com"
+      "websiteUrl": "https://countdownnye.com",
+      "lineup": [
+        {
+          "id": "countdown-nye-2026-acraze",
+          "artist": "ACRAZE",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-ahee",
+          "artist": "AHEE",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-brandon",
+          "artist": "Brandon",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-crumb-pit",
+          "artist": "Crumb Pit",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-deathpact",
+          "artist": "Deathpact",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-discovery-project",
+          "artist": "Discovery Project",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-dj-diesel",
+          "artist": "DJ Diesel",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-dj-guestlist",
+          "artist": "DJ Guestlist",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-dj-snake",
+          "artist": "DJ Snake",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-domina",
+          "artist": "DØMINA",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-esse",
+          "artist": "ESSE",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-gravedgr",
+          "artist": "GRAVEDGR",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-green-matter",
+          "artist": "Green Matter",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-hills",
+          "artist": "Hills",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-hol",
+          "artist": "HOL!",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-jaden-bojsen",
+          "artist": "Jaden Bojsen",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-james-hype",
+          "artist": "James Hype",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-khrome",
+          "artist": "KHROME",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-kloud",
+          "artist": "Kloud",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-lavern",
+          "artist": "Lavern",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-lucky",
+          "artist": "Lucky",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-matroda",
+          "artist": "Matroda",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-mija-b2b-sim0ne",
+          "artist": "Mija B2B sim0ne",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-noise-mafia",
+          "artist": "Noise Mafia",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-oliver-heldens",
+          "artist": "Oliver Heldens",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-r3hab",
+          "artist": "R3HAB",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-rinzen",
+          "artist": "Rinzen",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-roz",
+          "artist": "RØZ",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-s-y-n-svdden-death-yvm3-nimda",
+          "artist": "S.Y.N (Svdden Death, yvm3, NIMDA)",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-skilah",
+          "artist": "Skilah",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-smoakland",
+          "artist": "Smoakland",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-tchami",
+          "artist": "Tchami",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-walker-and-royce",
+          "artist": "Walker & Royce",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-zingara",
+          "artist": "Zingara",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "countdown-nye-2026-33-below",
+          "artist": "33 Below",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-alesso",
+          "artist": "Alesso",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-archie-hamilton",
+          "artist": "Archie Hamilton",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-arlo",
+          "artist": "Arlo",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-aych",
+          "artist": "AYCH",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-blaise-bracic",
+          "artist": "Blaise Bracic",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-borne",
+          "artist": "borne",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-bunt",
+          "artist": "BUNT.",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-bushbaby",
+          "artist": "Bushbaby",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-chozen",
+          "artist": "CHOZEN",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-ecchi-mp4",
+          "artist": "ECCHI.MP4",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-flosstradamus",
+          "artist": "Flosstradamus",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-ghengar",
+          "artist": "Ghengar",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-gordo",
+          "artist": "Gordo",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-gorillat",
+          "artist": "GorillaT",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-heyz-b2b-tynan",
+          "artist": "HEYZ B2B Tynan",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-jessica-audiffred",
+          "artist": "Jessica Audiffred",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-jev",
+          "artist": "Jev",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-joshwa",
+          "artist": "Joshwa",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-kelland",
+          "artist": "Kelland",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-loud-luxury",
+          "artist": "Loud Luxury",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-lyny-b2b-peekaboo",
+          "artist": "LYNY B2B Peekaboo",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-madvktm",
+          "artist": "MADVKTM",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-marshmello",
+          "artist": "Marshmello",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-nghtmre",
+          "artist": "NGHTMRE",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-of-the-trees",
+          "artist": "Of The Trees",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-ranger-trucco",
+          "artist": "Ranger Trucco",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-seven-lions",
+          "artist": "Seven Lions",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-sincera",
+          "artist": "SINCERA",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-space-laces",
+          "artist": "Space Laces",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-taiki-nulight",
+          "artist": "Taiki Nulight",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-tobehonest",
+          "artist": "TOBEHONEST",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-tokimonsta",
+          "artist": "TOKiMONSTA",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-troyboi",
+          "artist": "TroyBoi",
+          "day": "2027-01-01"
+        },
+        {
+          "id": "countdown-nye-2026-wax-motif",
+          "artist": "Wax Motif",
+          "day": "2027-01-01"
+        }
+      ]
     },
     {
       "id": "decadence-colorado-2026",
@@ -2576,7 +3280,124 @@
       "endDate": "2026-12-31",
       "days": [],
       "venue": "Colorado Convention Center",
-      "websiteUrl": "https://decadencenye.com"
+      "websiteUrl": "https://decadencenye.com",
+      "lineup": [
+        {
+          "id": "decadence-colorado-2026-alesso",
+          "artist": "Alesso",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-black-tiger-sex-machine",
+          "artist": "Black Tiger Sex Machine",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-deathpact",
+          "artist": "Deathpact",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-dj-snake",
+          "artist": "DJ Snake",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-excision",
+          "artist": "Excision",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-green-velvet",
+          "artist": "Green Velvet",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-lane-8",
+          "artist": "Lane 8",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-seven-lions",
+          "artist": "Seven Lions",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-sullivan-king",
+          "artist": "Sullivan King",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-yousuke-yuk1matsu",
+          "artist": "YØU$UK€ ¥UK1MAT$U",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-zeds-dead",
+          "artist": "Zeds Dead",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-zingara",
+          "artist": "Zingara",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-colorado-2026-alleycvt",
+          "artist": "ALLEYCVT",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-crankdat",
+          "artist": "Crankdat",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-gorillat",
+          "artist": "GorillaT",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-griz",
+          "artist": "GRiZ",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-isoxo",
+          "artist": "ISOxo",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-its-murph",
+          "artist": "it’s murph",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-kasbo",
+          "artist": "Kasbo",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-levity",
+          "artist": "Levity",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-marshmello",
+          "artist": "Marshmello",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-colorado-2026-the-resistance",
+          "artist": "The Resistance",
+          "day": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "decadence-arizona-2026",
@@ -2587,7 +3408,204 @@
       "endDate": "2026-12-31",
       "days": [],
       "venue": "Phoenix Raceway",
-      "websiteUrl": "https://decadencearizona.com"
+      "websiteUrl": "https://decadencearizona.com",
+      "lineup": [
+        {
+          "id": "decadence-arizona-2026-a-hundred-drums-b2b-zen-selekta",
+          "artist": "A Hundred Drums B2B Zen Selekta",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-azzecca",
+          "artist": "Azzecca",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-chris-lake",
+          "artist": "Chris Lake",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-coone",
+          "artist": "Coone",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-eli-brown",
+          "artist": "Eli Brown",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-gorgon-city",
+          "artist": "Gorgon City",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-i-hate-models",
+          "artist": "I Hate Models",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-masquerade",
+          "artist": "Masquerade",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-max-dean-b2b-luke-dean",
+          "artist": "Max Dean B2B Luke Dean",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-polo-and-pan",
+          "artist": "Polo & Pan",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-roz",
+          "artist": "RØZ",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-ruze",
+          "artist": "Ruze",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-slander",
+          "artist": "Slander",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-sosa",
+          "artist": "SOSA",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-tommy-phillips",
+          "artist": "Tommy Phillips",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-wankdat",
+          "artist": "Wankdat",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-cece",
+          "artist": "CECE",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-donk",
+          "artist": "DONK",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-zuze",
+          "artist": "ZUZE",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "decadence-arizona-2026-beauz",
+          "artist": "Beauz",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-beltran",
+          "artist": "Beltran",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-brayden-terzo",
+          "artist": "Brayden Terzo",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-bunt",
+          "artist": "Bunt.",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-daily-bread",
+          "artist": "daily bread",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-disclosure-dj-set",
+          "artist": "Disclosure (DJ Set)",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-ero808",
+          "artist": "Ero808",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-isoxo",
+          "artist": "ISOxo",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-jkyl-and-hyde",
+          "artist": "Jkyl & Hyde",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-kettama",
+          "artist": "KETTAMA",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-levity",
+          "artist": "Levity",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-lyny",
+          "artist": "LYNY",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-mellizos",
+          "artist": "Mellizos",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-patrick-topping",
+          "artist": "Patrick Topping",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-roddy-lima",
+          "artist": "Roddy Lima",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-starjunk95",
+          "artist": "Starjunk95",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-steve-aoki",
+          "artist": "Steve Aoki",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-zomboy",
+          "artist": "Zomboy",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-felix-mun",
+          "artist": "Felix Mün",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "decadence-arizona-2026-randy-perez",
+          "artist": "Randy Perez",
+          "day": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "lights-all-night-2026",
@@ -2598,7 +3616,204 @@
       "endDate": "2026-12-31",
       "days": [],
       "venue": "Fair Park",
-      "websiteUrl": "https://lightsallnight.com"
+      "websiteUrl": "https://lightsallnight.com",
+      "lineup": [
+        {
+          "id": "lights-all-night-2026-armnhmr",
+          "artist": "ARMNHMR",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-artifakts",
+          "artist": "Artifakts",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-avello",
+          "artist": "Avello",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-beauz",
+          "artist": "Beauz",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-devault",
+          "artist": "Devault",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-dj-mandy",
+          "artist": "DJ Mandy",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-fly",
+          "artist": "Fly",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-gg-magree",
+          "artist": "GG Magree",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-gryffin",
+          "artist": "Gryffin",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-hershe",
+          "artist": "HerShe",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-i-hate-models",
+          "artist": "I Hate Models",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-ian-asher",
+          "artist": "Ian Asher",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-jon-casey",
+          "artist": "Jon Casey",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-josh-baker",
+          "artist": "Josh Baker",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-kettama",
+          "artist": "KETTAMA",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-lyny",
+          "artist": "LYNY",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-mindset",
+          "artist": "Mindset",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-sidequest",
+          "artist": "Sidequest",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-tiesto",
+          "artist": "Tiësto",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-william-black",
+          "artist": "William Black",
+          "day": "2026-12-30"
+        },
+        {
+          "id": "lights-all-night-2026-atliens",
+          "artist": "ATLiens",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-azyr",
+          "artist": "Azyr",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-byorn",
+          "artist": "Byorn",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-chris-lake",
+          "artist": "Chris Lake",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-conrad-taylor",
+          "artist": "Conrad Taylor",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-hhunter",
+          "artist": "hhunter",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-hydraulix",
+          "artist": "Hydraulix",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-jigitz",
+          "artist": "Jigitz",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-level-up",
+          "artist": "Level Up",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-mad-dubz-b2b-vktm",
+          "artist": "Mad Dubz B2B VKTM",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-madgrrl",
+          "artist": "MADGRRL",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-marie-vaunt",
+          "artist": "Marie Vaunt",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-ninajirachi",
+          "artist": "Ninajirachi",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-skull-machine-black-tiger-sex-machine-x-kai-wachi",
+          "artist": "Skull Machine (Black Tiger Sex Machine x Kai Wachi)",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-telykast",
+          "artist": "Telykast",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-wtchcrft",
+          "artist": "WTCHCRFT",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-ydg",
+          "artist": "YDG",
+          "day": "2026-12-31"
+        },
+        {
+          "id": "lights-all-night-2026-yousuke-yuk1matsu",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U",
+          "day": "2026-12-31"
+        }
+      ]
     },
     {
       "id": "proper-nye-2026",
@@ -2856,8 +4071,26 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/1tbsp/1548254435",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/1TBSP-PROFILE-SDE9-600x600.png"
     },
+    "33 Below": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/33-below/1438078855"
+    },
+    "A Hundred Drums B2B Zen Selekta": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/a-hundred-drums/1373017496"
+    },
+    "A.N.I.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/a-n-i/1758787420"
+    },
     "AARON ROWE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/aaron-rowe/1809204657"
+    },
+    "ACRAZE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/acraze/1262931166"
+    },
+    "AHEE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ahee/688432748"
+    },
+    "ALLEYCVT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alleycvt/1560524882"
     },
     "ALMOST HEAVEN": {
       "appleMusicUrl": "https://music.apple.com/us/artist/almost-heaven/1625944016"
@@ -2871,34 +4104,93 @@
     "ARCY DRIVE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/arcy-drive/1623935681"
     },
+    "ARMNHMR": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armnhmr/885439866",
+      "spotifyUrl": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+    },
+    "ARTBAT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/artbat/1026939906"
+    },
     "ASLEEP AT THE WHEEL": {
       "appleMusicUrl": "https://music.apple.com/us/artist/asleep-at-the-wheel/814340"
+    },
+    "ATLiens": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/atliens/960823169"
     },
     "AUDREY HOBERT": {
       "appleMusicUrl": "https://music.apple.com/us/artist/audrey-hobert/1812750994"
     },
+    "AYCH": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aych/1460250358"
+    },
+    "Aaron Hibell (Live)": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aaron-hibell/1126849981"
+    },
     "Above & Beyond": {
       "appleMusicUrl": "https://music.apple.com/us/artist/above-beyond/20318188",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/AboveBeyond-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/AboveBeyond-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+    },
+    "Above & Beyond (Anjunabeats Classics)": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/above-beyond/20318188"
+    },
+    "Ace Ventura": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ace-ventura/73027816",
+      "spotifyUrl": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4"
     },
     "Adam Sellouk": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adam-sellouk/1546131877",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/AdamSellouk-PROFILE-SDE9-600x600.png"
     },
     "Alaska": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626"
+      "appleMusicUrl": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626",
+      "spotifyUrl": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy"
     },
     "Alec Michael": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alec-michael/1479090657"
     },
+    "Alesso": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alesso/432464201",
+      "spotifyUrl": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+    },
     "Andrew Parsons": {
       "appleMusicUrl": "https://music.apple.com/us/artist/andrew-parsons/164647411"
+    },
+    "Andy Moor": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andy-moor/80627354",
+      "spotifyUrl": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn"
+    },
+    "Animato": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/animato/266791407",
+      "spotifyUrl": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL"
+    },
+    "Archie Hamilton": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/archie-hamilton/357718075"
     },
     "Aria": {
       "appleMusicUrl": "https://music.apple.com/us/artist/aria/1588267301"
     },
+    "Arlo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arlo/1539312703"
+    },
+    "Artifakts": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/artifakts/571672367"
+    },
+    "Astrix": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/astrix/71080670",
+      "spotifyUrl": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+    },
     "Austin Ashtin": {
       "appleMusicUrl": "https://music.apple.com/us/artist/austin-ashtin/1508710164"
+    },
+    "Avello": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/avello/476861072"
+    },
+    "Azyr": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/azyr/1554917375"
+    },
+    "Azzecca": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/azzecca/1627777746"
     },
     "B Side": {
       "appleMusicUrl": "https://music.apple.com/us/artist/b-side/268200633"
@@ -2941,14 +4233,34 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/britton/250599027"
     },
     "BUNT.": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/bunt/1436090348"
+      "appleMusicUrl": "https://music.apple.com/us/artist/bunt/1436090348",
+      "spotifyUrl": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+    },
+    "Barakuda": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/barakuda/279270219"
+    },
+    "Beauz": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/beauz/1127956990"
+    },
+    "Beltran": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/beltran/90369561"
     },
     "Benwal": {
       "appleMusicUrl": "https://music.apple.com/us/artist/benwal/1704640695",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Benwal-PROFILE-SDE9-600x600.png"
     },
+    "Black Tiger Sex Machine": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/black-tiger-sex-machine/483164078",
+      "spotifyUrl": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+    },
+    "Blaise Bracic": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/blaise-bracic/1592440526"
+    },
     "Boogietraxx": {
       "appleMusicUrl": "https://music.apple.com/us/artist/boogietraxx/1509884721"
+    },
+    "Brandon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/brandon/1394825135"
     },
     "Brede": {
       "appleMusicUrl": "https://music.apple.com/us/artist/brede/300238044"
@@ -2961,6 +4273,15 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/brutalismus-3000/1530068480",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Brutalismus3000-PROFILE-SDE9-600x600.png"
     },
+    "Bunt.": {
+      "spotifyUrl": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+    },
+    "Burn In Noise": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/burn-in-noise/160170757"
+    },
+    "Byorn": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/byorn/1444520932"
+    },
     "CALDER ALLEN": {
       "appleMusicUrl": "https://music.apple.com/us/artist/calder-allen/1608248970"
     },
@@ -2969,6 +4290,9 @@
     },
     "CASSANDRA COLEMAN": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cassandra-coleman/1600330632"
+    },
+    "CECE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cece/1255237492"
     },
     "CHARLI XCX": {
       "appleMusicUrl": "https://music.apple.com/us/artist/charli-xcx/432942256"
@@ -2986,7 +4310,8 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/claire-rosinkranz/1483262366"
     },
     "CMAT": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/cmat/1506697965"
+      "appleMusicUrl": "https://music.apple.com/us/artist/cmat/1506697965",
+      "spotifyUrl": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
     },
     "COLEMAN JENNINGS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/coleman-jennings/1730130664"
@@ -3003,13 +4328,20 @@
     "Casmir": {
       "appleMusicUrl": "https://music.apple.com/us/artist/casmir/1828216560"
     },
+    "Chris Lake": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chris-lake/135067114"
+    },
     "Chris Liebing": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-liebing/4382245",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/ChrisLiebing-PROFILE-SDE9-600x600.png"
     },
     "Chris Lorenzo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-lorenzo/621431022",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/ChrisLorenzo-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/ChrisLorenzo-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+    },
+    "Chris Metcalfe": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chris-metcalfe/335314668"
     },
     "Cielo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cielo/6784723046"
@@ -3020,7 +4352,14 @@
     },
     "Conrad Taylor": {
       "appleMusicUrl": "https://music.apple.com/us/artist/conrad-taylor/1625325260",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ConradTaylor-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ConradTaylor-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw"
+    },
+    "Coone": {
+      "spotifyUrl": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+    },
+    "Crankdat": {
+      "spotifyUrl": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
     },
     "DALLAS WAX": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dallas-wax/1727008720"
@@ -3034,15 +4373,30 @@
     "DJ CASSANDRA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dj-cassandra/6779930773"
     },
+    "DJ Guestlist": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dj-guestlist/1678336783"
+    },
     "DJ Pressed": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dj-pressed/1681641973"
     },
     "DON WEST": {
       "appleMusicUrl": "https://music.apple.com/us/artist/don-west/551652575"
     },
+    "Dash Berlin": {
+      "spotifyUrl": "https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri"
+    },
     "Devault": {
       "appleMusicUrl": "https://music.apple.com/us/artist/devault/1068294292",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png"
+    },
+    "Discovery Project": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/discovery-project/1771931059"
+    },
+    "DØMINA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/d%C3%B8mina/1749417458"
+    },
+    "ECCHI.MP4": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ecchi-mp4/1826054687"
     },
     "ELIJAH DELGADO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/elijah-delgado/1504354264"
@@ -3053,14 +4407,23 @@
     "EMMA OGIER": {
       "appleMusicUrl": "https://music.apple.com/us/artist/emma-ogier/1571801234"
     },
+    "ESSE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/esse/1541391232"
+    },
     "ETHAN REGAN": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ethan-regan/1329542870"
     },
     "Emski": {
       "appleMusicUrl": "https://music.apple.com/us/artist/emski/1658955209"
     },
+    "Ero808": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ero808/1478483967"
+    },
     "Errow": {
       "appleMusicUrl": "https://music.apple.com/us/artist/errow/1565558802"
+    },
+    "Excision": {
+      "spotifyUrl": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
     },
     "FAI LACI": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fai-laci/1524039071"
@@ -3086,12 +4449,21 @@
     "FLOR BROMLEY": {
       "appleMusicUrl": "https://music.apple.com/us/artist/flor-bromley/1073257354"
     },
+    "FRANKYEFFE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/frankyeffe/278488414"
+    },
     "Fallon": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fallon/1438738486",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Fallon-PROFILE-SDE9-600x600.png"
     },
     "Ferno": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ferno/1299747659"
+    },
+    "Flosstradamus": {
+      "spotifyUrl": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+    },
+    "Fly": {
+      "spotifyUrl": "https://open.spotify.com/artist/7wSytouekypuhhv4XNHIxd"
     },
     "Frederic.": {
       "appleMusicUrl": "https://music.apple.com/us/artist/frederic/1863710822",
@@ -3102,6 +4474,9 @@
     },
     "GEESE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/geese/1378038472"
+    },
+    "GG Magree": {
+      "spotifyUrl": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
     },
     "GIRLFRIEND": {
       "appleMusicUrl": "https://music.apple.com/us/artist/girlfriend/1511096374"
@@ -3115,14 +4490,31 @@
     "GROCERY BAG": {
       "appleMusicUrl": "https://music.apple.com/us/artist/grocery-bag/1690916530"
     },
+    "GRiZ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/griz/980722716",
+      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+    },
     "Gamma": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/gamma/3636156"
+      "appleMusicUrl": "https://music.apple.com/us/artist/gamma/3636156",
+      "spotifyUrl": "https://open.spotify.com/artist/2nxLkUvHbz2O3U6prNIfm6"
     },
     "Ganimal": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ganimal/1770385201"
     },
     "Gondra": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ale-gondra-music/1479487462"
+    },
+    "Gordo": {
+      "spotifyUrl": "https://open.spotify.com/artist/7CCjtD0hCK005Bvg2WG1a7"
+    },
+    "Gorgon City": {
+      "spotifyUrl": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+    },
+    "Green Velvet": {
+      "spotifyUrl": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+    },
+    "Gryffin": {
+      "spotifyUrl": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
     },
     "Grympho b2b Phase3": {
       "appleMusicUrl": "https://music.apple.com/us/artist/phase-3/350912299"
@@ -3147,6 +4539,9 @@
     "Hank Harrison b2b point.reyes": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hank-harrison/289709777"
     },
+    "Hills": {
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/HILLS-PROFILE-SDE9-600x600.png"
+    },
     "HorsegiirL": {
       "appleMusicUrl": "https://music.apple.com/us/artist/horsegiirl/1608374327",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/horsegiirl-PROFILE-SDE9-600x600.png"
@@ -3157,6 +4552,9 @@
     "IZZY ESCOBAR": {
       "appleMusicUrl": "https://music.apple.com/us/artist/izzy-escobar/1411652186"
     },
+    "Infected Mushroom": {
+      "spotifyUrl": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+    },
     "JASON SCOTT & THE HIGH HEAT": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jason-scott-the-high-heat/1770828691"
     },
@@ -3166,6 +4564,9 @@
     "JESSE WELLES": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jesse-welles/1737507146"
     },
+    "JOA": {
+      "spotifyUrl": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+    },
     "JOE JORDAN": {
       "appleMusicUrl": "https://music.apple.com/us/artist/joe-jordan/1681115748"
     },
@@ -3174,6 +4575,9 @@
     },
     "Jack the Tripper": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jack-the-tripper/1044332740"
+    },
+    "James Hype": {
+      "spotifyUrl": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
     },
     "Jenna Shaw": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jenna-shaw/1733804098",
@@ -3205,6 +4609,9 @@
     "Kamino": {
       "appleMusicUrl": "https://music.apple.com/us/artist/kamino/484818593",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/KAMINO-PROFILE-SDE9-600x600.png"
+    },
+    "Kasbo": {
+      "spotifyUrl": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
     },
     "Kydro": {
       "appleMusicUrl": "https://music.apple.com/us/artist/kydro/1453923927"
@@ -3249,12 +4656,21 @@
     "LYKKE LI": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lykke-li/263435943"
     },
+    "Lane 8": {
+      "spotifyUrl": "https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb"
+    },
     "Layton Giordani": {
       "appleMusicUrl": "https://music.apple.com/us/artist/layton-giordani/748431694",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/LaytonGiordani-PROFILE-SDE9-600x600.png"
     },
     "Lazy K": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lazy-k/1493600104"
+    },
+    "Loud Luxury": {
+      "spotifyUrl": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+    },
+    "Lucky": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lucky/1789347407"
     },
     "Luke Alessi": {
       "appleMusicUrl": "https://music.apple.com/us/artist/luke-alessi/1072900724",
@@ -3299,20 +4715,33 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/marco-strous/923640710",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/MarcoStrous-PROFILE-SDE9-600x600.png"
     },
+    "Marco V": {
+      "spotifyUrl": "https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv"
+    },
+    "Maria Healy": {
+      "spotifyUrl": "https://open.spotify.com/artist/2BFFr1SrdrJwXm1Y1Wr4F3"
+    },
     "Marie Vaunt": {
       "appleMusicUrl": "https://music.apple.com/us/artist/marie-vaunt/1347163438",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MarieVaunt-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MarieVaunt-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+    },
+    "Mauro Picotto": {
+      "spotifyUrl": "https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp"
     },
     "Max Styler": {
       "appleMusicUrl": "https://music.apple.com/us/artist/max-styler/912353079",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MaxStyler-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MaxStyler-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
     },
     "Merkaba": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/merkaba/30837345"
+      "appleMusicUrl": "https://music.apple.com/us/artist/merkaba/30837345",
+      "spotifyUrl": "https://open.spotify.com/artist/3F3I57bH1shH7osXaQL1H0"
     },
     "Mestiza": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mestiza/1683389684",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MESTIZA-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/MESTIZA-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/1l6pQ0SDItjXzbG9zloE2n"
     },
     "Mirror Mirror": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mirror-mirror/1534943949"
@@ -3322,6 +4751,9 @@
     },
     "NEW CONSTELLATIONS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/new-constellations/1543078051"
+    },
+    "NGHTMRE": {
+      "spotifyUrl": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
     },
     "NIGHT TAPES": {
       "appleMusicUrl": "https://music.apple.com/us/artist/night-tapes/1476057311"
@@ -3335,6 +4767,9 @@
     "Natch Nadjafi": {
       "appleMusicUrl": "https://music.apple.com/us/artist/natch-nadjafi/1112385645"
     },
+    "Neelix": {
+      "spotifyUrl": "https://open.spotify.com/artist/5X3rdmEE2Mif6kFQkb2PxB"
+    },
     "Nick Moreno": {
       "appleMusicUrl": "https://music.apple.com/us/artist/nick-moreno/1449595622"
     },
@@ -3343,7 +4778,8 @@
     },
     "Notion": {
       "appleMusicUrl": "https://music.apple.com/us/artist/notion/576443911",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Notion-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Notion-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/5Zx00y8Y9G5RIN1rX52DiG"
     },
     "OLDGOLD": {
       "appleMusicUrl": "https://music.apple.com/us/artist/oldgold/895873917"
@@ -3351,6 +4787,9 @@
     "OZA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/oza/1632759360",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/OZA-PROFILE-SDE9-600x600.png"
+    },
+    "Oliver Heldens": {
+      "spotifyUrl": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
     },
     "PALACE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/palace/899652201"
@@ -3371,14 +4810,33 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/paige-tomlinson/1675990140",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/PaigeTomlinson-PROFILE-SDE9-600x600.png"
     },
+    "Panteros666": {
+      "spotifyUrl": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+    },
+    "Patrick Topping": {
+      "spotifyUrl": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+    },
+    "Pegassi": {
+      "spotifyUrl": "https://open.spotify.com/artist/2A4uiWrfuBpVFugyvxAt4c"
+    },
     "Penny Lane": {
       "appleMusicUrl": "https://music.apple.com/us/artist/penny-lane/1973629"
+    },
+    "Perfect Stranger": {
+      "spotifyUrl": "https://open.spotify.com/artist/1TK3GlOkabOFFAd55nVE7A"
+    },
+    "Polo & Pan": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/polo-pan/652304906",
+      "spotifyUrl": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
     },
     "Porter Robinson (DJ Set)": {
       "appleMusicUrl": "https://music.apple.com/us/artist/porter-robinson/282330711"
     },
     "Q BROTHERS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/q-brothers/217200177"
+    },
+    "R3HAB": {
+      "spotifyUrl": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
     },
     "RADIO FREE ALICE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/radio-free-alice/1509790283"
@@ -3421,7 +4879,8 @@
     },
     "SG Lewis": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sg-lewis/966324292",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/SGLewis-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/SGLewis-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
     },
     "SIENNA SPIRO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sienna-spiro/1745678083"
@@ -3458,7 +4917,8 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/stella-lefty/1641742186"
     },
     "STEVE AOKI": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/steve-aoki/271066694"
+      "appleMusicUrl": "https://music.apple.com/us/artist/steve-aoki/271066694",
+      "spotifyUrl": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
     },
     "STÜM": {
       "appleMusicUrl": "https://music.apple.com/us/artist/st%C3%BCm/1577895475",
@@ -3478,10 +4938,17 @@
     },
     "Sara Landry": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sara-landry/1332641349",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/SaraLandry-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/SaraLandry-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+    },
+    "Schrotthagen": {
+      "spotifyUrl": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94"
     },
     "Selina Eshraghi b2b Dune": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dune/2898764"
+    },
+    "Seven Lions": {
+      "spotifyUrl": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
     },
     "Shadowstar": {
       "appleMusicUrl": "https://music.apple.com/us/artist/shadowstar/415090878"
@@ -3489,12 +4956,37 @@
     "Shep": {
       "appleMusicUrl": "https://music.apple.com/us/artist/shep/1525738499"
     },
+    "Sighter": {
+      "spotifyUrl": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM"
+    },
     "Skye": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sk%C3%BFe/1477617747"
+    },
+    "Slander": {
+      "spotifyUrl": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+    },
+    "Solarstone": {
+      "spotifyUrl": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90"
+    },
+    "Space Laces": {
+      "spotifyUrl": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
     },
     "Starjunk 95": {
       "appleMusicUrl": "https://music.apple.com/us/artist/starjunk-95/1526352957",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Starjunk95-PROFILE-SDE9-600x600.png"
+    },
+    "Starjunk95": {
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Starjunk95-PROFILE-SDE9-600x600.png"
+    },
+    "Steve Aoki": {
+      "spotifyUrl": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs",
+      "appleMusicUrl": "https://music.apple.com/us/artist/steve-aoki/271066694"
+    },
+    "Subtronics": {
+      "spotifyUrl": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+    },
+    "Sullivan King": {
+      "spotifyUrl": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
     },
     "Sunniva": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sunniva/1790564840"
@@ -3523,6 +5015,9 @@
     "THOMAS DAY": {
       "appleMusicUrl": "https://music.apple.com/us/artist/thomas-day/1576542827"
     },
+    "TOKiMONSTA": {
+      "spotifyUrl": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+    },
     "TURNSTILE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/turnstile/4472006"
     },
@@ -3533,8 +5028,23 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/twofaced/1718017473",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/TWOFACED-PROFILE-SDE9-600x600.png"
     },
+    "Tchami": {
+      "spotifyUrl": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+    },
+    "Telykast": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/telykast/1133299760"
+    },
+    "Terra": {
+      "spotifyUrl": "https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1"
+    },
+    "Tiësto": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ti%C3%ABsto/4091218"
+    },
     "Toccororo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/toccororo/1840237881"
+    },
+    "TroyBoi": {
+      "spotifyUrl": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
     },
     "UNDERSCORES": {
       "appleMusicUrl": "https://music.apple.com/us/artist/underscores/1204838812"
@@ -3552,6 +5062,9 @@
     "VWILLZ": {
       "appleMusicUrl": "https://music.apple.com/us/artist/vwillz/1483708170"
     },
+    "Vini Vici": {
+      "spotifyUrl": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+    },
     "Volkoder": {
       "appleMusicUrl": "https://music.apple.com/us/artist/volkoder/452994007",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/VOLKODER-PROFILE-SDE9-600x600.png"
@@ -3561,6 +5074,9 @@
     },
     "WORLD FAMOUS PETS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/world-famous-pets/1896255592"
+    },
+    "Walker & Royce": {
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/11/WALKERROYCE-PROFILE-SDE9-600x600.png"
     },
     "Weird City": {
       "appleMusicUrl": "https://music.apple.com/us/artist/weird-city/1734564000"
@@ -3575,17 +5091,33 @@
     "XOY": {
       "appleMusicUrl": "https://music.apple.com/us/artist/xoy/1505825626"
     },
+    "YDG": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ydg/956701098",
+      "spotifyUrl": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi"
+    },
     "YOUNG MIKO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/young-miko/1576521417"
     },
     "YVNG Prieto": {
       "appleMusicUrl": "https://music.apple.com/us/artist/yvng-prieto/1759395396"
     },
+    "Yousuke Yukimatsu": {
+      "spotifyUrl": "https://open.spotify.com/artist/0BEmPeY22LTrZJFFP2xIyk"
+    },
     "Zak Dean": {
       "appleMusicUrl": "https://music.apple.com/us/artist/zak-dean/1604421315"
     },
     "Zara Mustafa": {
       "appleMusicUrl": "https://music.apple.com/us/artist/yara-mustafa/1743207319"
+    },
+    "Zeds Dead": {
+      "spotifyUrl": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+    },
+    "Zomboy": {
+      "spotifyUrl": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+    },
+    "¥ØU$UK€ ¥UK1MAT$U": {
+      "spotifyUrl": "https://open.spotify.com/artist/0BEmPeY22LTrZJFFP2xIyk"
     },
     "ØTTA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C3%B8tta/1605814517"
