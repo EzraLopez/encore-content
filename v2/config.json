@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 8,
-    "publishedAt": "2026-11-13T17:48:26Z"
+    "version": 9,
+    "publishedAt": "2026-11-13T23:13:21Z"
   },
   "festivals": [
     {
@@ -5124,6 +5124,16 @@
     },
     "ŁASZEWO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296"
+    }
+  },
+  "requestOutcomes": {
+    "portola": {
+      "outcome": "no-dates-yet",
+      "note": "Portola 2026 ran Sept 26–27; 2027 dates aren't out yet · we'll keep checking"
+    },
+    "pretty lights": {
+      "outcome": "not-a-festival",
+      "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21 · add it as a show"
     }
   }
 }
