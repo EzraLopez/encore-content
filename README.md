@@ -219,3 +219,23 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+## Request outcomes (Nov 13, 2026)
+
+`requestOutcomes` (optional, top level) tells the apps what the request
+research decided for a requested festival it did NOT add, so "Your
+requests" in Search can say so instead of "we're looking into it":
+
+```json
+"requestOutcomes": {
+  "portola": {"outcome": "no-dates-yet", "note": "2027 dates aren't out yet · we'll keep checking"},
+  "pretty lights": {"outcome": "not-a-festival", "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21 · add it as a show"}
+}
+```
+
+Keys are request keys (lowercase; years, anything after a dash and a
+trailing weekend marker dropped), the same matching the apps use.
+`outcome` is `no-dates-yet`, `not-a-festival` or `unclear`; `note` is an
+optional public line of 2–120 characters. Never put who asked, how many
+or from where here: this file is public. When a festival is later added,
+remove its outcome (the apps show "Added" from the festival itself).
+

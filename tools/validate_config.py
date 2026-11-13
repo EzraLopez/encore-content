@@ -361,6 +361,27 @@ def validate(path):
                 entry["appleMusicUrl"]).startswith("https://music.apple.com/"):
             err(f"{where}: appleMusicUrl must be a music.apple.com artist page")
 
+    # Optional: what the daily request research decided for requests it
+    # didn't add (Nov 13, 2026). Keyed by request key (lowercase, no
+    # years, no weekend markers, as the apps match). Public text only:
+    # never who asked, how many, or from where.
+    outcomes = config.get("requestOutcomes", {})
+    if not isinstance(outcomes, dict):
+        err("requestOutcomes: must be an object keyed by request key when present")
+        outcomes = {}
+    for key, entry in outcomes.items():
+        where = f"requestOutcomes[{key!r}]"
+        if not isinstance(key, str) or key != key.strip().lower() or not key:
+            err(f"{where}: key must be a lowercase request key")
+        if not isinstance(entry, dict) or set(entry) - {"outcome", "note"}:
+            err(f"{where}: must be an object with outcome and optional note only")
+            continue
+        if entry.get("outcome") not in ("no-dates-yet", "not-a-festival", "unclear"):
+            err(f"{where}: outcome must be no-dates-yet, not-a-festival or unclear")
+        note = entry.get("note")
+        if note is not None and (not isinstance(note, str) or not 2 <= len(note) <= 120):
+            err(f"{where}: note must be 2-120 characters when present")
+
     if errors:
         print(f"INVALID: {path} failed validation with {len(errors)} error(s):", file=sys.stderr)
         for e in errors:
