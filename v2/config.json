@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 11,
-    "publishedAt": "2026-11-13T23:45:08Z"
+    "version": 12,
+    "publishedAt": "2026-11-14T03:49:14Z"
   },
   "festivals": [
     {
@@ -2200,7 +2200,7 @@
                   "start": "19:00"
                 },
                 {
-                  "artist": "Chris Lorenzo",
+                  "artist": "Walker & Royce b2b VNSSA",
                   "end": "22:00",
                   "id": "seismic-dance-event-2026-2026-11-13-tsunami-4",
                   "start": "20:30"
@@ -2363,6 +2363,12 @@
                   "end": "00:00",
                   "id": "seismic-dance-event-2026-2026-11-13-technobus-7",
                   "start": "23:00"
+                },
+                {
+                  "artist": "Special Guest",
+                  "end": "01:00",
+                  "id": "seismic-dance-event-2026-2026-11-13-technobus-8",
+                  "start": "00:00"
                 }
               ]
             }
@@ -2475,7 +2481,7 @@
                   "start": "15:00"
                 },
                 {
-                  "artist": "Amarji King",
+                  "artist": "Homotopies",
                   "end": "17:00",
                   "id": "seismic-dance-event-2026-2026-11-14-frequency-2",
                   "start": "16:00"
@@ -2516,7 +2522,7 @@
               "name": "The Secret",
               "sets": [
                 {
-                  "artist": "Nolace",
+                  "artist": "No Lace",
                   "end": "16:00",
                   "id": "seismic-dance-event-2026-2026-11-14-the-secret-1",
                   "start": "15:00"
@@ -2633,6 +2639,12 @@
                   "end": "00:00",
                   "id": "seismic-dance-event-2026-2026-11-14-technobus-9",
                   "start": "23:00"
+                },
+                {
+                  "artist": "Special Guest",
+                  "end": "01:00",
+                  "id": "seismic-dance-event-2026-2026-11-14-technobus-10",
+                  "start": "00:00"
                 }
               ]
             }
@@ -2767,6 +2779,12 @@
                   "end": "22:00",
                   "id": "seismic-dance-event-2026-2026-11-15-frequency-6",
                   "start": "20:30"
+                },
+                {
+                  "artist": "B2B2B2B2B",
+                  "end": "23:00",
+                  "id": "seismic-dance-event-2026-2026-11-15-frequency-7",
+                  "start": "22:00"
                 }
               ]
             },
