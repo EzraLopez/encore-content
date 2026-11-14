@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 13,
-    "publishedAt": "2026-11-14T03:55:59Z"
+    "version": 14,
+    "publishedAt": "2026-11-14T23:25:08Z"
   },
   "festivals": [
     {
@@ -2476,38 +2476,32 @@
               "sets": [
                 {
                   "artist": "XOY",
-                  "end": "16:00",
+                  "end": "16:30",
                   "id": "seismic-dance-event-2026-2026-11-14-frequency-1",
                   "start": "15:00"
                 },
                 {
                   "artist": "Homotopies",
-                  "end": "17:00",
+                  "end": "18:00",
                   "id": "seismic-dance-event-2026-2026-11-14-frequency-2",
-                  "start": "16:00"
+                  "start": "16:30"
                 },
                 {
                   "artist": "OZA",
-                  "end": "18:30",
-                  "id": "seismic-dance-event-2026-2026-11-14-frequency-3",
-                  "start": "17:00"
-                },
-                {
-                  "artist": "Frederic.",
                   "end": "20:00",
-                  "id": "seismic-dance-event-2026-2026-11-14-frequency-4",
-                  "start": "18:30"
-                },
-                {
-                  "artist": "Toccororo",
-                  "end": "21:30",
-                  "id": "seismic-dance-event-2026-2026-11-14-frequency-5",
-                  "start": "20:00"
+                  "id": "seismic-dance-event-2026-2026-11-14-frequency-3",
+                  "start": "18:00"
                 },
                 {
                   "artist": "SPFDJ",
-                  "end": "23:00",
+                  "end": "21:30",
                   "id": "seismic-dance-event-2026-2026-11-14-frequency-6",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Toccororo",
+                  "end": "23:00",
+                  "id": "seismic-dance-event-2026-2026-11-14-frequency-5",
                   "start": "21:30"
                 },
                 {
