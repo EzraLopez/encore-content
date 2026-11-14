@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 12,
-    "publishedAt": "2026-11-14T03:49:14Z"
+    "version": 13,
+    "publishedAt": "2026-11-14T03:55:59Z"
   },
   "festivals": [
     {
@@ -2165,15 +2165,15 @@
                   "start": "20:30"
                 },
                 {
-                  "artist": "VTSS",
+                  "artist": "Maddix",
                   "end": "23:30",
-                  "id": "seismic-dance-event-2026-2026-11-13-volcano-5",
+                  "id": "seismic-dance-event-2026-2026-11-13-volcano-6",
                   "start": "22:00"
                 },
                 {
-                  "artist": "Maddix",
+                  "artist": "VTSS",
                   "end": "01:00",
-                  "id": "seismic-dance-event-2026-2026-11-13-volcano-6",
+                  "id": "seismic-dance-event-2026-2026-11-13-volcano-5",
                   "start": "23:30"
                 }
               ]
