@@ -1,6 +1,6 @@
 {
   "meta": {
-    "version": 10,
+    "version": 11,
     "publishedAt": "2026-11-13T23:45:08Z"
   },
   "festivals": [
@@ -5827,7 +5827,7 @@
     },
     "pretty lights": {
       "outcome": "not-a-festival",
-      "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21 · add it as a show"
+      "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21"
     }
   }
 }

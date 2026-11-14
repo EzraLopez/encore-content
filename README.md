@@ -223,12 +223,14 @@ Without a token the pass prints a note and is skipped.
 
 `requestOutcomes` (optional, top level) tells the apps what the request
 research decided for a requested festival it did NOT add, so "Your
-requests" in Search can say so instead of "we're looking into it":
+requests" (in You, and in Search when the request is searched again)
+can say so instead of "we're looking into it". Notes describe what the
+research found; they never suggest adding the request as a show:
 
 ```json
 "requestOutcomes": {
   "portola": {"outcome": "no-dates-yet", "note": "2027 dates aren't out yet · we'll keep checking"},
-  "pretty lights": {"outcome": "not-a-festival", "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21 · add it as a show"}
+  "pretty lights": {"outcome": "not-a-festival", "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21"}
 }
 ```
 
