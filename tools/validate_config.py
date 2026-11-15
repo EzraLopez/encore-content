@@ -267,6 +267,13 @@ def validate_cancellations(fest, where):
                 err(f"{where}: notice.body must be a string")
             if not isinstance(notice.get("notify", True), bool):
                 err(f"{where}: notice.notify must be true or false")
+            for field in ("linkLabel", "notifyTitle", "notifyBody"):
+                if field in notice and not isinstance(notice[field], str):
+                    err(f"{where}: notice.{field} must be a string")
+            if "linkUrl" in notice and not (
+                isinstance(notice["linkUrl"], str) and notice["linkUrl"].startswith("https://")
+            ):
+                err(f"{where}: notice.linkUrl must be an https:// link")
     if (cancelled is True or days) and not isinstance(notice, dict):
         err(f"{where}: a cancellation needs a 'notice' that says why")
 

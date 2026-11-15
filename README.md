@@ -252,7 +252,11 @@ older builds ignore them):
   "id": "seismic-2026-sunday-cancelled",
   "title": "Sunday is cancelled",
   "body": "The grounds are unsafe after heavy rain. Do not travel to the site.",
-  "notify": true
+  "notify": true,
+  "linkUrl": "https://www.instagram.com/seismicdanceevent/",
+  "linkLabel": "Seismic's announcement",
+  "notifyTitle": "🚨 Seismic: Sunday is cancelled 🚨",
+  "notifyBody": "Don't travel to the site. Open for what happens next."
 }
 ```
 
@@ -266,6 +270,12 @@ older builds ignore them):
   (true unless set false), everyone following the festival gets it once
   as a notification, in these words, the next time their phone
   refreshes the catalog. There is no push, so that can take hours.
+- `linkUrl` (https only) puts a link under the message, worded by
+  `linkLabel` ("More details" when left out). Point it at the
+  festival's own announcement. Apps from iOS 122 / Android 92.
+- `notifyTitle` and `notifyBody` are the notification's own words, for
+  when it should say what happened and give a reason to open it. Left
+  out, the notification is "<festival>: <title>" over `body`.
 - Give a new message a new `id`: a phone notifies once per id. Remove
   the notice when it no longer matters.
 - A cancellation needs a notice saying why; the validator checks that,
