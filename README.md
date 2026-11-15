@@ -241,3 +241,11 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Telling the apps a newer build is out
+
+`meta.iosBuild` / `meta.androidBuild` (with `iosUpdateUrl` /
+`androidUpdateUrl`) are the newest builds testers can install. An app on
+an older build shows "A newer Encore is ready" on Home. Set them with
+`tools/set_app_build.py ios 95` or `tools/set_app_build.py android 70`
+once a build has reached the testers (the Friends TestFlight group, Play
+internal testing), then commit and push.
