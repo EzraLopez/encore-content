@@ -236,6 +236,39 @@ def validate_festival(fest, index, seen_ids, seen_set_ids):
                             "unique; favorites are keyed off them")
                     seen_set_ids.add(s["id"])
     validate_lineup(fest, where, start_d, end_d, seen_set_ids)
+    validate_cancellations(fest, where)
+
+
+def validate_cancellations(fest, where):
+    """`cancelled`, `cancelledDays` and `notice` are optional (README,
+    "Cancellations and notices"). A cancelled day must be one of the
+    festival's days and keeps its sets; a cancellation needs a notice
+    that says why."""
+    cancelled = fest.get("cancelled", False)
+    if not isinstance(cancelled, bool):
+        err(f"{where}: 'cancelled' must be true or false")
+    days = fest.get("cancelledDays", [])
+    if not isinstance(days, list) or not all(isinstance(d, str) for d in days):
+        err(f"{where}: 'cancelledDays' must be a list of dates (YYYY-MM-DD)")
+        days = []
+    known = {d.get("date") for d in fest.get("days", []) if isinstance(d, dict)}
+    for d in days:
+        if d not in known:
+            err(f"{where}: cancelledDays has {d!r}, which is not one of its days")
+    notice = fest.get("notice")
+    if notice is not None:
+        if not isinstance(notice, dict):
+            err(f"{where}: 'notice' must be an object {{id, title, body?, notify?}}")
+        else:
+            for field in ("id", "title"):
+                if not isinstance(notice.get(field), str) or not notice[field].strip():
+                    err(f"{where}: notice.{field} must be a non-empty string")
+            if not isinstance(notice.get("body", ""), str):
+                err(f"{where}: notice.body must be a string")
+            if not isinstance(notice.get("notify", True), bool):
+                err(f"{where}: notice.notify must be true or false")
+    if (cancelled is True or days) and not isinstance(notice, dict):
+        err(f"{where}: a cancellation needs a 'notice' that says why")
 
 
 def validate_lineup(fest, where, start_d, end_d, seen_set_ids):

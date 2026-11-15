@@ -241,6 +241,38 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Cancellations and notices (Nov 15, 2026)
+
+Three optional fields on a festival (apps from iOS 121 / Android 91;
+older builds ignore them):
+
+```json
+"cancelledDays": ["2026-11-15"],
+"notice": {
+  "id": "seismic-2026-sunday-cancelled",
+  "title": "Sunday is cancelled",
+  "body": "The grounds are unsafe after heavy rain. Do not travel to the site.",
+  "notify": true
+}
+```
+
+- `cancelledDays`: dates of days that are called off. `cancelled: true`
+  calls off the whole festival. **Leave the day and its sets in `days`.**
+  The apps show the day marked cancelled and keep people's hearts, and
+  send no reminders for it. Deleting the sets makes every build drop
+  those hearts.
+- `notice`: any message, not only a cancellation (doors moved, a stage
+  closed). It shows on Home and at the top of About. With `notify`
+  (true unless set false), everyone following the festival gets it once
+  as a notification, in these words, the next time their phone
+  refreshes the catalog. There is no push, so that can take hours.
+- Give a new message a new `id`: a phone notifies once per id. Remove
+  the notice when it no longer matters.
+- A cancellation needs a notice saying why; the validator checks that,
+  and that each cancelled day is one of the festival's days.
+- Use the festival's own announcement as the source and put its link in
+  the commit message.
+
 ## Telling the apps a newer build is out
 
 `meta.iosBuild` / `meta.androidBuild` (with `iosUpdateUrl` /
