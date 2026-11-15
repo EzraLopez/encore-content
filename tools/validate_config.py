@@ -237,6 +237,11 @@ def validate_festival(fest, index, seen_ids, seen_set_ids):
                     seen_set_ids.add(s["id"])
     validate_lineup(fest, where, start_d, end_d, seen_set_ids)
     validate_cancellations(fest, where)
+    reddit = fest.get("redditUrl")
+    if reddit is not None and not (
+        isinstance(reddit, str) and re.fullmatch(r"https://www\.reddit\.com/r/[A-Za-z0-9_]{2,21}/", reddit)
+    ):
+        err(f"{where}: redditUrl must look like https://www.reddit.com/r/<name>/")
 
 
 def validate_cancellations(fest, where):

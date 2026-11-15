@@ -241,6 +241,14 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Subreddit link (Nov 15, 2026)
+
+`redditUrl` on a festival (optional, `https://www.reddit.com/r/<name>/`)
+adds a Reddit link beside Website and Instagram in the apps (iOS 129 /
+Android 97 and later). Use the festival's own community subreddit, and
+only one you have opened and seen is about that festival: Reddit blocks
+automated checks, so the validator can only check the link's shape.
+
 ## Cancellations and notices (Nov 15, 2026)
 
 Three optional fields on a festival (apps from iOS 121 / Android 91;

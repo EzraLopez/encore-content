@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 50,
-    "publishedAt": "2026-11-15T23:50:20Z",
+    "version": 51,
+    "publishedAt": "2026-11-15T23:56:48Z",
     "iosBuild": 128,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 96,
@@ -1726,7 +1726,8 @@
       "startDate": "2027-04-30",
       "tagline": "The world's most magical festival returns to Brasil",
       "venue": "Parque Maeda",
-      "websiteUrl": "https://brasil.tomorrowland.com"
+      "websiteUrl": "https://brasil.tomorrowland.com",
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
       "days": [],
@@ -2352,7 +2353,8 @@
           "artist": "Yves V",
           "stage": "Planaxis"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
       "days": [],
@@ -2366,7 +2368,8 @@
       "startDate": "2027-05-14",
       "tagline": "Dusk Till Dawn 2027, weekend one: EDC Dusk, three nights under the electric sky",
       "venue": "Las Vegas Motor Speedway",
-      "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
+      "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/"
     },
     {
       "days": [],
@@ -2380,7 +2383,8 @@
       "startDate": "2027-05-21",
       "tagline": "Dusk Till Dawn 2027, weekend two: EDC Dawn, three nights under the electric sky",
       "venue": "Las Vegas Motor Speedway",
-      "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
+      "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/"
     },
     {
       "days": [
@@ -4120,7 +4124,8 @@
       "endDate": "2027-03-28",
       "days": [],
       "venue": "Bayfront Park",
-      "websiteUrl": "https://ultramusicfestival.com"
+      "websiteUrl": "https://ultramusicfestival.com",
+      "redditUrl": "https://www.reddit.com/r/UMF/"
     },
     {
       "id": "beyond-wonderland-socal-2027",
@@ -4924,7 +4929,8 @@
           "artist": "Zimmer90",
           "day": "2027-04-10"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "coachella-2027-weekend-2",
@@ -5717,7 +5723,8 @@
           "artist": "Zimmer90",
           "day": "2027-04-17"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "stagecoach-2027",
@@ -5804,7 +5811,8 @@
       "endDate": "2027-06-27",
       "days": [],
       "venue": "Worthy Farm",
-      "websiteUrl": "https://www.glastonburyfestivals.co.uk"
+      "websiteUrl": "https://www.glastonburyfestivals.co.uk",
+      "redditUrl": "https://www.reddit.com/r/glastonbury_festival/"
     },
     {
       "id": "defqon1-2027",
@@ -5846,7 +5854,8 @@
       "endDate": "2027-08-08",
       "days": [],
       "venue": "Golden Gate Park",
-      "websiteUrl": "https://www.sfoutsidelands.com"
+      "websiteUrl": "https://www.sfoutsidelands.com",
+      "redditUrl": "https://www.reddit.com/r/OutsideLands/"
     },
     {
       "id": "sziget-2027",
