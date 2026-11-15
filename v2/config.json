@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 43,
-    "publishedAt": "2026-11-15T20:18:56Z",
+    "version": 44,
+    "publishedAt": "2026-11-15T20:19:39Z",
     "iosBuild": 122,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 92,
@@ -3165,7 +3165,20 @@
       ],
       "name": "Seismic Dance Event 2026",
       "startDate": "2026-11-13",
-      "tagline": "Sunday, Nov 15 is cancelled: the grounds are unsafe after heavy rain. Do not travel to the site. Seismic will email pass holders about refunds this week.",
+      "tagline": "A curated dance experience for house, techno, and underground music enthusiasts",
+      "cancelledDays": [
+        "2026-11-15"
+      ],
+      "notice": {
+        "id": "seismic-2026-sunday-cancelled",
+        "title": "Sunday is cancelled",
+        "body": "The grounds are unsafe after heavy rain. Do not travel to the site. Seismic will email pass holders about refunds this week.",
+        "notify": true,
+        "linkUrl": "https://www.instagram.com/seismicdanceevent/",
+        "linkLabel": "Seismic's announcement",
+        "notifyTitle": "🚨 Seismic: Sunday is cancelled 🚨",
+        "notifyBody": "Don't travel to the site. Open for what happens next."
+      },
       "timezone": "America/Chicago",
       "venue": "The Concourse Project",
       "websiteUrl": "https://www.seismicdanceevent.com"
