@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 29,
-    "publishedAt": "2026-11-15T15:22:13Z",
+    "version": 30,
+    "publishedAt": "2026-11-15T15:22:36Z",
     "iosBuild": 107,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 78,
@@ -2106,7 +2106,253 @@
       "startDate": "2027-03-20",
       "tagline": "Where the mountains meet magic",
       "venue": "Alpe d'Huez",
-      "websiteUrl": "https://winter.tomorrowland.com"
+      "websiteUrl": "https://winter.tomorrowland.com",
+      "lineup": [
+        {
+          "id": "tomorrowland-winter-2027-a-trak",
+          "artist": "A-Trak",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-afrojack",
+          "artist": "Afrojack"
+        },
+        {
+          "id": "tomorrowland-winter-2027-alok",
+          "artist": "Alok"
+        },
+        {
+          "id": "tomorrowland-winter-2027-alt8-b2b-emilija",
+          "artist": "Alt8 b2b Emilija",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-argy",
+          "artist": "Argy",
+          "stage": "Orbyz"
+        },
+        {
+          "id": "tomorrowland-winter-2027-baron-b2b-meloko",
+          "artist": "Baron b2b Meloko",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-benwal",
+          "artist": "Benwal",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-benwal-b2b-olive-anguz",
+          "artist": "Benwal b2b Olive Anguz",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-bhaskar-b2b-brina-knauss",
+          "artist": "Bhaskar b2b Brina Knauss",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-blasterjaxx",
+          "artist": "Blasterjaxx",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-charlotte-de-witte",
+          "artist": "Charlotte de Witte"
+        },
+        {
+          "id": "tomorrowland-winter-2027-chuckie",
+          "artist": "Chuckie",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-dannic-b2b-dyro",
+          "artist": "Dannic b2b Dyro",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-dimitri-vegas-and-like-mike",
+          "artist": "Dimitri Vegas & Like Mike",
+          "stage": "MainStage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-dubvision",
+          "artist": "Dubvision",
+          "stage": "Orbyz"
+        },
+        {
+          "id": "tomorrowland-winter-2027-elfigo",
+          "artist": "ELFIGO"
+        },
+        {
+          "id": "tomorrowland-winter-2027-gravagerz",
+          "artist": "Gravagerz",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-gregor-salto",
+          "artist": "Gregor Salto",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-halo",
+          "artist": "HALŌ",
+          "stage": "MainStage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-hannah-laing",
+          "artist": "Hannah Laing"
+        },
+        {
+          "id": "tomorrowland-winter-2027-ian-asher",
+          "artist": "Ian Asher"
+        },
+        {
+          "id": "tomorrowland-winter-2027-john-newman",
+          "artist": "John Newman"
+        },
+        {
+          "id": "tomorrowland-winter-2027-joris-voorn",
+          "artist": "Joris Voorn",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-joris-voorn-b2b-kolsch",
+          "artist": "Joris Voorn b2b Kölsch",
+          "stage": "Life"
+        },
+        {
+          "id": "tomorrowland-winter-2027-kevin-de-vries",
+          "artist": "Kevin de Vries"
+        },
+        {
+          "id": "tomorrowland-winter-2027-kolsch",
+          "artist": "Kölsch",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-korolova",
+          "artist": "Korolova"
+        },
+        {
+          "id": "tomorrowland-winter-2027-koven",
+          "artist": "Koven",
+          "stage": "Life"
+        },
+        {
+          "id": "tomorrowland-winter-2027-kungs",
+          "artist": "Kungs",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-like-mike",
+          "artist": "Like Mike",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-linska",
+          "artist": "Linska"
+        },
+        {
+          "id": "tomorrowland-winter-2027-lost-frequencies",
+          "artist": "Lost Frequencies"
+        },
+        {
+          "id": "tomorrowland-winter-2027-maceo-plex",
+          "artist": "Maceo Plex",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-marsolo",
+          "artist": "Marsolo",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-miss-monique",
+          "artist": "Miss Monique"
+        },
+        {
+          "id": "tomorrowland-winter-2027-morten",
+          "artist": "MORTEN",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mosimann",
+          "artist": "Mosimann",
+          "stage": "Frozen Lotus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-natte-visstick",
+          "artist": "Natte Visstick",
+          "stage": "Life"
+        },
+        {
+          "id": "tomorrowland-winter-2027-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "tomorrowland-winter-2027-novah",
+          "artist": "Novah",
+          "stage": "MainStage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-oliver-heldens",
+          "artist": "Oliver Heldens",
+          "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-oliver-heldens-b2b-tchami",
+          "artist": "Oliver Heldens b2b Tchami",
+          "stage": "Orbyz"
+        },
+        {
+          "id": "tomorrowland-winter-2027-quintino",
+          "artist": "Quintino",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-sara-landry",
+          "artist": "Sara Landry",
+          "stage": "MainStage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-slander",
+          "artist": "Slander"
+        },
+        {
+          "id": "tomorrowland-winter-2027-space-92",
+          "artist": "Space 92",
+          "stage": "Cage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-steve-aoki",
+          "artist": "Steve Aoki"
+        },
+        {
+          "id": "tomorrowland-winter-2027-sub-zero-project",
+          "artist": "Sub Zero Project"
+        },
+        {
+          "id": "tomorrowland-winter-2027-the-saints",
+          "artist": "The Saints",
+          "stage": "Life"
+        },
+        {
+          "id": "tomorrowland-winter-2027-third-party",
+          "artist": "Third Party",
+          "stage": "Orbyz"
+        },
+        {
+          "id": "tomorrowland-winter-2027-timmy-trumpet",
+          "artist": "Timmy Trumpet",
+          "stage": "MainStage"
+        },
+        {
+          "id": "tomorrowland-winter-2027-yves-v",
+          "artist": "Yves V",
+          "stage": "Planaxis"
+        }
+      ]
     },
     {
       "days": [],
@@ -3883,7 +4129,789 @@
       "endDate": "2027-04-11",
       "days": [],
       "venue": "Empire Polo Club",
-      "websiteUrl": "https://www.coachella.com"
+      "websiteUrl": "https://www.coachella.com",
+      "lineup": [
+        {
+          "id": "coachella-2027-weekend-1-adam-ten",
+          "artist": "Adam Ten",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-adela",
+          "artist": "ADÉLA",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-after",
+          "artist": "After",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-akriila",
+          "artist": "AKRIILA",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-amelie-lens-x-sara-landry",
+          "artist": "Amelie Lens x Sara Landry",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-american-football",
+          "artist": "American Football",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-angine-de-poitrine",
+          "artist": "Angine De Poitrine",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-apollonia",
+          "artist": "Apollonia",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-atarashii-gakko",
+          "artist": "ATARASHII GAKKO!",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-ayra-starr",
+          "artist": "Ayra Starr",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-babymonster",
+          "artist": "BABYMONSTER",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-bad-gyal",
+          "artist": "Bad Gyal",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-barry-can-t-swim",
+          "artist": "Barry Can't Swim",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-basement",
+          "artist": "Basement",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-bassvictim",
+          "artist": "Bassvictim",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-bea-miller",
+          "artist": "Bea Miller",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-becky-g",
+          "artist": "Becky G",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-bella-kay",
+          "artist": "Bella Kay",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-beltran",
+          "artist": "Beltran",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-bolo",
+          "artist": "BOLO",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-boris-brejcha",
+          "artist": "Boris Brejcha",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-boy-harsher",
+          "artist": "Boy Harsher",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-brutalismus-3000",
+          "artist": "Brutalismus 3000",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-caroline-polachek",
+          "artist": "Caroline Polachek",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-chanel-beads",
+          "artist": "Chanel Beads",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-charlotte-de-witte",
+          "artist": "Charlotte de Witte",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-chase-and-status",
+          "artist": "Chase & Status",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-chasewest",
+          "artist": "ChaseWest",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-chris-stassy-presents-linger-av",
+          "artist": "CHRIS STASSY presents LINGER AV",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-cloonee",
+          "artist": "Cloonee",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-close-friends-only",
+          "artist": "Close Friends Only",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-daddy-yankee",
+          "artist": "Daddy Yankee",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-diljit-dosanjh",
+          "artist": "Diljit Dosanjh",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-dinner-party",
+          "artist": "Dinner Party",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-disco-dom",
+          "artist": "Disco Dom",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-dj-habibeats",
+          "artist": "DJ Habibeats",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-dom-dolla",
+          "artist": "DOM DOLLA",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-don-toliver",
+          "artist": "Don Toliver",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-drain-gang",
+          "artist": "Drain Gang",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-dream-boat",
+          "artist": "Dream Boat",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-dua-lipa",
+          "artist": "Dua Lipa",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-ear",
+          "artist": "ear",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-eli",
+          "artist": "Eli",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-empire-of-the-sun",
+          "artist": "Empire of the Sun",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-enigma",
+          "artist": "Enigma",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-esdeekid",
+          "artist": "EsDeeKid",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-fat-dog",
+          "artist": "Fat Dog",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-fetty-wap",
+          "artist": "Fetty Wap",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-first-day-back",
+          "artist": "First Day Back",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-florence-road",
+          "artist": "Florence Road",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-four-tet",
+          "artist": "Four Tet",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-franky-rizardo",
+          "artist": "Franky Rizardo",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-freddie-gibbs",
+          "artist": "Freddie Gibbs",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-gang-of-youths",
+          "artist": "Gang of Youths",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-genesis-owusu",
+          "artist": "Genesis Owusu",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-getdown-services",
+          "artist": "Getdown Services",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-giorgio-moroder",
+          "artist": "Giorgio Moroder",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-good-neighbours",
+          "artist": "Good Neighbours",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-haute-and-freddy",
+          "artist": "Haute & Freddy",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jacob-lusk",
+          "artist": "Jacob Lusk",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jakob-nowell-and-the-castle",
+          "artist": "Jakob Nowell and THE CASTLE",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jamback-x-marsolo",
+          "artist": "Jamback x Marsolo",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jazzy",
+          "artist": "Jazzy",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jimi-jules",
+          "artist": "Jimi Jules",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jisoo",
+          "artist": "JISOO",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-jorja-smith",
+          "artist": "Jorja Smith",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-joshua-slone",
+          "artist": "Joshua Slone",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-julia-wolf",
+          "artist": "Julia Wolf",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-kehlani",
+          "artist": "Kehlani",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-kelela",
+          "artist": "Kelela",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-ki-ki",
+          "artist": "KI/KI",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-klave-efectiva",
+          "artist": "Klave Efectiva",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-kolter-x-sidney-charles",
+          "artist": "Kolter x Sidney Charles",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-kygo",
+          "artist": "Kygo",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-la-dispute",
+          "artist": "La Dispute",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-la-texana",
+          "artist": "La Texana",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-lambrini-girls",
+          "artist": "Lambrini Girls",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-las-petunias",
+          "artist": "Las Petunias",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-leenalchi",
+          "artist": "LEENALCHI",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-leon-bridges",
+          "artist": "Leon Bridges",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-leon-thomas",
+          "artist": "Leon Thomas",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-los-pibes-chorros",
+          "artist": "Los Pibes Chorros",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-love-spells",
+          "artist": "Love Spells",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-lusid",
+          "artist": "LuSiD",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-madonna",
+          "artist": "Madonna",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-magdalena-bay",
+          "artist": "Magdalena Bay",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-maneskin",
+          "artist": "Måneskin",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-mariah-the-scientist",
+          "artist": "Mariah the Scientist",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-marten-lou-x-alex-wann",
+          "artist": "Marten Lou x Alex Wann",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-martin-garrix",
+          "artist": "Martin Garrix",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-mary-in-the-junkyard",
+          "artist": "mary in the junkyard",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-mathame",
+          "artist": "Mathame",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-mike-d-5d",
+          "artist": "Mike D 5D",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-milo-j",
+          "artist": "Milo J",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-mph",
+          "artist": "MPH",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-muna",
+          "artist": "MUNA",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-murda-beatz",
+          "artist": "Murda Beatz",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-nct",
+          "artist": "NCT",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-nettspend",
+          "artist": "Nettspend",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-nirosta-steel",
+          "artist": "Nirosta Steel",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-no-na",
+          "artist": "no na",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-noya",
+          "artist": "NOYA",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-obskur",
+          "artist": "Obskür",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-odd-mob",
+          "artist": "Odd Mob",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-odeal",
+          "artist": "Odeal",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-omar",
+          "artist": "Omar+",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-omri",
+          "artist": "OMRI.",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-peggy-gou",
+          "artist": "Peggy Gou",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-pennywise",
+          "artist": "Pennywise",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-phoebe-bridgers",
+          "artist": "Phoebe Bridgers",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-pinegrove",
+          "artist": "Pinegrove",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-rafael",
+          "artist": "Rafael",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-ragie-ban",
+          "artist": "Ragie Ban",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-remi-wolf",
+          "artist": "Remi Wolf",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-robyn",
+          "artist": "Robyn",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-role-model",
+          "artist": "Role Model",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-rommulas",
+          "artist": "rommulas",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-sb19",
+          "artist": "SB19",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-sg-lewis",
+          "artist": "SG Lewis",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-shygirl",
+          "artist": "Shygirl",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-silva-bumpa",
+          "artist": "Silva Bumpa",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-social-distortion",
+          "artist": "Social Distortion",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-solid-grooves",
+          "artist": "Solid Grooves",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-solomun",
+          "artist": "Solomun",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-steve-lacy",
+          "artist": "Steve Lacy",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-sza",
+          "artist": "SZA",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-talon",
+          "artist": "Talón",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-tame-impala",
+          "artist": "Tame Impala",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-avalanches",
+          "artist": "The Avalanches",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-damned",
+          "artist": "The Damned",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-hellp",
+          "artist": "The Hellp",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-mainliners",
+          "artist": "The Mainliners",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-neighbourhood",
+          "artist": "The Neighbourhood",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-the-womack-sisters",
+          "artist": "The Womack Sisters",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-this-is-lorelei",
+          "artist": "This Is Lorelei",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-tiesto",
+          "artist": "Tiësto",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-tiffany-day",
+          "artist": "Tiffany Day",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-tove-lo",
+          "artist": "Tove Lo",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-tul8te",
+          "artist": "TUL8TE",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-twin-tribes",
+          "artist": "Twin Tribes",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-twisted-teens",
+          "artist": "Twisted Teens",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-underscores",
+          "artist": "underscores",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-underworld",
+          "artist": "Underworld",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-vandelux",
+          "artist": "Vandelux",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-victoria-monet",
+          "artist": "Victoria Monét",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-villanelle",
+          "artist": "Villanelle",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-vintage-culture",
+          "artist": "Vintage Culture",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-violet-grohl",
+          "artist": "Violet Grohl",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-volkoder",
+          "artist": "Volkoder",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-weezer",
+          "artist": "Weezer",
+          "day": "2027-04-10"
+        },
+        {
+          "id": "coachella-2027-weekend-1-xaviersobased",
+          "artist": "xaviersobased",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-zack-fox",
+          "artist": "Zack Fox",
+          "day": "2027-04-11"
+        },
+        {
+          "id": "coachella-2027-weekend-1-zara-larsson",
+          "artist": "Zara Larsson",
+          "day": "2027-04-09"
+        },
+        {
+          "id": "coachella-2027-weekend-1-zimmer90",
+          "artist": "Zimmer90",
+          "day": "2027-04-10"
+        }
+      ]
     },
     {
       "id": "coachella-2027-weekend-2",
@@ -3894,7 +4922,789 @@
       "endDate": "2027-04-18",
       "days": [],
       "venue": "Empire Polo Club",
-      "websiteUrl": "https://www.coachella.com"
+      "websiteUrl": "https://www.coachella.com",
+      "lineup": [
+        {
+          "id": "coachella-2027-weekend-2-adam-ten",
+          "artist": "Adam Ten",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-adela",
+          "artist": "ADÉLA",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-after",
+          "artist": "After",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-akriila",
+          "artist": "AKRIILA",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-amelie-lens-x-sara-landry",
+          "artist": "Amelie Lens x Sara Landry",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-american-football",
+          "artist": "American Football",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-angine-de-poitrine",
+          "artist": "Angine De Poitrine",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-apollonia",
+          "artist": "Apollonia",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-atarashii-gakko",
+          "artist": "ATARASHII GAKKO!",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-ayra-starr",
+          "artist": "Ayra Starr",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-babymonster",
+          "artist": "BABYMONSTER",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-bad-gyal",
+          "artist": "Bad Gyal",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-barry-can-t-swim",
+          "artist": "Barry Can't Swim",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-basement",
+          "artist": "Basement",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-bassvictim",
+          "artist": "Bassvictim",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-bea-miller",
+          "artist": "Bea Miller",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-becky-g",
+          "artist": "Becky G",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-bella-kay",
+          "artist": "Bella Kay",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-beltran",
+          "artist": "Beltran",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-bolo",
+          "artist": "BOLO",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-boris-brejcha",
+          "artist": "Boris Brejcha",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-boy-harsher",
+          "artist": "Boy Harsher",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-brutalismus-3000",
+          "artist": "Brutalismus 3000",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-caroline-polachek",
+          "artist": "Caroline Polachek",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-chanel-beads",
+          "artist": "Chanel Beads",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-charlotte-de-witte",
+          "artist": "Charlotte de Witte",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-chase-and-status",
+          "artist": "Chase & Status",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-chasewest",
+          "artist": "ChaseWest",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-chris-stassy-presents-linger-av",
+          "artist": "CHRIS STASSY presents LINGER AV",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-cloonee",
+          "artist": "Cloonee",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-close-friends-only",
+          "artist": "Close Friends Only",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-daddy-yankee",
+          "artist": "Daddy Yankee",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-diljit-dosanjh",
+          "artist": "Diljit Dosanjh",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-dinner-party",
+          "artist": "Dinner Party",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-disco-dom",
+          "artist": "Disco Dom",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-dj-habibeats",
+          "artist": "DJ Habibeats",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-dom-dolla",
+          "artist": "DOM DOLLA",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-don-toliver",
+          "artist": "Don Toliver",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-drain-gang",
+          "artist": "Drain Gang",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-dream-boat",
+          "artist": "Dream Boat",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-dua-lipa",
+          "artist": "Dua Lipa",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-ear",
+          "artist": "ear",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-eli",
+          "artist": "Eli",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-empire-of-the-sun",
+          "artist": "Empire of the Sun",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-enigma",
+          "artist": "Enigma",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-esdeekid",
+          "artist": "EsDeeKid",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-fat-dog",
+          "artist": "Fat Dog",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-fetty-wap",
+          "artist": "Fetty Wap",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-first-day-back",
+          "artist": "First Day Back",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-florence-road",
+          "artist": "Florence Road",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-four-tet",
+          "artist": "Four Tet",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-franky-rizardo",
+          "artist": "Franky Rizardo",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-freddie-gibbs",
+          "artist": "Freddie Gibbs",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-gang-of-youths",
+          "artist": "Gang of Youths",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-genesis-owusu",
+          "artist": "Genesis Owusu",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-getdown-services",
+          "artist": "Getdown Services",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-giorgio-moroder",
+          "artist": "Giorgio Moroder",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-good-neighbours",
+          "artist": "Good Neighbours",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-haute-and-freddy",
+          "artist": "Haute & Freddy",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jacob-lusk",
+          "artist": "Jacob Lusk",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jakob-nowell-and-the-castle",
+          "artist": "Jakob Nowell and THE CASTLE",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jamback-x-marsolo",
+          "artist": "Jamback x Marsolo",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jazzy",
+          "artist": "Jazzy",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jimi-jules",
+          "artist": "Jimi Jules",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jisoo",
+          "artist": "JISOO",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-jorja-smith",
+          "artist": "Jorja Smith",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-joshua-slone",
+          "artist": "Joshua Slone",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-julia-wolf",
+          "artist": "Julia Wolf",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-kehlani",
+          "artist": "Kehlani",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-kelela",
+          "artist": "Kelela",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-ki-ki",
+          "artist": "KI/KI",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-klave-efectiva",
+          "artist": "Klave Efectiva",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-kolter-x-sidney-charles",
+          "artist": "Kolter x Sidney Charles",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-kygo",
+          "artist": "Kygo",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-la-dispute",
+          "artist": "La Dispute",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-la-texana",
+          "artist": "La Texana",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-lambrini-girls",
+          "artist": "Lambrini Girls",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-las-petunias",
+          "artist": "Las Petunias",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-leenalchi",
+          "artist": "LEENALCHI",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-leon-bridges",
+          "artist": "Leon Bridges",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-leon-thomas",
+          "artist": "Leon Thomas",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-los-pibes-chorros",
+          "artist": "Los Pibes Chorros",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-love-spells",
+          "artist": "Love Spells",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-lusid",
+          "artist": "LuSiD",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-madonna",
+          "artist": "Madonna",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-magdalena-bay",
+          "artist": "Magdalena Bay",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-maneskin",
+          "artist": "Måneskin",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-mariah-the-scientist",
+          "artist": "Mariah the Scientist",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-marten-lou-x-alex-wann",
+          "artist": "Marten Lou x Alex Wann",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-martin-garrix",
+          "artist": "Martin Garrix",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-mary-in-the-junkyard",
+          "artist": "mary in the junkyard",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-mathame",
+          "artist": "Mathame",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-mike-d-5d",
+          "artist": "Mike D 5D",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-milo-j",
+          "artist": "Milo J",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-mph",
+          "artist": "MPH",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-muna",
+          "artist": "MUNA",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-murda-beatz",
+          "artist": "Murda Beatz",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-nct",
+          "artist": "NCT",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-nettspend",
+          "artist": "Nettspend",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-nirosta-steel",
+          "artist": "Nirosta Steel",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-no-na",
+          "artist": "no na",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-noya",
+          "artist": "NOYA",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-obskur",
+          "artist": "Obskür",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-odd-mob",
+          "artist": "Odd Mob",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-odeal",
+          "artist": "Odeal",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-omar",
+          "artist": "Omar+",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-omri",
+          "artist": "OMRI.",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-peggy-gou",
+          "artist": "Peggy Gou",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-pennywise",
+          "artist": "Pennywise",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-phoebe-bridgers",
+          "artist": "Phoebe Bridgers",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-pinegrove",
+          "artist": "Pinegrove",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-rafael",
+          "artist": "Rafael",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-ragie-ban",
+          "artist": "Ragie Ban",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-remi-wolf",
+          "artist": "Remi Wolf",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-robyn",
+          "artist": "Robyn",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-role-model",
+          "artist": "Role Model",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-rommulas",
+          "artist": "rommulas",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-sb19",
+          "artist": "SB19",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-sg-lewis",
+          "artist": "SG Lewis",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-shygirl",
+          "artist": "Shygirl",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-silva-bumpa",
+          "artist": "Silva Bumpa",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-social-distortion",
+          "artist": "Social Distortion",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-solid-grooves",
+          "artist": "Solid Grooves",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-solomun",
+          "artist": "Solomun",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-steve-lacy",
+          "artist": "Steve Lacy",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-sza",
+          "artist": "SZA",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-talon",
+          "artist": "Talón",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-tame-impala",
+          "artist": "Tame Impala",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-avalanches",
+          "artist": "The Avalanches",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-damned",
+          "artist": "The Damned",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-hellp",
+          "artist": "The Hellp",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-mainliners",
+          "artist": "The Mainliners",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-neighbourhood",
+          "artist": "The Neighbourhood",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-the-womack-sisters",
+          "artist": "The Womack Sisters",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-this-is-lorelei",
+          "artist": "This Is Lorelei",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-tiesto",
+          "artist": "Tiësto",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-tiffany-day",
+          "artist": "Tiffany Day",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-tove-lo",
+          "artist": "Tove Lo",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-tul8te",
+          "artist": "TUL8TE",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-twin-tribes",
+          "artist": "Twin Tribes",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-twisted-teens",
+          "artist": "Twisted Teens",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-underscores",
+          "artist": "underscores",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-underworld",
+          "artist": "Underworld",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-vandelux",
+          "artist": "Vandelux",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-victoria-monet",
+          "artist": "Victoria Monét",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-villanelle",
+          "artist": "Villanelle",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-vintage-culture",
+          "artist": "Vintage Culture",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-violet-grohl",
+          "artist": "Violet Grohl",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-volkoder",
+          "artist": "Volkoder",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-weezer",
+          "artist": "Weezer",
+          "day": "2027-04-17"
+        },
+        {
+          "id": "coachella-2027-weekend-2-xaviersobased",
+          "artist": "xaviersobased",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-zack-fox",
+          "artist": "Zack Fox",
+          "day": "2027-04-18"
+        },
+        {
+          "id": "coachella-2027-weekend-2-zara-larsson",
+          "artist": "Zara Larsson",
+          "day": "2027-04-16"
+        },
+        {
+          "id": "coachella-2027-weekend-2-zimmer90",
+          "artist": "Zimmer90",
+          "day": "2027-04-17"
+        }
+      ]
     },
     {
       "id": "stagecoach-2027",
