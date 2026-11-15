@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 46,
-    "publishedAt": "2026-11-15T20:44:59Z",
+    "version": 47,
+    "publishedAt": "2026-11-15T23:27:36Z",
     "iosBuild": 124,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 93,
@@ -5902,6 +5902,266 @@
       "days": [],
       "venue": "NOS Events Center",
       "websiteUrl": "https://www.rollingloud.com"
+    },
+    {
+      "id": "edc-las-vegas-2026",
+      "name": "EDC Las Vegas 2026",
+      "location": "Las Vegas, NV",
+      "timezone": "America/Los_Angeles",
+      "venue": "Las Vegas Motor Speedway",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17",
+      "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
+      "instagramUrl": "https://instagram.com/edc_lasvegas",
+      "accentColor": "#F8AA38",
+      "days": []
+    },
+    {
+      "id": "ultra-miami-2026",
+      "name": "Ultra Music Festival 2026",
+      "location": "Miami, FL",
+      "timezone": "America/New_York",
+      "venue": "Bayfront Park",
+      "startDate": "2026-03-27",
+      "endDate": "2026-03-29",
+      "websiteUrl": "https://ultramusicfestival.com",
+      "days": []
+    },
+    {
+      "id": "beyond-wonderland-socal-2026",
+      "name": "Beyond Wonderland SoCal 2026",
+      "location": "San Bernardino, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "NOS Events Center",
+      "startDate": "2026-03-27",
+      "endDate": "2026-03-28",
+      "websiteUrl": "https://socal.beyondwonderland.com",
+      "days": []
+    },
+    {
+      "id": "coachella-2026-weekend-1",
+      "name": "Coachella 2026 — Weekend One",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Empire Polo Club",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-12",
+      "websiteUrl": "https://www.coachella.com",
+      "days": []
+    },
+    {
+      "id": "coachella-2026-weekend-2",
+      "name": "Coachella 2026 — Weekend Two",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Empire Polo Club",
+      "startDate": "2026-04-17",
+      "endDate": "2026-04-19",
+      "websiteUrl": "https://www.coachella.com",
+      "days": []
+    },
+    {
+      "id": "stagecoach-2026",
+      "name": "Stagecoach 2026",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Empire Polo Club",
+      "startDate": "2026-04-24",
+      "endDate": "2026-04-26",
+      "websiteUrl": "https://www.stagecoachfestival.com",
+      "days": []
+    },
+    {
+      "id": "rolling-loud-florida-2026",
+      "name": "Rolling Loud Florida 2026",
+      "location": "Orlando, FL",
+      "timezone": "America/New_York",
+      "venue": "Camping World Stadium",
+      "startDate": "2026-05-08",
+      "endDate": "2026-05-10",
+      "websiteUrl": "https://www.rollingloud.com",
+      "days": []
+    },
+    {
+      "id": "bottlerock-napa-valley-2026",
+      "name": "BottleRock Napa Valley 2026",
+      "location": "Napa, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Napa Valley Expo",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-24",
+      "websiteUrl": "https://www.bottlerocknapavalley.com",
+      "days": []
+    },
+    {
+      "id": "movement-detroit-2026",
+      "name": "Movement 2026",
+      "location": "Detroit, MI",
+      "timezone": "America/Detroit",
+      "venue": "Hart Plaza",
+      "startDate": "2026-05-23",
+      "endDate": "2026-05-25",
+      "websiteUrl": "https://movementfestival.com",
+      "days": []
+    },
+    {
+      "id": "primavera-sound-barcelona-2026",
+      "name": "Primavera Sound Barcelona 2026",
+      "location": "Barcelona, Spain",
+      "timezone": "Europe/Madrid",
+      "venue": "Parc del Fòrum",
+      "startDate": "2026-06-04",
+      "endDate": "2026-06-06",
+      "websiteUrl": "https://www.primaverasound.com",
+      "days": []
+    },
+    {
+      "id": "sonar-barcelona-2026",
+      "name": "Sónar 2026",
+      "location": "Barcelona, Spain",
+      "timezone": "Europe/Madrid",
+      "venue": "Fira Gran Via",
+      "startDate": "2026-06-18",
+      "endDate": "2026-06-20",
+      "websiteUrl": "https://sonar.es",
+      "days": []
+    },
+    {
+      "id": "shambhala-2026",
+      "name": "Shambhala 2026",
+      "location": "Salmo, BC, Canada",
+      "timezone": "America/Vancouver",
+      "venue": "Salmo River Ranch",
+      "startDate": "2026-07-24",
+      "endDate": "2026-07-27",
+      "websiteUrl": "https://www.shambhalamusicfestival.com",
+      "days": []
+    },
+    {
+      "id": "untold-2026",
+      "name": "UNTOLD 2026",
+      "location": "Cluj-Napoca, Romania",
+      "timezone": "Europe/Bucharest",
+      "venue": "Cluj Arena",
+      "startDate": "2026-08-06",
+      "endDate": "2026-08-09",
+      "websiteUrl": "https://untold.com",
+      "days": []
+    },
+    {
+      "id": "sziget-2026",
+      "name": "Sziget 2026",
+      "location": "Budapest, Hungary",
+      "timezone": "Europe/Budapest",
+      "venue": "Óbuda Island",
+      "startDate": "2026-08-11",
+      "endDate": "2026-08-15",
+      "websiteUrl": "https://szigetfestival.com",
+      "days": []
+    },
+    {
+      "id": "reading-festival-2026",
+      "name": "Reading Festival 2026",
+      "location": "Reading, UK",
+      "timezone": "Europe/London",
+      "venue": "Richfield Avenue",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-30",
+      "websiteUrl": "https://www.readingfestival.com",
+      "days": []
+    },
+    {
+      "id": "leeds-festival-2026",
+      "name": "Leeds Festival 2026",
+      "location": "Leeds, UK",
+      "timezone": "Europe/London",
+      "venue": "Bramham Park",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-30",
+      "websiteUrl": "https://www.leedsfestival.com",
+      "days": []
+    },
+    {
+      "id": "creamfields-2026",
+      "name": "Creamfields 2026",
+      "location": "Daresbury, Cheshire, UK",
+      "timezone": "Europe/London",
+      "venue": "Daresbury Estate",
+      "startDate": "2026-08-27",
+      "endDate": "2026-08-30",
+      "websiteUrl": "https://www.creamfields.com",
+      "days": []
+    },
+    {
+      "id": "portola-2026",
+      "name": "Portola 2026",
+      "location": "San Francisco, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Pier 80",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-27",
+      "websiteUrl": "https://portolamusicfestival.com",
+      "days": []
+    },
+    {
+      "id": "electric-forest-2026",
+      "name": "Electric Forest 2026",
+      "location": "Rothbury, MI",
+      "timezone": "America/Detroit",
+      "venue": "Double JJ Resort",
+      "startDate": "2026-06-25",
+      "endDate": "2026-06-28",
+      "websiteUrl": "https://electricforest.com",
+      "instagramUrl": "https://instagram.com/electric_forest",
+      "days": []
+    },
+    {
+      "id": "lollapalooza-2026",
+      "name": "Lollapalooza 2026",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "venue": "Grant Park",
+      "startDate": "2026-07-30",
+      "endDate": "2026-08-02",
+      "websiteUrl": "https://www.lollapalooza.com",
+      "instagramUrl": "https://instagram.com/lollapalooza",
+      "days": []
+    },
+    {
+      "id": "bonnaroo-2026",
+      "name": "Bonnaroo 2026",
+      "location": "Manchester, TN",
+      "timezone": "America/Chicago",
+      "venue": "Great Stage Park",
+      "startDate": "2026-06-11",
+      "endDate": "2026-06-14",
+      "websiteUrl": "https://www.bonnaroo.com",
+      "instagramUrl": "https://instagram.com/bonnaroo",
+      "days": []
+    },
+    {
+      "id": "hard-summer-2026",
+      "name": "HARD Summer 2026",
+      "location": "Inglewood, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Hollywood Park",
+      "startDate": "2026-08-01",
+      "endDate": "2026-08-02",
+      "websiteUrl": "https://www.hardsummer.com",
+      "instagramUrl": "https://instagram.com/hardfest",
+      "days": []
+    },
+    {
+      "id": "edc-orlando-2026",
+      "name": "EDC Orlando 2026",
+      "location": "Orlando, FL",
+      "timezone": "America/New_York",
+      "venue": "Tinker Field",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "websiteUrl": "https://orlando.edc.com",
+      "instagramUrl": "https://instagram.com/edc_orlando",
+      "days": []
     }
   ],
   "shows": [],
@@ -8362,7 +8622,7 @@
   "requestOutcomes": {
     "portola": {
       "outcome": "no-dates-yet",
-      "note": "Portola 2026 ran Sept 26–27; 2027 dates aren't out yet · we'll keep checking"
+      "note": "Portola 2026 (Sept 26–27) is in Encore under Past, to mark Attended · 2027 dates aren't out yet"
     },
     "pretty lights": {
       "outcome": "not-a-festival",
