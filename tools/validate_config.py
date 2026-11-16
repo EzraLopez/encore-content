@@ -21,10 +21,12 @@ from pathlib import Path
 TIME_RE = re.compile(r"^([01]\d|2[0-3]):[0-5]\d$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ACCENT_RE = re.compile(r"^#[0-9A-Fa-f]{6}$")
-# Two different festivals' accents must sit at least this far apart
-# (CIE76 delta E) to tell their cards apart; the apps' own tests hold
-# the colors they ship to the same number.
-MIN_ACCENT_DISTANCE = 30.0
+# A festival wears its own brand color even when another festival's is
+# similar (Ezra, Nov 15, 2026: "True brand colours"; the old minimum of
+# 30 refused 15 real ones, since so many festivals are blue or red).
+# Only the same color twice (CIE76 delta E under this) is refused: that
+# is a copy-paste slip, not branding.
+MIN_ACCENT_DISTANCE = 3.0
 
 errors = []
 

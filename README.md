@@ -125,10 +125,13 @@ Notes:
   glow, its Home countdown card. Take it from the festival's site or logo
   (the highlight color, not a background). The apps darken or lighten it
   where text sits on it, so pick the brand color as it is, not a
-  "readable" version of it. Two festivals may share a color only when they
-  are the same event (two weekends, read off the `websiteUrl` host); any
-  other pair must be far enough apart to tell their cards apart, and the
-  validator rejects it otherwise: pick the festival's second color.
+  "readable" version of it. The brand color wins even when another festival's
+  is similar (Nov 15, 2026): two festivals may both be blue. The
+  validator refuses only the same color on two different events (a
+  copy-paste slip); two weekends of one event, read off the `websiteUrl`
+  host, share theirs. Read the color off the festival's logo, such as its
+  Instagram avatar; leave it out when the logo is black and white or a
+  photo.
   Optional. Without it the app uses the color it ships for that id, or one
   derived from the id. Changing only a color notifies nobody. Builds
   before iOS 34 / Android 26 ignore the field.
