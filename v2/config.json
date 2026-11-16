@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 56,
-    "publishedAt": "2026-11-16T04:48:47Z",
+    "version": 57,
+    "publishedAt": "2026-11-16T04:54:38Z",
     "iosBuild": 129,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 97,
@@ -8702,7 +8702,7 @@
   "requestOutcomes": {
     "portola": {
       "outcome": "no-dates-yet",
-      "note": "Portola 2026 (Sept 26–27) is in Encore under Been To · 2027 dates aren't out yet"
+      "note": "Portola 2026 (Sept 26–27) is in Encore: search for it to mark it Attended · 2027 dates aren't out yet"
     },
     "pretty lights": {
       "outcome": "not-a-festival",
