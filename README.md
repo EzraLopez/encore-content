@@ -258,6 +258,16 @@ proposed catalog changes; on Ezra's Approve it opens a pull request.
 Nothing here edits the catalog. Stories can't be read this way; Report
 a Change in the apps covers them. It only runs while the Mac is awake.
 
+## Instagram link (Nov 15, 2026)
+
+Every festival has `instagramUrl` (`https://instagram.com/<handle>`): the
+About page links it, and the hourly Instagram watch can only follow a
+festival that has one. Check a handle before adding it:
+`python3 tools/check_instagram.py <handle>…` prints the account's name,
+followers and website from Instagram itself (this Mac only: it uses the
+watch's token). Editions of one series share a handle. An audit that day
+found 44 of 58 festivals without one, Coachella included.
+
 ## Subreddit link (Nov 15, 2026)
 
 `redditUrl` on a festival (optional, `https://www.reddit.com/r/<name>/`)
