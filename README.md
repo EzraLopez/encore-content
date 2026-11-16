@@ -297,6 +297,33 @@ older builds ignore them):
 - Use the festival's own announcement as the source and put its link in
   the commit message.
 
+## Instagram feed watch (Nov 15, 2026)
+
+`tools/watch_instagram.py` reads public feed posts for festivals that
+are on, from the day before they start through their last day. It uses
+Meta's Business Discovery API (the official route; nothing is scraped)
+and prints JSON: each post's permalink, time and caption, or an
+explicit failure. It does not edit the catalog and does not publish.
+A proposed change still goes to the queue for Ezra.
+
+The Katla Meta app is **Katla Festival Watch**, id `4546099592371580`.
+Business Discovery needs a Facebook user token with `instagram_basic`,
+`instagram_manage_insights` and `pages_read_engagement`, and the
+numeric id of the `@getkatla` Instagram account that makes the query.
+Neither is in this repo:
+
+- token: `KATLA_IG_TOKEN`, or `~/.config/katla/meta-token` mode 600
+- id: `KATLA_IG_USER_ID`, or `~/.config/katla/ig-user-id`
+
+`python3 tools/watch_instagram.py --dry-run` lists who would be checked
+and does not need either. A real run exits non-zero when a due festival
+could not be read. Tests: `python3 tests/test_watch_instagram.py`.
+
+The Page is not linked to `@getkatla` yet, and there is no token, so a
+real fetch is not possible until those exist. The token then belongs
+as a network secret on the cloud environment, the same way the
+MusicKit token does.
+
 ## Telling the apps a newer build is out
 
 `meta.iosBuild` / `meta.androidBuild` (with `iosUpdateUrl` /
