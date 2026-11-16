@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 59,
-    "publishedAt": "2026-11-16T05:08:59Z",
+    "version": 60,
+    "publishedAt": "2026-11-16T05:09:13Z",
     "iosBuild": 131,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 99,
@@ -6242,6 +6242,77 @@
       "instagramUrl": "https://instagram.com/edc_orlando",
       "redditUrl": "https://www.reddit.com/r/EDCOrlando/",
       "days": []
+    },
+    {
+      "id": "sick-new-world-texas-2026",
+      "name": "Sick New World Texas 2026",
+      "tagline": "System of a Down, Deftones and Slayer's Reign in Blood at Texas Motor Speedway",
+      "location": "Fort Worth, TX",
+      "timezone": "America/Chicago",
+      "venue": "Texas Motor Speedway",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "websiteUrl": "https://www.sicknewworldfest.com",
+      "instagramUrl": "https://instagram.com/sicknewworld",
+      "requestedAs": [
+        "Sick New World: Texas 2026"
+      ],
+      "days": []
+    },
+    {
+      "id": "head-trip-2026",
+      "name": "Head Trip 2026",
+      "tagline": "Goldenvoice's one-stage, no-overlap weekend on the Coachella grounds",
+      "location": "Indio, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Empire Polo Club",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "websiteUrl": "https://headtripindio.com",
+      "instagramUrl": "https://instagram.com/headtripindio",
+      "days": []
+    },
+    {
+      "id": "abgt700-2026",
+      "name": "ABGT700 2026",
+      "tagline": "Above & Beyond's Group Therapy 700 weekend at the Gorge",
+      "location": "George, WA",
+      "timezone": "America/Los_Angeles",
+      "venue": "The Gorge Amphitheatre",
+      "startDate": "2026-09-11",
+      "endDate": "2026-09-13",
+      "websiteUrl": "https://abgt700.live",
+      "instagramUrl": "https://instagram.com/aboveandbeyond",
+      "days": []
+    },
+    {
+      "id": "experts-only-new-york-2026",
+      "name": "Experts Only New York 2026",
+      "tagline": "John Summit's Experts Only on Randall's Island",
+      "location": "New York, NY",
+      "timezone": "America/New_York",
+      "venue": "Randall's Island Park",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "websiteUrl": "https://www.expertsonlyfest.com",
+      "instagramUrl": "https://instagram.com/expertsonlyfest",
+      "requestedAs": [
+        "Experts Only: New York 2026"
+      ],
+      "days": []
+    },
+    {
+      "id": "outside-lands-2026",
+      "name": "Outside Lands 2026",
+      "location": "San Francisco, CA",
+      "timezone": "America/Los_Angeles",
+      "startDate": "2026-08-07",
+      "endDate": "2026-08-09",
+      "days": [],
+      "venue": "Golden Gate Park",
+      "websiteUrl": "https://www.sfoutsidelands.com",
+      "instagramUrl": "https://instagram.com/outsidelands",
+      "redditUrl": "https://www.reddit.com/r/OutsideLands/"
     }
   ],
   "shows": [],
@@ -8707,6 +8778,14 @@
     "pretty lights": {
       "outcome": "not-a-festival",
       "note": "Pretty Lights plays the Fox Theater, Oakland, Nov 19–21"
+    },
+    "head trip": {
+      "outcome": "no-dates-yet",
+      "note": "Head Trip 2026 (Oct 10–11) is in Encore: search for it to mark it Attended · billed as one-time only"
+    },
+    "abgt700": {
+      "outcome": "no-dates-yet",
+      "note": "ABGT700 (Sept 11–13, The Gorge) is in Encore: search for it to mark it Attended · no later dates announced"
     }
   }
 }
