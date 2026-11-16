@@ -329,11 +329,21 @@ and `pages_show_list`, each limited to that Page or that Instagram
 account. `instagram_content_publish` is not on the token.
 
 `python3 tools/watch_instagram.py --date 2026-11-15` returned 8 posts
-for `seismic-dance-event-2026` (`@seismicdanceevent`). The script reads
-the token file itself. It does not see a cloud network secret unless
-something sets `KATLA_IG_TOKEN`. `/me/accounts` is empty for this token;
-the Page and `@getkatla` answer when requested by id. The app is still
-unpublished, standard access only. A scheduled cloud run is not wired.
+for `seismic-dance-event-2026` (`@seismicdanceevent`), and the same
+check run from launchd did it again (exit 0, 8 posts, newest
+`https://www.instagram.com/p/Dfx08Qgy4zn/`). The script reads the token
+file itself. It does not see a cloud network secret unless something
+sets `KATLA_IG_TOKEN`. `/me/accounts` is empty for this token; the Page
+and `@getkatla` answer when requested by id. The app is still
+unpublished, standard access only.
+
+On this Mac the check repeats itself. The LaunchAgent
+`dev.elopez.katla-instagram-watch` (plist in `tools/`, installed at
+`~/Library/LaunchAgents/`) runs the script every 3 hours while the Mac
+is awake. It does not start at login and it is not kept alive. Outside
+a festival window the run reads the catalog and makes no Instagram
+call. Output is appended to `~/Library/Logs/katla/instagram-watch.log`.
+No server is involved. A cloud routine is not wired.
 
 ## Telling the apps a newer build is out
 
