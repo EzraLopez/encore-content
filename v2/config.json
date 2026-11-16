@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": 51,
-    "publishedAt": "2026-11-15T23:50:20Z",
-    "iosBuild": 128,
+    "version": 55,
+    "publishedAt": "2026-11-16T00:15:10Z",
+    "iosBuild": 129,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
-    "androidBuild": 96,
+    "androidBuild": 97,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
   },
   "festivals": [
@@ -19,6 +19,7 @@
       "endDate": "2026-10-04",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "redditUrl": "https://www.reddit.com/r/aclfestival/",
       "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
@@ -869,6 +870,7 @@
       "endDate": "2026-10-11",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "redditUrl": "https://www.reddit.com/r/aclfestival/",
       "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
@@ -1726,7 +1728,8 @@
       "startDate": "2027-04-30",
       "tagline": "The world's most magical festival returns to Brasil",
       "venue": "Parque Maeda",
-      "websiteUrl": "https://brasil.tomorrowland.com"
+      "websiteUrl": "https://brasil.tomorrowland.com",
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
       "days": [],
@@ -2352,7 +2355,8 @@
           "artist": "Yves V",
           "stage": "Planaxis"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
       "days": [],
@@ -2366,7 +2370,8 @@
       "startDate": "2027-05-14",
       "tagline": "Dusk Till Dawn 2027, weekend one: EDC Dusk, three nights under the electric sky",
       "venue": "Las Vegas Motor Speedway",
-      "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
+      "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/"
     },
     {
       "days": [],
@@ -2380,7 +2385,8 @@
       "startDate": "2027-05-21",
       "tagline": "Dusk Till Dawn 2027, weekend two: EDC Dawn, three nights under the electric sky",
       "venue": "Las Vegas Motor Speedway",
-      "websiteUrl": "https://lasvegas.electricdaisycarnival.com"
+      "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/"
     },
     {
       "days": [
@@ -4120,7 +4126,8 @@
       "endDate": "2027-03-28",
       "days": [],
       "venue": "Bayfront Park",
-      "websiteUrl": "https://ultramusicfestival.com"
+      "websiteUrl": "https://ultramusicfestival.com",
+      "redditUrl": "https://www.reddit.com/r/UMF/"
     },
     {
       "id": "beyond-wonderland-socal-2027",
@@ -4924,7 +4931,8 @@
           "artist": "Zimmer90",
           "day": "2027-04-10"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "coachella-2027-weekend-2",
@@ -5717,7 +5725,8 @@
           "artist": "Zimmer90",
           "day": "2027-04-17"
         }
-      ]
+      ],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "stagecoach-2027",
@@ -5750,7 +5759,8 @@
       "endDate": "2027-05-30",
       "days": [],
       "venue": "Buena Vista Lake",
-      "websiteUrl": "https://www.lightninginabottle.org"
+      "websiteUrl": "https://www.lightninginabottle.org",
+      "redditUrl": "https://www.reddit.com/r/LightningInABottle/"
     },
     {
       "id": "bottlerock-napa-valley-2027",
@@ -5772,7 +5782,8 @@
       "endDate": "2027-05-31",
       "days": [],
       "venue": "Hart Plaza",
-      "websiteUrl": "https://movementfestival.com"
+      "websiteUrl": "https://movementfestival.com",
+      "redditUrl": "https://www.reddit.com/r/MovementDEMF/"
     },
     {
       "id": "primavera-sound-barcelona-2027",
@@ -5783,7 +5794,8 @@
       "endDate": "2027-06-05",
       "days": [],
       "venue": "Parc del Fòrum",
-      "websiteUrl": "https://www.primaverasound.com"
+      "websiteUrl": "https://www.primaverasound.com",
+      "redditUrl": "https://www.reddit.com/r/primaverasound/"
     },
     {
       "id": "sonar-barcelona-2027",
@@ -5804,7 +5816,8 @@
       "endDate": "2027-06-27",
       "days": [],
       "venue": "Worthy Farm",
-      "websiteUrl": "https://www.glastonburyfestivals.co.uk"
+      "websiteUrl": "https://www.glastonburyfestivals.co.uk",
+      "redditUrl": "https://www.reddit.com/r/glastonbury_festival/"
     },
     {
       "id": "defqon1-2027",
@@ -5825,7 +5838,8 @@
       "endDate": "2027-07-26",
       "days": [],
       "venue": "Salmo River Ranch",
-      "websiteUrl": "https://www.shambhalamusicfestival.com"
+      "websiteUrl": "https://www.shambhalamusicfestival.com",
+      "redditUrl": "https://www.reddit.com/r/Shambhala/"
     },
     {
       "id": "untold-2027",
@@ -5846,7 +5860,8 @@
       "endDate": "2027-08-08",
       "days": [],
       "venue": "Golden Gate Park",
-      "websiteUrl": "https://www.sfoutsidelands.com"
+      "websiteUrl": "https://www.sfoutsidelands.com",
+      "redditUrl": "https://www.reddit.com/r/OutsideLands/"
     },
     {
       "id": "sziget-2027",
@@ -5857,7 +5872,8 @@
       "endDate": "2027-08-14",
       "days": [],
       "venue": "Óbuda Island",
-      "websiteUrl": "https://szigetfestival.com"
+      "websiteUrl": "https://szigetfestival.com",
+      "redditUrl": "https://www.reddit.com/r/sziget/"
     },
     {
       "id": "reading-festival-2027",
@@ -5868,7 +5884,8 @@
       "endDate": "2027-08-29",
       "days": [],
       "venue": "Richfield Avenue",
-      "websiteUrl": "https://www.readingfestival.com"
+      "websiteUrl": "https://www.readingfestival.com",
+      "redditUrl": "https://www.reddit.com/r/readingfestival/"
     },
     {
       "id": "leeds-festival-2027",
@@ -5890,7 +5907,8 @@
       "endDate": "2027-08-29",
       "days": [],
       "venue": "Daresbury Estate",
-      "websiteUrl": "https://www.creamfields.com"
+      "websiteUrl": "https://www.creamfields.com",
+      "redditUrl": "https://www.reddit.com/r/creamfields/"
     },
     {
       "id": "rolling-loud-california-2027",
@@ -5913,6 +5931,7 @@
       "endDate": "2026-05-17",
       "websiteUrl": "https://lasvegas.electricdaisycarnival.com",
       "instagramUrl": "https://instagram.com/edc_lasvegas",
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/",
       "accentColor": "#F8AA38",
       "days": []
     },
@@ -5925,7 +5944,8 @@
       "startDate": "2026-03-27",
       "endDate": "2026-03-29",
       "websiteUrl": "https://ultramusicfestival.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/UMF/"
     },
     {
       "id": "beyond-wonderland-socal-2026",
@@ -5947,7 +5967,8 @@
       "startDate": "2026-04-10",
       "endDate": "2026-04-12",
       "websiteUrl": "https://www.coachella.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "coachella-2026-weekend-2",
@@ -5958,7 +5979,8 @@
       "startDate": "2026-04-17",
       "endDate": "2026-04-19",
       "websiteUrl": "https://www.coachella.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/Coachella/"
     },
     {
       "id": "stagecoach-2026",
@@ -6002,7 +6024,8 @@
       "startDate": "2026-05-23",
       "endDate": "2026-05-25",
       "websiteUrl": "https://movementfestival.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/MovementDEMF/"
     },
     {
       "id": "primavera-sound-barcelona-2026",
@@ -6013,7 +6036,8 @@
       "startDate": "2026-06-04",
       "endDate": "2026-06-06",
       "websiteUrl": "https://www.primaverasound.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/primaverasound/"
     },
     {
       "id": "sonar-barcelona-2026",
@@ -6035,7 +6059,8 @@
       "startDate": "2026-07-24",
       "endDate": "2026-07-27",
       "websiteUrl": "https://www.shambhalamusicfestival.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/Shambhala/"
     },
     {
       "id": "untold-2026",
@@ -6057,7 +6082,8 @@
       "startDate": "2026-08-11",
       "endDate": "2026-08-15",
       "websiteUrl": "https://szigetfestival.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/sziget/"
     },
     {
       "id": "reading-festival-2026",
@@ -6068,7 +6094,8 @@
       "startDate": "2026-08-27",
       "endDate": "2026-08-30",
       "websiteUrl": "https://www.readingfestival.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/readingfestival/"
     },
     {
       "id": "leeds-festival-2026",
@@ -6090,7 +6117,8 @@
       "startDate": "2026-08-27",
       "endDate": "2026-08-30",
       "websiteUrl": "https://www.creamfields.com",
-      "days": []
+      "days": [],
+      "redditUrl": "https://www.reddit.com/r/creamfields/"
     },
     {
       "id": "portola-2026",
