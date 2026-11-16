@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 66,
-    "publishedAt": "2026-11-16T06:00:56Z",
+    "version": 67,
+    "publishedAt": "2026-11-16T06:28:04Z",
     "iosBuild": 135,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 103,
@@ -6266,7 +6266,401 @@
       "instagramUrl": "https://instagram.com/edc_orlando",
       "redditUrl": "https://www.reddit.com/r/EDCOrlando/",
       "days": [],
-      "accentColor": "#CF7D2B"
+      "accentColor": "#CF7D2B",
+      "lineup": [
+        {
+          "id": "edc-orlando-2026-a-little-sound",
+          "artist": "A Little Sound"
+        },
+        {
+          "id": "edc-orlando-2026-aaron-hibell",
+          "artist": "Aaron Hibell"
+        },
+        {
+          "id": "edc-orlando-2026-aat",
+          "artist": "AAT"
+        },
+        {
+          "id": "edc-orlando-2026-acraze-b2b-cid",
+          "artist": "ACRAZE B2B CID"
+        },
+        {
+          "id": "edc-orlando-2026-adrian-mills",
+          "artist": "Adrián Mills"
+        },
+        {
+          "id": "edc-orlando-2026-adventure-club",
+          "artist": "Adventure Club"
+        },
+        {
+          "id": "edc-orlando-2026-afrojack",
+          "artist": "Afrojack"
+        },
+        {
+          "id": "edc-orlando-2026-alan-walker",
+          "artist": "Alan Walker"
+        },
+        {
+          "id": "edc-orlando-2026-alesso",
+          "artist": "Alesso"
+        },
+        {
+          "id": "edc-orlando-2026-alison-wonderland",
+          "artist": "Alison Wonderland"
+        },
+        {
+          "id": "edc-orlando-2026-alleycvt",
+          "artist": "ALLEYCVT"
+        },
+        {
+          "id": "edc-orlando-2026-alok",
+          "artist": "Alok"
+        },
+        {
+          "id": "edc-orlando-2026-alves",
+          "artist": "Alves"
+        },
+        {
+          "id": "edc-orlando-2026-ar-co",
+          "artist": "AR/CO"
+        },
+        {
+          "id": "edc-orlando-2026-atliens",
+          "artist": "ATLiens"
+        },
+        {
+          "id": "edc-orlando-2026-avello",
+          "artist": "AVELLO"
+        },
+        {
+          "id": "edc-orlando-2026-ayybo",
+          "artist": "AYYBO"
+        },
+        {
+          "id": "edc-orlando-2026-azzecca",
+          "artist": "Azzecca"
+        },
+        {
+          "id": "edc-orlando-2026-benda-b2b-vastive",
+          "artist": "Benda B2B Vastive"
+        },
+        {
+          "id": "edc-orlando-2026-big-florida",
+          "artist": "Big Florida"
+        },
+        {
+          "id": "edc-orlando-2026-boogie-t",
+          "artist": "Boogie T"
+        },
+        {
+          "id": "edc-orlando-2026-bou-b2b-kanine",
+          "artist": "Bou B2B Kanine"
+        },
+        {
+          "id": "edc-orlando-2026-boys-noize-b2b-brutalismus-3000",
+          "artist": "Boys Noize B2B Brutalismus 3000"
+        },
+        {
+          "id": "edc-orlando-2026-brunello",
+          "artist": "Brunello"
+        },
+        {
+          "id": "edc-orlando-2026-bullet-tooth-b2b-sidney-charles",
+          "artist": "Bullet Tooth B2B Sidney Charles"
+        },
+        {
+          "id": "edc-orlando-2026-chef-boyarbeatz",
+          "artist": "Chef Boyarbeatz"
+        },
+        {
+          "id": "edc-orlando-2026-chris-lorenzo",
+          "artist": "Chris Lorenzo"
+        },
+        {
+          "id": "edc-orlando-2026-cntra",
+          "artist": "CØNTRA"
+        },
+        {
+          "id": "edc-orlando-2026-david-guetta",
+          "artist": "David Guetta"
+        },
+        {
+          "id": "edc-orlando-2026-dennis-cruz",
+          "artist": "Dennis Cruz"
+        },
+        {
+          "id": "edc-orlando-2026-deorro-b2b-dj-diesel",
+          "artist": "Deorro B2B DJ Diesel"
+        },
+        {
+          "id": "edc-orlando-2026-devault",
+          "artist": "Devault"
+        },
+        {
+          "id": "edc-orlando-2026-discip",
+          "artist": "Discip"
+        },
+        {
+          "id": "edc-orlando-2026-disco-lines",
+          "artist": "Disco Lines"
+        },
+        {
+          "id": "edc-orlando-2026-discovery-project",
+          "artist": "Discovery Project"
+        },
+        {
+          "id": "edc-orlando-2026-esse",
+          "artist": "ESSE"
+        },
+        {
+          "id": "edc-orlando-2026-fallon",
+          "artist": "Fallon"
+        },
+        {
+          "id": "edc-orlando-2026-franky-rizardo",
+          "artist": "Franky Rizardo"
+        },
+        {
+          "id": "edc-orlando-2026-fury-with-mc-dino",
+          "artist": "Fury with MC Dino"
+        },
+        {
+          "id": "edc-orlando-2026-gabbs",
+          "artist": "Gabbs"
+        },
+        {
+          "id": "edc-orlando-2026-greg-99",
+          "artist": "Greg 99"
+        },
+        {
+          "id": "edc-orlando-2026-hardwell",
+          "artist": "Hardwell"
+        },
+        {
+          "id": "edc-orlando-2026-hayla",
+          "artist": "HAYLA"
+        },
+        {
+          "id": "edc-orlando-2026-i-hate-models",
+          "artist": "I Hate Models"
+        },
+        {
+          "id": "edc-orlando-2026-ian-asher",
+          "artist": "Ian Asher"
+        },
+        {
+          "id": "edc-orlando-2026-idemi",
+          "artist": "IDEMI"
+        },
+        {
+          "id": "edc-orlando-2026-inbal",
+          "artist": "Inbal"
+        },
+        {
+          "id": "edc-orlando-2026-interplanetary-criminal",
+          "artist": "Interplanetary Criminal"
+        },
+        {
+          "id": "edc-orlando-2026-jessica-audiffred",
+          "artist": "Jessica Audiffred"
+        },
+        {
+          "id": "edc-orlando-2026-jkyl-hyde",
+          "artist": "Jkyl & Hyde"
+        },
+        {
+          "id": "edc-orlando-2026-joa",
+          "artist": "JOA"
+        },
+        {
+          "id": "edc-orlando-2026-joshwa",
+          "artist": "Joshwa"
+        },
+        {
+          "id": "edc-orlando-2026-kaivon",
+          "artist": "Kaivon"
+        },
+        {
+          "id": "edc-orlando-2026-kaskade",
+          "artist": "Kaskade"
+        },
+        {
+          "id": "edc-orlando-2026-ki-ki",
+          "artist": "KI/KI"
+        },
+        {
+          "id": "edc-orlando-2026-kinahau",
+          "artist": "KinAhau"
+        },
+        {
+          "id": "edc-orlando-2026-klangkuenstler",
+          "artist": "Klangkuenstler"
+        },
+        {
+          "id": "edc-orlando-2026-know-good",
+          "artist": "Know Good"
+        },
+        {
+          "id": "edc-orlando-2026-kompany",
+          "artist": "Kompany"
+        },
+        {
+          "id": "edc-orlando-2026-kream",
+          "artist": "KREAM"
+        },
+        {
+          "id": "edc-orlando-2026-layz",
+          "artist": "LAYZ"
+        },
+        {
+          "id": "edc-orlando-2026-level-up",
+          "artist": "Level Up"
+        },
+        {
+          "id": "edc-orlando-2026-levity",
+          "artist": "Levity"
+        },
+        {
+          "id": "edc-orlando-2026-madvktm",
+          "artist": "MADVKTM"
+        },
+        {
+          "id": "edc-orlando-2026-mai-iachetti",
+          "artist": "Mai Iachetti"
+        },
+        {
+          "id": "edc-orlando-2026-malugi",
+          "artist": "MALUGI"
+        },
+        {
+          "id": "edc-orlando-2026-marlon-hoffstadt",
+          "artist": "Marlon Hoffstadt"
+        },
+        {
+          "id": "edc-orlando-2026-martin-garrix",
+          "artist": "Martin Garrix"
+        },
+        {
+          "id": "edc-orlando-2026-matthias",
+          "artist": "Matthias"
+        },
+        {
+          "id": "edc-orlando-2026-mau-p",
+          "artist": "Mau P"
+        },
+        {
+          "id": "edc-orlando-2026-me-n-u",
+          "artist": "Me n ü"
+        },
+        {
+          "id": "edc-orlando-2026-meduza",
+          "artist": "Meduza"
+        },
+        {
+          "id": "edc-orlando-2026-miguelle-tons",
+          "artist": "Miguelle & Tons"
+        },
+        {
+          "id": "edc-orlando-2026-mph",
+          "artist": "MPH"
+        },
+        {
+          "id": "edc-orlando-2026-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "edc-orlando-2026-of-the-trees",
+          "artist": "Of The Trees"
+        },
+        {
+          "id": "edc-orlando-2026-omar",
+          "artist": "Omar+"
+        },
+        {
+          "id": "edc-orlando-2026-pegassi",
+          "artist": "Pegassi"
+        },
+        {
+          "id": "edc-orlando-2026-phrva",
+          "artist": "phrva"
+        },
+        {
+          "id": "edc-orlando-2026-prospa-b2b-josh-baker",
+          "artist": "Prospa B2B Josh Baker"
+        },
+        {
+          "id": "edc-orlando-2026-raje",
+          "artist": "RAJE"
+        },
+        {
+          "id": "edc-orlando-2026-ray-volpe",
+          "artist": "Ray Volpe"
+        },
+        {
+          "id": "edc-orlando-2026-roddy-lima",
+          "artist": "Roddy Lima"
+        },
+        {
+          "id": "edc-orlando-2026-rossi",
+          "artist": "Rossi."
+        },
+        {
+          "id": "edc-orlando-2026-san-holo-wholesome-riddim-set",
+          "artist": "San Holo (Wholesome Riddim Set)"
+        },
+        {
+          "id": "edc-orlando-2026-shdw",
+          "artist": "SHDW"
+        },
+        {
+          "id": "edc-orlando-2026-sippy",
+          "artist": "Sippy"
+        },
+        {
+          "id": "edc-orlando-2026-skull-machine-black-tiger-sex-machine-x-kai-wachi",
+          "artist": "Skull Machine (Black Tiger Sex Machine x Kai Wachi)"
+        },
+        {
+          "id": "edc-orlando-2026-slander",
+          "artist": "SLANDER"
+        },
+        {
+          "id": "edc-orlando-2026-sloth",
+          "artist": "Sloth"
+        },
+        {
+          "id": "edc-orlando-2026-steve-aoki",
+          "artist": "Steve Aoki"
+        },
+        {
+          "id": "edc-orlando-2026-subsonic",
+          "artist": "Subsonic"
+        },
+        {
+          "id": "edc-orlando-2026-taiki-nulight",
+          "artist": "Taiki Nulight"
+        },
+        {
+          "id": "edc-orlando-2026-troyboi",
+          "artist": "TroyBoi"
+        },
+        {
+          "id": "edc-orlando-2026-twinsick",
+          "artist": "Twinsick"
+        },
+        {
+          "id": "edc-orlando-2026-ultrathem",
+          "artist": "Ultrathem"
+        },
+        {
+          "id": "edc-orlando-2026-whethan",
+          "artist": "Whethan"
+        },
+        {
+          "id": "edc-orlando-2026-wooli",
+          "artist": "Wooli"
+        }
+      ]
     },
     {
       "id": "sick-new-world-texas-2026",
@@ -6296,7 +6690,58 @@
       "websiteUrl": "https://headtripindio.com",
       "instagramUrl": "https://instagram.com/headtripindio",
       "days": [],
-      "accentColor": "#C8492A"
+      "accentColor": "#C8492A",
+      "lineup": [
+        {
+          "id": "head-trip-2026-calvin-harris",
+          "artist": "Calvin Harris",
+          "day": "2026-10-10"
+        },
+        {
+          "id": "head-trip-2026-under-construction-fisher-chris-lake",
+          "artist": "Under Construction (FISHER + Chris Lake)",
+          "day": "2026-10-10"
+        },
+        {
+          "id": "head-trip-2026-peggy-gou-b2b-four-tet",
+          "artist": "Peggy Gou b2b Four Tet",
+          "day": "2026-10-10"
+        },
+        {
+          "id": "head-trip-2026-seth-troxler-b2b-ben-sterling",
+          "artist": "Seth Troxler b2b Ben Sterling",
+          "day": "2026-10-10"
+        },
+        {
+          "id": "head-trip-2026-swedish-house-mafia",
+          "artist": "Swedish House Mafia",
+          "day": "2026-10-11"
+        },
+        {
+          "id": "head-trip-2026-skrillex",
+          "artist": "Skrillex",
+          "day": "2026-10-11"
+        },
+        {
+          "id": "head-trip-2026-dom-dolla-b2b-kettama",
+          "artist": "Dom Dolla b2b Kettama",
+          "day": "2026-10-11"
+        },
+        {
+          "id": "head-trip-2026-the-blessed-madonna",
+          "artist": "The Blessed Madonna",
+          "day": "2026-10-11"
+        },
+        {
+          "id": "head-trip-2026-dj-harvey",
+          "artist": "DJ Harvey",
+          "day": "2026-10-11"
+        },
+        {
+          "id": "head-trip-2026-floating-points-sunflower-sound-system",
+          "artist": "Floating Points Sunflower Sound System"
+        }
+      ]
     },
     {
       "id": "abgt700-2026",
