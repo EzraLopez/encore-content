@@ -249,6 +249,12 @@ Android 97 and later). Use the festival's own community subreddit, and
 only one you have opened and seen is about that festival: Reddit blocks
 automated checks, so the validator can only check the link's shape.
 
+**Every festival added to the catalog gets this looked up**, like its
+website and Instagram: search for the festival's own subreddit, link it
+when it is public, active and about that festival (editions of one
+series share one), and leave the field out when there is none. A genre
+or city subreddit doesn't count, and a guess is worse than a blank.
+
 ## Cancellations and notices (Nov 15, 2026)
 
 Three optional fields on a festival (apps from iOS 121 / Android 91;
