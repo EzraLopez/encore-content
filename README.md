@@ -339,7 +339,7 @@ unpublished, standard access only.
 
 On this Mac the check repeats itself. The LaunchAgent
 `dev.elopez.katla-instagram-watch` (plist in `tools/`, installed at
-`~/Library/LaunchAgents/`) runs the script every 3 hours while the Mac
+`~/Library/LaunchAgents/`) runs the script every hour while the Mac
 is awake. It does not start at login and it is not kept alive. Outside
 a festival window the run reads the catalog and makes no Instagram
 call. Output is appended to `~/Library/Logs/katla/instagram-watch.log`.

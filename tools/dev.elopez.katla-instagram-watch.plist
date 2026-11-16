@@ -18,7 +18,7 @@
     <string>/Users/ezra</string>
   </dict>
   <key>StartInterval</key>
-  <integer>10800</integer>
+  <integer>3600</integer>
   <key>StandardOutPath</key>
   <string>/Users/ezra/Library/Logs/katla/instagram-watch.log</string>
   <key>StandardErrorPath</key>
