@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 74,
-    "publishedAt": "2026-11-16T07:19:22Z",
+    "version": 75,
+    "publishedAt": "2026-11-16T09:37:48Z",
     "iosBuild": 138,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 106,
@@ -7318,7 +7318,95 @@
       "websiteUrl": "https://abgt700.live",
       "instagramUrl": "https://instagram.com/aboveandbeyond",
       "days": [],
-      "accentColor": "#E8CA13"
+      "accentColor": "#E8CA13",
+      "lineup": [
+        {
+          "id": "abgt700-2026-above-beyond",
+          "artist": "Above & Beyond"
+        },
+        {
+          "id": "abgt700-2026-amy-wiles",
+          "artist": "Amy Wiles",
+          "day": "2026-09-11"
+        },
+        {
+          "id": "abgt700-2026-farius",
+          "artist": "Farius",
+          "day": "2026-09-11"
+        },
+        {
+          "id": "abgt700-2026-j-ribbon",
+          "artist": "J Ribbon"
+        },
+        {
+          "id": "abgt700-2026-grum",
+          "artist": "Grum"
+        },
+        {
+          "id": "abgt700-2026-nourey",
+          "artist": "Nourey"
+        },
+        {
+          "id": "abgt700-2026-darren-tate",
+          "artist": "Darren Tate",
+          "day": "2026-09-12"
+        },
+        {
+          "id": "abgt700-2026-ilan-bluestone",
+          "artist": "ilan Bluestone",
+          "day": "2026-09-12"
+        },
+        {
+          "id": "abgt700-2026-mat-zo",
+          "artist": "Mat Zo",
+          "day": "2026-09-12"
+        },
+        {
+          "id": "abgt700-2026-oliver-smith",
+          "artist": "Oliver Smith",
+          "day": "2026-09-12"
+        },
+        {
+          "id": "abgt700-2026-because-of-art",
+          "artist": "Because of Art",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-ben-bohmer",
+          "artist": "Ben Böhmer",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-durante-b2b-ezequiel-arias",
+          "artist": "Durante b2b Ezequiel Arias",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-hana",
+          "artist": "HANA",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-james-grant-jody-wisternoff",
+          "artist": "James Grant & Jody Wisternoff",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-leaving-laurel",
+          "artist": "Leaving Laurel",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-marsh",
+          "artist": "Marsh",
+          "day": "2026-09-13"
+        },
+        {
+          "id": "abgt700-2026-rezident",
+          "artist": "Rezident",
+          "day": "2026-09-13"
+        }
+      ]
     },
     {
       "id": "experts-only-new-york-2026",
@@ -7335,7 +7423,158 @@
         "Experts Only: New York 2026"
       ],
       "days": [],
-      "accentColor": "#7888F1"
+      "accentColor": "#7888F1",
+      "lineup": [
+        {
+          "id": "experts-only-new-york-2026-john-summit",
+          "artist": "John Summit"
+        },
+        {
+          "id": "experts-only-new-york-2026-adam-ten",
+          "artist": "Adam Ten",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-airrica",
+          "artist": "Airrica",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-gabss",
+          "artist": "Gabss",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-levity",
+          "artist": "LEVITY",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-lyny",
+          "artist": "LYNY",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-max-styler",
+          "artist": "Max Styler",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-omri",
+          "artist": "OMRI.",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-rohaan",
+          "artist": "ROHAAN",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-rsun",
+          "artist": "rsun",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-soraya",
+          "artist": "Soraya",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-stello",
+          "artist": "Stello",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-taiki-nulight",
+          "artist": "Taiki Nulight",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-yetti",
+          "artist": "Yetti",
+          "day": "2026-09-19"
+        },
+        {
+          "id": "experts-only-new-york-2026-b-an-k",
+          "artist": "B/AN/K",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-broken-hill",
+          "artist": "Broken Hill",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-dansyn",
+          "artist": "Dansyn",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-devault",
+          "artist": "Devault",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-dreya-v",
+          "artist": "Dreya V",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-griz",
+          "artist": "Griz",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-innellea",
+          "artist": "INNELLEA",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-josie",
+          "artist": "JOSIE.",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-korolova",
+          "artist": "Korolova",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-mishell",
+          "artist": "Mishell",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-no-static",
+          "artist": "NO STATIC",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-partiboi69",
+          "artist": "Partiboi69",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-philou",
+          "artist": "PHILOU",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-09-20"
+        },
+        {
+          "id": "experts-only-new-york-2026-will-clarke",
+          "artist": "WILL CLARKE",
+          "day": "2026-09-20"
+        }
+      ]
     },
     {
       "id": "outside-lands-2026",

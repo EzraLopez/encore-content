@@ -33,5 +33,36 @@
       "https://events.aegamp.com/app/726/08c3a793c3374f139/artists.json",
       "https://events.aegamp.com/app/726/08c3a793c3374f139/shows.json"
     ]
+  },
+  "experts-only-new-york-2026": {
+    "date": "2026-11-16",
+    "result": "added 30 artists with days (John Summit plays both days, so no day)",
+    "sources": [
+      "https://www.expertsonlyfest.com/lineup"
+    ]
+  },
+  "abgt700-2026": {
+    "date": "2026-11-16",
+    "result": "added 18 artists with days (Above & Beyond, J Ribbon, Grum and Nourey play more than one day, so no day; afterparty acts left out)",
+    "sources": [
+      "https://abgt700.live/lineup",
+      "https://abgt700.live/schedule"
+    ]
+  },
+  "reading-festival-2026": {
+    "date": "2026-11-16",
+    "result": "added nothing, no verified full bill: the official site now shows the 2027 edition and web.archive.org could not be reached; Time Out and Radio X list different names (e.g. Jamie T, Royal Blood only in Radio X), so two outlets do not agree name for name",
+    "sources": [
+      "https://www.timeout.com/uk/news/reading-and-leeds-festival-2026-guide-set-times-lineup-082626",
+      "https://www.radiox.co.uk/festivals/reading-and-leeds/2026-headliners-line-up-stage-times-ticket-info/"
+    ]
+  },
+  "leeds-festival-2026": {
+    "date": "2026-11-16",
+    "result": "added nothing, no verified full bill: the official site now shows the 2027 edition and web.archive.org could not be reached; Time Out and Radio X list different names (e.g. Jamie T, Royal Blood only in Radio X), so two outlets do not agree name for name",
+    "sources": [
+      "https://www.timeout.com/uk/news/reading-and-leeds-festival-2026-guide-set-times-lineup-082626",
+      "https://www.radiox.co.uk/festivals/reading-and-leeds/2026-headliners-line-up-stage-times-ticket-info/"
+    ]
   }
 }
