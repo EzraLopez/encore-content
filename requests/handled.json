@@ -1,13 +1,15 @@
 {
   "portola": {
     "outcome": "no-dates-yet",
-    "date": "2026-11-13",
-    "festivalIds": [],
-    "sources": [
-      "https://abc7news.com/post/portola-2026-lineup-dates-ticket-details-released-san-francisco-music-festival-pier-80/19189548/",
-      "https://news.pollstar.com/2026/05/29/portola-topped-by-robyn-dogblood-swedish-house-mafia-zara-larsson-tiesto-four-tet-more-sept-26-27-in-san-francisco/"
+    "date": "2026-11-16",
+    "festivalIds": [
+      "portola-2026"
     ],
-    "note": "Goldenvoice's Portola (Pier 80, San Francisco) last ran Sept 26-27, 2026. No 2027 dates announced as of this date."
+    "sources": [
+      "https://www.musicfestivalwizard.com/festivals/portola-festival-2027/",
+      "https://www.sfchronicle.com/entertainment/festivals/article/portola-festival-2026-22281021.php"
+    ],
+    "note": "Past edition Portola 2026 already in catalog; rechecked Nov 16, still no 2027 dates announced."
   },
   "pretty lights": {
     "outcome": "not-a-festival",
@@ -19,5 +21,66 @@
       "https://www.jambase.com/show/pretty-lights-fox-theater-20261120"
     ],
     "note": "Pretty Lights is an artist, not a single festival. Requester was in Oakland; the nearby events are Fox Theater Oakland concerts (Nov 19-21, 2026), which are not festivals. Yahn Dawn (Buena Vista, CO) ran Sept 18-20, 2026 and has no announced 2027 edition. A Pretty Lights NYE run is listed Dec 31, 2026 - Jan 2, 2027 in Denver; not added because intent is unclear. Could be added if more people ask."
+  },
+  "sick new world: texas": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-16",
+    "festivalIds": [
+      "sick-new-world-texas-2026"
+    ],
+    "sources": [
+      "https://www.jambase.com/festival/sick-new-world-texas-2026",
+      "https://www.frontgatetickets.com/events/sick-new-world-texas",
+      "https://www.musicfestivalwizard.com/festivals/sick-new-world-2027/"
+    ],
+    "note": "Texas edition ran Oct 24, 2026 at Texas Motor Speedway; added as past edition. No official 2027 dates for Texas or Las Vegas yet."
+  },
+  "head trip": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-16",
+    "festivalIds": [
+      "head-trip-2026"
+    ],
+    "sources": [
+      "https://ra.co/news/84747",
+      "https://edmidentity.com/2026/03/10/goldenvoice-head-trip-2026-lineup/",
+      "https://www.axs.com/events/1356046/head-trip-2026-tickets"
+    ],
+    "note": "Goldenvoice one-time-only event, Oct 10-11, 2026, Empire Polo Club; added as past edition. Official site/Instagram not verified, so omitted."
+  },
+  "abgt700": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-16",
+    "festivalIds": [
+      "abgt700-2026"
+    ],
+    "sources": [
+      "https://abgt700.live/",
+      "https://www.beatportal.com/articles/1223164-above-beyond-to-bring-group-therapy-700-to-the-gorge-amphitheatre",
+      "https://www.georgeamphitheatre.com/events/above-and-beyond-group-therapy-700-abgt700-friday-pre-party-11-september-2026/"
+    ],
+    "note": "Three-day milestone event Sept 11-13, 2026 at The Gorge; added as past edition. No recurring edition announced."
+  },
+  "experts only: new york": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-16",
+    "festivalIds": [
+      "experts-only-new-york-2026"
+    ],
+    "sources": [
+      "https://www.jambase.com/festival/experts-only-festival-2026",
+      "https://www.billboard.com/music/music-news/experts-only-festival-complete-lineup-john-summit-new-york-1236303756/",
+      "https://www.expertsonlyfest.com/faq"
+    ],
+    "note": "Ran Sept 19-20, 2026 at Randall's Island Park; added as past edition. No 2027 dates yet."
+  },
+  "outside lands": {
+    "outcome": "ignored",
+    "date": "2026-11-16",
+    "festivalIds": [
+      "outside-lands-2027"
+    ],
+    "sources": [],
+    "note": "Request 'Outside Lands 2026' already covered by upcoming Outside Lands 2027 in catalog. The Aug 2026 edition is not in the catalog as a past edition."
   }
 }
