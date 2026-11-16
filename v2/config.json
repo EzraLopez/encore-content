@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 51,
-    "publishedAt": "2026-11-15T23:56:48Z",
+    "version": 52,
+    "publishedAt": "2026-11-16T00:09:01Z",
     "iosBuild": 128,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 96,
@@ -19,6 +19,7 @@
       "endDate": "2026-10-04",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "redditUrl": "https://www.reddit.com/r/aclfestival/",
       "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
@@ -869,6 +870,7 @@
       "endDate": "2026-10-11",
       "websiteUrl": "https://www.aclfestival.com",
       "instagramUrl": "https://instagram.com/aclfestival",
+      "redditUrl": "https://www.reddit.com/r/aclfestival/",
       "accentColor": "#F56423",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/acl-zilker.png",
       "days": [
@@ -5757,7 +5759,8 @@
       "endDate": "2027-05-30",
       "days": [],
       "venue": "Buena Vista Lake",
-      "websiteUrl": "https://www.lightninginabottle.org"
+      "websiteUrl": "https://www.lightninginabottle.org",
+      "redditUrl": "https://www.reddit.com/r/LightningInABottle/"
     },
     {
       "id": "bottlerock-napa-valley-2027",
@@ -5779,7 +5782,8 @@
       "endDate": "2027-05-31",
       "days": [],
       "venue": "Hart Plaza",
-      "websiteUrl": "https://movementfestival.com"
+      "websiteUrl": "https://movementfestival.com",
+      "redditUrl": "https://www.reddit.com/r/MovementDEMF/"
     },
     {
       "id": "primavera-sound-barcelona-2027",
@@ -5790,7 +5794,8 @@
       "endDate": "2027-06-05",
       "days": [],
       "venue": "Parc del Fòrum",
-      "websiteUrl": "https://www.primaverasound.com"
+      "websiteUrl": "https://www.primaverasound.com",
+      "redditUrl": "https://www.reddit.com/r/primaverasound/"
     },
     {
       "id": "sonar-barcelona-2027",
@@ -5833,7 +5838,8 @@
       "endDate": "2027-07-26",
       "days": [],
       "venue": "Salmo River Ranch",
-      "websiteUrl": "https://www.shambhalamusicfestival.com"
+      "websiteUrl": "https://www.shambhalamusicfestival.com",
+      "redditUrl": "https://www.reddit.com/r/Shambhala/"
     },
     {
       "id": "untold-2027",
@@ -5866,7 +5872,8 @@
       "endDate": "2027-08-14",
       "days": [],
       "venue": "Óbuda Island",
-      "websiteUrl": "https://szigetfestival.com"
+      "websiteUrl": "https://szigetfestival.com",
+      "redditUrl": "https://www.reddit.com/r/sziget/"
     },
     {
       "id": "reading-festival-2027",
@@ -5877,7 +5884,8 @@
       "endDate": "2027-08-29",
       "days": [],
       "venue": "Richfield Avenue",
-      "websiteUrl": "https://www.readingfestival.com"
+      "websiteUrl": "https://www.readingfestival.com",
+      "redditUrl": "https://www.reddit.com/r/readingfestival/"
     },
     {
       "id": "leeds-festival-2027",
@@ -5899,7 +5907,8 @@
       "endDate": "2027-08-29",
       "days": [],
       "venue": "Daresbury Estate",
-      "websiteUrl": "https://www.creamfields.com"
+      "websiteUrl": "https://www.creamfields.com",
+      "redditUrl": "https://www.reddit.com/r/creamfields/"
     },
     {
       "id": "rolling-loud-california-2027",
