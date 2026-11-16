@@ -319,10 +319,21 @@ Neither is in this repo:
 and does not need either. A real run exits non-zero when a due festival
 could not be read. Tests: `python3 tests/test_watch_instagram.py`.
 
-The Page is not linked to `@getkatla` yet, and there is no token, so a
-real fetch is not possible until those exist. The token then belongs
-as a network secret on the cloud environment, the same way the
-MusicKit token does.
+Checked the evening of Nov 15, 2026: the Katla Page (id
+`1436561812876094`) is linked to `@getkatla` (Instagram user id
+`17841479841352396`). A long-lived user token for Katla Festival Watch
+is in `~/.config/katla/meta-token` (mode 600). It expires 2027-01-15
+03:25 UTC; data access expires 2027-02-14 03:25 UTC. Its scopes are
+`instagram_basic`, `instagram_manage_insights`, `pages_read_engagement`
+and `pages_show_list`, each limited to that Page or that Instagram
+account. `instagram_content_publish` is not on the token.
+
+`python3 tools/watch_instagram.py --date 2026-11-15` returned 8 posts
+for `seismic-dance-event-2026` (`@seismicdanceevent`). The script reads
+the token file itself. It does not see a cloud network secret unless
+something sets `KATLA_IG_TOKEN`. `/me/accounts` is empty for this token;
+the Page and `@getkatla` answer when requested by id. The app is still
+unpublished, standard access only. A scheduled cloud run is not wired.
 
 ## Telling the apps a newer build is out
 
