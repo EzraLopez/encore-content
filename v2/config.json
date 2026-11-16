@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 60,
-    "publishedAt": "2026-11-16T05:09:13Z",
+    "version": 61,
+    "publishedAt": "2026-11-16T05:39:47Z",
     "iosBuild": 131,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 99,
@@ -4098,7 +4098,8 @@
           "artist": "¥ØU$UK€ ¥UK1MAT$U",
           "day": "2026-12-31"
         }
-      ]
+      ],
+      "accentColor": "#4531A9"
     },
     {
       "id": "proper-nye-2026",
@@ -5860,7 +5861,8 @@
       "venue": "Salmo River Ranch",
       "websiteUrl": "https://www.shambhalamusicfestival.com",
       "instagramUrl": "https://instagram.com/shambhala_mf",
-      "redditUrl": "https://www.reddit.com/r/Shambhala/"
+      "redditUrl": "https://www.reddit.com/r/Shambhala/",
+      "accentColor": "#D54CBD"
     },
     {
       "id": "untold-2027",
@@ -5884,7 +5886,8 @@
       "venue": "Golden Gate Park",
       "websiteUrl": "https://www.sfoutsidelands.com",
       "instagramUrl": "https://instagram.com/outsidelands",
-      "redditUrl": "https://www.reddit.com/r/OutsideLands/"
+      "redditUrl": "https://www.reddit.com/r/OutsideLands/",
+      "accentColor": "#FC9BD8"
     },
     {
       "id": "sziget-2027",
@@ -5936,7 +5939,8 @@
       "venue": "Daresbury Estate",
       "websiteUrl": "https://www.creamfields.com",
       "instagramUrl": "https://instagram.com/creamfieldsofficial",
-      "redditUrl": "https://www.reddit.com/r/creamfields/"
+      "redditUrl": "https://www.reddit.com/r/creamfields/",
+      "accentColor": "#A702C4"
     },
     {
       "id": "rolling-loud-california-2027",
@@ -6100,7 +6104,8 @@
       "websiteUrl": "https://www.shambhalamusicfestival.com",
       "instagramUrl": "https://instagram.com/shambhala_mf",
       "redditUrl": "https://www.reddit.com/r/Shambhala/",
-      "days": []
+      "days": [],
+      "accentColor": "#D54CBD"
     },
     {
       "id": "untold-2026",
@@ -6164,7 +6169,8 @@
       "websiteUrl": "https://www.creamfields.com",
       "instagramUrl": "https://instagram.com/creamfieldsofficial",
       "redditUrl": "https://www.reddit.com/r/creamfields/",
-      "days": []
+      "days": [],
+      "accentColor": "#A702C4"
     },
     {
       "id": "portola-2026",
@@ -6299,7 +6305,8 @@
       "requestedAs": [
         "Experts Only: New York 2026"
       ],
-      "days": []
+      "days": [],
+      "accentColor": "#7888F1"
     },
     {
       "id": "outside-lands-2026",
@@ -6312,7 +6319,8 @@
       "venue": "Golden Gate Park",
       "websiteUrl": "https://www.sfoutsidelands.com",
       "instagramUrl": "https://instagram.com/outsidelands",
-      "redditUrl": "https://www.reddit.com/r/OutsideLands/"
+      "redditUrl": "https://www.reddit.com/r/OutsideLands/",
+      "accentColor": "#FC9BD8"
     }
   ],
   "shows": [],
