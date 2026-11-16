@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 61,
-    "publishedAt": "2026-11-16T05:39:47Z",
+    "version": 62,
+    "publishedAt": "2026-11-16T05:54:52Z",
     "iosBuild": 131,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 99,
@@ -3551,7 +3551,8 @@
           "artist": "Wax Motif",
           "day": "2027-01-01"
         }
-      ]
+      ],
+      "accentColor": "#155F99"
     },
     {
       "id": "decadence-colorado-2026",
@@ -4110,7 +4111,8 @@
       "startDate": "2026-12-31",
       "endDate": "2027-01-01",
       "days": [],
-      "venue": "Petco Park"
+      "venue": "Petco Park",
+      "accentColor": "#4A2D7B"
     },
     {
       "id": "edc-mexico-2027",
@@ -4136,7 +4138,8 @@
       "venue": "Bayfront Park",
       "websiteUrl": "https://ultramusicfestival.com",
       "instagramUrl": "https://instagram.com/ultra",
-      "redditUrl": "https://www.reddit.com/r/UMF/"
+      "redditUrl": "https://www.reddit.com/r/UMF/",
+      "accentColor": "#9C3586"
     },
     {
       "id": "beyond-wonderland-socal-2027",
@@ -4148,7 +4151,8 @@
       "days": [],
       "venue": "NOS Events Center",
       "websiteUrl": "https://socal.beyondwonderland.com",
-      "instagramUrl": "https://instagram.com/beyondwland"
+      "instagramUrl": "https://instagram.com/beyondwland",
+      "accentColor": "#0299FA"
     },
     {
       "id": "coachella-2027-weekend-1",
@@ -5775,7 +5779,8 @@
       "venue": "Buena Vista Lake",
       "websiteUrl": "https://www.lightninginabottle.org",
       "instagramUrl": "https://instagram.com/libfestival",
-      "redditUrl": "https://www.reddit.com/r/LightningInABottle/"
+      "redditUrl": "https://www.reddit.com/r/LightningInABottle/",
+      "accentColor": "#12529A"
     },
     {
       "id": "bottlerock-napa-valley-2027",
@@ -5787,7 +5792,8 @@
       "days": [],
       "venue": "Napa Valley Expo",
       "websiteUrl": "https://www.bottlerocknapavalley.com",
-      "instagramUrl": "https://instagram.com/bottlerocknapa"
+      "instagramUrl": "https://instagram.com/bottlerocknapa",
+      "accentColor": "#2A6AB1"
     },
     {
       "id": "movement-detroit-2027",
@@ -5824,7 +5830,8 @@
       "endDate": "2027-06-19",
       "days": [],
       "websiteUrl": "https://sonar.es",
-      "instagramUrl": "https://instagram.com/sonarfestival"
+      "instagramUrl": "https://instagram.com/sonarfestival",
+      "accentColor": "#54E3B4"
     },
     {
       "id": "glastonbury-2027",
@@ -5837,7 +5844,8 @@
       "venue": "Worthy Farm",
       "websiteUrl": "https://www.glastonburyfestivals.co.uk",
       "instagramUrl": "https://instagram.com/glastofest",
-      "redditUrl": "https://www.reddit.com/r/glastonbury_festival/"
+      "redditUrl": "https://www.reddit.com/r/glastonbury_festival/",
+      "accentColor": "#1AA0CB"
     },
     {
       "id": "defqon1-2027",
@@ -5848,7 +5856,8 @@
       "endDate": "2027-06-27",
       "days": [],
       "websiteUrl": "https://www.q-dance.com",
-      "instagramUrl": "https://instagram.com/defqon1"
+      "instagramUrl": "https://instagram.com/defqon1",
+      "accentColor": "#FC0504"
     },
     {
       "id": "shambhala-2027",
@@ -5873,7 +5882,8 @@
       "endDate": "2027-08-08",
       "days": [],
       "websiteUrl": "https://untold.com",
-      "instagramUrl": "https://instagram.com/untoldfestival"
+      "instagramUrl": "https://instagram.com/untoldfestival",
+      "accentColor": "#2C1462"
     },
     {
       "id": "outside-lands-2027",
@@ -5900,7 +5910,8 @@
       "venue": "Óbuda Island",
       "websiteUrl": "https://szigetfestival.com",
       "instagramUrl": "https://instagram.com/szigetofficial",
-      "redditUrl": "https://www.reddit.com/r/sziget/"
+      "redditUrl": "https://www.reddit.com/r/sziget/",
+      "accentColor": "#E3022D"
     },
     {
       "id": "reading-festival-2027",
@@ -5979,7 +5990,8 @@
       "websiteUrl": "https://ultramusicfestival.com",
       "instagramUrl": "https://instagram.com/ultra",
       "redditUrl": "https://www.reddit.com/r/UMF/",
-      "days": []
+      "days": [],
+      "accentColor": "#9C3586"
     },
     {
       "id": "beyond-wonderland-socal-2026",
@@ -5991,7 +6003,8 @@
       "endDate": "2026-03-28",
       "websiteUrl": "https://socal.beyondwonderland.com",
       "instagramUrl": "https://instagram.com/beyondwland",
-      "days": []
+      "days": [],
+      "accentColor": "#0299FA"
     },
     {
       "id": "coachella-2026-weekend-1",
@@ -6053,7 +6066,8 @@
       "endDate": "2026-05-24",
       "websiteUrl": "https://www.bottlerocknapavalley.com",
       "instagramUrl": "https://instagram.com/bottlerocknapa",
-      "days": []
+      "days": [],
+      "accentColor": "#2A6AB1"
     },
     {
       "id": "movement-detroit-2026",
@@ -6091,7 +6105,8 @@
       "endDate": "2026-06-20",
       "websiteUrl": "https://sonar.es",
       "instagramUrl": "https://instagram.com/sonarfestival",
-      "days": []
+      "days": [],
+      "accentColor": "#54E3B4"
     },
     {
       "id": "shambhala-2026",
@@ -6117,7 +6132,8 @@
       "endDate": "2026-08-09",
       "websiteUrl": "https://untold.com",
       "instagramUrl": "https://instagram.com/untoldfestival",
-      "days": []
+      "days": [],
+      "accentColor": "#2C1462"
     },
     {
       "id": "sziget-2026",
@@ -6130,7 +6146,8 @@
       "websiteUrl": "https://szigetfestival.com",
       "instagramUrl": "https://instagram.com/szigetofficial",
       "redditUrl": "https://www.reddit.com/r/sziget/",
-      "days": []
+      "days": [],
+      "accentColor": "#E3022D"
     },
     {
       "id": "reading-festival-2026",
@@ -6182,7 +6199,8 @@
       "endDate": "2026-09-27",
       "websiteUrl": "https://portolamusicfestival.com",
       "instagramUrl": "https://instagram.com/portolafestival",
-      "days": []
+      "days": [],
+      "accentColor": "#263A92"
     },
     {
       "id": "electric-forest-2026",
@@ -6247,7 +6265,8 @@
       "websiteUrl": "https://orlando.edc.com",
       "instagramUrl": "https://instagram.com/edc_orlando",
       "redditUrl": "https://www.reddit.com/r/EDCOrlando/",
-      "days": []
+      "days": [],
+      "accentColor": "#CF7D2B"
     },
     {
       "id": "sick-new-world-texas-2026",
@@ -6276,7 +6295,8 @@
       "endDate": "2026-10-11",
       "websiteUrl": "https://headtripindio.com",
       "instagramUrl": "https://instagram.com/headtripindio",
-      "days": []
+      "days": [],
+      "accentColor": "#C8492A"
     },
     {
       "id": "abgt700-2026",
@@ -6289,7 +6309,8 @@
       "endDate": "2026-09-13",
       "websiteUrl": "https://abgt700.live",
       "instagramUrl": "https://instagram.com/aboveandbeyond",
-      "days": []
+      "days": [],
+      "accentColor": "#E8CA13"
     },
     {
       "id": "experts-only-new-york-2026",
