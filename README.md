@@ -241,6 +241,23 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Instagram watch (Nov 15, 2026)
+
+`tools/watch_instagram.py --file-changes` runs every hour on Ezra's Mac
+(LaunchAgent `dev.elopez.katla-instagram-watch`, plist in `tools/`, log
+`~/Library/Logs/katla/instagram-watch.log`). For each festival from the
+day before it starts through its last day it reads the latest 8 posts of
+the festival's Instagram (Meta Business Discovery, through @getkatla;
+token in `~/.config/katla/meta-token`, expires 2027-01-15). It reads the
+live catalog, remembers the posts it has seen
+(`~/.config/katla/instagram-seen.json`), and files each new post whose
+caption uses change words (set times, cancel, weather…) as a festival
+change report: Firestore `feedback`, kind `change`, platform `watcher`,
+with the post's image. The Encore queue keeper turns reports into
+proposed catalog changes; on Ezra's Approve it opens a pull request.
+Nothing here edits the catalog. Stories can't be read this way; Report
+a Change in the apps covers them. It only runs while the Mac is awake.
+
 ## Subreddit link (Nov 15, 2026)
 
 `redditUrl` on a festival (optional, `https://www.reddit.com/r/<name>/`)

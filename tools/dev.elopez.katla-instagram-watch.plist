@@ -9,6 +9,7 @@
     <string>/usr/bin/python3</string>
     <string>-I</string>
     <string>/Users/ezra/Development/encore-content/tools/watch_instagram.py</string>
+    <string>--file-changes</string>
   </array>
   <key>WorkingDirectory</key>
   <string>/Users/ezra/Development/encore-content</string>

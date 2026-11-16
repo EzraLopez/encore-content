@@ -16,18 +16,31 @@ It needs two values this repo does not hold:
                     that makes the query. Or ~/.config/katla/ig-user-id.
 
 Usage:
-    python3 tools/watch_instagram.py [--date YYYY-MM-DD] [--dry-run]
+    python3 tools/watch_instagram.py [--date YYYY-MM-DD] [--dry-run] [--file-changes]
+
+--file-changes (what the hourly LaunchAgent runs, Nov 15, 2026): reads
+the live catalog, remembers which posts it has seen
+(~/.config/katla/instagram-seen.json), and files each NEW post that
+looks like a schedule change or cancellation as a festival change report
+(Firestore `feedback`, kind "change", platform "watcher", with the
+post's image), the same as Report a Change in the apps. The queue keeper
+routine turns reports into proposed catalog changes for Ezra. Nothing
+here edits the catalog.
 """
 
 import json
 import os
 import re
 import stat
+import subprocess
 import sys
+import tempfile
+import time
+import uuid
 import urllib.error
 import urllib.parse
 import urllib.request
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -44,6 +57,23 @@ HANDLE_RE = re.compile(
     re.IGNORECASE,
 )
 TOKEN_RE = re.compile(r"(access_token=)[^&\s]+", re.IGNORECASE)
+LIVE_CONFIG = "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v2/config.json"
+SEEN_FILE = Path.home() / ".config" / "katla" / "instagram-seen.json"
+FEEDBACK_URL = (
+    "https://firestore.googleapis.com/v1/projects/encore-ca65a/databases/(default)/documents/feedback"
+)
+# The backend's limit for a report's picture (firestore.rules, feedback).
+MAX_IMAGE_BYTES = 400_000
+# An account seen for the first time: only posts this recent are news.
+FIRST_SIGHT_HOURS = 48
+# Words festivals use when the plan changes. A post without any of them
+# (merch, recaps, promos) is not reported.
+CHANGE_RE = re.compile(
+    r"set[\s-]?times?|schedule|timetable|cancel|postpon|delay|weather|evacuat|lightning|"
+    r"storm|rain|wind|heat|closed|closure|shelter|moved|swap|updated?|change|replac|"
+    r"no longer|unable to|won.t be|will not|doors|gates|re-?entry|do not travel|refund|lineup",
+    re.IGNORECASE,
+)
 
 
 class WatchError(Exception):
@@ -136,7 +166,7 @@ def discovery_url(ig_user_id, username):
     fields = (
         f"business_discovery.username({username})"
         f"{{username,media.limit({MEDIA_LIMIT})"
-        "{caption,permalink,timestamp,media_type}}"
+        "{id,caption,permalink,timestamp,media_type,media_url,thumbnail_url}}"
     )
     query = urllib.parse.urlencode({"fields": fields})
     return f"{GRAPH}/{ig_user_id}?{query}"
@@ -164,6 +194,8 @@ def parse_discovery(body):
             caption = caption[:500]
         posts.append(
             {
+                "id": item.get("id"),
+                "imageUrl": item.get("media_url") if item.get("media_type") != "VIDEO" else item.get("thumbnail_url"),
                 "permalink": item.get("permalink"),
                 "timestamp": item.get("timestamp"),
                 "mediaType": item.get("media_type"),
@@ -233,6 +265,190 @@ def build_report(festivals, today, token, ig_user_id, opener, lead_days=LEAD_DAY
     }
 
 
+# ---- Filing new posts as change reports ------------------------------
+
+def looks_like_change(caption):
+    """True when a caption uses the words festivals use for changes."""
+    return bool(caption) and bool(CHANGE_RE.search(caption))
+
+
+def post_time(post):
+    """The post's time, or None. Instagram writes 2026-11-15T22:15:03+0000."""
+    stamp = post.get("timestamp") or ""
+    try:
+        return datetime.strptime(stamp, "%Y-%m-%dT%H:%M:%S%z")
+    except ValueError:
+        return None
+
+
+def new_posts(seen, username, posts, now, first_sight_hours=FIRST_SIGHT_HOURS):
+    """The posts not seen before, oldest first.
+
+    `seen` maps username to the permalinks already handled. For an account
+    seen for the first time, only posts from the last `first_sight_hours`
+    are new: older ones are history, not news."""
+    known = set(seen.get(username, []))
+    first_sight = username not in seen
+    fresh = []
+    for post in posts:
+        link = post.get("permalink")
+        if not link or link in known:
+            continue
+        if first_sight:
+            when = post_time(post)
+            if when is None or now - when > timedelta(hours=first_sight_hours):
+                continue
+        fresh.append(post)
+    fresh.sort(key=lambda p: p.get("timestamp") or "")
+    return fresh
+
+
+def remember(seen, username, posts, keep=200):
+    """`seen` with these posts' permalinks added (newest `keep` kept)."""
+    links = list(seen.get(username, []))
+    for post in posts:
+        link = post.get("permalink")
+        if link and link not in links:
+            links.append(link)
+    out = dict(seen)
+    out[username] = links[-keep:]
+    return out
+
+
+def change_report_message(username, post):
+    """What the queue keeper reads: who posted, when, the caption, the link."""
+    caption = (post.get("caption") or "").strip() or "(no caption)"
+    text = f"From Instagram @{username} ({post.get('timestamp') or 'time unknown'}):\n{caption}\n{post.get('permalink') or ''}"
+    return text[:2000]
+
+
+def change_report_document(festival_id, username, post, image, now_ms, catalog_version=None):
+    """A Firestore REST document for `feedback`, in the shape the rules accept."""
+    fields = {
+        "reportId": {"stringValue": str(uuid.uuid4())},
+        "kind": {"stringValue": "change"},
+        "message": {"stringValue": change_report_message(username, post)},
+        "platform": {"stringValue": "watcher"},
+        "appVersion": {"stringValue": "instagram-watch"},
+        "build": {"stringValue": "1"},
+        "osVersion": {"stringValue": "macOS"},
+        "device": {"stringValue": "Katla Mac"},
+        "screen": {"stringValue": f"festival:{festival_id}"[:120]},
+        "createdAt": {"integerValue": str(int(now_ms))},
+    }
+    if isinstance(catalog_version, int):
+        fields["catalogVersion"] = {"integerValue": str(catalog_version)}
+    if image and len(image) <= MAX_IMAGE_BYTES:
+        import base64
+
+        fields["screenshot"] = {"bytesValue": base64.b64encode(image).decode()}
+    return {"fields": fields}
+
+
+def shrink_to_jpeg(data, limit=MAX_IMAGE_BYTES):
+    """A JPEG of `data` under `limit` bytes (macOS sips), or None."""
+    with tempfile.TemporaryDirectory() as folder:
+        source = Path(folder) / "post"
+        source.write_bytes(data)
+        for side, quality in ((1280, 70), (1080, 60), (900, 50), (720, 45)):
+            out = Path(folder) / f"post-{side}.jpg"
+            result = subprocess.run(
+                ["/usr/bin/sips", "-s", "format", "jpeg", "-s", "formatOptions", str(quality),
+                 "-Z", str(side), str(source), "--out", str(out)],
+                capture_output=True,
+            )
+            if result.returncode == 0 and out.is_file() and out.stat().st_size <= limit:
+                return out.read_bytes()
+    return None
+
+
+def fetch_image(url, opener):
+    if not url or not url.startswith("https://"):
+        return None
+    try:
+        with opener(urllib.request.Request(url, headers={"User-Agent": "encore-instagram-watch"}), timeout=20) as r:
+            data = r.read(8_000_000)
+    except (urllib.error.URLError, OSError):
+        return None
+    try:
+        return shrink_to_jpeg(data)
+    except OSError:
+        return None
+
+
+def post_report(document, opener):
+    """Create the report. The rules let anyone create one; nothing else."""
+    request = urllib.request.Request(
+        FEEDBACK_URL,
+        data=json.dumps(document).encode(),
+        headers={"Content-Type": "application/json", "User-Agent": "encore-instagram-watch"},
+        method="POST",
+    )
+    try:
+        with opener(request, timeout=20) as response:
+            response.read()
+    except urllib.error.HTTPError as exc:
+        raise WatchError(f"report refused (HTTP {exc.code}): {exc.read().decode('utf-8', 'replace')[:200]}") from exc
+    except urllib.error.URLError as exc:
+        raise WatchError(f"report not sent: {exc.reason}") from exc
+
+
+def load_seen(path=SEEN_FILE):
+    try:
+        data = json.loads(Path(path).read_text(encoding="utf-8"))
+        return data if isinstance(data, dict) else {}
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def save_seen(seen, path=SEEN_FILE):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    tmp.write_text(json.dumps(seen, indent=2), encoding="utf-8")
+    os.chmod(tmp, 0o600)
+    tmp.replace(path)
+
+
+def file_changes(report, seen, now, opener, catalog_version=None, post=None):
+    """Report each new, change-like post once. Returns (filed, updated seen).
+
+    A post is marked seen only once it is handled (filed, or not
+    change-like), so a report that fails to send is retried next run."""
+    post = post or (lambda doc: post_report(doc, opener))
+    filed = []
+    for row in report["festivals"]:
+        if not row.get("ok"):
+            continue
+        username = row["username"]
+        fresh = new_posts(seen, username, row["posts"], now)
+        unsent = []
+        for item in fresh:
+            if looks_like_change(item.get("caption")):
+                image = fetch_image(item.get("imageUrl"), opener)
+                doc = change_report_document(row["id"], username, item, image, now.timestamp() * 1000, catalog_version)
+                try:
+                    post(doc)
+                except WatchError as exc:
+                    print(f"failed to file {item.get('permalink')}: {exc}", file=sys.stderr)
+                    unsent.append(item)
+                    continue
+                filed.append({"festival": row["id"], "permalink": item.get("permalink")})
+        # Every current post is known now, except reports that failed to send.
+        seen = remember(seen, username, [p for p in row["posts"] if p not in unsent])
+    return filed, seen
+
+
+def load_live_config(opener):
+    """The published catalog, so the watch follows merges without a pull."""
+    with opener(urllib.request.Request(LIVE_CONFIG, headers={"User-Agent": "encore-instagram-watch"}), timeout=20) as r:
+        payload = json.loads(r.read())
+    festivals = payload.get("festivals") if isinstance(payload, dict) else None
+    if not isinstance(festivals, list):
+        raise WatchError("the live catalog has no festivals array")
+    return festivals, (payload.get("meta") or {}).get("version")
+
+
 def load_config(path):
     try:
         payload = json.loads(Path(path).read_text(encoding="utf-8"))
@@ -249,6 +465,9 @@ def main(argv):
     dry_run = "--dry-run" in args
     if dry_run:
         args.remove("--dry-run")
+    filing = "--file-changes" in args
+    if filing:
+        args.remove("--file-changes")
     config_path = CONFIG
     today = date.today()
     lead_days = LEAD_DAYS
@@ -277,8 +496,16 @@ def main(argv):
             continue
         print(f"unknown argument: {flag}", file=sys.stderr)
         return 2
+    catalog_version = None
     try:
-        festivals = load_config(config_path)
+        if filing and config_path == CONFIG:
+            try:
+                festivals, catalog_version = load_live_config(urllib.request.urlopen)
+            except (WatchError, OSError, ValueError) as exc:
+                print(f"live catalog unavailable ({exc}); using the local copy", file=sys.stderr)
+                festivals = load_config(config_path)
+        else:
+            festivals = load_config(config_path)
     except WatchError as exc:
         print(exc, file=sys.stderr)
         return 1
@@ -295,7 +522,15 @@ def main(argv):
     except WatchError as exc:
         print(exc, file=sys.stderr)
         return 1
-    print(json.dumps(report, indent=2))
+    if filing:
+        now = datetime.now(timezone.utc)
+        print(f"{now.isoformat(timespec='seconds')} checked {len(report['festivals'])} festival(s)", file=sys.stderr)
+        filed, seen = file_changes(report, load_seen(), now, urllib.request.urlopen, catalog_version)
+        save_seen(seen)
+        for item in filed:
+            print(f"filed change report: {item['festival']} {item['permalink']}", file=sys.stderr)
+    else:
+        print(json.dumps(report, indent=2))
     for row in report["festivals"]:
         if row["ok"]:
             print(f"ok {row['id']} @{row['username']} {len(row['posts'])} posts", file=sys.stderr)

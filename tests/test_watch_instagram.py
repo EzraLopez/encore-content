@@ -134,5 +134,71 @@ class ReportTests(unittest.TestCase):
         self.assertIn("permission denied", str(caught.exception))
 
 
+
+NOW = watch.datetime(2026, 11, 15, 23, 0, tzinfo=watch.timezone.utc)
+
+
+def post(n, hours_ago, caption="Updated set times for our stage"):
+    when = NOW - watch.timedelta(hours=hours_ago)
+    return {
+        "id": str(n),
+        "permalink": f"https://www.instagram.com/p/P{n}/",
+        "timestamp": when.strftime("%Y-%m-%dT%H:%M:%S+0000"),
+        "caption": caption,
+        "imageUrl": None,
+    }
+
+
+class FilingTests(unittest.TestCase):
+    def test_change_words(self):
+        self.assertTrue(watch.looks_like_change("UPDATED SET TIMES for our stage"))
+        self.assertTrue(watch.looks_like_change("Sunday is officially canceled. Do not travel to the site."))
+        self.assertTrue(watch.looks_like_change("Weather hold: gates closed until 3 PM"))
+        self.assertFalse(watch.looks_like_change("Merch is live, link in bio"))
+        self.assertFalse(watch.looks_like_change(None))
+
+    def test_new_posts_first_sight_keeps_only_recent(self):
+        posts = [post(1, 5), post(2, 70)]
+        self.assertEqual([p["id"] for p in watch.new_posts({}, "fest", posts, NOW)], ["1"])
+
+    def test_new_posts_skips_seen_and_orders_oldest_first(self):
+        seen = {"fest": ["https://www.instagram.com/p/P1/"]}
+        posts = [post(3, 1), post(1, 5), post(2, 90)]
+        self.assertEqual([p["id"] for p in watch.new_posts(seen, "fest", posts, NOW)], ["2", "3"])
+
+    def test_document_matches_the_rules(self):
+        doc = watch.change_report_document("seismic-dance-event-2026", "seismicdanceevent", post(1, 1), b"\xff\xd8jpeg", 1794787200000, 55)
+        f = doc["fields"]
+        self.assertEqual(f["kind"]["stringValue"], "change")
+        self.assertEqual(f["platform"]["stringValue"], "watcher")
+        self.assertEqual(f["screen"]["stringValue"], "festival:seismic-dance-event-2026")
+        self.assertIn("@seismicdanceevent", f["message"]["stringValue"])
+        self.assertIn("https://www.instagram.com/p/P1/", f["message"]["stringValue"])
+        self.assertEqual(f["catalogVersion"]["integerValue"], "55")
+        self.assertIn("screenshot", f)
+        for key in ("reportId", "message", "appVersion", "build", "osVersion", "device", "screen", "createdAt"):
+            self.assertIn(key, f)
+        too_big = watch.change_report_document("x", "u", post(1, 1), b"x" * (watch.MAX_IMAGE_BYTES + 1), 1)
+        self.assertNotIn("screenshot", too_big["fields"])
+
+    def test_file_changes_files_once_and_retries_failures(self):
+        report = {"festivals": [{"id": "seismic", "username": "seismicdanceevent", "ok": True,
+                                 "posts": [post(1, 2), post(2, 3, "Merch drop")]}]}
+        sent = []
+        filed, seen = watch.file_changes(report, {}, NOW, None, post=sent.append)
+        self.assertEqual(len(sent), 1)
+        self.assertEqual([f["permalink"] for f in filed], ["https://www.instagram.com/p/P1/"])
+        self.assertEqual(len(seen["seismicdanceevent"]), 2)
+        again, _ = watch.file_changes(report, seen, NOW, None, post=sent.append)
+        self.assertEqual(again, [])
+        self.assertEqual(len(sent), 1)
+
+        def refuse(doc):
+            raise watch.WatchError("offline")
+        failed, kept = watch.file_changes(report, {}, NOW, None, post=refuse)
+        self.assertEqual(failed, [])
+        self.assertEqual(kept["seismicdanceevent"], ["https://www.instagram.com/p/P2/"])
+
+
 if __name__ == "__main__":
     unittest.main()
