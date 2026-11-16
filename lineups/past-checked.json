@@ -18,19 +18,20 @@
   },
   "sick-new-world-texas-2026": {
     "date": "2026-11-16",
-    "result": "not verified: official lineup is a poster image and press only names about 10 of 50+ artists",
+    "result": "added 50 artists, read off the official lineup poster (last resort: no text source prints the full bill) and checked name for name against a text listing",
     "sources": [
-      "https://www.sicknewworldfest.com/texas",
-      "https://loudwire.com/sick-new-world-las-vegas-texas-2026-festivals-lineup/",
-      "https://www.loudersound.com/bands-artists/system-of-a-down-korn-deftones-slayer-evanescence-and-more-to-play-insanely-stacked-sick-new-world-2026-events-in-las-vegas-and-texas"
+      "https://www.sicknewworldfest.com/texas/lineup",
+      "https://cdn.prod.website-files.com/68e52e2b1eed446feb19a525/6ab43ccb2db95c78e0d1c84b_SNW_TX-4x5.webp",
+      "https://en.wikipedia.org/wiki/Sick_New_World"
     ]
   },
   "portola-2026": {
     "date": "2026-11-16",
-    "result": "not verified: official lineup is a poster image and press prints only part of the bill",
+    "result": "added 62 artists with days, from the official site's lineup data (Despacio plays both days, so it has no day)",
     "sources": [
-      "https://portolamusicfestival.com/lineup",
-      "https://edmnomad.com/goldenvoice-reveals-full-line-up-for-portola-music-festival-2026/"
+      "https://portolamusicfestival.com/lineup/",
+      "https://events.aegamp.com/app/726/08c3a793c3374f139/artists.json",
+      "https://events.aegamp.com/app/726/08c3a793c3374f139/shows.json"
     ]
   }
 }

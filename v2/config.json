@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 67,
-    "publishedAt": "2026-11-16T06:28:04Z",
+    "version": 68,
+    "publishedAt": "2026-11-16T06:36:21Z",
     "iosBuild": 135,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 103,
@@ -6200,6 +6200,317 @@
       "websiteUrl": "https://portolamusicfestival.com",
       "instagramUrl": "https://instagram.com/portolafestival",
       "days": [],
+      "lineup": [
+        {
+          "id": "portola-2026-adela",
+          "artist": "ADÉLA",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-airwolf-paradise",
+          "artist": "Airwolf Paradise",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-azzecca",
+          "artist": "Azzecca",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-baby-j",
+          "artist": "Baby J",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-bassvictim",
+          "artist": "Bassvictim",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-beltran-b2b-ben-sterling",
+          "artist": "Beltran b2b Ben Sterling",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-ben-ufo",
+          "artist": "Ben UFO",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-brunello",
+          "artist": "Brunello",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-channel-tres",
+          "artist": "Channel Tres",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-chloe-caillet",
+          "artist": "Chloé Caillet",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-clearcast",
+          "artist": "Clearcast",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-daphni",
+          "artist": "Daphni",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-dean-turnley",
+          "artist": "Dean Turnley",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-despacio",
+          "artist": "Despacio"
+        },
+        {
+          "id": "portola-2026-dj-shadow",
+          "artist": "DJ Shadow",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-dog-blood-skrillex-boys-noize",
+          "artist": "DOG BLOOD (Skrillex & Boys Noize)",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-ear",
+          "artist": "ear",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-erika-b2b-sfcowboy",
+          "artist": "Erika b2b sfcowboy",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-fatboy-slim",
+          "artist": "Fatboy Slim",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-fcukers",
+          "artist": "Fcukers",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-felly-fell",
+          "artist": "Felly Fell",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-four-tet",
+          "artist": "Four Tet",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-gelli-haha",
+          "artist": "Gelli Haha",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-groove-armada",
+          "artist": "Groove Armada",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-horsegiirl",
+          "artist": "horsegiirL",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-jigitz",
+          "artist": "jigitz",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-jt",
+          "artist": "JT",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-jyoty",
+          "artist": "Jyoty",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-kaytree",
+          "artist": "Kaytree",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-kelela",
+          "artist": "Kelela",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-kettama",
+          "artist": "KETTAMA",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-marlon-hoffstadt",
+          "artist": "Marlon Hoffstadt",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-max-styler",
+          "artist": "Max Styler",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-melanie-c-dj-set",
+          "artist": "Melanie C (DJ Set)",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-mgna-crrrta",
+          "artist": "MGNA Crrrta",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-mike-d",
+          "artist": "Mike D",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-mind-enterprises",
+          "artist": "Mind Enterprises",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-mochakk",
+          "artist": "Mochakk",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-nate-sib",
+          "artist": "nate sib",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-nimino",
+          "artist": "nimino",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-ninajirachi",
+          "artist": "Ninajirachi",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-oskar-med-k",
+          "artist": "oskar med k",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-overmono",
+          "artist": "Overmono",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-parcels",
+          "artist": "Parcels",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-prospa",
+          "artist": "Prospa",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-ranger-trucco-b2b-alisha",
+          "artist": "Ranger Trucco b2b Alisha",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-riria",
+          "artist": "Riria",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-robyn",
+          "artist": "Robyn",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-sam-alfred",
+          "artist": "Sam Alfred",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-sg-lewis-live",
+          "artist": "SG Lewis (Live)",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-silva-bumpa",
+          "artist": "Silva Bumpa",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-six-sex",
+          "artist": "Six Sex",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-soulwax",
+          "artist": "Soulwax",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-swedish-house-mafia",
+          "artist": "Swedish House Mafia",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-tiesto",
+          "artist": "Tiësto",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-torren-foot",
+          "artist": "Torren Foot",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-tove-lo",
+          "artist": "Tove Lo",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-tricky",
+          "artist": "Tricky",
+          "day": "2026-09-26"
+        },
+        {
+          "id": "portola-2026-underscores",
+          "artist": "underscores",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-vtss",
+          "artist": "VTSS",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-zara-larsson",
+          "artist": "Zara Larsson",
+          "day": "2026-09-27"
+        },
+        {
+          "id": "portola-2026-zulan",
+          "artist": "Zulan",
+          "day": "2026-09-27"
+        }
+      ],
       "accentColor": "#263A92"
     },
     {
@@ -6676,7 +6987,259 @@
       "requestedAs": [
         "Sick New World: Texas 2026"
       ],
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "sick-new-world-texas-2026-system-of-a-down",
+          "artist": "System of a Down",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-deftones",
+          "artist": "Deftones",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-slayer",
+          "artist": "Slayer",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-evanescence",
+          "artist": "Evanescence",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-ministry",
+          "artist": "Ministry",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-afi",
+          "artist": "AFI",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-underoath",
+          "artist": "Underoath",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-marilyn-manson",
+          "artist": "Marilyn Manson",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-boy-harsher",
+          "artist": "Boy Harsher",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-clutch",
+          "artist": "Clutch",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-down",
+          "artist": "Down",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-the-prodigy",
+          "artist": "The Prodigy",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-coal-chamber",
+          "artist": "Coal Chamber",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-poison-the-well",
+          "artist": "Poison the Well",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-she-wants-revenge",
+          "artist": "She Wants Revenge",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-wage-war",
+          "artist": "Wage War",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-terror",
+          "artist": "Terror",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-sunami",
+          "artist": "Sunami",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-knocked-loose",
+          "artist": "Knocked Loose",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-melvins",
+          "artist": "Melvins",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-glassjaw",
+          "artist": "Glassjaw",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-speed",
+          "artist": "Speed",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-p-o-d",
+          "artist": "P.O.D.",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-mastodon",
+          "artist": "Mastodon",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-deafheaven",
+          "artist": "Deafheaven",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-kittie",
+          "artist": "Kittie",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-snot",
+          "artist": "Snot",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-orgy",
+          "artist": "Orgy",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-superheaven",
+          "artist": "Superheaven",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-alien-ant-farm",
+          "artist": "Alien Ant Farm",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-filter",
+          "artist": "Filter",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-power-trip",
+          "artist": "Power Trip",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-twin-tribes",
+          "artist": "Twin Tribes",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-failure",
+          "artist": "Failure",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-norma-jean",
+          "artist": "Norma Jean",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-lords-of-acid",
+          "artist": "Lords of Acid",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-pain-of-truth",
+          "artist": "Pain of Truth",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-haywire",
+          "artist": "Haywire",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-violent-vira",
+          "artist": "Violent Vira",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-sleep-theory",
+          "artist": "Sleep Theory",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-peelingflesh",
+          "artist": "PeelingFlesh",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-showing-teeth",
+          "artist": "Showing Teeth",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-dead-city",
+          "artist": "Dead City",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-tss",
+          "artist": "TSS",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-speed-of-light",
+          "artist": "Speed of Light",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-dying-wish",
+          "artist": "Dying Wish",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-amira-elfeky",
+          "artist": "Amira Elfeky",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-the-dark-fm",
+          "artist": "The Dark.FM",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-ego-kill-talent",
+          "artist": "Ego Kill Talent",
+          "day": "2026-10-24"
+        },
+        {
+          "id": "sick-new-world-texas-2026-the-tony-danza-tapdance-extravaganza",
+          "artist": "The Tony Danza Tapdance Extravaganza",
+          "day": "2026-10-24"
+        }
+      ]
     },
     {
       "id": "head-trip-2026",
