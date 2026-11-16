@@ -41,6 +41,13 @@ def main() -> int:
     version = int(re.search(r'"version": (\d+)', head).group(1))
     now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     fields = dict(re.findall(r'"(\w+)": ("[^"]*"|\d+)', head[head.index('"meta"'):]))
+    # Never backwards: a release job that finishes late must not send
+    # people from a newer build to an older one (Nov 15, 2026: a job for
+    # 132 ran after 135 was set). Same or lower changes nothing.
+    current = fields.get(f"{platform}Build", "0")
+    if current.isdigit() and build <= int(current) and "--force" not in sys.argv:
+        print(f"{platform} build stays {current} ({build} is not newer; --force to set it anyway)")
+        return 0
     fields["version"] = str(version + 1)
     fields["publishedAt"] = f'"{now}"'
     fields[f"{platform}Build"] = str(build)
