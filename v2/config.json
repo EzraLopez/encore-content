@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 84,
-    "publishedAt": "2026-11-16T22:00:03Z",
+    "version": 85,
+    "publishedAt": "2026-11-17T00:02:11Z",
     "iosBuild": 148,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 116,
@@ -1732,7 +1732,478 @@
       "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
-      "days": [],
+      "days": [
+        {
+          "date": "2026-11-20",
+          "stages": [
+            {
+              "name": "The Dream",
+              "sets": [
+                {
+                  "artist": "VisionV",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-visionv",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Matty Ralph",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-matty-ralph",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "David Rust + Olly James",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-david-rust-and-olly-james",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "The Rocketman",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-the-rocketman",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "MaRLo",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-marlo",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Andrew Rayel pres Extasia",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-andrew-rayel-pres-extasia",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Dash Berlin",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-dash-berlin",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Hannah Laing + Marie Vaunt",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-hannah-laing-and-marie-vaunt",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "ARTBAT",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-artbat",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Sequence",
+              "sets": [
+                {
+                  "artist": "Maximizer",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-maximizer",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Terra",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-terra",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "KAUFMANN",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-kaufmann",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Burn In Noise",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-burn-in-noise",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "GMS",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-gms",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Phaxe",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-phaxe",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Astrix",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-astrix",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Neelix",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-neelix",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Infected Mushroom",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-infected-mushroom",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Void",
+              "sets": [
+                {
+                  "artist": "Shay De Castro",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-shay-de-castro",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "BK",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-bk",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Lee Ann Roberts",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-lee-ann-roberts",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "A.N.I.",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-a-n-i",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Schrotthagen",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-schrotthagen",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Panteros666",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-panteros666",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Pegassi",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-pegassi",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Enrico Sangiuliano",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-enrico-sangiuliano",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Reinier Zonneveld (Live)",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-reinier-zonneveld-live",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Vision",
+              "sets": [
+                {
+                  "artist": "KARMÅ",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-karma",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Steve Dekay",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-steve-dekay",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "FRANKYEFFE",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-frankyeffe",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Mirage (Live)",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-mirage-live",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "NRG2000",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-nrg2000",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Warp Brothers",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-warp-brothers",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Mauro Picotto",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-mauro-picotto",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "BT",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-bt-and-matt-fax",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Marco V",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-marco-v",
+                  "start": "00:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "date": "2026-11-21",
+          "stages": [
+            {
+              "name": "The Dream",
+              "sets": [
+                {
+                  "artist": "Das Pharaoh",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-das-pharaoh",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "TH;EN",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-th-en",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Nu Aspect",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-nu-aspect",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "JOA",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-joa",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Aaron Hibell (Live)",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-aaron-hibell-live",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "ALPHA 9 + Ilan Bluestone",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-alpha-9-and-ilan-bluestone",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Ferry Corsten + Marsh",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-ferry-corsten-and-marsh",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Above & Beyond (Anjunabeats Classics)",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-above-and-beyond-anjunabeats-classics",
+                  "start": "23:00"
+                }
+              ]
+            },
+            {
+              "name": "The Sequence",
+              "sets": [
+                {
+                  "artist": "Barakuda",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-barakuda",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Perfect Stranger",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-perfect-stranger",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Rising Dust",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-rising-dust",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Sighter",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-sighter",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "John 00 Fleming",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-john-00-fleming",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Giorgia Angiuli",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-giorgia-angiuli",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Vini Vici",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-vini-vici",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Ace Ventura",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-ace-ventura",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Animato",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-animato",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Void",
+              "sets": [
+                {
+                  "artist": "Discovery Project: Hausman",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-discovery-project",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Roman Messer",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-roman-messer",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Parallel Worlds",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-parallel-worlds",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Eddie Halliwell + Judge Jules",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-eddie-halliwell-and-judge-jules",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "David Forbes + John Askew",
+                  "end": "21:15",
+                  "id": "dreamstate-socal-2026-david-forbes-and-mark-sherry-pres-thick-as-thieves",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Bryan Kearney + John O'Callaghan pres Key4050",
+                  "end": "22:30",
+                  "id": "dreamstate-socal-2026-key4050",
+                  "start": "21:15"
+                },
+                {
+                  "artist": "Aly & Fila + Billy Gillies",
+                  "end": "23:45",
+                  "id": "dreamstate-socal-2026-aly-and-fila-and-billy-gillies",
+                  "start": "22:30"
+                },
+                {
+                  "artist": "Paul van Dyk pres Essence Of Acid",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-paul-van-dyk-pres-essence-of-acid",
+                  "start": "23:45"
+                }
+              ]
+            },
+            {
+              "name": "The Vision",
+              "sets": [
+                {
+                  "artist": "Sequence Six",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-sequence-six",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Maria Healy",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-maria-healy",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Chris Metcalfe",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-chris-metcalfe",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Andy Moor",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-andy-moor",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Allen Watts + Talla 2XLC",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-allen-watts-and-talla-2xlc",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Darren Porter + Sean Tyas",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-darren-porter-and-sean-tyas",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Cold Blue",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-cold-blue",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "4 Strings (Classics Set)",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-4-strings-classics-set",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Solarstone",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-solarstone",
+                  "start": "00:00"
+                }
+              ]
+            }
+          ]
+        }
+      ],
       "endDate": "2026-11-21",
       "id": "dreamstate-socal-2026",
       "accentColor": "#234B8E",
@@ -1743,359 +2214,7 @@
       "tagline": "The world's premier all-trance music festival",
       "venue": "Queen Mary Waterfront",
       "websiteUrl": "https://socal.dreamstateusa.com",
-      "instagramUrl": "https://instagram.com/dreamstateusa",
-      "lineup": [
-        {
-          "id": "dreamstate-socal-2026-4-strings-classics-set",
-          "artist": "4 Strings (Classics Set)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-a-n-i",
-          "artist": "A.N.I.",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-aaron-hibell-live",
-          "artist": "Aaron Hibell (Live)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-above-and-beyond-anjunabeats-classics",
-          "artist": "Above & Beyond (Anjunabeats Classics)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-ace-ventura",
-          "artist": "Ace Ventura",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-allen-watts-and-talla-2xlc",
-          "artist": "Allen Watts + Talla 2XLC",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-alpha-9-and-ilan-bluestone",
-          "artist": "ALPHA 9 + Ilan Bluestone",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-aly-and-fila-and-billy-gillies",
-          "artist": "Aly & Fila + Billy Gillies",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-andrew-rayel-pres-extasia",
-          "artist": "Andrew Rayel pres Extasia",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-andy-moor",
-          "artist": "Andy Moor",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-animato",
-          "artist": "Animato",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-artbat",
-          "artist": "ARTBAT",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-astrix",
-          "artist": "Astrix",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-barakuda",
-          "artist": "Barakuda",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-bk",
-          "artist": "BK",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-bt-and-matt-fax",
-          "artist": "BT + Matt Fax",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-burn-in-noise",
-          "artist": "Burn In Noise",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-chris-metcalfe",
-          "artist": "Chris Metcalfe",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-cold-blue",
-          "artist": "Cold Blue",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-darren-porter-and-sean-tyas",
-          "artist": "Darren Porter + Sean Tyas",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-das-pharaoh",
-          "artist": "Das Pharaoh",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-dash-berlin",
-          "artist": "Dash Berlin",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-david-forbes-and-mark-sherry-pres-thick-as-thieves",
-          "artist": "David Forbes + Mark Sherry pres Thick As Thieves",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-david-rust-and-olly-james",
-          "artist": "David Rust + Olly James",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-discovery-project",
-          "artist": "Discovery Project",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-eddie-halliwell-and-judge-jules",
-          "artist": "Eddie Halliwell + Judge Jules",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-enrico-sangiuliano",
-          "artist": "Enrico Sangiuliano",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-ferry-corsten-and-marsh",
-          "artist": "Ferry Corsten + Marsh",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-frankyeffe",
-          "artist": "FRANKYEFFE",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-giorgia-angiuli",
-          "artist": "Giorgia Angiuli",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-gms",
-          "artist": "GMS",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-hannah-laing-and-marie-vaunt",
-          "artist": "Hannah Laing + Marie Vaunt",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-infected-mushroom",
-          "artist": "Infected Mushroom",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-joa",
-          "artist": "JOA",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-john-00-fleming",
-          "artist": "John 00 Fleming",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-john-askew-and-simon-patterson",
-          "artist": "John Askew + Simon Patterson",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-karma",
-          "artist": "KARMÅ",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-kaufmann",
-          "artist": "KAUFMANN",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-key4050",
-          "artist": "Key4050",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-lee-ann-roberts",
-          "artist": "Lee Ann Roberts",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-marco-v",
-          "artist": "Marco V",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-maria-healy",
-          "artist": "Maria Healy",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-marlo",
-          "artist": "MaRLo",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-matty-ralph",
-          "artist": "Matty Ralph",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-mauro-picotto",
-          "artist": "Mauro Picotto",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-maximizer",
-          "artist": "Maximizer",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-mirage-live",
-          "artist": "Mirage (Live)",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-neelix",
-          "artist": "Neelix",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-nrg2000",
-          "artist": "NRG2000",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-nu-aspect",
-          "artist": "Nu Aspect",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-panteros666",
-          "artist": "Panteros666",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-parallel-worlds",
-          "artist": "Parallel Worlds",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-paul-van-dyk-pres-essence-of-acid",
-          "artist": "Paul van Dyk pres Essence Of Acid",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-pegassi",
-          "artist": "Pegassi",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-perfect-stranger",
-          "artist": "Perfect Stranger",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-phaxe",
-          "artist": "Phaxe",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-reinier-zonneveld-live",
-          "artist": "Reinier Zonneveld (Live)",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-rising-dust",
-          "artist": "Rising Dust",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-the-rocketman",
-          "artist": "The Rocketman",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-schrotthagen",
-          "artist": "Schrotthagen",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-sequence-six",
-          "artist": "Sequence Six",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-shay-de-castro",
-          "artist": "Shay De Castro",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-sighter",
-          "artist": "Sighter",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-solarstone",
-          "artist": "Solarstone",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-steve-dekay",
-          "artist": "Steve Dekay",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-terra",
-          "artist": "Terra",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-th-en",
-          "artist": "TH;EN",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-vini-vici",
-          "artist": "Vini Vici",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-visionv",
-          "artist": "VisionV",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-warp-brothers",
-          "artist": "Warp Brothers",
-          "day": "2026-11-20"
-        }
-      ]
+      "instagramUrl": "https://instagram.com/dreamstateusa"
     },
     {
       "days": [],
