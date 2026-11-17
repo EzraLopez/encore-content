@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 90,
-    "publishedAt": "2026-11-17T01:45:25Z",
+    "version": 91,
+    "publishedAt": "2026-11-17T01:49:52Z",
     "iosBuild": 151,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 117,
@@ -1971,6 +1971,47 @@
                   "start": "00:00"
                 }
               ]
+            },
+            {
+              "name": "BeatBox Art Car",
+              "sets": [
+                {
+                  "artist": "Matt Gucci",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-matt-gucci",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Fallen Angel",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-fallen-angel",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Jack Spaidz",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-jack-spaidz",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Nico Hartt",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-nico-hartt",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Ronin",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-ronin",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Lujan",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-lujan",
+                  "start": "22:00"
+                }
+              ]
             }
           ]
         },
@@ -2198,6 +2239,47 @@
                   "end": "01:00",
                   "id": "dreamstate-socal-2026-solarstone",
                   "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "BeatBox Art Car",
+              "sets": [
+                {
+                  "artist": "Bruce Wayne",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-bruce-wayne",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Sony Jacob",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-sony-jacob",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Rowland Giles",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-rowland-giles",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "J-Note",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-j-note",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Causeway b2b Excelsior",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-causeway-b2b-excelsior",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Switchmachine",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-switchmachine",
+                  "start": "22:00"
                 }
               ]
             }
