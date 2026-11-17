@@ -218,7 +218,27 @@ def validate_festival(fest, index, seen_ids, seen_set_ids):
         if not isinstance(stages, list):
             err(f"{dwhere}: 'stages' must be an array")
             continue
-        for si, stage in enumerate(stages):
+        # A second part of the night (an official afterparty) keeps its
+        # stages beside `stages`, and they are checked the same way.
+        part = day.get("afterparty")
+        part_stages = []
+        if part is not None:
+            if not isinstance(part, dict):
+                err(f"{dwhere}: 'afterparty' must be an object")
+            else:
+                require_str(part, "name", f"{dwhere} afterparty")
+                if part.get("note") is not None and not isinstance(part.get("note"), str):
+                    err(f"{dwhere} afterparty: 'note' must be a string")
+                if not isinstance(part.get("stages"), list) or not part["stages"]:
+                    err(f"{dwhere} afterparty: 'stages' must be a non-empty array")
+                else:
+                    part_stages = part["stages"]
+                    names = {st.get("name") for st in stages if isinstance(st, dict)}
+                    for st in part_stages:
+                        if isinstance(st, dict) and st.get("name") in names:
+                            err(f"{dwhere} afterparty: stage {st.get('name')!r} has the name of "
+                                "one of the day's own stages")
+        for si, stage in enumerate(list(stages) + list(part_stages)):
             swhere = f"{dwhere} stages[{si}]"
             if not isinstance(stage, dict):
                 err(f"{swhere}: stage is not an object")
@@ -439,7 +459,7 @@ def validate(path):
         len(stage.get("sets", []))
         for fest in festivals
         for day in fest.get("days", [])
-        for stage in day.get("stages", [])
+        for stage in day.get("stages", []) + (day.get("afterparty") or {}).get("stages", [])
     )
     print(f"OK: {path} is valid — meta.version {version}, "
           f"{len(festivals)} festival(s), {n_sets} set(s), {len(shows)} show(s).")

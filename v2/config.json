@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": 75,
-    "publishedAt": "2026-11-16T09:37:48Z",
-    "iosBuild": 138,
+    "version": 111,
+    "publishedAt": "2026-11-17T09:52:45Z",
+    "iosBuild": 162,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
-    "androidBuild": 106,
+    "androidBuild": 126,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
   },
   "festivals": [
@@ -1732,7 +1732,818 @@
       "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
     },
     {
-      "days": [],
+      "days": [
+        {
+          "date": "2026-11-20",
+          "stages": [
+            {
+              "name": "The Dream",
+              "sets": [
+                {
+                  "artist": "VisionV",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-visionv",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Matty Ralph",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-matty-ralph",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "David Rust + Olly James",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-david-rust-and-olly-james",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "The Rocketman",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-the-rocketman",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "MaRLo",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-marlo",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Andrew Rayel pres Extasia",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-andrew-rayel-pres-extasia",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Dash Berlin",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-dash-berlin",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Hannah Laing + Marie Vaunt",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-hannah-laing-and-marie-vaunt",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "ARTBAT",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-artbat",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Sequence",
+              "sets": [
+                {
+                  "artist": "Maximizer",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-maximizer",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Terra",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-terra",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "KAUFMANN",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-kaufmann",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Burn In Noise",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-burn-in-noise",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "GMS",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-gms",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Phaxe",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-phaxe",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Astrix",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-astrix",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Neelix",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-neelix",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Infected Mushroom",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-infected-mushroom",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Void",
+              "sets": [
+                {
+                  "artist": "Shay De Castro",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-shay-de-castro",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "BK",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-bk",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Lee Ann Roberts",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-lee-ann-roberts",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "A.N.I.",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-a-n-i",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Schrotthagen",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-schrotthagen",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Panteros666",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-panteros666",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Pegassi",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-pegassi",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Enrico Sangiuliano",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-enrico-sangiuliano",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Reinier Zonneveld (Live)",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-reinier-zonneveld-live",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Vision",
+              "sets": [
+                {
+                  "artist": "KARMÅ",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-karma",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Steve Dekay",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-steve-dekay",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "FRANKYEFFE",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-frankyeffe",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Mirage (Live)",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-mirage-live",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "NRG2000",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-nrg2000",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Warp Brothers",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-warp-brothers",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Mauro Picotto",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-mauro-picotto",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "BT",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-bt-and-matt-fax",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Marco V",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-marco-v",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "BeatBox Art Car",
+              "sets": [
+                {
+                  "artist": "Matt Gucci",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-matt-gucci",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Fallen Angel",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-fallen-angel",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Jack Spaidz",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-jack-spaidz",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Nico Hartt",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-nico-hartt",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Ronin",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-ronin",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Lujan",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-lujan",
+                  "start": "22:00"
+                }
+              ]
+            }
+          ],
+          "afterparty": {
+            "name": "Official Afterparty",
+            "note": "Separate ticket · aboard the Queen Mary",
+            "stages": [
+              {
+                "name": "Grand",
+                "sets": [
+                  {
+                    "artist": "Kristina Sky",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-kristina-sky",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "FRANKYEFFE",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-frankyeffe",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "ALPHA 9",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-alpha-9",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "The Rocketman",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-the-rocketman",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Steve Dekay",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-steve-dekay",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Brendan Bartels",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-brendan-bartels",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Queen",
+                "sets": [
+                  {
+                    "artist": "Unter Strøm",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-unter-strom",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "BK",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-bk",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Mauro Picotto (Classics Set)",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-mauro-picotto-classics-set",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "John Askew",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-john-askew",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Paul Denton",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-paul-denton",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Bowers & Bidwell",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-bowers-bidwell",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Britannia",
+                "sets": [
+                  {
+                    "artist": "Just Hass",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-just-hass",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Burn In Noise",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-burn-in-noise",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "KAUFMANN",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-kaufmann",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Terra",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-terra",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Submersive",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-submersive",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Spyros",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-spyros",
+                    "start": "05:00"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "date": "2026-11-21",
+          "stages": [
+            {
+              "name": "The Dream",
+              "sets": [
+                {
+                  "artist": "Das Pharaoh",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-das-pharaoh",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "TH;EN",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-th-en",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Nu Aspect",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-nu-aspect",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "JOA",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-joa",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Aaron Hibell (Live)",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-aaron-hibell-live",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "ALPHA 9 + Ilan Bluestone",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-alpha-9-and-ilan-bluestone",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Ferry Corsten + Marsh",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-ferry-corsten-and-marsh",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Above & Beyond (Anjunabeats Classics)",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-above-and-beyond-anjunabeats-classics",
+                  "start": "23:00"
+                }
+              ]
+            },
+            {
+              "name": "The Sequence",
+              "sets": [
+                {
+                  "artist": "Barakuda",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-barakuda",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Perfect Stranger",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-perfect-stranger",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Rising Dust",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-rising-dust",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Sighter",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-sighter",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "John 00 Fleming",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-john-00-fleming",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Giorgia Angiuli",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-giorgia-angiuli",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Vini Vici",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-vini-vici",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "Ace Ventura",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-ace-ventura",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Animato",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-animato",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "The Void",
+              "sets": [
+                {
+                  "artist": "Discovery Project: Hausman",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-discovery-project",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Roman Messer",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-roman-messer",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Parallel Worlds",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-parallel-worlds",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Eddie Halliwell + Judge Jules",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-eddie-halliwell-and-judge-jules",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "David Forbes + John Askew",
+                  "end": "21:15",
+                  "id": "dreamstate-socal-2026-david-forbes-and-mark-sherry-pres-thick-as-thieves",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Bryan Kearney + John O'Callaghan pres Key4050",
+                  "end": "22:30",
+                  "id": "dreamstate-socal-2026-key4050",
+                  "start": "21:15"
+                },
+                {
+                  "artist": "Aly & Fila + Billy Gillies",
+                  "end": "23:45",
+                  "id": "dreamstate-socal-2026-aly-and-fila-and-billy-gillies",
+                  "start": "22:30"
+                },
+                {
+                  "artist": "Paul van Dyk pres Essence Of Acid",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-paul-van-dyk-pres-essence-of-acid",
+                  "start": "23:45"
+                }
+              ]
+            },
+            {
+              "name": "The Vision",
+              "sets": [
+                {
+                  "artist": "Sequence Six",
+                  "end": "17:00",
+                  "id": "dreamstate-socal-2026-sequence-six",
+                  "start": "16:00"
+                },
+                {
+                  "artist": "Maria Healy",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-maria-healy",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Chris Metcalfe",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-chris-metcalfe",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Andy Moor",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-andy-moor",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "Allen Watts + Talla 2XLC",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-allen-watts-and-talla-2xlc",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Darren Porter + Sean Tyas",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-darren-porter-and-sean-tyas",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Cold Blue",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-cold-blue",
+                  "start": "22:00"
+                },
+                {
+                  "artist": "4 Strings (Classics Set)",
+                  "end": "00:00",
+                  "id": "dreamstate-socal-2026-4-strings-classics-set",
+                  "start": "23:00"
+                },
+                {
+                  "artist": "Solarstone",
+                  "end": "01:00",
+                  "id": "dreamstate-socal-2026-solarstone",
+                  "start": "00:00"
+                }
+              ]
+            },
+            {
+              "name": "BeatBox Art Car",
+              "sets": [
+                {
+                  "artist": "Bruce Wayne",
+                  "end": "18:00",
+                  "id": "dreamstate-socal-2026-bruce-wayne",
+                  "start": "17:00"
+                },
+                {
+                  "artist": "Sony Jacob",
+                  "end": "19:00",
+                  "id": "dreamstate-socal-2026-sony-jacob",
+                  "start": "18:00"
+                },
+                {
+                  "artist": "Rowland Giles",
+                  "end": "20:00",
+                  "id": "dreamstate-socal-2026-rowland-giles",
+                  "start": "19:00"
+                },
+                {
+                  "artist": "J-Note",
+                  "end": "21:00",
+                  "id": "dreamstate-socal-2026-j-note",
+                  "start": "20:00"
+                },
+                {
+                  "artist": "Causeway b2b Excelsior",
+                  "end": "22:00",
+                  "id": "dreamstate-socal-2026-causeway-b2b-excelsior",
+                  "start": "21:00"
+                },
+                {
+                  "artist": "Switchmachine",
+                  "end": "23:00",
+                  "id": "dreamstate-socal-2026-switchmachine",
+                  "start": "22:00"
+                }
+              ]
+            }
+          ],
+          "afterparty": {
+            "name": "Official Afterparty",
+            "note": "Separate ticket · aboard the Queen Mary",
+            "stages": [
+              {
+                "name": "Grand",
+                "sets": [
+                  {
+                    "artist": "Ed Lynam",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-ed-lynam",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Judge Jules",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-judge-jules",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Eddie Halliwell",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-eddie-halliwell",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Aly & Fila",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-aly-fila",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "David Forbes pres DBF",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-david-forbes-pres-dbf",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Dustin Husain",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-dustin-husain",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Queen",
+                "sets": [
+                  {
+                    "artist": "Mr. Brooks",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-mr-brooks",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Will Rees",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-will-rees",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Sean Tyas (Trance Roots Set)",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-sean-tyas-trance-roots-set",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Cold Blue + Solarstone",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-cold-blue-solarstone",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Chris Metcalfe + Maria Healy",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-chris-metcalfe-maria-healy",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Omar Sherif",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-omar-sherif",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Britannia",
+                "sets": [
+                  {
+                    "artist": "Scenator",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-scenator",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Barakuda",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-barakuda",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Sighter",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-sighter",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Animato b2b Perfect Stranger",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-animato-b2b-perfect-stranger",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Triceradrops",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-triceradrops",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "OR",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-or",
+                    "start": "05:00"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
       "endDate": "2026-11-21",
       "id": "dreamstate-socal-2026",
       "accentColor": "#234B8E",
@@ -1744,358 +2555,7 @@
       "venue": "Queen Mary Waterfront",
       "websiteUrl": "https://socal.dreamstateusa.com",
       "instagramUrl": "https://instagram.com/dreamstateusa",
-      "lineup": [
-        {
-          "id": "dreamstate-socal-2026-4-strings-classics-set",
-          "artist": "4 Strings (Classics Set)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-a-n-i",
-          "artist": "A.N.I.",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-aaron-hibell-live",
-          "artist": "Aaron Hibell (Live)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-above-and-beyond-anjunabeats-classics",
-          "artist": "Above & Beyond (Anjunabeats Classics)",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-ace-ventura",
-          "artist": "Ace Ventura",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-allen-watts-and-talla-2xlc",
-          "artist": "Allen Watts + Talla 2XLC",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-alpha-9-and-ilan-bluestone",
-          "artist": "ALPHA 9 + Ilan Bluestone",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-aly-and-fila-and-billy-gillies",
-          "artist": "Aly & Fila + Billy Gillies",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-andrew-rayel-pres-extasia",
-          "artist": "Andrew Rayel pres Extasia",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-andy-moor",
-          "artist": "Andy Moor",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-animato",
-          "artist": "Animato",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-artbat",
-          "artist": "ARTBAT",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-astrix",
-          "artist": "Astrix",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-barakuda",
-          "artist": "Barakuda",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-bk",
-          "artist": "BK",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-bt-and-matt-fax",
-          "artist": "BT + Matt Fax",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-burn-in-noise",
-          "artist": "Burn In Noise",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-chris-metcalfe",
-          "artist": "Chris Metcalfe",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-cold-blue",
-          "artist": "Cold Blue",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-darren-porter-and-sean-tyas",
-          "artist": "Darren Porter + Sean Tyas",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-das-pharaoh",
-          "artist": "Das Pharaoh",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-dash-berlin",
-          "artist": "Dash Berlin",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-david-forbes-and-mark-sherry-pres-thick-as-thieves",
-          "artist": "David Forbes + Mark Sherry pres Thick As Thieves",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-david-rust-and-olly-james",
-          "artist": "David Rust + Olly James",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-discovery-project",
-          "artist": "Discovery Project",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-eddie-halliwell-and-judge-jules",
-          "artist": "Eddie Halliwell + Judge Jules",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-enrico-sangiuliano",
-          "artist": "Enrico Sangiuliano",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-ferry-corsten-and-marsh",
-          "artist": "Ferry Corsten + Marsh",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-frankyeffe",
-          "artist": "FRANKYEFFE",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-giorgia-angiuli",
-          "artist": "Giorgia Angiuli",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-gms",
-          "artist": "GMS",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-hannah-laing-and-marie-vaunt",
-          "artist": "Hannah Laing + Marie Vaunt",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-infected-mushroom",
-          "artist": "Infected Mushroom",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-joa",
-          "artist": "JOA",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-john-00-fleming",
-          "artist": "John 00 Fleming",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-john-askew-and-simon-patterson",
-          "artist": "John Askew + Simon Patterson",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-karma",
-          "artist": "KARMÅ",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-kaufmann",
-          "artist": "KAUFMANN",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-key4050",
-          "artist": "Key4050",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-lee-ann-roberts",
-          "artist": "Lee Ann Roberts",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-marco-v",
-          "artist": "Marco V",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-maria-healy",
-          "artist": "Maria Healy",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-marlo",
-          "artist": "MaRLo",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-matty-ralph",
-          "artist": "Matty Ralph",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-mauro-picotto",
-          "artist": "Mauro Picotto",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-maximizer",
-          "artist": "Maximizer",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-mirage-live",
-          "artist": "Mirage (Live)",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-neelix",
-          "artist": "Neelix",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-nrg2000",
-          "artist": "NRG2000",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-nu-aspect",
-          "artist": "Nu Aspect",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-panteros666",
-          "artist": "Panteros666",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-parallel-worlds",
-          "artist": "Parallel Worlds",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-paul-van-dyk-pres-essence-of-acid",
-          "artist": "Paul van Dyk pres Essence Of Acid",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-pegassi",
-          "artist": "Pegassi",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-perfect-stranger",
-          "artist": "Perfect Stranger",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-phaxe",
-          "artist": "Phaxe",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-reinier-zonneveld-live",
-          "artist": "Reinier Zonneveld (Live)",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-rising-dust",
-          "artist": "Rising Dust",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-the-rocketman",
-          "artist": "The Rocketman",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-schrotthagen",
-          "artist": "Schrotthagen",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-sequence-six",
-          "artist": "Sequence Six",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-shay-de-castro",
-          "artist": "Shay De Castro",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-sighter",
-          "artist": "Sighter",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-solarstone",
-          "artist": "Solarstone",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-steve-dekay",
-          "artist": "Steve Dekay",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-terra",
-          "artist": "Terra",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-th-en",
-          "artist": "TH;EN",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-vini-vici",
-          "artist": "Vini Vici",
-          "day": "2026-11-21"
-        },
-        {
-          "id": "dreamstate-socal-2026-visionv",
-          "artist": "VisionV",
-          "day": "2026-11-20"
-        },
-        {
-          "id": "dreamstate-socal-2026-warp-brothers",
-          "artist": "Warp Brothers",
-          "day": "2026-11-20"
-        }
-      ]
+      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg"
     },
     {
       "days": [],
@@ -7588,11 +8048,376 @@
       "websiteUrl": "https://www.sfoutsidelands.com",
       "instagramUrl": "https://instagram.com/outsidelands",
       "redditUrl": "https://www.reddit.com/r/OutsideLands/",
-      "accentColor": "#FC9BD8"
+      "accentColor": "#FC9BD8",
+      "lineup": [
+        {
+          "id": "outside-lands-2026-charli-xcx",
+          "artist": "Charli xcx"
+        },
+        {
+          "id": "outside-lands-2026-rufus-du-sol",
+          "artist": "RÜFÜS DU SOL"
+        },
+        {
+          "id": "outside-lands-2026-the-strokes",
+          "artist": "The Strokes"
+        },
+        {
+          "id": "outside-lands-2026-the-xx",
+          "artist": "The xx"
+        },
+        {
+          "id": "outside-lands-2026-baby-keem",
+          "artist": "Baby Keem"
+        },
+        {
+          "id": "outside-lands-2026-turnstile",
+          "artist": "Turnstile"
+        },
+        {
+          "id": "outside-lands-2026-griztronics-subtronics-griz",
+          "artist": "GRIZTRONICS (Subtronics + GRiZ)"
+        },
+        {
+          "id": "outside-lands-2026-djo",
+          "artist": "Djo"
+        },
+        {
+          "id": "outside-lands-2026-labrinth",
+          "artist": "Labrinth"
+        },
+        {
+          "id": "outside-lands-2026-empire-of-the-sun",
+          "artist": "Empire Of The Sun"
+        },
+        {
+          "id": "outside-lands-2026-dijon",
+          "artist": "Dijon"
+        },
+        {
+          "id": "outside-lands-2026-disco-lines",
+          "artist": "Disco Lines"
+        },
+        {
+          "id": "outside-lands-2026-death-cab-for-cutie",
+          "artist": "Death Cab for Cutie"
+        },
+        {
+          "id": "outside-lands-2026-glorilla",
+          "artist": "GloRilla"
+        },
+        {
+          "id": "outside-lands-2026-ethel-cain",
+          "artist": "Ethel Cain"
+        },
+        {
+          "id": "outside-lands-2026-geese",
+          "artist": "Geese"
+        },
+        {
+          "id": "outside-lands-2026-mariah-the-scientist",
+          "artist": "Mariah the Scientist"
+        },
+        {
+          "id": "outside-lands-2026-modest-mouse",
+          "artist": "Modest Mouse"
+        },
+        {
+          "id": "outside-lands-2026-not-for-radio",
+          "artist": "Not for Radio"
+        },
+        {
+          "id": "outside-lands-2026-clipse",
+          "artist": "Clipse"
+        },
+        {
+          "id": "outside-lands-2026-lucy-dacus",
+          "artist": "Lucy Dacus"
+        },
+        {
+          "id": "outside-lands-2026-wet-leg",
+          "artist": "Wet Leg"
+        },
+        {
+          "id": "outside-lands-2026-it-s-murph",
+          "artist": "it's murph"
+        },
+        {
+          "id": "outside-lands-2026-sierra-ferrell",
+          "artist": "Sierra Ferrell"
+        },
+        {
+          "id": "outside-lands-2026-malcolm-todd",
+          "artist": "Malcolm Todd"
+        },
+        {
+          "id": "outside-lands-2026-lane-8",
+          "artist": "Lane 8"
+        },
+        {
+          "id": "outside-lands-2026-snow-strippers",
+          "artist": "Snow Strippers"
+        },
+        {
+          "id": "outside-lands-2026-boris-brejcha",
+          "artist": "Boris Brejcha"
+        },
+        {
+          "id": "outside-lands-2026-odd-mob-and-omnom-present-hyperbeam",
+          "artist": "Odd Mob and OMNOM present HYPERBEAM"
+        },
+        {
+          "id": "outside-lands-2026-tinashe",
+          "artist": "Tinashe"
+        },
+        {
+          "id": "outside-lands-2026-audrey-hobert",
+          "artist": "Audrey Hobert"
+        },
+        {
+          "id": "outside-lands-2026-ben-bohmer",
+          "artist": "Ben Böhmer"
+        },
+        {
+          "id": "outside-lands-2026-jade",
+          "artist": "JADE"
+        },
+        {
+          "id": "outside-lands-2026-the-temper-trap",
+          "artist": "The Temper Trap"
+        },
+        {
+          "id": "outside-lands-2026-the-story-so-far",
+          "artist": "The Story So Far"
+        },
+        {
+          "id": "outside-lands-2026-kwn",
+          "artist": "kwn"
+        },
+        {
+          "id": "outside-lands-2026-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U"
+        },
+        {
+          "id": "outside-lands-2026-ki-ki",
+          "artist": "KI/KI"
+        },
+        {
+          "id": "outside-lands-2026-dj-trixie-mattel",
+          "artist": "DJ Trixie Mattel"
+        },
+        {
+          "id": "outside-lands-2026-aszewo",
+          "artist": "Łaszewo"
+        },
+        {
+          "id": "outside-lands-2026-sienna-spiro",
+          "artist": "SIENNA SPIRO"
+        },
+        {
+          "id": "outside-lands-2026-destin-conrad",
+          "artist": "DESTIN CONRAD"
+        },
+        {
+          "id": "outside-lands-2026-boys-noize",
+          "artist": "Boys Noize"
+        },
+        {
+          "id": "outside-lands-2026-durand-bernarr",
+          "artist": "Durand Bernarr"
+        },
+        {
+          "id": "outside-lands-2026-kingfishr",
+          "artist": "Kingfishr"
+        },
+        {
+          "id": "outside-lands-2026-alleycvt",
+          "artist": "ALLEYCVT"
+        },
+        {
+          "id": "outside-lands-2026-balu-brigada",
+          "artist": "Balu Brigada"
+        },
+        {
+          "id": "outside-lands-2026-sultan-shepard",
+          "artist": "Sultan + Shepard"
+        },
+        {
+          "id": "outside-lands-2026-frost-children",
+          "artist": "Frost Children"
+        },
+        {
+          "id": "outside-lands-2026-miss-monique",
+          "artist": "Miss Monique"
+        },
+        {
+          "id": "outside-lands-2026-die-spitz",
+          "artist": "Die Spitz"
+        },
+        {
+          "id": "outside-lands-2026-carlita",
+          "artist": "Carlita"
+        },
+        {
+          "id": "outside-lands-2026-mph",
+          "artist": "MPH"
+        },
+        {
+          "id": "outside-lands-2026-silvana-estrada",
+          "artist": "Silvana Estrada"
+        },
+        {
+          "id": "outside-lands-2026-momma",
+          "artist": "Momma"
+        },
+        {
+          "id": "outside-lands-2026-dylan-brady",
+          "artist": "Dylan Brady"
+        },
+        {
+          "id": "outside-lands-2026-goldie-boutilier",
+          "artist": "Goldie Boutilier"
+        },
+        {
+          "id": "outside-lands-2026-haute-freddy",
+          "artist": "Haute & Freddy"
+        },
+        {
+          "id": "outside-lands-2026-tobiahs",
+          "artist": "Tobiahs"
+        },
+        {
+          "id": "outside-lands-2026-wunderhorse",
+          "artist": "Wunderhorse"
+        },
+        {
+          "id": "outside-lands-2026-amble",
+          "artist": "Amble"
+        },
+        {
+          "id": "outside-lands-2026-sports",
+          "artist": "Sports"
+        },
+        {
+          "id": "outside-lands-2026-yard-act",
+          "artist": "Yard Act"
+        },
+        {
+          "id": "outside-lands-2026-faouzia",
+          "artist": "Faouzia"
+        },
+        {
+          "id": "outside-lands-2026-infinity-song",
+          "artist": "Infinity Song"
+        },
+        {
+          "id": "outside-lands-2026-billie-marten",
+          "artist": "Billie Marten"
+        },
+        {
+          "id": "outside-lands-2026-marlon-funaki",
+          "artist": "Marlon Funaki"
+        },
+        {
+          "id": "outside-lands-2026-camoufly",
+          "artist": "camoufly"
+        },
+        {
+          "id": "outside-lands-2026-night-tapes",
+          "artist": "Night Tapes"
+        },
+        {
+          "id": "outside-lands-2026-bandalos-chinos",
+          "artist": "Bandalos Chinos"
+        },
+        {
+          "id": "outside-lands-2026-jim-legxacy",
+          "artist": "Jim Legxacy"
+        },
+        {
+          "id": "outside-lands-2026-x-club",
+          "artist": "X CLUB."
+        },
+        {
+          "id": "outside-lands-2026-luke-alessi",
+          "artist": "Luke Alessi"
+        },
+        {
+          "id": "outside-lands-2026-after",
+          "artist": "After"
+        },
+        {
+          "id": "outside-lands-2026-bad-nerves",
+          "artist": "Bad Nerves"
+        },
+        {
+          "id": "outside-lands-2026-chezile",
+          "artist": "Chezile"
+        },
+        {
+          "id": "outside-lands-2026-rio-kosta",
+          "artist": "RIO KOSTA"
+        },
+        {
+          "id": "outside-lands-2026-sosocamo",
+          "artist": "Sosocamo"
+        },
+        {
+          "id": "outside-lands-2026-automatic",
+          "artist": "Automatic"
+        },
+        {
+          "id": "outside-lands-2026-sawyer-hill",
+          "artist": "Sawyer Hill"
+        },
+        {
+          "id": "outside-lands-2026-1-800-girls",
+          "artist": "1-800 GIRLS"
+        },
+        {
+          "id": "outside-lands-2026-nezza",
+          "artist": "NEZZA"
+        },
+        {
+          "id": "outside-lands-2026-red-leather",
+          "artist": "Red Leather"
+        },
+        {
+          "id": "outside-lands-2026-racing-mount-pleasant",
+          "artist": "Racing Mount Pleasant"
+        },
+        {
+          "id": "outside-lands-2026-day-we-ran",
+          "artist": "Day We Ran"
+        },
+        {
+          "id": "outside-lands-2026-britton",
+          "artist": "Britton"
+        },
+        {
+          "id": "outside-lands-2026-cruz-beckham",
+          "artist": "Cruz Beckham"
+        },
+        {
+          "id": "outside-lands-2026-ryman",
+          "artist": "RYMAN"
+        },
+        {
+          "id": "outside-lands-2026-vertigo",
+          "artist": "Vertigo"
+        },
+        {
+          "id": "outside-lands-2026-pinkpantheress",
+          "artist": "PinkPantheress"
+        }
+      ]
     }
   ],
   "shows": [],
   "artists": {
+    "1-800 GIRLS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/1-800-girls/1288017230"
+    },
     "1TBSP": {
       "appleMusicUrl": "https://music.apple.com/us/artist/1tbsp/1548254435",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/1TBSP-PROFILE-SDE9-600x600.png"
@@ -7764,6 +8589,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/3b/3b/c7/3b3bc7bb-9f4c-d8cd-c03c-60ec3af89107/ami_U003aidentity_U003a3f4b9e1f22eb1f3f63be8f43f7e8aa02-2026-09-17T18-05-39.458Z_cropped.png/600x600bb.jpg"
     },
+    "Airrica": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/airrica/1651846188"
+    },
     "Airwolf Paradise": {
       "appleMusicUrl": "https://music.apple.com/us/artist/airwolf-paradise/272547821",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b2/b9/5d/b2b95d6b-96b8-a6da-f452-b0d27411bb71/ami-identity-6dd0e4dd7f51c97314bf070f59297f48-2025-02-07T04-54-41.518Z_cropped.png/600x600bb.jpg"
@@ -7810,6 +8638,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/alves/1579622162",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/70/70/98/7070984b-d928-03e6-23b9-1cdb6b3e8ae5/mzl.vyfpzics.jpg/600x600bb.jpg"
     },
+    "Amble": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amble/1671435415",
+      "spotifyUrl": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+    },
     "American Football": {
       "appleMusicUrl": "https://music.apple.com/us/artist/american-football/27560658",
       "spotifyUrl": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4",
@@ -7818,6 +8650,9 @@
     "Amira Elfeky": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amira-elfeky/1534139424",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ff/e6/8d/ffe68d2a-de9d-661f-9858-a7ffb26e958c/ami_U003aidentity_U003a10d0c3bb7316bff83c159e57962235b3-2026-09-29T17-07-30.210Z_cropped.png/600x600bb.jpg"
+    },
+    "Amy Wiles": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amy-wiles/1498607119"
     },
     "Andrew Parsons": {
       "appleMusicUrl": "https://music.apple.com/us/artist/andrew-parsons/164647411",
@@ -7868,9 +8703,15 @@
       "spotifyUrl": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/46/9d/04/469d04f9-2fd6-19b0-56f4-fd41cab5e6ae/pr_source.png/600x600bb.jpg"
     },
+    "Audrey Hobert": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/audrey-hobert/1812750994"
+    },
     "Austin Ashtin": {
       "appleMusicUrl": "https://music.apple.com/us/artist/austin-ashtin/1508710164",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/cf/bf/44/cfbf44bd-1146-dcad-e49d-c61240c1b930/cover.jpg/600x600ac.jpg"
+    },
+    "Automatic": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/automatic/1466789409"
     },
     "Avello": {
       "appleMusicUrl": "https://music.apple.com/us/artist/avello/476861072",
@@ -7892,6 +8733,9 @@
     "B Side": {
       "appleMusicUrl": "https://music.apple.com/us/artist/b-side/268200633",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/b9/8f/48/b98f48cd-4562-8172-2ad0-9f723e7fa5dd/pr_source.png/600x600bb.jpg"
+    },
+    "B/AN/K": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/b-an-k/1611149012"
     },
     "B1": {
       "appleMusicUrl": "https://music.apple.com/us/artist/b1/1786653825",
@@ -7950,6 +8794,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/britton/250599027",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b3/a2/ea/b3a2ea7a-e464-c833-5cd8-d098b0e821fd/file_cropped.png/600x600bb.jpg"
     },
+    "BT": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bt/187026",
+      "spotifyUrl": "https://open.spotify.com/artist/64MoFdq8ORI3V98AR5SPWL"
+    },
     "BUNT.": {
       "appleMusicUrl": "https://music.apple.com/us/artist/bunt/1436090348",
       "spotifyUrl": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j",
@@ -7960,10 +8808,22 @@
       "spotifyUrl": "https://open.spotify.com/artist/5Oq7EwA4wS5J6L4hYtf9Tk",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c7/24/5d/c7245dd1-89eb-cf66-6ec1-50b12713f8f2/ami-identity-6b1c8bc564b3599ceec2216f693f8579-2025-12-15T03-17-32.852Z_cropped.png/600x600bb.jpg"
     },
+    "Baby Keem": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/baby-keem/1413572916"
+    },
     "Bad Gyal": {
       "appleMusicUrl": "https://music.apple.com/us/artist/bad-gyal/1174817313",
       "spotifyUrl": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7e/b3/8f/7eb38f8e-5b56-8080-da11-110c09ddfb11/ami-identity-8b83c0d8900ec920d189105611cb2b91-2026-03-04T22-45-24.402Z_cropped.png/600x600bb.jpg"
+    },
+    "Bad Nerves": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bad-nerves/1213806228"
+    },
+    "Balu Brigada": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/balu-brigada/1171521321"
+    },
+    "Bandalos Chinos": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bandalos-chinos/949378326"
     },
     "Barakuda": {
       "appleMusicUrl": "https://music.apple.com/us/artist/barakuda/279270219",
@@ -7994,6 +8854,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/beauz/1127956990",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/8e/4d/f1/8e4df14f-efcd-5ac2-bbc6-aa81abadfb87/ami-identity-20fdc5fff6c5ba0320bcebc595533787-2025-02-07T04-56-14.454Z_cropped.png/600x600bb.jpg"
     },
+    "Because of Art": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/because-of-art/1460708707"
+    },
     "Becky G": {
       "appleMusicUrl": "https://music.apple.com/us/artist/becky-g/550411604",
       "spotifyUrl": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3",
@@ -8011,6 +8874,10 @@
     "Beltran b2b Ben Sterling": {
       "appleMusicUrl": "https://music.apple.com/us/artist/beltran/90369561",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/77/54/6d/77546df6-1333-14e0-4b2f-f3d18ddcc824/063bc4de-8003-4a96-b15a-fd8cdea115d8_file_cropped.png/600x600bb.jpg"
+    },
+    "Ben Böhmer": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ben-b%C3%B6hmer/794108530",
+      "spotifyUrl": "https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u"
     },
     "Ben UFO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ben-ufo/591790660",
@@ -8035,6 +8902,10 @@
     "Big Florida": {
       "appleMusicUrl": "https://music.apple.com/us/artist/big-florida/1839065383",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/27/9e/f2/279ef2a3-7f61-eed0-bec3-275d8a547947/663918169612.jpg/600x600ac.jpg"
+    },
+    "Billie Marten": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/billie-marten/879538438",
+      "spotifyUrl": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
     },
     "Black Tiger Sex Machine": {
       "appleMusicUrl": "https://music.apple.com/us/artist/black-tiger-sex-machine/483164078",
@@ -8072,6 +8943,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/e3/c7/18/e3c71899-2813-e005-e9e7-7e97d9d324ef/mzl.aflucrpf.jpg/600x600bb.jpg"
     },
+    "Boys Noize": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/boys-noize/60393190"
+    },
     "Boys Noize B2B Brutalismus 3000": {
       "appleMusicUrl": "https://music.apple.com/us/artist/boys-noize/60393190",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Brutalismus3000-PROFILE-SDE9-600x600.png"
@@ -8083,6 +8957,16 @@
     "Brede": {
       "appleMusicUrl": "https://music.apple.com/us/artist/brede/300238044",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/4b/ca/af/4bcaaf3f-6246-8caf-14ff-8eadd47cc478/ami-identity-002e6fb0501184a17458ec45e44bd66b-2026-06-30T19-52-41.202Z_cropped.png/600x600bb.jpg"
+    },
+    "Britton": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/britton/250599027"
+    },
+    "Broken Hill": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/broken-hill/1689509357"
+    },
+    "Bruce Wayne": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bruce-wayne/1115641234",
+      "spotifyUrl": "https://open.spotify.com/artist/5SDYJN4TRZ3khpMNR9zZTG"
     },
     "Brunello": {
       "appleMusicUrl": "https://music.apple.com/us/artist/brunello/1697000713",
@@ -8174,6 +9058,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/calvin-harris/201955086",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/af/f6/4e/aff64e94-b9b8-489d-9230-201bf706a3ad/ami-identity-07148079fe60667b8de31c2063ceb13f-2026-05-05T13-23-05.258Z_cropped.png/600x600bb.jpg"
     },
+    "Carlita": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/carlita/599607197"
+    },
     "Caroline Polachek": {
       "appleMusicUrl": "https://music.apple.com/us/artist/caroline-polachek/385592090",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/64/b6/e3/64b6e3fc-639c-2ff0-b4b4-f050118b7132/c11619ca-609e-49bd-9fd2-8dc91db04e8d_ami-identity-f3f49d665e6fd8af68f9d2d428962620-2022-10-17T17-25-37.046Z_cropped.png/600x600bb.jpg"
@@ -8186,6 +9073,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/casmir/1828216560",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/ae/8f/04/ae8f0412-e606-d8f6-f9e7-3be543482e1b/199806344439.jpg/600x600ac.jpg"
     },
+    "Causeway b2b Excelsior": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/causeway/6368166"
+    },
     "Chanel Beads": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chanel-beads/1459184309",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/11/3d/f5/113df5ad-ec84-fa50-c0f9-17b09fb2d43e/60540146-b421-480c-b8ad-6f9d3f410739_ami-identity-732b0cd6a16b3a416e555a29af703fb6-2024-02-12T18-56-43.985Z_cropped.png/600x600bb.jpg"
@@ -8193,6 +9083,9 @@
     "Channel Tres": {
       "appleMusicUrl": "https://music.apple.com/us/artist/channel-tres/1293846868",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/bd/7c/fb/bd7cfb5e-84af-781e-dcea-01d605a49af7/ami-identity-76078d1c53a1ca957c9d8835555d7a18-2026-09-02T15-09-22.037Z_cropped.png/600x600bb.jpg"
+    },
+    "Charli xcx": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/charli-xcx/432942256"
     },
     "Charlotte de Witte": {
       "appleMusicUrl": "https://music.apple.com/us/artist/charlotte-de-witte/768227318",
@@ -8211,6 +9104,9 @@
     "Chef Boyarbeatz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chef-boyarbeatz/1291037225",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/8f/02/ff/8f02ff21-4b6c-cb54-ad41-e9f9ade2bfb0/2ee552ec-c36e-41fa-91ad-d349f75a677a_ami-identity-712e7fdcef8556abad2233f37bef8600-2023-11-09T19-40-08.692Z_cropped.png/600x600bb.jpg"
+    },
+    "Chezile": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/chezile/1502584860"
     },
     "Chloé Caillet": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chlo%C3%A9-caillet/1256658136",
@@ -8244,6 +9140,10 @@
     "Clearcast": {
       "appleMusicUrl": "https://music.apple.com/us/artist/clearcast/1634063557",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6d/88/c6/6d88c6c5-2259-e2c6-1936-0bbe65ac8a8e/199502324131_cover.jpg/600x600ac.jpg"
+    },
+    "Clipse": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/clipse/627567",
+      "spotifyUrl": "https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2"
     },
     "Cloonee": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cloonee/946851486",
@@ -8291,6 +9191,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/crumb-pit/1694778659",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/61/cc/96/61cc96a4-5dbc-6869-4dd0-750dfdb7774c/file_cropped.png/600x600bb.jpg"
     },
+    "Cruz Beckham": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cruz-beckham/1182571263"
+    },
     "CØNTRA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/c%C3%B8ntra/840283078",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/7c/a7/1c7ca711-8971-4861-74d0-c28bf06badd2/191079792788_cover.jpg/600x600ac.jpg"
@@ -8302,6 +9205,9 @@
     "DAMARIS BOJOR": {
       "appleMusicUrl": "https://music.apple.com/us/artist/damaris-bojor/1657753052",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/e3/ad/7b/e3ad7be1-9c3c-21a0-6052-7257eb12c5fc/7e94dbd8-f403-45b2-b97b-28c049264dcb_file_cropped.png/600x600bb.jpg"
+    },
+    "DESTIN CONRAD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/destin-conrad/852999989"
     },
     "DEXTER AND THE MOONROCKS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dexter-and-the-moonrocks/1581657500",
@@ -8344,6 +9250,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/dj-snake/125742557",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4a/db/cb/4adbcb32-695f-944c-0e2e-6ece4d3eae8b/file_cropped.png/600x600bb.jpg"
     },
+    "DJ Trixie Mattel": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/trixie-mattel/960467089"
+    },
     "DOG BLOOD (Skrillex & Boys Noize)": {
       "appleMusicUrl": "https://music.apple.com/us/artist/skrillex/356545647",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c9/e2/88/c9e28801-268c-65ff-68a3-658f42ea29e8/ami-identity-44981d563b78877d931a269f426e6dd7-2026-06-06T02-47-20.710Z_cropped.png/600x600bb.jpg"
@@ -8374,9 +9283,16 @@
       "spotifyUrl": "https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/98/4a/34/984a34d0-47ec-2000-1c03-a48c0ead4c24/ami_U003aidentity_U003adc514b482920017d94a4c87b135ba9da-2026-09-11T07-18-53.606Z_cropped.png/600x600bb.jpg"
     },
+    "Dansyn": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dansyn/1791001738"
+    },
     "Daphni": {
       "appleMusicUrl": "https://music.apple.com/us/artist/daphni/1282779393",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/41/b2/cf/41b2cf8e-5886-5f5e-3d6d-c79826c3cdfe/file_cropped.png/600x600bb.jpg"
+    },
+    "Darren Tate": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/darren-tate/58773161",
+      "spotifyUrl": "https://open.spotify.com/artist/16330UNmPRfGUXZC6flXqI"
     },
     "Das Pharaoh": {
       "appleMusicUrl": "https://music.apple.com/us/artist/das-pharaoh/1608924350",
@@ -8391,6 +9307,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/david-guetta/5557599",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/59/80/98/598098fd-ce30-abca-e220-d98f89f48fcb/56f3f326-8833-4ca9-a617-b9ac642a1153_ami-identity-01d023cabaf55c4d7122ac830b90b612-2024-01-25T11-21-34.069Z_cropped.png/600x600bb.jpg"
     },
+    "Day We Ran": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/day-we-ran/1672278782"
+    },
     "Dead City": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dead-city/1535892663",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/35/08/94/3508947a-084e-9fc4-927b-3e11827cfc2d/artwork.jpg/600x600ac.jpg"
@@ -8402,6 +9321,9 @@
     "Dean Turnley": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dean-turnley/1561296990",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/43/70/1c/43701c2f-348d-c16b-67b2-d914fea3ae78/ami-identity-59e5e6d3c488f642b4c1122dae2ad1e0-2026-04-08T07-33-59.572Z_cropped.png/600x600bb.jpg"
+    },
+    "Death Cab for Cutie": {
+      "spotifyUrl": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
     },
     "Deathpact": {
       "appleMusicUrl": "https://music.apple.com/us/artist/deathpact/1392493835",
@@ -8429,6 +9351,14 @@
     "Devault": {
       "appleMusicUrl": "https://music.apple.com/us/artist/devault/1068294292",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png"
+    },
+    "Die Spitz": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/die-spitz/1545875931",
+      "spotifyUrl": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE"
+    },
+    "Dijon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dijon/1292964044",
+      "spotifyUrl": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
     },
     "Diljit Dosanjh": {
       "appleMusicUrl": "https://music.apple.com/us/artist/diljit-dosanjh/423087540",
@@ -8460,6 +9390,10 @@
     "Discovery Project": {
       "appleMusicUrl": "https://music.apple.com/us/artist/discovery-project/1771931059"
     },
+    "Djo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/djo/1473178582",
+      "spotifyUrl": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+    },
     "Dom Dolla b2b Kettama": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dom-dolla/555348065",
       "spotifyUrl": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m",
@@ -8482,6 +9416,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/dream-boat/6821013227",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b4/30/04/b4300452-0964-5677-c7e5-7cd839df3aec/5056556187578_cover.jpg/600x600ac.jpg"
     },
+    "Dreya V": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dreya-v/1811911397",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/DreyaV-PROFILE-SDE9-600x600.png"
+    },
     "Dua Lipa": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dua-lipa/1031397873",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/fc/05/ea/fc05eaef-da77-d1a1-cccd-058d2668beaf/1fbd4b36-578b-4bad-be97-d4910f004da8_ami-identity-6a4cdfcea5ca482d082ae1239048d924-2024-03-13T19-39-37.988Z_cropped.png/600x600bb.jpg"
@@ -8490,9 +9428,21 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/dubvision/453713844",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/f6/0d/90/f60d9052-73fc-1733-ad09-f8e062878c58/pr_source.png/600x600bb.jpg"
     },
+    "Durand Bernarr": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/durand-bernarr/584124023",
+      "spotifyUrl": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+    },
+    "Durante b2b Ezequiel Arias": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/durante/3646347",
+      "spotifyUrl": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
+    },
     "Dying Wish": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dying-wish/1405075680",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ca/b5/cc/cab5ccc4-cf2c-2a40-e1a6-6180da66a164/file_cropped.png/600x600bb.jpg"
+    },
+    "Dylan Brady": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dylan-brady/826703713",
+      "spotifyUrl": "https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N"
     },
     "DØMINA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/d%C3%B8mina/1749417458",
@@ -8539,6 +9489,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/eli-brown/1453200399",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/d5/31/c6/d531c604-4508-facb-8e83-5b60243a9d2e/ami-identity-dad2cc3700d614bd47c0d1100c915c5f-2026-07-10T16-35-49.438Z_cropped.png/600x600bb.jpg"
     },
+    "Empire Of The Sun": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/empire-of-the-sun/284433289"
+    },
     "Empire of the Sun": {
       "appleMusicUrl": "https://music.apple.com/us/artist/empire-of-the-sun/284433289",
       "spotifyUrl": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c",
@@ -8574,6 +9527,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/2c/09/31/2c0931cf-8a2e-aae5-d09c-8af6b20138f4/mzl.eaxqhfii.png/600x600bb.jpg"
     },
+    "Ethel Cain": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ethel-cain/1474427879"
+    },
     "Evanescence": {
       "appleMusicUrl": "https://music.apple.com/us/artist/evanescence/42102393",
       "spotifyUrl": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c",
@@ -8594,7 +9550,8 @@
     },
     "FAOUZIA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/faouzia/414067643",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/39/f2/9e/39f29ebc-70fb-eded-fcca-b350894d9834/ami-identity-be3393e67e929a6a0fff7279263cf632-2025-11-06T22-16-00.388Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/39/f2/9e/39f29ebc-70fb-eded-fcca-b350894d9834/ami-identity-be3393e67e929a6a0fff7279263cf632-2025-11-06T22-16-00.388Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
     },
     "FCUKERS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fcukers/1679474991",
@@ -8624,9 +9581,20 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/failure/1646309",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/2f/0d/c3/2f0dc34f-7d18-41d8-f926-58eeac4a7fb2/ami-identity-334db3f97048ae5b2ee78feef90322a6-2026-02-17T04-54-40.032Z_cropped.png/600x600bb.jpg"
     },
+    "Fallen Angel": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fallen-angel/1742998360"
+    },
     "Fallon": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fallon/1438738486",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Fallon-PROFILE-SDE9-600x600.png"
+    },
+    "Faouzia": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/faouzia/414067643",
+      "spotifyUrl": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+    },
+    "Farius": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/farius/1093595406",
+      "spotifyUrl": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ"
     },
     "Fat Dog": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fat-dog/1696953372",
@@ -8702,13 +9670,17 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/frederic/1863710822",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/Frederic.-PROFILE-SDE9-600x600.png"
     },
+    "Frost Children": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/frost-children/1505504789"
+    },
     "GABRIEL JACOBY": {
       "appleMusicUrl": "https://music.apple.com/us/artist/gabriel-jacoby/1610957262",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/18/bd/28/18bd2826-baa7-f418-ef9a-5ad7a4c74178/ami_U003aidentity_U003a3ed191435dae36c3f551b7c63ad4447a-2026-10-13T21-05-50.931Z_cropped.png/600x600bb.jpg"
     },
     "GEESE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/geese/1378038472",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/85/98/c5/8598c5b2-5801-a6a6-5063-3da5fb70ba66/ami-identity-a82b2e3f4a86d0fe821bb3263b3d6a8b-2025-06-22T17-06-04.900Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/85/98/c5/8598c5b2-5801-a6a6-5063-3da5fb70ba66/ami-identity-a82b2e3f4a86d0fe821bb3263b3d6a8b-2025-06-22T17-06-04.900Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
     },
     "GG Magree": {
       "spotifyUrl": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n",
@@ -8748,6 +9720,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/gabbs/6796849863",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/6b/67/b7/6b67b725-86d1-1947-3df0-dc5b94087dae/artwork.jpg/600x600ac.jpg"
     },
+    "Gabss": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/gabss/1726951366"
+    },
     "Gamma": {
       "appleMusicUrl": "https://music.apple.com/us/artist/gamma/3636156",
       "spotifyUrl": "https://open.spotify.com/artist/2nxLkUvHbz2O3U6prNIfm6",
@@ -8761,6 +9736,10 @@
     "Ganimal": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ganimal/1770385201",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/91/0c/a1/910ca1ad-cf9c-4ec7-16d4-0d9f79e9a892/ami-identity-cb56e1ac476f28255e8e2bb42e339263-2024-10-11T16-03-06.527Z_cropped.png/600x600bb.jpg"
+    },
+    "Geese": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/geese/1378038472",
+      "spotifyUrl": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
     },
     "Gelli Haha": {
       "appleMusicUrl": "https://music.apple.com/us/artist/gelli-haha/1797160694",
@@ -8793,6 +9772,14 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/glassjaw/799089",
       "spotifyUrl": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/71/43/46/71434625-d817-54ba-a770-6065738402e1/mzl.bvzmapql.jpg/600x600bb.jpg"
+    },
+    "GloRilla": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/glorilla/1441017729",
+      "spotifyUrl": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+    },
+    "Goldie Boutilier": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/goldie-boutilier/1497564703",
+      "spotifyUrl": "https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5"
     },
     "Gondra": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ale-gondra-music/1479487462",
@@ -8839,10 +9826,18 @@
       "spotifyUrl": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/c1/ec/9b/c1ec9b31-1f99-3ccb-df9f-a9ff978ae2b0/pr_source.png/600x600bb.jpg"
     },
+    "Griz": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/griz/980722716",
+      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+    },
     "Groove Armada": {
       "appleMusicUrl": "https://music.apple.com/us/artist/groove-armada/1727137",
       "spotifyUrl": "https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/fb/ba/cc/fbbacc89-7184-2a50-bf81-9ca2a5030f3e/pr_source.png/600x600bb.jpg"
+    },
+    "Grum": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/grum/305693322",
+      "spotifyUrl": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
     },
     "Gryffin": {
       "spotifyUrl": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh",
@@ -8856,6 +9851,10 @@
     "HALŌ": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hal%C5%8D/6808298776",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f2/d5/ee/f2d5ee80-9d85-3b15-3b66-ba9a433a3e16/ami_U003aidentity_U003a74166312d48b3c8f8dd6c61ac11d0c1a-2026-10-14T08-23-51.827Z_cropped.png/600x600bb.jpg"
+    },
+    "HANA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hana/1792783458",
+      "spotifyUrl": "https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o"
     },
     "HAPPY LANDING": {
       "appleMusicUrl": "https://music.apple.com/us/artist/happy-landing/1525416582",
@@ -8936,6 +9935,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/idemi/1550840126",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6a/ad/82/6aad82e3-17a1-d246-593e-ef8db499a9ba/cover.jpg/600x600ac.jpg"
     },
+    "INNELLEA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/innellea/1065580681"
+    },
     "ISOxo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/isoxo/1480858530",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c4/a2/4b/c4a24b17-3858-20e4-6101-cd4449d69cd3/ami-identity-98453e736bdbf314ef59608b48a317fd-2024-10-18T16-22-05.871Z_cropped.png/600x600bb.jpg"
@@ -8961,10 +9963,23 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/infected-mushroom/67994774",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/c1/5b/c4/c15bc40b-d11c-1b61-8fac-f5b845ff0f50/pr_source.png/600x600bb.jpg"
     },
+    "Infinity Song": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/infinity-song/1032063566",
+      "spotifyUrl": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+    },
     "Interplanetary Criminal": {
       "appleMusicUrl": "https://music.apple.com/us/artist/interplanetary-criminal/1136192992",
       "spotifyUrl": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d3/e7/9d/d3e79d85-e044-de6e-7b03-534b884edda1/197338898772.jpg/600x600ac.jpg"
+    },
+    "J Ribbon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/j-ribbon/1751960651"
+    },
+    "J-Note": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/j-note/959176205"
+    },
+    "JADE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jade/1753030541"
     },
     "JASON SCOTT & THE HIGH HEAT": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jason-scott-the-high-heat/1770828691",
@@ -8995,6 +10010,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/joshua-jensen/1878170713",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7d/dc/0c/7ddc0cbe-4261-dea2-2bc7-533ca3fc4229/ami-identity-1fa663d4b990cd65b8a8eaea640ea085-2026-03-06T16-34-24.330Z_cropped.png/600x600bb.jpg"
     },
+    "JOSIE.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/josie/6780053171"
+    },
     "JT": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jt/1590403119",
       "spotifyUrl": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m",
@@ -9015,6 +10033,12 @@
     "Jaden Bojsen": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jaden-bojsen/1278256912",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/09/ac/a4/09aca46c-595c-e263-f0e6-c6ee8620e115/file_cropped.png/600x600bb.jpg"
+    },
+    "Jakob Nowell and THE CASTLE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jakob-nowell-and-the-castle/6835603217"
+    },
+    "James Grant & Jody Wisternoff": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/james-grant-jody-wisternoff/1177979339"
     },
     "James Hype": {
       "spotifyUrl": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v",
@@ -9046,6 +10070,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/jigitz/1212140410",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/40/31/dc/4031dca9-5805-2a15-49cb-0465672ff7ae/ami-identity-d717d4aa56dd721f209c29c103c7ee4f-2026-03-12T17-49-15.000Z_cropped.png/600x600bb.jpg"
     },
+    "Jim Legxacy": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/jim-legxacy/1460066773"
+    },
     "Jimi Jules": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jimi-jules/586933009",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features116/v4/42/bb/f9/42bbf932-b304-1fc7-c0d9-0f1276be5688/mzl.ctvxdtec.jpg/600x600bb.jpg"
@@ -9062,6 +10089,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/john-newman/649230577",
       "spotifyUrl": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ac/da/b1/acdab1bc-7f9c-ea9b-9b25-952c43b55f8b/pr_source.png/600x600bb.jpg"
+    },
+    "John Summit": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/john-summit/1387587503",
+      "spotifyUrl": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
     },
     "Jon Casey": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jon-casey/477268278",
@@ -9191,6 +10222,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/kinahau/1466864493",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/18/03/cf/1803cf6a-0fd3-c171-07c7-a542c0b7dc6e/ami-identity-5e06fd4515438af498b0fd47c255860d-2025-09-19T15-14-47.020Z_cropped.png/600x600bb.jpg"
     },
+    "Kingfishr": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kingfishr/1616516476",
+      "spotifyUrl": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+    },
     "Kittie": {
       "appleMusicUrl": "https://music.apple.com/us/artist/kittie/5576674",
       "spotifyUrl": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc",
@@ -9261,7 +10296,8 @@
     },
     "LABRINTH": {
       "appleMusicUrl": "https://music.apple.com/us/artist/labrinth/205732582",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ac/52/86/ac5286dd-0bb6-5257-5f9f-d514bf5558de/ami-identity-9425cfdc876613edeff76fc375e35c08-2026-05-29T03-49-48.659Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ac/52/86/ac5286dd-0bb6-5257-5f9f-d514bf5558de/ami-identity-9425cfdc876613edeff76fc375e35c08-2026-05-29T03-49-48.659Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
     },
     "LAUREN SANDERSON": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lauren-sanderson/993820394",
@@ -9334,6 +10370,10 @@
       "spotifyUrl": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ce/f5/42/cef54288-bb91-df33-06b9-5d9308ba9602/ami_U003aidentity_U003aca04037b9fe16f2b0c1b2e4fb60b7923-2026-10-23T20-31-01.445Z_cropped.png/600x600bb.jpg"
     },
+    "Labrinth": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/labrinth/205732582",
+      "spotifyUrl": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+    },
     "Lambrini Girls": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lambrini-girls/1541291393",
       "spotifyUrl": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb",
@@ -9359,6 +10399,9 @@
     "Lazy K": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lazy-k/1493600104",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/56/25/58/5625584b-3d74-eb2c-f1b5-c42834947580/2b3da983-ba40-470f-9f5a-0c38c3dc85c9_file_cropped.png/600x600bb.jpg"
+    },
+    "Leaving Laurel": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/leaving-laurel/1488954608"
     },
     "Lee Ann Roberts": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lee-ann-roberts/467963803",
@@ -9420,6 +10463,12 @@
     "Lucky": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lucky/1789347407",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a6/1c/6b/a61c6bc9-e799-f1ec-4c60-514c72f090c5/file_cropped.png/600x600bb.jpg"
+    },
+    "Lucy Dacus": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/lucy-dacus/1060812309"
+    },
+    "Lujan": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/luj%C3%A1n/1563891581"
     },
     "Luke Alessi": {
       "appleMusicUrl": "https://music.apple.com/us/artist/luke-alessi/1072900724",
@@ -9515,6 +10564,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/mai-iachetti/1490598580",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/6e/ce/06/6ece06a5-023e-e886-3c7d-579a994daa86/a6030633-dc0c-426e-9236-7a1c471b140a.jpg/600x600ac.jpg"
     },
+    "Malcolm Todd": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/malcolm-todd/1624326848"
+    },
     "Marco Strous": {
       "appleMusicUrl": "https://music.apple.com/us/artist/marco-strous/923640710",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/MarcoStrous-PROFILE-SDE9-600x600.png"
@@ -9544,10 +10596,17 @@
       "spotifyUrl": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/03/6b/83/036b83ed-1842-22f1-879f-414bc87d78cb/ami-identity-bbe467831287d0f38b4a24ce90978ed9-2026-06-10T17-56-40.377Z_cropped.png/600x600bb.jpg"
     },
+    "Marlon Funaki": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marlon-funaki/1513742282"
+    },
     "Marlon Hoffstadt": {
       "appleMusicUrl": "https://music.apple.com/us/artist/marlon-hoffstadt/457222498",
       "spotifyUrl": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/7f/26/32/7f263280-a4ac-d97f-8420-344bdd6aa7e8/ami-identity-7862b5f28d73226fa1cf45e1eed99b1c-2026-05-29T07-58-26.647Z_cropped.png/600x600bb.jpg"
+    },
+    "Marsh": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/marsh/2432180",
+      "spotifyUrl": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
     },
     "Marshmello": {
       "appleMusicUrl": "https://music.apple.com/us/artist/marshmello/980795202",
@@ -9571,6 +10630,10 @@
       "spotifyUrl": "https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/cb/11/92/cb1192bd-d7e4-81eb-ba65-cabbf12e5be5/ami-identity-6971d4912e7ef4291326bc2bc1a0f30f-2025-03-07T18-21-04.957Z_cropped.png/600x600bb.jpg"
     },
+    "Mat Zo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mat-zo/252189518",
+      "spotifyUrl": "https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1"
+    },
     "Mathame": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mathame/952851477",
       "spotifyUrl": "https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS",
@@ -9579,6 +10642,9 @@
     "Matroda": {
       "appleMusicUrl": "https://music.apple.com/us/artist/matroda/488606990",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b9/48/dd/b948ddc7-293d-dda4-3758-3ff580b74715/pr_source.png/600x600bb.jpg"
+    },
+    "Matt Gucci": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/matt-gucci/1339373358"
     },
     "Matthias": {
       "appleMusicUrl": "https://music.apple.com/us/artist/matthias/1500277849",
@@ -9683,6 +10749,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/mirror-mirror/1534943949",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f5/4e/22/f54e22a1-8937-dba3-8482-32b236ee42fc/artwork.jpg/600x600ac.jpg"
     },
+    "Mishell": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mishell/250454064"
+    },
     "Miss Monique": {
       "appleMusicUrl": "https://music.apple.com/us/artist/miss-monique/401265174",
       "spotifyUrl": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR",
@@ -9691,6 +10760,13 @@
     "Mochakk": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mochakk/1230228889",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/be/7c/7d/be7c7d3a-ba17-ce6e-69cc-d5718f0e23fb/21743558-2ae3-44ed-a7ff-fe2ebf934cee_ami-identity-179ab1894b1e636d90ac38016d95f76d-2024-09-11T16-27-35.442Z_cropped.png/600x600bb.jpg"
+    },
+    "Modest Mouse": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/modest-mouse/467112",
+      "spotifyUrl": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+    },
+    "Momma": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/momma/53773435"
     },
     "Mosimann": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mosimann/279329546",
@@ -9719,6 +10795,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/new-constellations/1543078051",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/bb/a4/f0/bba4f08f-41cf-1a8a-9c65-b461bf79e71b/ami-identity-c587923fed50c4aff8c9fa52381bae47-2026-06-24T16-58-22.882Z_cropped.png/600x600bb.jpg"
     },
+    "NEZZA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nezza/1403942659",
+      "spotifyUrl": "https://open.spotify.com/artist/0cRKBhWUTEtR1vmA06kVKz"
+    },
     "NGHTMRE": {
       "spotifyUrl": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF",
       "appleMusicUrl": "https://music.apple.com/us/artist/nghtmre/910641213",
@@ -9726,11 +10806,15 @@
     },
     "NIGHT TAPES": {
       "appleMusicUrl": "https://music.apple.com/us/artist/night-tapes/1476057311",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/71/bd/ed/71bded32-5bb5-d686-26ed-2f0a6e2ecc6e/ami-identity-ad68542801a1fc3658a9e6cc9ef152ac-2025-09-24T01-37-09.129Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/71/bd/ed/71bded32-5bb5-d686-26ed-2f0a6e2ecc6e/ami-identity-ad68542801a1fc3658a9e6cc9ef152ac-2025-09-24T01-37-09.129Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
     },
     "NIGHT TRAVELER": {
       "appleMusicUrl": "https://music.apple.com/us/artist/night-traveler/1363342724",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/cc/49/11/cc4911ff-9e1d-9c32-0fe6-2cba8f890b88/4b2fb238-533e-4232-8f3a-4b5a195b80ef_file_cropped.png/600x600bb.jpg"
+    },
+    "NO STATIC": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/no-static/1498688951"
     },
     "NOGA EREZ": {
       "appleMusicUrl": "https://music.apple.com/us/artist/noga-erez/1166657901",
@@ -9767,10 +10851,17 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/nick-moreno/1449595622",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/d2/4c/57/d24c57b6-cb59-34aa-c406-2c2c4c33431b/artwork.jpg/600x600ac.jpg"
     },
+    "Nico Hartt": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nico-hartt/1260033104"
+    },
     "Nico Moreno": {
       "appleMusicUrl": "https://music.apple.com/us/artist/nico-moreno/1104056812",
       "spotifyUrl": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/35/2b/13/352b13ba-c9cf-15c0-6724-e3ac552d9b94/mzl.wtcwlcsp.jpg/600x600bb.jpg"
+    },
+    "Night Tapes": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/night-tapes/1476057311",
+      "spotifyUrl": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
     },
     "Ninajirachi": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ninajirachi/1210938233",
@@ -9793,10 +10884,16 @@
       "spotifyUrl": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/fe/0a/d4/fe0ad467-bbbd-b1cd-78de-65a856aa4879/mzl.ralcwpjl.jpg/600x600bb.jpg"
     },
+    "Not for Radio": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/not-for-radio/1834193679"
+    },
     "Notion": {
       "appleMusicUrl": "https://music.apple.com/us/artist/notion/576443911",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Notion-PROFILE-SDE9-600x600.png",
       "spotifyUrl": "https://open.spotify.com/artist/5Zx00y8Y9G5RIN1rX52DiG"
+    },
+    "Nourey": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nourey/659428390"
     },
     "Novah": {
       "appleMusicUrl": "https://music.apple.com/us/artist/novah/1484524716",
@@ -9846,6 +10943,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/92/5b/8b/925b8b5c-995e-574f-a6b7-33c548727f8e/ami-identity-9efd79ea10e8aabb33a66df8ccaae724-2026-04-26T16-14-52.581Z_cropped.png/600x600bb.jpg"
     },
+    "Oliver Smith": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/oliver-smith/1477804484"
+    },
     "Omar+": {
       "appleMusicUrl": "https://music.apple.com/us/artist/omar/1557580010",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/c5/0c/51/c50c5168-fd2b-dea4-53ba-6e16e7596454/pr_source.png/600x600bb.jpg"
@@ -9881,6 +10981,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/bad-apple/5970053",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/d8/1c/bc/d81cbc3b-aa37-2057-782f-b465366a1b70/pr_source.png/600x600bb.jpg"
     },
+    "PHILOU": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/philou/36044441"
+    },
     "PIERCE FREELON": {
       "appleMusicUrl": "https://music.apple.com/us/artist/pierce-freelon/1517536546",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/a4/a7/f5/a4a7f56f-1999-cdb7-072b-5d55a1120f1c/pr_source.png/600x600bb.jpg"
@@ -9907,6 +11010,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/parcels/1148094312",
       "spotifyUrl": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/df/1f/fc/df1ffc12-ec39-489d-d424-12a960c24d3b/ami-identity-02f3c0b204e95393fdb777df74a02106-2025-09-10T08-41-01.532Z_cropped.png/600x600bb.jpg"
+    },
+    "Partiboi69": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/partiboi69/1446242110"
     },
     "Patrick Topping": {
       "spotifyUrl": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa",
@@ -9958,6 +11064,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/pinegrove/1045791526",
       "spotifyUrl": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8d/4b/42/8d4b4265-1194-2756-89a3-fc11c2e17263/pr_source.png/600x600bb.jpg"
+    },
+    "PinkPantheress": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/pinkpantheress/1552521489",
+      "spotifyUrl": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
     },
     "Poison the Well": {
       "appleMusicUrl": "https://music.apple.com/us/artist/poison-the-well/1710155",
@@ -10028,6 +11138,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/rodrigo-y-gabriela/68341685",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6d/49/d2/6d49d29e-82e1-968d-5fed-7660d0f26292/ami-identity-9b284c662ebb09aee73f9dadc37e4783-2026-06-10T04-16-53.051Z_cropped.png/600x600bb.jpg"
     },
+    "ROHAAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rohaan/1140834204"
+    },
     "RUM JUNGLE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rum-jungle/1316375874",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/26/a9/c8/26a9c8a9-aec4-e5c1-7f80-021b2e73e4dd/ami_U003aidentity_U003a3640398138becd4c58148a5f53ebace1-2026-10-18T11-56-27.017Z_cropped.png/600x600bb.jpg"
@@ -10039,6 +11152,12 @@
     "RYAN BEATTY": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ryan-beatty/483234172",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/8d/b2/df/8db2df1f-bd2d-39c8-83f9-e812b7cba415/ami-identity-931380f848ed1a1f0177aa3577ee7ce0-2026-06-05T19-30-42.537Z_cropped.png/600x600bb.jpg"
+    },
+    "RYMAN": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ryman/1561850927"
+    },
+    "Racing Mount Pleasant": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/racing-mount-pleasant/1798832480"
     },
     "Rafael": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rafael/1513692044",
@@ -10070,6 +11189,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/9e/fc/3c/9efc3c3f-ad13-ef39-41b0-4446c00d05eb/ami-identity-7c6fb25fbb9d0c826870a3e9cca8b183-2026-08-18T16-06-27.407Z_cropped.png/600x600bb.jpg"
     },
+    "Rezident": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rezident/1321710810"
+    },
     "Rinzen": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rinzen/1219473185",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ce/1e/11/ce1e1150-86fa-24e9-285b-b40372faa2b1/ami-identity-b10b6f25e76de5b0f17efdf1b0dceb7a-2026-04-03T19-36-30.078Z_cropped.png/600x600bb.jpg"
@@ -10096,9 +11218,18 @@
       "spotifyUrl": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/24/f8/34/24f83462-e4ba-5ac2-3244-1400d8b36d97/ami-identity-9ff532531b9ab81646f0ae12af84f853-2026-05-28T16-08-28.145Z_cropped.png/600x600bb.jpg"
     },
+    "Roman Messer": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/roman-messer/574791047"
+    },
+    "Ronin": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ronin/1565103264"
+    },
     "Rossi.": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rossi/1619129376",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/76/61/4a/76614ada-73fe-36c6-6972-fbf7a232a2ba/cover.jpg/600x600ac.jpg"
+    },
+    "Rowland Giles": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rowland-giles/1732092997"
     },
     "Ruze": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ruze/1079380137",
@@ -10232,6 +11363,9 @@
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/SaraLandry-PROFILE-SDE9-600x600.png",
       "spotifyUrl": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
     },
+    "Sawyer Hill": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sawyer-hill/1651349181"
+    },
     "Schrotthagen": {
       "spotifyUrl": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94",
       "appleMusicUrl": "https://music.apple.com/us/artist/schrotthagen/1677718981",
@@ -10284,6 +11418,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/sidequest/1735061755",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/94/86/4a/94864a3c-d8df-114c-5a2b-e148ca7fd365/7e2d8b0a-8c97-49b9-975f-ab2eb92f59fd_file_cropped.png/600x600bb.jpg"
     },
+    "Sierra Ferrell": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sierra-ferrell/1099234422",
+      "spotifyUrl": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+    },
     "Sighter": {
       "spotifyUrl": "https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM",
       "appleMusicUrl": "https://music.apple.com/us/artist/sighter/710727703",
@@ -10292,6 +11430,10 @@
     "Silva Bumpa": {
       "appleMusicUrl": "https://music.apple.com/us/artist/silva-bumpa/1660983808",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/57/82/8a/57828a08-caca-3998-af20-7c9536c30420/mzl.jueluxjl.png/600x600bb.jpg"
+    },
+    "Silvana Estrada": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/silvana-estrada/1277235729",
+      "spotifyUrl": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
     },
     "Sippy": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sippy/444191039",
@@ -10363,6 +11505,13 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/solomun/200779145",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/fc/0a/d2/fc0ad2d5-ccb6-44b2-6771-11fa0e9d9077/mzl.keigdcfn.png/600x600bb.jpg"
     },
+    "Soraya": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/soraya/124689",
+      "spotifyUrl": "https://open.spotify.com/artist/4HsWGs7hJKcbM1aiRnUDWj"
+    },
+    "Sosocamo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sosocamo/1615285313"
+    },
     "Soulwax": {
       "appleMusicUrl": "https://music.apple.com/us/artist/soulwax/15159081",
       "spotifyUrl": "https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff",
@@ -10389,6 +11538,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/speed-of-light/1530434984",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e3/2e/1a/e32e1a42-cdb4-df9f-ece9-91cc729f49ed/file_cropped.png/600x600bb.jpg"
     },
+    "Sports": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sports/1074016247",
+      "spotifyUrl": "https://open.spotify.com/artist/4AGNJdJiVltImYk1UTLE0K"
+    },
     "Starjunk 95": {
       "appleMusicUrl": "https://music.apple.com/us/artist/starjunk-95/1526352957",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Starjunk95-PROFILE-SDE9-600x600.png"
@@ -10396,6 +11549,9 @@
     "Starjunk95": {
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/Starjunk95-PROFILE-SDE9-600x600.png",
       "appleMusicUrl": "https://music.apple.com/us/artist/starjunk-95/1526352957"
+    },
+    "Stello": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stello/40015401"
     },
     "Steve Aoki": {
       "spotifyUrl": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs",
@@ -10429,6 +11585,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e",
       "appleMusicUrl": "https://music.apple.com/us/artist/sullivan-king/833869649",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/95/82/cf/9582cfca-61c0-2dcb-ad1b-ba76327ee1bb/ami-identity-91e206265a97528ddf4ec6fc778eb25d-2026-04-20T12-45-41.402Z_cropped.png/600x600bb.jpg"
+    },
+    "Sultan + Shepard": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sultan-shepard/969036179"
     },
     "Sunami": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sunami/1556091242",
@@ -10507,7 +11666,8 @@
     },
     "TURNSTILE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/turnstile/4472006",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/20/f7/11/20f71128-35a9-40e0-2159-c4ab4cff82c9/file_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/20/f7/11/20f71128-35a9-40e0-2159-c4ab4cff82c9/file_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
     },
     "TWENTY ONE PILOTS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/twenty-one-pilots/349736311",
@@ -10598,6 +11758,15 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/the-saints/16628539",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features122/v4/50/c4/fa/50c4fa49-fc5d-ad39-4932-96aca9ad8934/mza_6983832107618829915.png/600x600bb.jpg"
     },
+    "The Story So Far": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-story-so-far/280522018"
+    },
+    "The Strokes": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-strokes/560289"
+    },
+    "The Temper Trap": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-temper-trap/202033981"
+    },
     "The Tony Danza Tapdance Extravaganza": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-tony-danza-tapdance-extravaganza/376095448",
       "spotifyUrl": "https://open.spotify.com/artist/54ZsHhYWjJ3cc14rux5CjE",
@@ -10606,6 +11775,9 @@
     "The Womack Sisters": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-womack-sisters/1196425245",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/b9/db/b6/b9dbb683-d0fd-27f3-1874-37b568d0e169/ami-identity-0e7fc5198f67291dd713dc22ac8e6703-2026-05-05T23-24-18.762Z_cropped.png/600x600bb.jpg"
+    },
+    "The xx": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-xx/315473044"
     },
     "Third Party": {
       "appleMusicUrl": "https://music.apple.com/us/artist/third-party/275078207",
@@ -10630,9 +11802,16 @@
       "spotifyUrl": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/71/8f/26/718f2685-4a37-ce18-597d-fe2c120df8e9/pr_source.png/600x600bb.jpg"
     },
+    "Tinashe": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/tinashe/464835513",
+      "spotifyUrl": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+    },
     "Tiësto": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ti%C3%ABsto/4091218",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ff/77/33/ff7733f9-533c-454f-ec31-738a166cdb8c/pr_source.png/600x600bb.jpg"
+    },
+    "Tobiahs": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/tobiahs/1037162476"
     },
     "Toccororo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/toccororo/1840237881",
@@ -10660,6 +11839,10 @@
       "spotifyUrl": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI",
       "appleMusicUrl": "https://music.apple.com/us/artist/troyboi/688290482",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/52/fa/04/52fa04a3-bac1-0a8e-8672-7c0043b271f9/ami-identity-d2b13b832fbb72a10a3f7ed33463b7c6-2025-09-12T23-45-40.263Z_cropped.png/600x600bb.jpg"
+    },
+    "Turnstile": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/turnstile/4472006",
+      "spotifyUrl": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
     },
     "Twin Tribes": {
       "appleMusicUrl": "https://music.apple.com/us/artist/twin-tribes/1414679340",
@@ -10707,6 +11890,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/vandelux/1094559354",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/ab/87/29/ab8729e7-ee60-e87c-cb39-f412df369ae0/file_cropped.png/600x600bb.jpg"
     },
+    "Vertigo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/vertigo/1702182810"
+    },
     "Victoria Monét": {
       "appleMusicUrl": "https://music.apple.com/us/artist/victoria-mon%C3%A9t/540070252",
       "spotifyUrl": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv",
@@ -10746,6 +11932,9 @@
     "WILD CHILD": {
       "appleMusicUrl": "https://music.apple.com/us/artist/wild-child/694916483",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/a9/03/b8/a903b8d9-87cf-7272-b2ed-aeaf7a6af371/mzl.wnbqnocl.jpg/600x600bb.jpg"
+    },
+    "WILL CLARKE": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/will-clarke/79790572"
     },
     "WORLD FAMOUS PETS": {
       "appleMusicUrl": "https://music.apple.com/us/artist/world-famous-pets/1896255592",
@@ -10789,6 +11978,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/welker/1796216139",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/09/Welker-PROFILE-SDE9-600x600.png"
     },
+    "Wet Leg": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/wet-leg/1569685293",
+      "spotifyUrl": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+    },
     "Whethan": {
       "appleMusicUrl": "https://music.apple.com/us/artist/whethan/1131838621",
       "spotifyUrl": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP",
@@ -10802,6 +11995,12 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/wooli/1182247394",
       "spotifyUrl": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/bb/23/cf/bb23cf43-b055-c286-3761-058661540d12/f96c53bf-dc25-4b85-ae49-a8a6d6e77fb4_ami-identity-6ba6b058bbc1315aa522f69cc7fbcf10-2023-09-08T16-56-26.225Z_cropped.png/600x600bb.jpg"
+    },
+    "Wunderhorse": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/wunderhorse/1499976480"
+    },
+    "X CLUB.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/x-club/1445202040"
     },
     "XK": {
       "appleMusicUrl": "https://music.apple.com/us/artist/xk/1462538112",
@@ -10823,6 +12022,13 @@
     "YVNG Prieto": {
       "appleMusicUrl": "https://music.apple.com/us/artist/yvng-prieto/1759395396",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/b8/ac/2d/b8ac2d84-9ad2-17bf-4c78-d373fc425194/723277691589.jpg/600x600ac.jpg"
+    },
+    "Yard Act": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/yard-act/1499415658",
+      "spotifyUrl": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+    },
+    "Yetti": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/yetti/1757032487"
     },
     "Yousuke Yukimatsu": {
       "spotifyUrl": "https://open.spotify.com/artist/0BEmPeY22LTrZJFFP2xIyk"
@@ -10883,6 +12089,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/borne/1614258187",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6f/01/61/6f016103-2a8f-79f7-87c5-8ffda98d4637/ami_U003aidentity_U003a17c3b47916d2af9d645324ff43defc00-2026-09-10T20-53-26.986Z_cropped.png/600x600bb.jpg"
     },
+    "camoufly": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/camoufly/1534993570"
+    },
     "daily bread": {
       "appleMusicUrl": "https://music.apple.com/us/artist/daily-bread/1516625785",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/52/91/e1/5291e175-be9d-9573-f76e-297ba78fd2e6/pr_source.png/600x600bb.jpg"
@@ -10899,6 +12108,12 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/horsegiirl/1608374327",
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/horsegiirl-PROFILE-SDE9-600x600.png"
     },
+    "ilan Bluestone": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ilan-bluestone/218175632"
+    },
+    "it's murph": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/its-murph/1650216419"
+    },
     "it’s murph": {
       "appleMusicUrl": "https://music.apple.com/us/artist/its-murph/1650216419",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/7b/5f/2c/7b5f2cc4-3723-8daa-e755-e8db998086de/ami-identity-23c5c2b7fae18eb29dc81fb5d945ec3d-2026-04-09T19-54-50.344Z_cropped.png/600x600bb.jpg"
@@ -10906,6 +12121,9 @@
     "jigitz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jigitz/1212140410",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/40/31/dc/4031dca9-5805-2a15-49cb-0465672ff7ae/ami-identity-d717d4aa56dd721f209c29c103c7ee4f-2026-03-12T17-49-15.000Z_cropped.png/600x600bb.jpg"
+    },
+    "kwn": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kwn/1629656232"
     },
     "mary in the junkyard": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mary-in-the-junkyard/1706946585",
@@ -10936,6 +12154,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/rommulas/1814338110",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/1b/9b/87/1b9b873c-674e-40c5-d3ca-2181e7ef6bc3/mzl.dcqmtvxj.jpg/600x600bb.jpg"
     },
+    "rsun": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rsun/1437328848"
+    },
     "underscores": {
       "appleMusicUrl": "https://music.apple.com/us/artist/underscores/1204838812",
       "spotifyUrl": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7",
@@ -10957,6 +12178,9 @@
     "ŁASZEWO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d8/97/72/d8977238-0bf2-ae1a-2717-e72f0179d109/file_cropped.png/600x600bb.jpg"
+    },
+    "Łaszewo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296"
     }
   },
   "requestOutcomes": {

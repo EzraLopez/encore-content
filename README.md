@@ -161,6 +161,33 @@ themselves in the app.
 `id`, `artist`, `venue`, `city`, `start` (ISO local datetime in the show's
 timezone), and `timezone` are required; `support` is optional.
 
+### An afterparty (a second part of the night)
+
+A festival night that continues somewhere else under the same name (an
+official afterparty, often a separate ticket) goes beside the day's
+`stages`, not inside them:
+
+```json
+{ "date": "2026-11-20",
+  "stages": [ /* the festival's own stages */ ],
+  "afterparty": {
+    "name": "Official Afterparty",
+    "note": "Separate ticket · aboard the Queen Mary",
+    "stages": [ { "name": "Grand", "sets": [ /* ... */ ] } ]
+  } }
+```
+
+- It belongs to the day whose night it follows: Friday's afterparty, on
+  Saturday from midnight to 6 AM, is in Friday's day with times
+  `00:00` to `06:00`.
+- Apps from iOS build 153 / Android 119 show a Festival / Afterparty
+  switch on that day's Schedule and My Sets; hearts, reminders and
+  clashes work across both. Older builds ignore the field, which is why
+  it is not just more stages: they would draw one grid to 6 AM.
+- Set ids are unique across the catalog as always; prefix them with
+  `<festival-id>-afterparty-` so an artist who plays both doesn't collide.
+- An extra stage inside the grounds (an art car) is an ordinary stage.
+
 ### Map artwork
 
 Put PNGs in `v1/maps/` (shared by both config versions) and reference them
