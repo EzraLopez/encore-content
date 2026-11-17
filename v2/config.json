@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 91,
-    "publishedAt": "2026-11-17T01:49:52Z",
+    "version": 92,
+    "publishedAt": "2026-11-17T01:55:12Z",
     "iosBuild": 151,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 117,
@@ -2013,7 +2013,136 @@
                 }
               ]
             }
-          ]
+          ],
+          "afterparty": {
+            "name": "Official Afterparty",
+            "note": "Separate ticket · aboard the Queen Mary",
+            "stages": [
+              {
+                "name": "Grand",
+                "sets": [
+                  {
+                    "artist": "Kristina Sky",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-kristina-sky",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "FRANKYEFFE",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-frankyeffe",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "ALPHA 9",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-alpha-9",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "The Rocketman",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-the-rocketman",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Steve Dekay",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-steve-dekay",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Brendan Bartels",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-brendan-bartels",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Queen",
+                "sets": [
+                  {
+                    "artist": "Unter Strøm",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-unter-strom",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "BK",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-bk",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Mauro Picotto (Classics Set)",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-mauro-picotto-classics-set",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "John Askew",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-john-askew",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Paul Denton",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-paul-denton",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Bowers & Bidwell",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-bowers-bidwell",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Britannia",
+                "sets": [
+                  {
+                    "artist": "Just Hass",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-just-hass",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Burn In Noise",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-burn-in-noise",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "KAUFMANN",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-kaufmann",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Terra",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-terra",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Submersive",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-submersive",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Spyros",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-spyros",
+                    "start": "05:00"
+                  }
+                ]
+              }
+            ]
+          }
         },
         {
           "date": "2026-11-21",
@@ -2283,7 +2412,136 @@
                 }
               ]
             }
-          ]
+          ],
+          "afterparty": {
+            "name": "Official Afterparty",
+            "note": "Separate ticket · aboard the Queen Mary",
+            "stages": [
+              {
+                "name": "Grand",
+                "sets": [
+                  {
+                    "artist": "Ed Lynam",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-ed-lynam",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Judge Jules",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-judge-jules",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Eddie Halliwell",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-eddie-halliwell",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Aly & Fila",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-aly-fila",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "David Forbes pres DBF",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-david-forbes-pres-dbf",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Dustin Husain",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-dustin-husain",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Queen",
+                "sets": [
+                  {
+                    "artist": "Mr. Brooks",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-mr-brooks",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Will Rees",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-will-rees",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Sean Tyas (Trance Roots Set)",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-sean-tyas-trance-roots-set",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Cold Blue + Solarstone",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-cold-blue-solarstone",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Chris Metcalfe + Maria Healy",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-chris-metcalfe-maria-healy",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "Omar Sherif",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-omar-sherif",
+                    "start": "05:00"
+                  }
+                ]
+              },
+              {
+                "name": "Britannia",
+                "sets": [
+                  {
+                    "artist": "Scenator",
+                    "end": "01:00",
+                    "id": "dreamstate-socal-2026-afterparty-scenator",
+                    "start": "00:00"
+                  },
+                  {
+                    "artist": "Barakuda",
+                    "end": "02:00",
+                    "id": "dreamstate-socal-2026-afterparty-barakuda",
+                    "start": "01:00"
+                  },
+                  {
+                    "artist": "Sighter",
+                    "end": "03:00",
+                    "id": "dreamstate-socal-2026-afterparty-sighter",
+                    "start": "02:00"
+                  },
+                  {
+                    "artist": "Animato b2b Perfect Stranger",
+                    "end": "04:00",
+                    "id": "dreamstate-socal-2026-afterparty-animato-b2b-perfect-stranger",
+                    "start": "03:00"
+                  },
+                  {
+                    "artist": "Triceradrops",
+                    "end": "05:00",
+                    "id": "dreamstate-socal-2026-afterparty-triceradrops",
+                    "start": "04:00"
+                  },
+                  {
+                    "artist": "OR",
+                    "end": "06:00",
+                    "id": "dreamstate-socal-2026-afterparty-or",
+                    "start": "05:00"
+                  }
+                ]
+              }
+            ]
+          }
         }
       ],
       "endDate": "2026-11-21",
