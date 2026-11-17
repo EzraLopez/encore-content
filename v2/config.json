@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": 108,
-    "publishedAt": "2026-11-17T08:51:50Z",
-    "iosBuild": 161,
+    "version": 110,
+    "publishedAt": "2026-11-17T08:56:12Z",
+    "iosBuild": 162,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
-    "androidBuild": 124,
+    "androidBuild": 126,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
   },
   "festivals": [
