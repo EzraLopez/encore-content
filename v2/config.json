@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 89,
-    "publishedAt": "2026-11-17T01:04:26Z",
+    "version": 90,
+    "publishedAt": "2026-11-17T01:45:25Z",
     "iosBuild": 151,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 117,
@@ -2214,7 +2214,8 @@
       "tagline": "The world's premier all-trance music festival",
       "venue": "Queen Mary Waterfront",
       "websiteUrl": "https://socal.dreamstateusa.com",
-      "instagramUrl": "https://instagram.com/dreamstateusa"
+      "instagramUrl": "https://instagram.com/dreamstateusa",
+      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg"
     },
     {
       "days": [],
