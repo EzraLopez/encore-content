@@ -64,5 +64,38 @@
       "https://www.timeout.com/uk/news/reading-and-leeds-festival-2026-guide-set-times-lineup-082626",
       "https://www.radiox.co.uk/festivals/reading-and-leeds/2026-headliners-line-up-stage-times-ticket-info/"
     ]
+  },
+  "outside-lands-2026": {
+    "date": "2026-11-17",
+    "result": "added 90 artists, no days (daily lists are partial); two outlets agree name for name; \"bad juuju\" left out (outlets disagree on spelling \"bad juuju_\"); PinkPantheress added after the first announcement, per the festival's daily-lineups page",
+    "sources": [
+      "https://www.sfstation.com/2026/03/03/outside-lands-drops-its-full-2026-lineup-charli-xcx-rufus-du-sol-the-strokes-the-xx/amp/",
+      "https://sfist.com/2026/03/03/charli-xcx-rufus-du-sol-and-the-strokes-to-headline-outside-lands-2026/",
+      "https://sfoutsidelands.com/news/daily-lineups-are-here"
+    ]
+  },
+  "creamfields-2026": {
+    "date": "2026-11-17",
+    "result": "not verified: official lineup page now shows 2027; press (Time Out, Skiddle) prints only a partial \"featured\" list of ~250 acts; no day splits found",
+    "sources": [
+      "https://www.timeout.com/uk/news/creamfields-has-revealed-its-huge-lineup-for-2026-with-calvin-harris-swedish-house-mafia-disclosure-and-more-022726",
+      "https://www.skiddle.com/news/all/Creamfields-reveals-full-lineup-day-splits-for-2026/61362/"
+    ]
+  },
+  "sziget-2026": {
+    "date": "2026-11-17",
+    "result": "not verified: official site shows 2027; press only reports announcement waves, no full bill",
+    "sources": [
+      "https://szigetfestival.com/en/programs",
+      "https://www.thenote.com.au/news/sziget-festival-adds-50-more-artists-to-2026-lineup"
+    ]
+  },
+  "untold-2026": {
+    "date": "2026-11-17",
+    "result": "not verified: official site no longer lists the lineup in fetched data; press gives headliners and partial stage lists of 200+ acts",
+    "sources": [
+      "https://www.mediafax.ro/english/untold-announces-final-line-up-new-names-on-the-festival-stages-premiere-meduza-3live-in-romania-23768893/amp",
+      "https://untold.com/lineup"
+    ]
   }
 }
