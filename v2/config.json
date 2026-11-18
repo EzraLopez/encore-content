@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 164,
-    "publishedAt": "2026-11-18T09:28:48Z",
+    "version": 165,
+    "publishedAt": "2026-11-18T09:40:03Z",
     "iosBuild": 194,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 158,
@@ -6984,7 +6984,612 @@
       "websiteUrl": "https://electricforest.com",
       "instagramUrl": "https://instagram.com/electric_forest",
       "redditUrl": "https://www.reddit.com/r/ElectricForest/",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "electric-forest-2026-alleycvt",
+          "artist": "ALLEYCVT",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-andy-c",
+          "artist": "Andy C",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-bipolar-sunshine",
+          "artist": "Bipolar Sunshine",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-avello",
+          "artist": "AVELLO",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-capochino",
+          "artist": "Capochino",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-cain-culto",
+          "artist": "Cain Culto",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-bombargo",
+          "artist": "Bombargo",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-chris-lake",
+          "artist": "Chris Lake",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-daniel-donato-s-cosmic-country",
+          "artist": "Daniel Donato's Cosmic Country",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-costa",
+          "artist": "Costa",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-daily-bread",
+          "artist": "Daily Bread",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-devault",
+          "artist": "Devault"
+        },
+        {
+          "id": "electric-forest-2026-dogs-in-a-pile",
+          "artist": "Dogs In A Pile",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-dixon-s-violin",
+          "artist": "Dixon's Violin"
+        },
+        {
+          "id": "electric-forest-2026-effin",
+          "artist": "EFFIN",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-excision",
+          "artist": "Excision",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-eli-brown",
+          "artist": "Eli Brown",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-griz",
+          "artist": "GRiZ",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-ganja-white-night",
+          "artist": "Ganja White Night",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-frost-children",
+          "artist": "Frost Children",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-eggy",
+          "artist": "Eggy",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-inji",
+          "artist": "INJI",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-ivy-lab",
+          "artist": "Ivy Lab",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-hershe",
+          "artist": "HerShe",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-isoxo",
+          "artist": "ISOxo",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-heyz",
+          "artist": "Heyz",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-jean-dawson",
+          "artist": "Jean Dawson",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-kaskade",
+          "artist": "KASKADE",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-jigitz",
+          "artist": "jigitz",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-jkyl-hyde",
+          "artist": "JKYL & HYDE",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-kai-wachi",
+          "artist": "Kai Wachi",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-kaleena-zanders",
+          "artist": "Kaleena Zanders",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-magoo",
+          "artist": "Magoo",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-levity",
+          "artist": "Levity",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-mary-droppinz",
+          "artist": "Mary Droppinz",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-laszewo",
+          "artist": "Laszewo",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-lsdream",
+          "artist": "LSDREAM",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-madeon",
+          "artist": "Madeon",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-motifv",
+          "artist": "Motifv",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-mild-minds",
+          "artist": "Mild Minds",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-muzz",
+          "artist": "MUZZ",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-nitepunk",
+          "artist": "Nitepunk",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-midnight-generation",
+          "artist": "Midnight Generation",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-night-tapes",
+          "artist": "Night Tapes",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-mph",
+          "artist": "MPH",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-odd-mob",
+          "artist": "ODD MOB",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-oppidan",
+          "artist": "Oppidan",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-passion-pit",
+          "artist": "Passion Pit",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-probcause",
+          "artist": "Probcause",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-richard-finger",
+          "artist": "Richard Finger",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-ravenscoon",
+          "artist": "RAVENSCOON",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-rio-kosta",
+          "artist": "Rio Kosta",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-ranger-trucco",
+          "artist": "Ranger Trucco",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-riot",
+          "artist": "RIOT",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-river-tiber",
+          "artist": "River Tiber",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-saint-ludo",
+          "artist": "Saint Ludo",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-sbtrkt-dj-set",
+          "artist": "SBTRKT (DJ Set)",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-sammy-virji",
+          "artist": "Sammy Virji",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-sam-gellaitry",
+          "artist": "Sam Gellaitry",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-shpongle",
+          "artist": "Shpongle",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-sidepiece",
+          "artist": "SIDEPIECE",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-sippy",
+          "artist": "Sippy",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-steller",
+          "artist": "Steller",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-supertaste",
+          "artist": "Supertaste",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-snow-wife",
+          "artist": "Snow Wife",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-tourist",
+          "artist": "Tourist",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-the-sponges",
+          "artist": "The Sponges",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-underscores",
+          "artist": "Underscores",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-the-string-cheese-incident-the-shebongle-shebang-ft-shpongle-and-johnathan-singer",
+          "artist": "The String Cheese Incident: The Shebongle Shebang ft. Shpongle and Johnathan Singer",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-sullivan-king",
+          "artist": "Sullivan King",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-vandelux",
+          "artist": "Vandelux",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-swimming-paul",
+          "artist": "Swimming Paul",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-wax-monkey",
+          "artist": "Wax Monkey",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-wilkinson",
+          "artist": "Wilkinson",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-whethan",
+          "artist": "Whethan",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-wooli",
+          "artist": "Wooli",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-vincent-antone",
+          "artist": "Vincent Antone"
+        },
+        {
+          "id": "electric-forest-2026-bricknasty",
+          "artist": "Bricknasty",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-channel-tres",
+          "artist": "Channel Tres",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-dj-diesel-b2b-teddy-pain",
+          "artist": "DJ Diesel b2b Teddy Pain",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-illenium",
+          "artist": "ILLENIUM"
+        },
+        {
+          "id": "electric-forest-2026-iniko",
+          "artist": "INIKO",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-lsd-clownsystem",
+          "artist": "LSD Clownsystem"
+        },
+        {
+          "id": "electric-forest-2026-nikita-the-wicked",
+          "artist": "Nikita, the Wicked",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-shima",
+          "artist": "SHIMA",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-brunello",
+          "artist": "Brunello",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-bardo",
+          "artist": "Bardo",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-bob-moses-club-set",
+          "artist": "Bob Moses (Club Set)"
+        },
+        {
+          "id": "electric-forest-2026-chris-luno",
+          "artist": "Chris Luno",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-couch",
+          "artist": "Couch",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-d-o-d",
+          "artist": "D.O.D",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-wes-mills",
+          "artist": "Wes Mills",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-starjunk-95",
+          "artist": "Starjunk 95"
+        },
+        {
+          "id": "electric-forest-2026-ship-wrek",
+          "artist": "Ship Wrek",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-westend",
+          "artist": "Westend"
+        },
+        {
+          "id": "electric-forest-2026-all-lo-collective",
+          "artist": "all:Lo Collective",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-casey-club",
+          "artist": "Casey Club",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-chmura",
+          "artist": "Chmura",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-close-friends-only",
+          "artist": "Close Friends Only",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-creg",
+          "artist": "CREG",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-deadtronica",
+          "artist": "Deadtronica",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-eoto",
+          "artist": "EOTO",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-galantis",
+          "artist": "Galantis",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-lane-8",
+          "artist": "Lane 8",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-lyrah",
+          "artist": "Lyrah",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-mcr-t",
+          "artist": "MCR-T",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-yaeji",
+          "artist": "Yaeji",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-omnom",
+          "artist": "OMNOM",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-tiffany-day",
+          "artist": "Tiffany Day",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-qrion",
+          "artist": "Qrion",
+          "day": "2026-06-28"
+        },
+        {
+          "id": "electric-forest-2026-rochelle-jordan",
+          "artist": "Rochelle Jordan",
+          "day": "2026-06-27"
+        },
+        {
+          "id": "electric-forest-2026-h-rry",
+          "artist": "H&RRY",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-claude-vonstroke",
+          "artist": "Claude VonStroke",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-jykl-the-wicked",
+          "artist": "JYKL, The Wicked"
+        },
+        {
+          "id": "electric-forest-2026-mary-lattimore",
+          "artist": "Mary Lattimore"
+        },
+        {
+          "id": "electric-forest-2026-flying-mojito-bros",
+          "artist": "Flying Mojito Bros",
+          "day": "2026-06-25"
+        },
+        {
+          "id": "electric-forest-2026-black-house-radio",
+          "artist": "Black House Radio",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-big-sis",
+          "artist": "BIG SIS"
+        },
+        {
+          "id": "electric-forest-2026-gilligan-moss-dj-set",
+          "artist": "Gilligan Moss (DJ Set)",
+          "day": "2026-06-26"
+        },
+        {
+          "id": "electric-forest-2026-party-pupills",
+          "artist": "Party Pupills"
+        },
+        {
+          "id": "electric-forest-2026-jai-wolf",
+          "artist": "Jai Wolf",
+          "day": "2026-06-26"
+        }
+      ]
     },
     {
       "id": "lollapalooza-2026",
@@ -7023,7 +7628,464 @@
       "websiteUrl": "https://www.hardsummer.com",
       "instagramUrl": "https://instagram.com/hardfest",
       "redditUrl": "https://www.reddit.com/r/HardFestival/",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "hard-summer-2026-anetha",
+          "artist": "Anetha",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-bolo",
+          "artist": "BOLO",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-brunello",
+          "artist": "Brunello",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-brutalismus-3000",
+          "artist": "Brutalismus 3000",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-bushbaby",
+          "artist": "Bushbaby",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-capes",
+          "artist": "Capes",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-charlotte-de-witte",
+          "artist": "Charlotte de Witte",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-chris-lorenzo",
+          "artist": "Chris Lorenzo",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-confidence-man",
+          "artist": "Confidence Man",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-cquestt",
+          "artist": "Cquestt",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-debbiesthuglife",
+          "artist": "debbiesthuglife",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-dj-blackmarket",
+          "artist": "DJ Blackmarket",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-dj-kita",
+          "artist": "DJ Kita",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-dj-seinfeld-b2b-luuk-van-dijk",
+          "artist": "DJ Seinfeld B2B Luuk van Dijk",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-dj-warning",
+          "artist": "DJ Warning",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-dreya-v",
+          "artist": "DREYA V",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-gay-felony",
+          "artist": "Gay Felony",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-hannah-laing",
+          "artist": "Hannah Laing",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-interplanetary-criminal-b2b-main-phase",
+          "artist": "Interplanetary Criminal B2B Main Phase",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-jon-casey",
+          "artist": "Jon Casey",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-kali-uchis",
+          "artist": "Kali Uchis",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-lake-hills-b2b-nyx",
+          "artist": "Lake Hills B2B Ønyx",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-locklead",
+          "artist": "Locklead",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-lovefoxy",
+          "artist": "Lovefoxy",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-luke-alessi",
+          "artist": "Luke Alessi",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-maceo-plex",
+          "artist": "Maceo Plex",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-mary-droppinz",
+          "artist": "Mary Droppinz",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-mau-p",
+          "artist": "Mau P",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-mesme",
+          "artist": "Mesmé",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-montique",
+          "artist": "Montique",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-naomi-green",
+          "artist": "Naomi Green",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-nick-leon",
+          "artist": "Nick León",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-omar",
+          "artist": "Omar+",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-pegassi",
+          "artist": "Pegassi",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-quinn-blake",
+          "artist": "Quinn Blake",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-rz",
+          "artist": "RØZ",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-salute",
+          "artist": "salute",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-shaking",
+          "artist": "SHAKING",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-sim-ivy",
+          "artist": "Sim Ivy",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-six-sex",
+          "artist": "Six Sex",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-small-danny-g-luvs-u-b2b-bori",
+          "artist": "Small (danny g luvs u B2B Bori)",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-spinorita",
+          "artist": "Spiñorita",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-tokischa",
+          "artist": "Tokischa",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-x-club-b2b-atrip",
+          "artist": "X CLUB. B2B ATRIP",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-zack-fox",
+          "artist": "Zack Fox",
+          "day": "2026-08-01"
+        },
+        {
+          "id": "hard-summer-2026-10cust",
+          "artist": "10cust",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-1tbsp",
+          "artist": "1tbsp",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-2hollis",
+          "artist": "2hollis",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-adiel-b2b-quest",
+          "artist": "Adiel B2B Quest",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-adult-hits",
+          "artist": "Adult Hits",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-after-midnight",
+          "artist": "After Midnight",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-alarico-b2b-yanamaste",
+          "artist": "Alarico B2B Yanamaste",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-amelie-lens",
+          "artist": "Amelie Lens",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-b3k-b2b-boys-noize",
+          "artist": "B3K B2B Boys Noize",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-bahar-khadem",
+          "artist": "Bahar Khadem",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-bianca-oblivion-b2b-star-eyes",
+          "artist": "Bianca Oblivion B2B Star Eyes",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-canary-yellow",
+          "artist": "Canary Yellow",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-cerulo",
+          "artist": "Cerulo",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-chloe404-b2b-kyle-arthur",
+          "artist": "Chloe404 B2B Kyle Arthur",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-cole-terrazas",
+          "artist": "Cole Terrazas",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-dj-fuckoff",
+          "artist": "DJ Fuckoff",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-dj-snake-hip-hop-set",
+          "artist": "DJ Snake (Hip Hop Set)",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-edge-control",
+          "artist": "Edge Control",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-etari",
+          "artist": "Etari",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-fifi",
+          "artist": "FIFI",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-flabbergast",
+          "artist": "FLABBERGAST",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-frost-children",
+          "artist": "Frost Children",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-fun2bjane",
+          "artist": "fun2bjane",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-hyperbeam",
+          "artist": "Hyperbeam",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-knock2-b2b-zedd",
+          "artist": "Knock2 B2B Zedd",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-ksofresko",
+          "artist": "KsoFresKo",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-lily-ardalan",
+          "artist": "Lily Ardalan",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-mcr-t",
+          "artist": "MCR-T",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-mez-monty-b2b-shane-thomas",
+          "artist": "Mez Monty B2B Shane Thomas",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-miguelle-tons",
+          "artist": "Miguelle & Tons",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-miluhska",
+          "artist": "Miluhska",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-oppidan",
+          "artist": "Oppidan",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-oscar-osorio",
+          "artist": "Oscar Osorio",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-pitchblack",
+          "artist": "PITCHBLACK",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-ranger-trucco",
+          "artist": "Ranger Trucco",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-rl-grime",
+          "artist": "RL Grime",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-sammy-virji",
+          "artist": "Sammy Virji",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-samwise-tx",
+          "artist": "Samwise (TX)",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-shygirl-presents-club-shy",
+          "artist": "Shygirl presents Club Shy",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-strawbry",
+          "artist": "Strawbry",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-tiga",
+          "artist": "Tiga",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-underscores",
+          "artist": "underscores",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-vintage-culture",
+          "artist": "Vintage Culture",
+          "day": "2026-08-02"
+        },
+        {
+          "id": "hard-summer-2026-vtss",
+          "artist": "VTSS",
+          "day": "2026-08-02"
+        }
+      ]
     },
     {
       "id": "edc-orlando-2026",
