@@ -97,5 +97,37 @@
       "https://www.mediafax.ro/english/untold-announces-final-line-up-new-names-on-the-festival-stages-premiere-meduza-3live-in-romania-23768893/amp",
       "https://untold.com/lineup"
     ]
+  },
+  "electric-forest-2026": {
+    "date": "2026-11-18",
+    "result": "added 123 artists with days (official AEG list; days only for artists with a single show date, 12 playing several days or with no listed date have none; left out RUMBLE IN THE BUMBLE and LIGHTCODE, which have no show dates and look like activities)",
+    "sources": [
+      "https://electricforest.com/lineup/",
+      "https://events.aegamp.com/app/716/lvi0bb3acnj4chv1/artists.json",
+      "https://events.aegamp.com/app/716/lvi0bb3acnj4chv1/shows.json"
+    ]
+  },
+  "hard-summer-2026": {
+    "date": "2026-11-18",
+    "result": "added 91 artists with days, from the official site lineup page",
+    "sources": [
+      "https://www.hardsummer.com/lineup/"
+    ]
+  },
+  "shambhala-2026": {
+    "date": "2026-11-18",
+    "result": "nothing added: official site gives only headliners and partial stage pages (\"and more\"); the official poster is the first-phase poster (\"+150 more artists to be announced\"), not the full bill",
+    "sources": [
+      "https://shambhalamusicfestival.com/blog/shambhala-music-festival-2026-lineup",
+      "https://shambhalamusicfestival.com/lineup"
+    ]
+  },
+  "lollapalooza-2026": {
+    "date": "2026-11-18",
+    "result": "nothing added: lollapalooza.com publishes the lineup only as a poster image and no two press outlets print the full bill in text (FADER and ABC7 give headliners/highlights only)",
+    "sources": [
+      "https://www.lollapalooza.com/lineup/",
+      "https://www.thefader.com/2026/03/17/lollapalooza-2026-lineup-charli-xcx-zara-larsson-clipse-geese-more"
+    ]
   }
 }
