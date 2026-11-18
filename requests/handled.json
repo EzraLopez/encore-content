@@ -85,5 +85,18 @@
       "https://www.melodicmag.com/reviews/live-events/inside-outside-lands-2026-a-festival-recap/"
     ],
     "note": "Asked for 2026 by name: the past edition, Aug 7–9, 2026, added to mark Attended; 2027 was already in."
+  },
+  "blacklist.dc": {
+    "outcome": "added",
+    "date": "2026-11-17",
+    "festivalIds": [
+      "blacklizt-dc-2026"
+    ],
+    "sources": [
+      "https://dice.fm/event/vvpvq6-zhu-presents-blackliztdc-18th-dec-berhta-washington-tickets",
+      "https://edmidentity.com/2026/11/03/zhu-blacklizt-dc-lineup/",
+      "https://v13.net/2026/11/zhu-announcess-december-music-festival-blacklizt-dc/"
+    ],
+    "note": "Asked for as Blacklist.DC: ZHU's BLACKLIZT.DC, Dec 18-19, 2026 at BERHTA, Washington DC. Lineup by night from DICE; no set times yet. Instagram is ZHU's own (no event account found)."
   }
 }
