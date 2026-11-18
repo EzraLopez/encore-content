@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 159,
-    "publishedAt": "2026-11-18T06:49:30Z",
+    "version": 160,
+    "publishedAt": "2026-11-18T06:53:56Z",
     "iosBuild": 192,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 156,
@@ -8409,6 +8409,84 @@
         {
           "id": "outside-lands-2026-pinkpantheress",
           "artist": "PinkPantheress"
+        }
+      ]
+    },
+    {
+      "id": "blacklizt-dc-2026",
+      "name": "BLACKLIZT.DC 2026",
+      "tagline": "ZHU's new festival series, first stop DC: two nights, all black, 21+",
+      "location": "Washington, DC",
+      "venue": "BERHTA",
+      "websiteUrl": "https://dice.fm/event/vvpvq6-zhu-presents-blackliztdc-18th-dec-berhta-washington-tickets",
+      "instagramUrl": "https://instagram.com/zhu",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "timezone": "America/New_York",
+      "requestedAs": [
+        "Blacklist.DC"
+      ],
+      "days": [],
+      "lineup": [
+        {
+          "id": "blacklizt-dc-2026-fahlberg",
+          "artist": "Fahlberg",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-kamjam",
+          "artist": "KamJam",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-riche",
+          "artist": "Riche",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-parallelle",
+          "artist": "Parallelle",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-tobehonest",
+          "artist": "TOBEHONEST",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-zhu",
+          "artist": "ZHU",
+          "day": "2026-12-18"
+        },
+        {
+          "id": "blacklizt-dc-2026-dansyn",
+          "artist": "Dansyn",
+          "day": "2026-12-19"
+        },
+        {
+          "id": "blacklizt-dc-2026-hntr",
+          "artist": "HNTR",
+          "day": "2026-12-19"
+        },
+        {
+          "id": "blacklizt-dc-2026-joezi",
+          "artist": "Joezi",
+          "day": "2026-12-19"
+        },
+        {
+          "id": "blacklizt-dc-2026-kotier",
+          "artist": "Kotiēr",
+          "day": "2026-12-19"
+        },
+        {
+          "id": "blacklizt-dc-2026-nico-de-andrea",
+          "artist": "Nico De Andrea",
+          "day": "2026-12-19"
+        },
+        {
+          "id": "blacklizt-dc-2026-zhu-2",
+          "artist": "ZHU",
+          "day": "2026-12-19"
         }
       ]
     }
