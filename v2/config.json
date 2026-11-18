@@ -1,8 +1,8 @@
 {
   "meta": {
-    "version": 172,
-    "publishedAt": "2026-11-18T20:48:39Z",
-    "iosBuild": 200,
+    "version": 173,
+    "publishedAt": "2026-11-18T21:41:24Z",
+    "iosBuild": 201,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 161,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
