@@ -98,5 +98,18 @@
       "https://v13.net/2026/11/zhu-announcess-december-music-festival-blacklizt-dc/"
     ],
     "note": "Asked for as Blacklist.DC: ZHU's BLACKLIZT.DC, Dec 18-19, 2026 at BERHTA, Washington DC. Lineup by night from DICE; no set times yet. Instagram is ZHU's own (no event account found)."
+  },
+  "tahoe live": {
+    "outcome": "added",
+    "date": "2026-11-18",
+    "festivalIds": [
+      "tahoe-live-2026"
+    ],
+    "sources": [
+      "https://tahoelive.net/lineup/",
+      "https://tahoelive.net/location/",
+      "https://www.gratefulweb.com/articles/tahoe-live-2026-griz-chris-lake-knock2-lead-lineups/"
+    ],
+    "note": "Asked for twice (Palisades Tahoe; California). Tahoe Live, Dec 11-13, 2026, one stage at Palisades Tahoe. Lineup by day from the official site, its spellings; no set times yet. Ezra asked for it."
   }
 }

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 181,
-    "publishedAt": "2026-11-19T02:09:45Z",
+    "version": 182,
+    "publishedAt": "2026-11-19T03:56:30Z",
     "iosBuild": 205,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 164,
@@ -9487,6 +9487,126 @@
         {
           "id": "outside-lands-2026-pinkpantheress",
           "artist": "PinkPantheress"
+        }
+      ]
+    },
+    {
+      "id": "tahoe-live-2026",
+      "name": "Tahoe Live 2026",
+      "tagline": "Three days on the slopes of Palisades Tahoe",
+      "location": "Olympic Valley, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Palisades Tahoe",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "websiteUrl": "https://tahoelive.net",
+      "instagramUrl": "https://instagram.com/tahoe.live",
+      "days": [],
+      "lineup": [
+        {
+          "id": "tahoe-live-2026-chris-lake",
+          "artist": "Chris Lake",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-walker-and-royce",
+          "artist": "Walker & Royce",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-noizu",
+          "artist": "Noizu",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-devault",
+          "artist": "DEVAULT",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-nala",
+          "artist": "Nala",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-cole-knight",
+          "artist": "Cole Knight",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-zaddy-b",
+          "artist": "Zaddy B",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-griz",
+          "artist": "GRIZ",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-teddy-pain",
+          "artist": "Teddy Pain",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-ydg",
+          "artist": "YDG",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-mary-droppinz",
+          "artist": "Mary Droppinz",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-hershe",
+          "artist": "HERSHE",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-khoda-leon",
+          "artist": "KHØDA LEON",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-dj-uni",
+          "artist": "DJ UNI",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-knock2",
+          "artist": "Knock2",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-madeon",
+          "artist": "Madeon",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-nikko",
+          "artist": "Nikko",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-klo",
+          "artist": "Klo",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-control-freak",
+          "artist": "Control Freak",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-buns",
+          "artist": "BUNS",
+          "day": "2026-12-13"
         }
       ]
     },
