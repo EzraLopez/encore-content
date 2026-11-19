@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 192,
-    "publishedAt": "2026-11-19T08:29:26Z",
+    "version": 193,
+    "publishedAt": "2026-11-19T09:54:00Z",
     "iosBuild": 208,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 166,
@@ -10617,7 +10617,509 @@
       "websiteUrl": "https://www.bonnaroo.com",
       "instagramUrl": "https://instagram.com/bonnaroo",
       "redditUrl": "https://www.reddit.com/r/bonnaroo/",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "bonnaroo-2026-skrillex",
+          "artist": "Skrillex",
+          "day": "2026-06-11"
+        },
+        {
+          "id": "bonnaroo-2026-four-tet",
+          "artist": "Four Tet",
+          "day": "2026-06-11"
+        },
+        {
+          "id": "bonnaroo-2026-vince-staples",
+          "artist": "Vince Staples",
+          "day": "2026-06-11"
+        },
+        {
+          "id": "bonnaroo-2026-spiritual-cramp",
+          "artist": "Spiritual Cramp",
+          "day": "2026-06-11"
+        },
+        {
+          "id": "bonnaroo-2026-the-strokes",
+          "artist": "The Strokes",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-griz",
+          "artist": "Griz",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-turnstile",
+          "artist": "Turnstile",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-mt-joy",
+          "artist": "Mt. Joy",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-major-lazer",
+          "artist": "Major Lazer",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-jessie-murph",
+          "artist": "Jessie Murph",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-yungblud",
+          "artist": "Yungblud",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-geese",
+          "artist": "Geese",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-cloonee",
+          "artist": "Cloonee",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-lil-jon",
+          "artist": "Lil Jon",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-blood-orange",
+          "artist": "Blood Orange",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-wet-leg",
+          "artist": "Wet Leg",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-hot-mulligan",
+          "artist": "Hot Mulligan",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-bbnos",
+          "artist": "bbno$",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-zack-fox",
+          "artist": "Zack Fox",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-smino",
+          "artist": "Smino",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-sidepiece",
+          "artist": "Sidepiece",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-rachel-chinouriri",
+          "artist": "Rachel Chinouriri",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-the-dare",
+          "artist": "The Dare",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-adventure-club",
+          "artist": "Adventure Club",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-notion",
+          "artist": "NOTION",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-mother-mother",
+          "artist": "Mother Mother",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-aszewo",
+          "artist": "Łaszewo",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-blues-traveler",
+          "artist": "Blues Traveler",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-wolfmother",
+          "artist": "Wolfmother",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-wednesday",
+          "artist": "Wednesday",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-the-chats",
+          "artist": "The Chats",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-lambrini-girls",
+          "artist": "Lambrini Girls",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-amble",
+          "artist": "Amble",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-goldie-boutilier",
+          "artist": "Goldie Boutilier",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-dora-jar",
+          "artist": "Dora Jar",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-villanelle",
+          "artist": "Villanelle",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-pawpaw-rod",
+          "artist": "PawPaw Rod",
+          "day": "2026-06-12"
+        },
+        {
+          "id": "bonnaroo-2026-rufus-du-sol",
+          "artist": "RÜFÜS DU SOL",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-teddy-swims",
+          "artist": "Teddy Swims",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-the-neighbourhood",
+          "artist": "The Neighbourhood",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-alabama-shakes",
+          "artist": "Alabama Shakes",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-chase-and-status",
+          "artist": "Chase & Status",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-sara-landry",
+          "artist": "Sara Landry",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-rainbow-kitten-surprise",
+          "artist": "Rainbow Kitten Surprise",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-freddie-gibbs-and-the-alchemist",
+          "artist": "Freddie Gibbs & The Alchemist",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-amyl-and-the-sniffers",
+          "artist": "Amyl & The Sniffers",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-sub-focus",
+          "artist": "Sub Focus",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-gorgon-city",
+          "artist": "Gorgon City",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-flipturn",
+          "artist": "flipturn",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-passion-pit",
+          "artist": "Passion Pit",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-tash-sultana",
+          "artist": "Tash Sultana",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-wyatt-flores",
+          "artist": "Wyatt Flores",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-boys-noize",
+          "artist": "Boys Noize",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-holly-humberstone",
+          "artist": "Holly Humberstone",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-deathpact",
+          "artist": "Deathpact",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-sg-lewis",
+          "artist": "SG Lewis",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-osees",
+          "artist": "Osees",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-waylon-wyatt",
+          "artist": "Waylon Wyatt",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-the-runarounds",
+          "artist": "The Runarounds",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-dj-trixie-mattel",
+          "artist": "DJ Trixie Mattel",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-buffalo-traffic-jam",
+          "artist": "Buffalo Traffic Jam",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-confidence-man",
+          "artist": "Confidence Man",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-arcy-drive",
+          "artist": "Arcy Drive",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-mountain-grass-unit",
+          "artist": "Mountain Grass Unit",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-juelz",
+          "artist": "Juelz",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-the-stews",
+          "artist": "The Stews",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-congress-the-band",
+          "artist": "Congress The Band",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-midnight-generation",
+          "artist": "Midnight Generation",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-sunami",
+          "artist": "Sunami",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-nikita-the-wicked",
+          "artist": "Nikita, The Wicked",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-weird-al-yankovic",
+          "artist": "\"Weird Al\" Yankovic",
+          "day": "2026-06-13"
+        },
+        {
+          "id": "bonnaroo-2026-noah-kahan",
+          "artist": "Noah Kahan",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-role-model",
+          "artist": "Role Model",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-kesha",
+          "artist": "Kesha",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-tedeschi-trucks-band",
+          "artist": "Tedeschi Trucks Band",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-lszee",
+          "artist": "LSZEE",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-clipse",
+          "artist": "Clipse",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-mariah-the-scientist",
+          "artist": "Mariah the Scientist",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-daily-bread",
+          "artist": "Daily Bread",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-modest-mouse",
+          "artist": "Modest Mouse",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-big-gigantic",
+          "artist": "Big Gigantic",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-japanese-breakfast",
+          "artist": "Japanese Breakfast",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-turnover",
+          "artist": "Turnover",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-san-holo",
+          "artist": "San Holo",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-trombone-shorty-and-orleans-avenue",
+          "artist": "Trombone Shorty & Orleans Avenue",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-del-water-gap",
+          "artist": "Del Water Gap",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-spacey-jane",
+          "artist": "Spacey Jane",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-audrey-hobert",
+          "artist": "Audrey Hobert",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-fcukers",
+          "artist": "Fcukers",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-blondshell",
+          "artist": "Blondshell",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-little-stranger",
+          "artist": "Little Stranger",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-aly-and-aj",
+          "artist": "Aly & AJ",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-hemlocke-springs",
+          "artist": "Hemlocke Springs",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-steph-strings",
+          "artist": "Steph Strings",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-a-hundred-drums",
+          "artist": "A Hundred Drums",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-girl-tones",
+          "artist": "Girl Tones",
+          "day": "2026-06-14"
+        },
+        {
+          "id": "bonnaroo-2026-motifv",
+          "artist": "Motifv",
+          "day": "2026-06-14"
+        }
+      ]
     },
     {
       "id": "hard-summer-2026",
