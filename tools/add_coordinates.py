@@ -34,20 +34,22 @@ US = {"AL":"Alabama","AK":"Alaska","AZ":"Arizona","AR":"Arkansas","CA":"Californ
       "VT":"Vermont","VA":"Virginia","WA":"Washington","WV":"West Virginia","WI":"Wisconsin","WY":"Wyoming"}
 
 
+ALIASES = {"uk": "gb", "u.k.": "gb", "england": "gb", "scotland": "gb", "wales": "gb", "usa": "us", "u.s.": "us"}
+
+
 def lookup(location):
     parts = [p.strip() for p in location.split(",") if p.strip()]
     if not parts:
         return None
-    hint = parts[-1] if len(parts) > 1 else ""
-    hint = US.get(hint.upper(), hint).lower()
+    hints = [US.get(p.upper(), ALIASES.get(p.lower(), p)).lower() for p in parts[1:]]
     q = urllib.parse.urlencode({"name": parts[0], "count": 10, "language": "en", "format": "json"})
     with urllib.request.urlopen(f"https://geocoding-api.open-meteo.com/v1/search?{q}", timeout=20) as r:
         results = json.load(r).get("results") or []
     def fits(x):
-        if not hint:
+        if not hints:
             return True
         names = [str(x.get(k, "")).lower() for k in ("admin1", "admin2", "country", "country_code")]
-        return any(hint == n or (len(hint) > 3 and hint in n) for n in names)
+        return any(h == n or (len(h) > 3 and h in n) for h in hints for n in names)
     best = next((x for x in results if fits(x)), None)
     return (round(best["latitude"], 4), round(best["longitude"], 4)) if best else None
 
