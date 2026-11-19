@@ -129,5 +129,41 @@
       "https://www.lollapalooza.com/lineup/",
       "https://www.thefader.com/2026/03/17/lollapalooza-2026-lineup-charli-xcx-zara-larsson-clipse-geese-more"
     ]
+  },
+  "bonnaroo-2026": {
+    "date": "2026-11-19",
+    "result": "added 100 artists with days (text sources: Stereogum day-by-day list, matched name for name by NME and Uproxx; the SuperJam title is not an artist and was left out)",
+    "sources": [
+      "https://stereogum.com/2481626/bonnaroo-announces-2026-lineup/news",
+      "https://www.nme.com/news/music/bonnaroo-announce-2026-line-up-the-strokes-turnstile-skrillex-noah-kahan-and-more-3915139",
+      "https://uproxx.com/music/bonnaroo-festival-2026-lineup"
+    ]
+  },
+  "movement-detroit-2026": {
+    "date": "2026-11-19",
+    "result": "not verified: press names only some of the 115+ acts, the full bill is a graphic; the official site now shows the 2027 edition and web.archive.org was unreachable",
+    "sources": [
+      "https://electronicmidwest.com/news/detroits-movement-festival-announces-2026-lineup/",
+      "https://djlifemag.com/2026/01/movement-detroit-unveils-full-2026-lineup-for-landmark-20th-anniversary/",
+      "https://movementfestival.com"
+    ]
+  },
+  "primavera-sound-barcelona-2026": {
+    "date": "2026-11-19",
+    "result": "not verified: press gives only headliners per day, the full day split is a poster image; the official site now shows 2027",
+    "sources": [
+      "https://thefestivals.uk/primavera-barcelona-2026-lineup-by-day-announced",
+      "https://www.catalannews.com/culture/item/primavera-sound-unveils-2026-lineup-by-day",
+      "https://www.primaverasound.com/en/barcelona/lineup"
+    ]
+  },
+  "sonar-barcelona-2026": {
+    "date": "2026-11-19",
+    "result": "not verified: press names only highlights of 100+ performances; official site now shows a later edition and web.archive.org was unreachable",
+    "sources": [
+      "https://agendaconcerts.cat/en/news/166/s-nar-2026-reveals-full-lineup-and-stage-by-stage-programme-in-barcelona",
+      "https://www.catalannews.com/culture/item/the-prodigy-charlotte-de-witte-amelie-lens-full-sonar-2026-lineup-announced",
+      "https://sonar.es/en"
+    ]
   }
 }
