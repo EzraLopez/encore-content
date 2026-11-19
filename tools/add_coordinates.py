@@ -10,6 +10,7 @@ festival that already has coordinates.
 
   python3 tools/add_coordinates.py            # show what it would add
   python3 tools/add_coordinates.py --write    # add them (then run the validator)
+  ... --write --keep-version                  # add them without bumping meta.version
 
 Check new pins on a map before publishing: a common town name can match the
 wrong place. tools/geocode.swift (Apple's geocoder, by venue) is more
@@ -57,6 +58,8 @@ def lookup(location):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--write", action="store_true")
+    ap.add_argument("--keep-version", action="store_true",
+                    help="leave meta.version and publishedAt alone (for routines that bump them once per branch)")
     args = ap.parse_args()
     raw = open(CONFIG, encoding="utf-8").read()
     c = json.loads(raw)
@@ -83,8 +86,9 @@ def main():
     for m in missed:
         print(f"{m}: nothing found; add latitude/longitude by hand", file=sys.stderr)
     if args.write and added:
-        c["meta"]["version"] += 1
-        c["meta"]["publishedAt"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+        if not args.keep_version:
+            c["meta"]["version"] += 1
+            c["meta"]["publishedAt"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
         open(CONFIG, "w", encoding="utf-8").write(json.dumps(c, indent=2, ensure_ascii=False) + "\n")
     print(f"{added} added{' (not written: pass --write)' if added and not args.write else ''}, {len(missed)} not found")
 
