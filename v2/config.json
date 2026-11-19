@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 189,
-    "publishedAt": "2026-11-19T07:50:17Z",
+    "version": 190,
+    "publishedAt": "2026-11-19T08:01:06Z",
     "iosBuild": 207,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 165,
@@ -3147,6 +3147,7 @@
       "venue": "Queen Mary Waterfront",
       "websiteUrl": "https://socal.dreamstateusa.com",
       "instagramUrl": "https://instagram.com/dreamstateusa",
+      "redditUrl": "https://www.reddit.com/r/DreamState/",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg",
       "mapImageUrls": [
         "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg",
