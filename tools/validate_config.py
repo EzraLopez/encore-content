@@ -207,6 +207,17 @@ def validate_festival(fest, index, seen_ids, seen_set_ids):
         seen_ids.add(fid)
     require_str(fest, "name", where)
     check_timezone(fest.get("timezone"), where)
+    # Where it is, for the profile map (Nov 19, 2026): optional, both or
+    # neither, in range. tools/geocode.swift finds them.
+    has_lat, has_lon = "latitude" in fest, "longitude" in fest
+    if has_lat != has_lon:
+        err(f"{where}: latitude and longitude go together")
+    elif has_lat:
+        lat, lon = fest["latitude"], fest["longitude"]
+        if not isinstance(lat, (int, float)) or isinstance(lat, bool) or not -90 <= lat <= 90:
+            err(f"{where}: latitude {lat!r} is not between -90 and 90")
+        if not isinstance(lon, (int, float)) or isinstance(lon, bool) or not -180 <= lon <= 180:
+            err(f"{where}: longitude {lon!r} is not between -180 and 180")
 
     start = fest.get("startDate")
     end = fest.get("endDate")
