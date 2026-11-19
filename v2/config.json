@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 184,
-    "publishedAt": "2026-11-19T04:04:33Z",
+    "version": 185,
+    "publishedAt": "2026-11-19T05:08:52Z",
     "iosBuild": 206,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 165,
@@ -10420,7 +10420,8 @@
     },
     "Chris Lake": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-lake/135067114",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7e/f7/c8/7ef7c89a-541b-3187-815a-a14ca04a62bd/229474c8-af4b-4aab-be49-e99bb0a1c3aa_ami-identity-59a661a7306fd6e46d6475e8e53382a2-2023-06-15T21-52-14.305Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7e/f7/c8/7ef7c89a-541b-3187-815a-a14ca04a62bd/229474c8-af4b-4aab-be49-e99bb0a1c3aa_ami-identity-59a661a7306fd6e46d6475e8e53382a2-2023-06-15T21-52-14.305Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
     },
     "Chris Liebing": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-liebing/4382245",
@@ -10582,7 +10583,8 @@
     },
     "Daniel Allan": {
       "appleMusicUrl": "https://music.apple.com/us/artist/daniel-allan/193197922",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/19/90/80199069-2b9e-5572-0f98-a13263a9f83a/pr_source.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/19/90/80199069-2b9e-5572-0f98-a13263a9f83a/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
     },
     "Dannic b2b Dyro": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dannic/31481896",
@@ -10656,7 +10658,8 @@
     },
     "Devault": {
       "appleMusicUrl": "https://music.apple.com/us/artist/devault/1068294292",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
     },
     "Die Spitz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/die-spitz/1545875931",
@@ -11134,7 +11137,8 @@
     },
     "Griz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/griz/980722716",
-      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/9b/c3/f9/9bc3f957-e873-91c0-a581-548ee7dbfd81/ami-identity-7324fc3280d80a213a3e86e59a8823b1-2025-03-11T16-17-11.603Z_cropped.png/600x600bb.jpg"
     },
     "Groove Armada": {
       "appleMusicUrl": "https://music.apple.com/us/artist/groove-armada/1727137",
@@ -11219,7 +11223,8 @@
     },
     "HerShe": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hershe/1454955985",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/70/c0/6b/70c06ba9-5a0e-8a15-26b6-c0a695aec8c5/ami-identity-1a4bffb771d73c4f18737f7a2cff455f-2025-05-07T22-54-46.454Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/70/c0/6b/70c06ba9-5a0e-8a15-26b6-c0a695aec8c5/ami-identity-1a4bffb771d73c4f18737f7a2cff455f-2025-05-07T22-54-46.454Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
     },
     "Hills": {
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/HILLS-PROFILE-SDE9-600x600.png",
@@ -13257,7 +13262,8 @@
     },
     "Walker & Royce": {
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/11/WALKERROYCE-PROFILE-SDE9-600x600.png",
-      "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011"
+      "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011",
+      "spotifyUrl": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
     },
     "Walker & Royce b2b VNSSA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011",
@@ -13318,7 +13324,7 @@
     },
     "YDG": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ydg/956701098",
-      "spotifyUrl": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi",
+      "spotifyUrl": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/f3/ab/23/f3ab231f-ec40-2f12-ca20-6711118721a7/ea0cb20c-845b-443d-8e13-72060fa8ce8c_file_cropped.png/600x600bb.jpg"
     },
     "YOUNG MIKO": {
@@ -13487,6 +13493,64 @@
     },
     "Łaszewo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296"
+    },
+    "Noizu": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/noizu/1228808084",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/41/e0/34/41e034ec-a9a6-31b8-14c2-65a1b84b5b9a/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+    },
+    "Nala": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nala/1257292208",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/43/12/3d4312b9-ad6b-659b-fae3-bee380f633df/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+    },
+    "Cole Knight": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cole-knight/589962652",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ColeKnight-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+    },
+    "Zaddy B": {
+      "spotifyUrl": "https://open.spotify.com/artist/0elfpnmpE6sM3nHIGN0P67"
+    },
+    "Teddy Pain": {
+      "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+    },
+    "Mary Droppinz": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mary-droppinz/1564507779",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/0e/a3/480ea33f-b4fd-901e-6be6-77202f6167bf/3690f9a1-0b75-41d5-8db1-7cc3a434fbba.png/600x600ac.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+    },
+    "KHØDA LEON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kh%C3%B8da-leon/6783309329",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/38/dd/fe38ddcb-7d42-4c41-1df3-d43e96530986/artwork.jpg/600x600ac.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6yFhaoqcKl9k2im56vC1Sl"
+    },
+    "DJ UNI": {},
+    "Knock2": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/knock2/966450646",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e9/2c/1c/e92c1c56-6be9-e8d8-501b-343e6a8dbfa2/ami_U003aidentity_U003af9f9be96a01a77ce2252130b95f5a05d-2026-09-11T16-01-59.554Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+    },
+    "Madeon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/madeon/371199302",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/08/72/b3/0872b3ef-3b7a-e7ae-9e7b-69cedcfa3a17/file_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+    },
+    "Nikko": {
+      "spotifyUrl": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+    },
+    "Klo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/klo/1503314246",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/0c/f0/9d/0cf09dc8-8749-63b7-e9f9-0d084e32c94f/67ed2f2a-fde1-4d70-834d-f1c555da4cf4_file_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+    },
+    "Control Freak": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/control-freak/53615786",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e3/90/c7/e390c7d5-71ee-2961-bc75-fdd399c09146/ami-identity-f589dd1ab675d436428fcd19504396c9-2025-12-05T00-39-11.634Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+    },
+    "BUNS": {
+      "spotifyUrl": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB"
     }
   },
   "requestOutcomes": {
