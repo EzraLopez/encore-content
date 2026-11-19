@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": 165,
-    "publishedAt": "2026-11-18T09:40:03Z",
-    "iosBuild": 194,
+    "version": 192,
+    "publishedAt": "2026-11-19T08:29:26Z",
+    "iosBuild": 208,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
-    "androidBuild": 158,
+    "androidBuild": 166,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
   },
   "festivals": [
@@ -1729,7 +1729,599 @@
       "venue": "Parque Maeda",
       "websiteUrl": "https://brasil.tomorrowland.com",
       "instagramUrl": "https://instagram.com/tomorrowlandbrasil",
-      "redditUrl": "https://www.reddit.com/r/Tomorrowland/"
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/",
+      "lineup": [
+        {
+          "id": "tomorrowland-brasil-2027-lost-frequencies",
+          "artist": "Lost Frequencies",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-r3hab",
+          "artist": "R3hab",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-nico-moreno",
+          "artist": "Nico Moreno",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dubdogz",
+          "artist": "Dubdogz",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-liu",
+          "artist": "Liu",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-etta",
+          "artist": "Etta",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mc-stretch",
+          "artist": "MC STRETCH",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-morten",
+          "artist": "Morten",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-alok",
+          "artist": "Alok",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-elfigo",
+          "artist": "ELFIGO",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-malive",
+          "artist": "Malive",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-illusionize",
+          "artist": "Illusionize",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-smash-the-house-take-over-dimitri-vegas-b2b-lilly-palmer",
+          "artist": "Smash The House Take Over: Dimitri Vegas b2b Lilly Palmer",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-smash-the-house-take-over-bassjackers",
+          "artist": "Smash The House Take Over: Bassjackers",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-third-party",
+          "artist": "Third Party",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dubvision",
+          "artist": "Dubvision",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-cyril",
+          "artist": "Cyril",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-matisse-sadko-present-melodicca",
+          "artist": "Matisse & Sadko present Melodicca",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-yves-v",
+          "artist": "Yves V",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-stephani-b",
+          "artist": "Stephani B",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-m4ri-carrilho",
+          "artist": "M4RI Carrilho",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-funk-tribu",
+          "artist": "Funk Tribu",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bella-claxton-b2b-paige-tomlinson",
+          "artist": "Bella Claxton b2b Paige Tomlinson",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-renato-cohen",
+          "artist": "Renato Cohen",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-due",
+          "artist": "Due",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mathame",
+          "artist": "Mathame",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-kolsch",
+          "artist": "Kölsch",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-korolova",
+          "artist": "Korolova",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dyzen",
+          "artist": "Dyzen",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-pacs",
+          "artist": "Pacs",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mila-journee",
+          "artist": "Mila Journée",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dimitri-vegas",
+          "artist": "Dimitri Vegas",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-novah",
+          "artist": "Novah",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-miss-monique",
+          "artist": "Miss Monique",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-vegas",
+          "artist": "Vegas",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-nervo",
+          "artist": "Nervo",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-kris-kross-amsterdam",
+          "artist": "Kris Kross Amsterdam",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-cat-dealers",
+          "artist": "Cat Dealers",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bruna-strait",
+          "artist": "Bruna Strait",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mc-stretch-2",
+          "artist": "MC STRETCH",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-antdot",
+          "artist": "Antdot",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-chelina-manuhutu",
+          "artist": "Chelina Manuhutu",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-viot",
+          "artist": "Viot",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-marian",
+          "artist": "Marian",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-krewella",
+          "artist": "Krewella",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-nghtmre",
+          "artist": "NGHTMRE",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-pendulum-dj-set",
+          "artist": "Pendulum (DJ-set)",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-ray-volpe",
+          "artist": "Ray Volpe",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-k-motionz",
+          "artist": "K Motionz",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-merow",
+          "artist": "Merow",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-scorsi",
+          "artist": "Scorsi",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-kevin-de-vries",
+          "artist": "Kevin de Vries",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-brina-knauss",
+          "artist": "Brina Knauss",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bhaskar",
+          "artist": "Bhaskar",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dino-lenny",
+          "artist": "Dino Lenny",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-deer-jade",
+          "artist": "Deer Jade",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-jackson",
+          "artist": "Jackson",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-unfazed",
+          "artist": "Unfazed",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-lilly-palmer",
+          "artist": "Lilly Palmer",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-enrico-sangiuliano",
+          "artist": "Enrico Sangiuliano",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-amber-broos",
+          "artist": "Amber Broos",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-eli-iwasa",
+          "artist": "Eli Iwasa",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-silvio-soul",
+          "artist": "Silvio Soul",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-alok-2",
+          "artist": "Alok",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-illenium",
+          "artist": "Illenium",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-halo",
+          "artist": "HALŌ",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-andromedik",
+          "artist": "Andromedik",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mandy",
+          "artist": "MANDY",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-volkoder",
+          "artist": "Volkoder",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-jrd",
+          "artist": "Jørd",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-fezzo",
+          "artist": "Fezzo",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mc-stretch-3",
+          "artist": "MC STRETCH",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-ferry-corsten-b2b-marsh",
+          "artist": "Ferry Corsten b2b Marsh",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-ashibah",
+          "artist": "Ashibah",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-d-nox",
+          "artist": "D-Nox",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-me-n-u",
+          "artist": "me n ü",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-zac",
+          "artist": "Zac",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-riascode",
+          "artist": "Riascode",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-sub-zero-project",
+          "artist": "Sub Zero Project",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-mad-maxx-b2b-stryker",
+          "artist": "Mad Maxx b2b Stryker",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-astrix",
+          "artist": "Astrix",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-ekanta-swarup-special-surprise-act",
+          "artist": "Ekanta & Swarup + Special Surprise Act",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-omiki",
+          "artist": "Omiki",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-vermont",
+          "artist": "Vermont",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-blazy",
+          "artist": "Blazy",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-phaxe",
+          "artist": "Phaxe",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-fernanda-pistelli",
+          "artist": "Fernanda Pistelli",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-adalamoon",
+          "artist": "Adalamoon",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-maz",
+          "artist": "Maz",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-camila-jun",
+          "artist": "Camila Jun",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-aline-rocha-b2b-ratier",
+          "artist": "Aline Rocha b2b Ratier",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bauhouse-b2b-simo-not-simon",
+          "artist": "Bauhouse b2b simo not simon",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-sara-landry",
+          "artist": "Sara Landry",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-999999999",
+          "artist": "999999999",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-maddix",
+          "artist": "Maddix",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-axwell",
+          "artist": "Axwell",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-fisher",
+          "artist": "Fisher",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-alan-walker",
+          "artist": "Alan Walker",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-agents-of-time",
+          "artist": "Agents of Time",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-massano-b2b-volkoder",
+          "artist": "Massano b2b Volkoder",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-malu",
+          "artist": "Malu",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-dj-gigola-b2b-haai",
+          "artist": "DJ Gigola b2b HAAi",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bibi-seck",
+          "artist": "Bibi Seck",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-shee",
+          "artist": "SHEE",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-symphony-of-unity",
+          "artist": "Symphony of Unity",
+          "day": "2027-04-30"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-steve-aoki",
+          "artist": "Steve Aoki",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-meduza",
+          "artist": "Meduza",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-symphony-of-unity-2",
+          "artist": "Symphony of Unity",
+          "day": "2027-05-01"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-the-chainsmokers",
+          "artist": "The Chainsmokers",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-gareth-emery",
+          "artist": "Gareth Emery",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-carola-b2b-lp-giobbi",
+          "artist": "Carola b2b LP Giobbi",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-marie-vaunt-b2b-space-92",
+          "artist": "Marie Vaunt b2b Space 92",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-symphony-of-unity-3",
+          "artist": "Symphony of Unity",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-emilija",
+          "artist": "Emilija",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-delcu",
+          "artist": "Delcu",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-timmy-trumpet",
+          "artist": "Timmy Trumpet",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-bebe-rexha",
+          "artist": "Bebe Rexha",
+          "day": "2027-05-02"
+        },
+        {
+          "id": "tomorrowland-brasil-2027-oscar-and-the-wolf",
+          "artist": "Oscar and the Wolf",
+          "day": "2027-05-01"
+        }
+      ]
     },
     {
       "days": [
@@ -2555,7 +3147,24 @@
       "venue": "Queen Mary Waterfront",
       "websiteUrl": "https://socal.dreamstateusa.com",
       "instagramUrl": "https://instagram.com/dreamstateusa",
-      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg"
+      "redditUrl": "https://www.reddit.com/r/DreamState/",
+      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg",
+      "mapImageUrls": [
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026.jpg",
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026-void.jpg",
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026-afterparty-decks.jpg",
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026-afterparty-entrance.jpg",
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026-parking.jpg",
+        "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/dreamstate-socal-2026-shuttle.jpg"
+      ],
+      "mapNames": [
+        "Festival grounds",
+        "The Void stage",
+        "Afterparty: Queen Mary decks",
+        "Afterparty: entrance & box office",
+        "Parking & rideshare",
+        "Free shuttle"
+      ]
     },
     {
       "days": [],
@@ -2815,6 +3424,146 @@
           "id": "tomorrowland-winter-2027-yves-v",
           "artist": "Yves V",
           "stage": "Planaxis"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mattn",
+          "artist": "MATTN"
+        },
+        {
+          "id": "tomorrowland-winter-2027-meaghan",
+          "artist": "Meaghan"
+        },
+        {
+          "id": "tomorrowland-winter-2027-telykast",
+          "artist": "Telykast"
+        },
+        {
+          "id": "tomorrowland-winter-2027-lucca-van-damme",
+          "artist": "Lucca van Damme"
+        },
+        {
+          "id": "tomorrowland-winter-2027-lennert-wolfs",
+          "artist": "Lennert Wolfs"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mc-stretch",
+          "artist": "MC STRETCH"
+        },
+        {
+          "id": "tomorrowland-winter-2027-serafina",
+          "artist": "Serafina"
+        },
+        {
+          "id": "tomorrowland-winter-2027-row1",
+          "artist": "ROW1"
+        },
+        {
+          "id": "tomorrowland-winter-2027-david-latour",
+          "artist": "David Latour"
+        },
+        {
+          "id": "tomorrowland-winter-2027-massano",
+          "artist": "Massano"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mila-journee",
+          "artist": "Mila Journée"
+        },
+        {
+          "id": "tomorrowland-winter-2027-sound-rush",
+          "artist": "Sound Rush"
+        },
+        {
+          "id": "tomorrowland-winter-2027-brina-knauss",
+          "artist": "Brina Knauss"
+        },
+        {
+          "id": "tomorrowland-winter-2027-karakals",
+          "artist": "Karakals"
+        },
+        {
+          "id": "tomorrowland-winter-2027-manuals",
+          "artist": "Manuals"
+        },
+        {
+          "id": "tomorrowland-winter-2027-miss-puss-b2b-pat-b",
+          "artist": "Miss Puss b2b Pat B"
+        },
+        {
+          "id": "tomorrowland-winter-2027-lny-tnz",
+          "artist": "LNY TNZ"
+        },
+        {
+          "id": "tomorrowland-winter-2027-dimitri-vegas",
+          "artist": "Dimitri Vegas"
+        },
+        {
+          "id": "tomorrowland-winter-2027-matisse-sadko",
+          "artist": "Matisse & Sadko"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mandy",
+          "artist": "MANDY"
+        },
+        {
+          "id": "tomorrowland-winter-2027-dj-schnake",
+          "artist": "DJ Schnake"
+        },
+        {
+          "id": "tomorrowland-winter-2027-pat-b",
+          "artist": "Pat B"
+        },
+        {
+          "id": "tomorrowland-winter-2027-yuuki-yoshiyama",
+          "artist": "Yuuki Yoshiyama"
+        },
+        {
+          "id": "tomorrowland-winter-2027-lisa-korver",
+          "artist": "Lisa Korver"
+        },
+        {
+          "id": "tomorrowland-winter-2027-jeroen-visser",
+          "artist": "Jeroen Visser"
+        },
+        {
+          "id": "tomorrowland-winter-2027-jelle-dk",
+          "artist": "Jelle DK"
+        },
+        {
+          "id": "tomorrowland-winter-2027-jerrooo",
+          "artist": "Jerrooo"
+        },
+        {
+          "id": "tomorrowland-winter-2027-prosit",
+          "artist": "Prosit"
+        },
+        {
+          "id": "tomorrowland-winter-2027-mr-e",
+          "artist": "MR. E."
+        },
+        {
+          "id": "tomorrowland-winter-2027-effe-serieus",
+          "artist": "Effe Serieus"
+        },
+        {
+          "id": "tomorrowland-winter-2027-brian",
+          "artist": "Brian"
+        },
+        {
+          "id": "tomorrowland-winter-2027-funkhauser",
+          "artist": "Funkhauser"
+        },
+        {
+          "id": "tomorrowland-winter-2027-hansi",
+          "artist": "Hansi"
+        },
+        {
+          "id": "tomorrowland-winter-2027-merow-b2b-moksi",
+          "artist": "Merow b2b Moksi"
+        },
+        {
+          "id": "tomorrowland-winter-2027-amber-broos",
+          "artist": "Amber Broos"
         }
       ]
     },
@@ -4572,7 +5321,201 @@
       "endDate": "2027-01-01",
       "days": [],
       "venue": "Petco Park",
-      "accentColor": "#4A2D7B"
+      "accentColor": "#4A2D7B",
+      "lineup": [
+        {
+          "id": "proper-nye-2026-ayybo",
+          "artist": "Ayybo"
+        },
+        {
+          "id": "proper-nye-2026-beltran",
+          "artist": "Beltran"
+        },
+        {
+          "id": "proper-nye-2026-ben-sterling",
+          "artist": "Ben Sterling"
+        },
+        {
+          "id": "proper-nye-2026-canary-yellow",
+          "artist": "Canary Yellow"
+        },
+        {
+          "id": "proper-nye-2026-cassian",
+          "artist": "Cassian"
+        },
+        {
+          "id": "proper-nye-2026-chris-lorenzo",
+          "artist": "Chris Lorenzo"
+        },
+        {
+          "id": "proper-nye-2026-cloonee",
+          "artist": "Cloonee"
+        },
+        {
+          "id": "proper-nye-2026-cloonee-b2b-kettama-b2b-josh-baker",
+          "artist": "Cloonee b2b Kettama b2b Josh Baker"
+        },
+        {
+          "id": "proper-nye-2026-kettama",
+          "artist": "Kettama"
+        },
+        {
+          "id": "proper-nye-2026-josh-baker",
+          "artist": "Josh Baker"
+        },
+        {
+          "id": "proper-nye-2026-dj-mandy",
+          "artist": "DJ Mandy"
+        },
+        {
+          "id": "proper-nye-2026-dombresky",
+          "artist": "Dombresky"
+        },
+        {
+          "id": "proper-nye-2026-eli-brown",
+          "artist": "Eli Brown"
+        },
+        {
+          "id": "proper-nye-2026-facu-baez",
+          "artist": "Facu Baez"
+        },
+        {
+          "id": "proper-nye-2026-fisher",
+          "artist": "Fisher"
+        },
+        {
+          "id": "proper-nye-2026-four-tet-b2b-tiga",
+          "artist": "Four Tet b2b Tiga"
+        },
+        {
+          "id": "proper-nye-2026-green-velvet",
+          "artist": "Green Velvet"
+        },
+        {
+          "id": "proper-nye-2026-i-hate-models",
+          "artist": "I Hate Models"
+        },
+        {
+          "id": "proper-nye-2026-invt",
+          "artist": "Invt"
+        },
+        {
+          "id": "proper-nye-2026-jackie-hollander",
+          "artist": "Jackie Hollander"
+        },
+        {
+          "id": "proper-nye-2026-kamino",
+          "artist": "Kamino"
+        },
+        {
+          "id": "proper-nye-2026-kaskade",
+          "artist": "Kaskade"
+        },
+        {
+          "id": "proper-nye-2026-klangkuenstler",
+          "artist": "Klangkuenstler"
+        },
+        {
+          "id": "proper-nye-2026-lane-8",
+          "artist": "Lane 8"
+        },
+        {
+          "id": "proper-nye-2026-massane",
+          "artist": "Massane"
+        },
+        {
+          "id": "proper-nye-2026-max-dean-b2b-luke-dean",
+          "artist": "Max Dean b2b Luke Dean"
+        },
+        {
+          "id": "proper-nye-2026-murda-beatz",
+          "artist": "Murda Beatz"
+        },
+        {
+          "id": "proper-nye-2026-myrne",
+          "artist": "Myrne"
+        },
+        {
+          "id": "proper-nye-2026-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "proper-nye-2026-novah",
+          "artist": "Novah"
+        },
+        {
+          "id": "proper-nye-2026-odd-mob",
+          "artist": "Odd Mob"
+        },
+        {
+          "id": "proper-nye-2026-omar",
+          "artist": "Omar+"
+        },
+        {
+          "id": "proper-nye-2026-omnom",
+          "artist": "Omnom"
+        },
+        {
+          "id": "proper-nye-2026-otherwish",
+          "artist": "Otherwish"
+        },
+        {
+          "id": "proper-nye-2026-paris",
+          "artist": "Paris"
+        },
+        {
+          "id": "proper-nye-2026-player-dave",
+          "artist": "Player Dave"
+        },
+        {
+          "id": "proper-nye-2026-qrion",
+          "artist": "Qrion"
+        },
+        {
+          "id": "proper-nye-2026-robby-east",
+          "artist": "Robby East"
+        },
+        {
+          "id": "proper-nye-2026-san-pacho",
+          "artist": "San Pacho"
+        },
+        {
+          "id": "proper-nye-2026-sapian",
+          "artist": "Sapian"
+        },
+        {
+          "id": "proper-nye-2026-sara-landry",
+          "artist": "Sara Landry"
+        },
+        {
+          "id": "proper-nye-2026-ship-wrek",
+          "artist": "Ship Wrek"
+        },
+        {
+          "id": "proper-nye-2026-sidepiece",
+          "artist": "Sidepiece"
+        },
+        {
+          "id": "proper-nye-2026-sosa",
+          "artist": "Sosa"
+        },
+        {
+          "id": "proper-nye-2026-tommy-phillips",
+          "artist": "Tommy Phillips"
+        },
+        {
+          "id": "proper-nye-2026-umru",
+          "artist": "Umru"
+        },
+        {
+          "id": "proper-nye-2026-westend",
+          "artist": "Westend"
+        },
+        {
+          "id": "proper-nye-2026-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U"
+        }
+      ]
     },
     {
       "id": "edc-mexico-2027",
@@ -4585,7 +5528,601 @@
       "venue": "Autódromo Hermanos Rodríguez",
       "websiteUrl": "https://mexico.electricdaisycarnival.com",
       "instagramUrl": "https://instagram.com/edc_mexico",
-      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/"
+      "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/",
+      "lineup": [
+        {
+          "id": "edc-mexico-2027-3ballmty",
+          "artist": "3BallMTY"
+        },
+        {
+          "id": "edc-mexico-2027-aaron-hibell",
+          "artist": "Aaron Hibell"
+        },
+        {
+          "id": "edc-mexico-2027-adriatique",
+          "artist": "Adriatique"
+        },
+        {
+          "id": "edc-mexico-2027-aerea",
+          "artist": "Aerea"
+        },
+        {
+          "id": "edc-mexico-2027-alarico-b2b-yanamaste",
+          "artist": "Alarico B2B Yanamaste"
+        },
+        {
+          "id": "edc-mexico-2027-all-matter-b2b-moisees",
+          "artist": "All Matter B2B Moisees"
+        },
+        {
+          "id": "edc-mexico-2027-alpha-9",
+          "artist": "ALPHA 9"
+        },
+        {
+          "id": "edc-mexico-2027-alyssa-jolee",
+          "artist": "Alyssa Jolee"
+        },
+        {
+          "id": "edc-mexico-2027-apashe",
+          "artist": "Apashe"
+        },
+        {
+          "id": "edc-mexico-2027-bad-boombox-b2b-mija",
+          "artist": "Bad Boombox B2B Mija"
+        },
+        {
+          "id": "edc-mexico-2027-badwolf",
+          "artist": "BadWolf"
+        },
+        {
+          "id": "edc-mexico-2027-ben-klock-b2b-shdw",
+          "artist": "Ben Klock B2B SHDW"
+        },
+        {
+          "id": "edc-mexico-2027-ben-ufo-b2b-four-tet",
+          "artist": "Ben UFO B2B Four Tet"
+        },
+        {
+          "id": "edc-mexico-2027-bipolar-sunshine",
+          "artist": "Bipolar Sunshine"
+        },
+        {
+          "id": "edc-mexico-2027-blond-ish",
+          "artist": "BLOND:ISH"
+        },
+        {
+          "id": "edc-mexico-2027-bolo",
+          "artist": "BOLO"
+        },
+        {
+          "id": "edc-mexico-2027-bontan-b2b-yamagucci",
+          "artist": "Bontan B2B Yamagucci"
+        },
+        {
+          "id": "edc-mexico-2027-brennan-heart",
+          "artist": "Brennan Heart"
+        },
+        {
+          "id": "edc-mexico-2027-bunt",
+          "artist": "BUNT."
+        },
+        {
+          "id": "edc-mexico-2027-cabizbajo",
+          "artist": "Cabizbajo"
+        },
+        {
+          "id": "edc-mexico-2027-carlita",
+          "artist": "Carlita"
+        },
+        {
+          "id": "edc-mexico-2027-cassian",
+          "artist": "Cassian"
+        },
+        {
+          "id": "edc-mexico-2027-celice",
+          "artist": "Celice"
+        },
+        {
+          "id": "edc-mexico-2027-chasewest",
+          "artist": "ChaseWest"
+        },
+        {
+          "id": "edc-mexico-2027-chloe-caillet-b2b-job-jobse",
+          "artist": "Chloé Caillet B2B Job Jobse"
+        },
+        {
+          "id": "edc-mexico-2027-cloonee",
+          "artist": "Cloonee"
+        },
+        {
+          "id": "edc-mexico-2027-close-friends-only",
+          "artist": "Close Friends Only"
+        },
+        {
+          "id": "edc-mexico-2027-colossio",
+          "artist": "Colossio"
+        },
+        {
+          "id": "edc-mexico-2027-coone",
+          "artist": "Coone"
+        },
+        {
+          "id": "edc-mexico-2027-d-sturb",
+          "artist": "D-Sturb"
+        },
+        {
+          "id": "edc-mexico-2027-da-tweekaz",
+          "artist": "Da Tweekaz"
+        },
+        {
+          "id": "edc-mexico-2027-damian-lazarus",
+          "artist": "Damian Lazarus"
+        },
+        {
+          "id": "edc-mexico-2027-dash-berlin",
+          "artist": "Dash Berlin"
+        },
+        {
+          "id": "edc-mexico-2027-davyboi-b2b-mika-heggemann",
+          "artist": "Davyboi B2B Mika Heggemann"
+        },
+        {
+          "id": "edc-mexico-2027-dax-j",
+          "artist": "Dax J"
+        },
+        {
+          "id": "edc-mexico-2027-deborah-de-luca-b2b-eli-brown",
+          "artist": "Deborah De Luca B2B Eli Brown"
+        },
+        {
+          "id": "edc-mexico-2027-devault",
+          "artist": "Devault"
+        },
+        {
+          "id": "edc-mexico-2027-discip",
+          "artist": "Discip"
+        },
+        {
+          "id": "edc-mexico-2027-dj-harvey",
+          "artist": "DJ Harvey"
+        },
+        {
+          "id": "edc-mexico-2027-dj-sash",
+          "artist": "DJ Sash!"
+        },
+        {
+          "id": "edc-mexico-2027-dom-dolla",
+          "artist": "Dom Dolla"
+        },
+        {
+          "id": "edc-mexico-2027-dmina",
+          "artist": "DØMINA"
+        },
+        {
+          "id": "edc-mexico-2027-don-diablo",
+          "artist": "Don Diablo"
+        },
+        {
+          "id": "edc-mexico-2027-dual-damage",
+          "artist": "Dual Damage"
+        },
+        {
+          "id": "edc-mexico-2027-dualite",
+          "artist": "Dualité"
+        },
+        {
+          "id": "edc-mexico-2027-dusky",
+          "artist": "Dusky"
+        },
+        {
+          "id": "edc-mexico-2027-easttown",
+          "artist": "Easttown"
+        },
+        {
+          "id": "edc-mexico-2027-elmefti",
+          "artist": "elMefti"
+        },
+        {
+          "id": "edc-mexico-2027-enemix",
+          "artist": "Enemix"
+        },
+        {
+          "id": "edc-mexico-2027-fatboy-slim",
+          "artist": "Fatboy Slim"
+        },
+        {
+          "id": "edc-mexico-2027-fatima-hajji",
+          "artist": "Fatima Hajji"
+        },
+        {
+          "id": "edc-mexico-2027-fisher",
+          "artist": "Fisher"
+        },
+        {
+          "id": "edc-mexico-2027-freebot",
+          "artist": "Freebot"
+        },
+        {
+          "id": "edc-mexico-2027-fuentes-prod",
+          "artist": "Fuentes Prod"
+        },
+        {
+          "id": "edc-mexico-2027-fumi",
+          "artist": "FUMI"
+        },
+        {
+          "id": "edc-mexico-2027-fux-beat",
+          "artist": "Fux Beat"
+        },
+        {
+          "id": "edc-mexico-2027-galantis",
+          "artist": "Galantis"
+        },
+        {
+          "id": "edc-mexico-2027-gregorio",
+          "artist": "Gregorio"
+        },
+        {
+          "id": "edc-mexico-2027-gryffin-b2b-odd-mob",
+          "artist": "Gryffin B2B Odd Mob"
+        },
+        {
+          "id": "edc-mexico-2027-gudfella",
+          "artist": "GUDFELLA"
+        },
+        {
+          "id": "edc-mexico-2027-hannah-laing",
+          "artist": "Hannah Laing"
+        },
+        {
+          "id": "edc-mexico-2027-hol",
+          "artist": "HOL!"
+        },
+        {
+          "id": "edc-mexico-2027-holy-priest",
+          "artist": "Holy Priest"
+        },
+        {
+          "id": "edc-mexico-2027-i-hate-models",
+          "artist": "I Hate Models"
+        },
+        {
+          "id": "edc-mexico-2027-illenium",
+          "artist": "Illenium"
+        },
+        {
+          "id": "edc-mexico-2027-jackie-hollander",
+          "artist": "Jackie Hollander"
+        },
+        {
+          "id": "edc-mexico-2027-jamback",
+          "artist": "Jamback"
+        },
+        {
+          "id": "edc-mexico-2027-jenna-shaw",
+          "artist": "Jenna Shaw"
+        },
+        {
+          "id": "edc-mexico-2027-jessica-audiffred",
+          "artist": "Jessica Audiffred"
+        },
+        {
+          "id": "edc-mexico-2027-joa",
+          "artist": "JOA"
+        },
+        {
+          "id": "edc-mexico-2027-john-askew-simon-patterson",
+          "artist": "John Askew + Simon Patterson"
+        },
+        {
+          "id": "edc-mexico-2027-kayzo",
+          "artist": "Kayzo"
+        },
+        {
+          "id": "edc-mexico-2027-kettama",
+          "artist": "KETTAMA"
+        },
+        {
+          "id": "edc-mexico-2027-kloud",
+          "artist": "Kloud"
+        },
+        {
+          "id": "edc-mexico-2027-knolldoll",
+          "artist": "Knolldoll"
+        },
+        {
+          "id": "edc-mexico-2027-korolova",
+          "artist": "Korolova"
+        },
+        {
+          "id": "edc-mexico-2027-kuko-b2b-onlynumbers",
+          "artist": "KUKO B2B Onlynumbers"
+        },
+        {
+          "id": "edc-mexico-2027-la-bad-curly",
+          "artist": "La Bad Curly"
+        },
+        {
+          "id": "edc-mexico-2027-labibe",
+          "artist": "LABIBE"
+        },
+        {
+          "id": "edc-mexico-2027-laidback-luke",
+          "artist": "Laidback Luke"
+        },
+        {
+          "id": "edc-mexico-2027-aszewo",
+          "artist": "Łaszewo"
+        },
+        {
+          "id": "edc-mexico-2027-linska",
+          "artist": "Linska"
+        },
+        {
+          "id": "edc-mexico-2027-lisa-korver-b2b-supergloss",
+          "artist": "Lisa Korver B2B Supergloss"
+        },
+        {
+          "id": "edc-mexico-2027-liu",
+          "artist": "Liu"
+        },
+        {
+          "id": "edc-mexico-2027-loojan",
+          "artist": "Loojan"
+        },
+        {
+          "id": "edc-mexico-2027-los-dutis",
+          "artist": "Los Dutis"
+        },
+        {
+          "id": "edc-mexico-2027-lost-frequencies",
+          "artist": "Lost Frequencies"
+        },
+        {
+          "id": "edc-mexico-2027-lost-kings",
+          "artist": "Lost Kings"
+        },
+        {
+          "id": "edc-mexico-2027-luch",
+          "artist": "Luch"
+        },
+        {
+          "id": "edc-mexico-2027-luciana",
+          "artist": "Luciana"
+        },
+        {
+          "id": "edc-mexico-2027-luciano",
+          "artist": "Luciano"
+        },
+        {
+          "id": "edc-mexico-2027-mandragora",
+          "artist": "Mandragora"
+        },
+        {
+          "id": "edc-mexico-2027-marie-vaunt",
+          "artist": "Marie Vaunt"
+        },
+        {
+          "id": "edc-mexico-2027-mario-santander",
+          "artist": "Mario Santander"
+        },
+        {
+          "id": "edc-mexico-2027-marrn",
+          "artist": "MARRØN"
+        },
+        {
+          "id": "edc-mexico-2027-marsh",
+          "artist": "Marsh"
+        },
+        {
+          "id": "edc-mexico-2027-marsolo",
+          "artist": "Marsolo"
+        },
+        {
+          "id": "edc-mexico-2027-martin-garrix",
+          "artist": "Martin Garrix"
+        },
+        {
+          "id": "edc-mexico-2027-mary-droppinz",
+          "artist": "Mary Droppinz"
+        },
+        {
+          "id": "edc-mexico-2027-the-masquerade",
+          "artist": "The Masquerade"
+        },
+        {
+          "id": "edc-mexico-2027-mella-dee",
+          "artist": "Mella Dee"
+        },
+        {
+          "id": "edc-mexico-2027-michael-bibi",
+          "artist": "Michael Bibi"
+        },
+        {
+          "id": "edc-mexico-2027-miss-k8",
+          "artist": "Miss K8"
+        },
+        {
+          "id": "edc-mexico-2027-murderith",
+          "artist": "Murderith"
+        },
+        {
+          "id": "edc-mexico-2027-mystery-affair",
+          "artist": "Mystery Affair"
+        },
+        {
+          "id": "edc-mexico-2027-nghtmre",
+          "artist": "NGHTMRE"
+        },
+        {
+          "id": "edc-mexico-2027-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "edc-mexico-2027-novah",
+          "artist": "NOVAH"
+        },
+        {
+          "id": "edc-mexico-2027-nrg2000",
+          "artist": "NRG2000"
+        },
+        {
+          "id": "edc-mexico-2027-olisso",
+          "artist": "Olisso"
+        },
+        {
+          "id": "edc-mexico-2027-omiki",
+          "artist": "Omiki"
+        },
+        {
+          "id": "edc-mexico-2027-omnom-b2b-walker-royce",
+          "artist": "OMNOM B2B Walker & Royce"
+        },
+        {
+          "id": "edc-mexico-2027-omri",
+          "artist": "OMRI."
+        },
+        {
+          "id": "edc-mexico-2027-tta-b2b-spfdj",
+          "artist": "ØTTA B2B SPFDJ"
+        },
+        {
+          "id": "edc-mexico-2027-paul-van-dyk-presents-the-essence-of-acid",
+          "artist": "Paul van Dyk presents The Essence of Acid"
+        },
+        {
+          "id": "edc-mexico-2027-philou",
+          "artist": "Philou"
+        },
+        {
+          "id": "edc-mexico-2027-quest",
+          "artist": "Quest"
+        },
+        {
+          "id": "edc-mexico-2027-rafael",
+          "artist": "Rafael"
+        },
+        {
+          "id": "edc-mexico-2027-ranger-trucco",
+          "artist": "Ranger Trucco"
+        },
+        {
+          "id": "edc-mexico-2027-ray-volpe",
+          "artist": "Ray Volpe"
+        },
+        {
+          "id": "edc-mexico-2027-rayburger",
+          "artist": "RayBurger"
+        },
+        {
+          "id": "edc-mexico-2027-rebelion",
+          "artist": "Rebelion"
+        },
+        {
+          "id": "edc-mexico-2027-richie-hawtin",
+          "artist": "Richie Hawtin"
+        },
+        {
+          "id": "edc-mexico-2027-the-rocketman",
+          "artist": "The Rocketman"
+        },
+        {
+          "id": "edc-mexico-2027-rommii",
+          "artist": "ROMMII"
+        },
+        {
+          "id": "edc-mexico-2027-sam-blacky",
+          "artist": "Sam Blacky"
+        },
+        {
+          "id": "edc-mexico-2027-sasha-digweed",
+          "artist": "Sasha & Digweed"
+        },
+        {
+          "id": "edc-mexico-2027-secret-echoes-live",
+          "artist": "Secret Echoes \"Live\""
+        },
+        {
+          "id": "edc-mexico-2027-sequence-six",
+          "artist": "Sequence Six"
+        },
+        {
+          "id": "edc-mexico-2027-silver-panda",
+          "artist": "Silver Panda"
+        },
+        {
+          "id": "edc-mexico-2027-slander",
+          "artist": "SLANDER"
+        },
+        {
+          "id": "edc-mexico-2027-somewhen-b2b-ueberrest",
+          "artist": "Somewhen B2B Ueberrest"
+        },
+        {
+          "id": "edc-mexico-2027-sub-zero-project",
+          "artist": "Sub Zero Project"
+        },
+        {
+          "id": "edc-mexico-2027-surf-mesa",
+          "artist": "Surf Mesa"
+        },
+        {
+          "id": "edc-mexico-2027-svdden-death",
+          "artist": "Svdden Death"
+        },
+        {
+          "id": "edc-mexico-2027-tiesto",
+          "artist": "Tiësto"
+        },
+        {
+          "id": "edc-mexico-2027-tripolism",
+          "artist": "Tripolism"
+        },
+        {
+          "id": "edc-mexico-2027-uberkikz",
+          "artist": "ÜBERKIKZ"
+        },
+        {
+          "id": "edc-mexico-2027-vintage-culture",
+          "artist": "Vintage Culture"
+        },
+        {
+          "id": "edc-mexico-2027-volkoder",
+          "artist": "Volkoder"
+        },
+        {
+          "id": "edc-mexico-2027-vtss",
+          "artist": "VTSS"
+        },
+        {
+          "id": "edc-mexico-2027-whomadewho",
+          "artist": "WhoMadeWho"
+        },
+        {
+          "id": "edc-mexico-2027-wooli",
+          "artist": "Wooli"
+        },
+        {
+          "id": "edc-mexico-2027-ydg",
+          "artist": "YDG"
+        },
+        {
+          "id": "edc-mexico-2027-yosoymatt",
+          "artist": "YoSoyMatt"
+        },
+        {
+          "id": "edc-mexico-2027-zack-fox",
+          "artist": "Zack Fox"
+        },
+        {
+          "id": "edc-mexico-2027-zombies-in-miami",
+          "artist": "Zombies In Miami"
+        },
+        {
+          "id": "edc-mexico-2027-deadroom",
+          "artist": "DEADROOM"
+        }
+      ]
     },
     {
       "id": "ultra-miami-2027",
@@ -4599,7 +6136,109 @@
       "websiteUrl": "https://ultramusicfestival.com",
       "instagramUrl": "https://instagram.com/ultra",
       "redditUrl": "https://www.reddit.com/r/UMF/",
-      "accentColor": "#9C3586"
+      "accentColor": "#9C3586",
+      "lineup": [
+        {
+          "id": "ultra-miami-2027-adam-beyer",
+          "artist": "Adam Beyer"
+        },
+        {
+          "id": "ultra-miami-2027-afrojack",
+          "artist": "Afrojack"
+        },
+        {
+          "id": "ultra-miami-2027-alison-wonderland-b2b-tiffany-day",
+          "artist": "Alison Wonderland b2b Tiffany Day"
+        },
+        {
+          "id": "ultra-miami-2027-armin-van-buuren",
+          "artist": "Armin van Buuren"
+        },
+        {
+          "id": "ultra-miami-2027-boris-brejcha-b2b-eric-prydz-presents-cirezd",
+          "artist": "Boris Brejcha b2b Eric Prydz Presents CirezD"
+        },
+        {
+          "id": "ultra-miami-2027-boys-noize",
+          "artist": "Boys Noize"
+        },
+        {
+          "id": "ultra-miami-2027-bunt",
+          "artist": "Bunt"
+        },
+        {
+          "id": "ultra-miami-2027-calvin-harris",
+          "artist": "Calvin Harris"
+        },
+        {
+          "id": "ultra-miami-2027-dj-pee-wee-aka-anderson-paak",
+          "artist": "DJ Pee .Wee AKA Anderson .Paak"
+        },
+        {
+          "id": "ultra-miami-2027-dom-dolla",
+          "artist": "Dom Dolla"
+        },
+        {
+          "id": "ultra-miami-2027-holy-priest",
+          "artist": "Holy Priest"
+        },
+        {
+          "id": "ultra-miami-2027-i-hate-models",
+          "artist": "I Hate Models"
+        },
+        {
+          "id": "ultra-miami-2027-indira-paganotto",
+          "artist": "Indira Paganotto"
+        },
+        {
+          "id": "ultra-miami-2027-it-s-murph",
+          "artist": "It's Murph"
+        },
+        {
+          "id": "ultra-miami-2027-klangkuenstler",
+          "artist": "Klangkuenstler"
+        },
+        {
+          "id": "ultra-miami-2027-liquid-stranger",
+          "artist": "Liquid Stranger"
+        },
+        {
+          "id": "ultra-miami-2027-marshmello-b2b-subtronics",
+          "artist": "Marshmello b2b Subtronics"
+        },
+        {
+          "id": "ultra-miami-2027-martin-garrix",
+          "artist": "Martin Garrix"
+        },
+        {
+          "id": "ultra-miami-2027-mau-p",
+          "artist": "Mau P"
+        },
+        {
+          "id": "ultra-miami-2027-michael-bibi",
+          "artist": "Michael Bibi"
+        },
+        {
+          "id": "ultra-miami-2027-miss-monique-presents-biorhythm",
+          "artist": "Miss Monique Presents Biorhythm"
+        },
+        {
+          "id": "ultra-miami-2027-nico-moreno-b2b-novah",
+          "artist": "Nico Moreno b2b Novah"
+        },
+        {
+          "id": "ultra-miami-2027-sara-landry-divine-intervention",
+          "artist": "Sara Landry Divine Intervention"
+        },
+        {
+          "id": "ultra-miami-2027-sofi-tukker-presents-animal-talk",
+          "artist": "SOFI TUKKER Presents Animal Talk"
+        },
+        {
+          "id": "ultra-miami-2027-steve-aoki",
+          "artist": "Steve Aoki"
+        }
+      ]
     },
     {
       "id": "beyond-wonderland-socal-2027",
@@ -5139,7 +6778,7 @@
         },
         {
           "id": "coachella-2027-weekend-1-noya",
-          "artist": "NOYA",
+          "artist": "Anni Noya",
           "day": "2027-04-09"
         },
         {
@@ -5934,7 +7573,7 @@
         },
         {
           "id": "coachella-2027-weekend-2-noya",
-          "artist": "NOYA",
+          "artist": "Anni Noya",
           "day": "2027-04-16"
         },
         {
@@ -6214,7 +7853,294 @@
       "days": [],
       "venue": "Empire Polo Club",
       "websiteUrl": "https://www.stagecoachfestival.com",
-      "instagramUrl": "https://instagram.com/stagecoach"
+      "instagramUrl": "https://instagram.com/stagecoach",
+      "lineup": [
+        {
+          "id": "stagecoach-2027-blake-whiten",
+          "artist": "Blake Whiten",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-carin-leon",
+          "artist": "Carín León",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-brothers-osborne",
+          "artist": "Brothers Osborne",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-carter-faith",
+          "artist": "Carter Faith",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-cameron-whitcomb",
+          "artist": "Cameron Whitcomb",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-buffalo-traffic-jam",
+          "artist": "Buffalo Traffic Jam",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-charley-crockett",
+          "artist": "Charley Crockett",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-dalton-davis",
+          "artist": "Dalton Davis",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-dasha",
+          "artist": "DASHA",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-cody-jinks",
+          "artist": "Cody Jinks",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-david-lee-roth",
+          "artist": "David Lee Roth",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-dylan-gossett",
+          "artist": "Dylan Gossett",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-elizabeth-nichols",
+          "artist": "Elizabeth Nichols",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-dylan-marlowe",
+          "artist": "Dylan Marlowe",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-ernest",
+          "artist": "ERNEST",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-florida-georgia-line",
+          "artist": "Florida Georgia Line",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-flo-rida",
+          "artist": "Flo Rida",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-gretchen-wilson",
+          "artist": "Gretchen Wilson",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-hudson-westbrook",
+          "artist": "Hudson Westbrook",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-gustavo-mioto",
+          "artist": "Gustavo Mioto",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-ingrid-andress",
+          "artist": "Ingrid Andress",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-hardy",
+          "artist": "HARDY",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-jonas-conner",
+          "artist": "Jonas Conner",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-jacob-hackworth",
+          "artist": "Jacob Hackworth",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-jason-scott-the-high-heat",
+          "artist": "Jason Scott & The High Heat",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-jo-dee-messina",
+          "artist": "Jo Dee Messina",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-kelly-clarkson",
+          "artist": "Kelly Clarkson",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-kaitlin-butts",
+          "artist": "Kaitlin Butts",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-joshua-slone",
+          "artist": "Joshua Slone",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-laci-kaye-booth",
+          "artist": "Laci Kaye Booth",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-journey",
+          "artist": "Journey",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-matchbox-twenty",
+          "artist": "Matchbox Twenty",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-mackenzie-carpenter",
+          "artist": "Mackenzie Carpenter",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-mack-geiger",
+          "artist": "Mack Geiger",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-maoli",
+          "artist": "Maoli",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-maggie-antone",
+          "artist": "Maggie Antone",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-riley-green",
+          "artist": "Riley Green",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-melissa-etheridge",
+          "artist": "Melissa Etheridge",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-pitbull",
+          "artist": "Pitbull",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-sean-paul",
+          "artist": "Sean Paul",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-stephen-wilson-jr",
+          "artist": "Stephen Wilson Jr.",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-shaboozey",
+          "artist": "Shaboozey",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-tedeschi-trucks-band",
+          "artist": "Tedeschi Trucks Band",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-stella-lefty",
+          "artist": "STELLA LEFTY",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-the-fray",
+          "artist": "The Fray",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-tyce-delk",
+          "artist": "Tyce Delk",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-tyler-nance",
+          "artist": "Tyler Nance",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-turnpike-troubadours",
+          "artist": "Turnpike Troubadours",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-wade-forster",
+          "artist": "Wade Forster",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-waylon-wyatt",
+          "artist": "Waylon Wyatt",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-vincent-mason",
+          "artist": "Vincent Mason",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-zach-top",
+          "artist": "Zach Top",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-chris-lane",
+          "artist": "Chris Lane",
+          "day": "2027-04-25"
+        },
+        {
+          "id": "stagecoach-2027-kevin-powers",
+          "artist": "Kevin Powers",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-owen-riegling",
+          "artist": "Owen Riegling",
+          "day": "2027-04-23"
+        },
+        {
+          "id": "stagecoach-2027-willie-nelson-family",
+          "artist": "Willie Nelson & Family",
+          "day": "2027-04-24"
+        },
+        {
+          "id": "stagecoach-2027-garth-brooks",
+          "artist": "Garth Brooks",
+          "day": "2027-04-25"
+        }
+      ]
     },
     {
       "id": "rolling-loud-florida-2027",
@@ -6279,7 +8205,772 @@
       "venue": "Parc del Fòrum",
       "websiteUrl": "https://www.primaverasound.com",
       "instagramUrl": "https://instagram.com/primavera_sound",
-      "redditUrl": "https://www.reddit.com/r/primaverasound/"
+      "redditUrl": "https://www.reddit.com/r/primaverasound/",
+      "lineup": [
+        {
+          "id": "primavera-sound-barcelona-2027-abhir",
+          "artist": "ABHIR",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-adela",
+          "artist": "ADÉLA",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-aeronave-adolescente",
+          "artist": "Aeronave Adolescente",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-akriila",
+          "artist": "AKRIILA",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-alcala-norte",
+          "artist": "Alcalá Norte",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-alemeda",
+          "artist": "Alemeda",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-alex-vs-alex",
+          "artist": "aLex vs aLex",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-allergiques-al-pollen",
+          "artist": "Al·lèrgiques al pol·len",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-andy-stott",
+          "artist": "Andy Stott",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-angine-de-poitrine",
+          "artist": "Angine de Poitrine",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-anohni",
+          "artist": "ANOHNI",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-arca",
+          "artist": "Arca",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-artist",
+          "artist": "@",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-atlas-sound",
+          "artist": "Atlas Sound",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-axolotes-mexicanos",
+          "artist": "Axolotes Mexicanos",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-b0yg1rl",
+          "artist": "B0YG1RL",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bad-gyal",
+          "artist": "Bad Gyal",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bae-bae",
+          "artist": "BAE BAE",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bashkka-b2b-mike-servito",
+          "artist": "BASHKKA b2b Mike Servito",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bicep-live",
+          "artist": "BICEP live",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-blackhaine",
+          "artist": "Blackhaine",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-blanco-palamera",
+          "artist": "Blanco Palamera",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-blaya",
+          "artist": "BLAYA",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bleachers",
+          "artist": "Bleachers",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-bonnie-prince-billy",
+          "artist": "Bonnie \"Prince\" Billy",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-boy-harsher",
+          "artist": "Boy Harsher",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-brutalismus-3000-b2b-isoxo",
+          "artist": "Brutalismus 3000 b2b ISOxo",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-carlos-de-jacoba-ciutat",
+          "artist": "Carlos de Jacoba & Ciutat",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-carmen-villain-live",
+          "artist": "Carmen Villain live",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-caroline-polachek",
+          "artist": "Caroline Polachek",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-carre",
+          "artist": "Carré",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-castle-rat",
+          "artist": "Castle Rat",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-chvrches",
+          "artist": "CHVRCHES"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-converge",
+          "artist": "Converge",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dame-area",
+          "artist": "Dame Area",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dani-dicostas",
+          "artist": "dani dicostas",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-decoder",
+          "artist": "Decoder",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-diiv",
+          "artist": "DIIV",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dinosaur-jr",
+          "artist": "Dinosaur Jr.",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dixon",
+          "artist": "Dixon"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dj-fra",
+          "artist": "DJ Fra",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dj-rupture",
+          "artist": "DJ /rupture",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-doechii",
+          "artist": "Doechii",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-don-caballero",
+          "artist": "Don Caballero",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dove-ellis",
+          "artist": "Dove Ellis",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dulce",
+          "artist": "Dulce",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-ear",
+          "artist": "ear",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-eden-aurelius",
+          "artist": "Eden Aurelius",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-el-buen-hijo",
+          "artist": "El Buen Hijo",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-english-teacher",
+          "artist": "English Teacher",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-erin-lecount",
+          "artist": "Erin LeCount",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-esdeekid",
+          "artist": "EsDeeKid",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-fades",
+          "artist": "FADES"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-fka-twigs",
+          "artist": "FKA twigs",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-fontaines-d-c",
+          "artist": "Fontaines D.C.",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-four-tet",
+          "artist": "Four Tet"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-friko",
+          "artist": "Friko",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-full-of-hell",
+          "artist": "Full Of Hell",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-gazella",
+          "artist": "Gazella",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-gilla-band",
+          "artist": "Gilla Band",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-greg-freeman",
+          "artist": "Greg Freeman",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-guillem-gisbert",
+          "artist": "Guillem Gisbert",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-haute-freddy",
+          "artist": "Haute & Freddy",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-have-a-nice-life",
+          "artist": "Have A Nice Life",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-hayley-williams",
+          "artist": "Hayley Williams",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-headache",
+          "artist": "Headache",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-hearts2hearts",
+          "artist": "Hearts2Hearts",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-ibrahim-alfa-jnr",
+          "artist": "Ibrahim Alfa Jnr",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-irenegarry",
+          "artist": "Irenegarry",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-isaiah-rashad",
+          "artist": "Isaiah Rashad",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-jersey",
+          "artist": "Jersey",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-jesu",
+          "artist": "Jesu",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-john-talabot",
+          "artist": "John Talabot",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-joy-orbison",
+          "artist": "Joy Orbison",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-jt",
+          "artist": "JT",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-juana-molina",
+          "artist": "Juana Molina",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-julien-baker",
+          "artist": "Julien Baker",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-jump-source-live",
+          "artist": "Jump Source live",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-kelsey-lu",
+          "artist": "Kelsey Lu",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-kim-petras",
+          "artist": "Kim Petras",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-king-gizzard-the-lizard-wizard",
+          "artist": "King Gizzard & The Lizard Wizard",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-klara-lewis",
+          "artist": "Klara Lewis",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-lip-critic",
+          "artist": "Lip Critic",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-livwutang-b2b-konduku",
+          "artist": "Livwutang b2b Konduku",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-lola-young",
+          "artist": "Lola Young",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-loradeniz",
+          "artist": "Loradeniz",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-los-punsetes",
+          "artist": "Los Punsetes",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-lux-lisbon",
+          "artist": "Lux Lisbon",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mabe-fratti",
+          "artist": "Mabe Fratti",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mad-miran-b2b-dj-zero",
+          "artist": "mad miran b2b DJ Zero",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-madra-salach",
+          "artist": "Madra Salach",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-malibu",
+          "artist": "Malibu",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mark-fell-and-rp-boo",
+          "artist": "Mark Fell and RP Boo",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-marta-salogni-live",
+          "artist": "Marta Salogni live",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-massive-attack",
+          "artist": "Massive Attack",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-memory-palace",
+          "artist": "Memory Palace",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-metrika",
+          "artist": "Metrika",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-metronomy",
+          "artist": "Metronomy",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mishima",
+          "artist": "Mishima",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mori",
+          "artist": "mori",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-muna",
+          "artist": "MUNA",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mushka",
+          "artist": "Mushka",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-mushka-2",
+          "artist": "Mushka"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-naone",
+          "artist": "Naone",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-napa",
+          "artist": "NAPA",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-oceanic-live-a-v",
+          "artist": "Oceanic live A/V",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-pablopablo",
+          "artist": "pablopablo",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-pavement",
+          "artist": "Pavement",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-perfecto-miserable",
+          "artist": "Perfecto Miserable",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-phoebe-bridgers",
+          "artist": "Phoebe Bridgers",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-picture-live",
+          "artist": "Picture live",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-piss",
+          "artist": "PISS",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-plo-man",
+          "artist": "PLO Man",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-pole-1-2-3-live",
+          "artist": "Pole 1 2 3 live",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-polygonia-live",
+          "artist": "Polygonia live",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-prospa",
+          "artist": "Prospa",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-prostitute",
+          "artist": "Prostitute",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-racing-mount-pleasant",
+          "artist": "Racing Mount Pleasant",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-rebe",
+          "artist": "Rebe",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-richie-hawtin",
+          "artist": "Richie Hawtin"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-robyn",
+          "artist": "Robyn",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-roly-porter",
+          "artist": "Roly Porter",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-s-a-s-s-saoirse-moxie-peach-shanti-celeste",
+          "artist": "S.A.S.S (Saoirse, Moxie, Peach, Shanti Celeste)",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-santiago-motorizado",
+          "artist": "Santiago Motorizado",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-shygirl",
+          "artist": "Shygirl",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-simian-mobile-disco",
+          "artist": "Simian Mobile Disco",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-skrillex-b2b-ninajirachi",
+          "artist": "Skrillex b2b Ninajirachi",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-sky-h1-live",
+          "artist": "Sky H1 live",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-sonido-underground-dngdngdng-phran",
+          "artist": "Sonido Underground: DNGDNGDNG & Phran",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-sophia-stel",
+          "artist": "Sophia Stel",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dj-stingray-313-live",
+          "artist": "DJ Stingray 313 live",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-dj-stingray-313-live-2",
+          "artist": "DJ Stingray 313 live",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-tatyana-jane",
+          "artist": "Tatyana Jane",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-the-chemical-brothers",
+          "artist": "The Chemical Brothers",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-theodora",
+          "artist": "Theodora",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-tinashe",
+          "artist": "Tinashe",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-tirzah",
+          "artist": "Tirzah",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-tracey",
+          "artist": "Tracey",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-trickpony",
+          "artist": "trickpony",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-tristan",
+          "artist": "TRISTÁN!",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-ttssfu",
+          "artist": "TTSSFU",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-turnstile",
+          "artist": "Turnstile",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-twisted-teens",
+          "artist": "Twisted Teens",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-underscores",
+          "artist": "underscores",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-underworld",
+          "artist": "Underworld"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-vashti-bunyan",
+          "artist": "Vashti Bunyan",
+          "day": "2027-06-04"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-verushka-b2b-acidheaven",
+          "artist": "Verushka b2b Acidheaven",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-victoryland",
+          "artist": "Victoryland",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-viva-belgrado",
+          "artist": "Viva Belgrado",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-wallows",
+          "artist": "Wallows",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-warning",
+          "artist": "Warning",
+          "day": "2027-06-05"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-westside-cowboy",
+          "artist": "Westside Cowboy",
+          "day": "2027-06-03"
+        },
+        {
+          "id": "primavera-sound-barcelona-2027-weyes-blood",
+          "artist": "Weyes Blood",
+          "day": "2027-06-04"
+        }
+      ]
     },
     {
       "id": "sonar-barcelona-2027",
@@ -6291,7 +8982,129 @@
       "days": [],
       "websiteUrl": "https://sonar.es",
       "instagramUrl": "https://instagram.com/sonarfestival",
-      "accentColor": "#54E3B4"
+      "accentColor": "#54E3B4",
+      "lineup": [
+        {
+          "id": "sonar-barcelona-2027-adriana-lopez-presents-suut",
+          "artist": "Adriana Lopez presents Suut"
+        },
+        {
+          "id": "sonar-barcelona-2027-aurora-halal-live",
+          "artist": "Aurora Halal live"
+        },
+        {
+          "id": "sonar-barcelona-2027-bonobo",
+          "artist": "Bonobo"
+        },
+        {
+          "id": "sonar-barcelona-2027-busy-p-b2b-girl-ultra",
+          "artist": "Busy P b2b Girl Ultra"
+        },
+        {
+          "id": "sonar-barcelona-2027-carl-cox",
+          "artist": "Carl Cox"
+        },
+        {
+          "id": "sonar-barcelona-2027-collabs3000-chris-liebing-speedy-j",
+          "artist": "Collabs3000 (Chris Liebing & Speedy J)"
+        },
+        {
+          "id": "sonar-barcelona-2027-cornelius",
+          "artist": "Cornelius"
+        },
+        {
+          "id": "sonar-barcelona-2027-disobey-sound-system",
+          "artist": "Disobey Sound System"
+        },
+        {
+          "id": "sonar-barcelona-2027-donato-dozzy-batu",
+          "artist": "Donato Dozzy & Batu"
+        },
+        {
+          "id": "sonar-barcelona-2027-drizzyclare",
+          "artist": "Drizzyclare"
+        },
+        {
+          "id": "sonar-barcelona-2027-ehua-flore",
+          "artist": "Ehua & Flore"
+        },
+        {
+          "id": "sonar-barcelona-2027-frost-children",
+          "artist": "Frost Children"
+        },
+        {
+          "id": "sonar-barcelona-2027-funk-assault",
+          "artist": "Funk Assault"
+        },
+        {
+          "id": "sonar-barcelona-2027-goldie-live",
+          "artist": "Goldie live"
+        },
+        {
+          "id": "sonar-barcelona-2027-honey-dijon-presents-sinister",
+          "artist": "Honey Dijon presents Sinister"
+        },
+        {
+          "id": "sonar-barcelona-2027-jessie-ware",
+          "artist": "Jessie Ware"
+        },
+        {
+          "id": "sonar-barcelona-2027-job-jobse",
+          "artist": "Job Jobse"
+        },
+        {
+          "id": "sonar-barcelona-2027-kaitlyn-aurelia-smith",
+          "artist": "Kaitlyn Aurelia Smith"
+        },
+        {
+          "id": "sonar-barcelona-2027-ki-ki",
+          "artist": "KI/KI"
+        },
+        {
+          "id": "sonar-barcelona-2027-kristina",
+          "artist": "Kristina"
+        },
+        {
+          "id": "sonar-barcelona-2027-opal-sunn",
+          "artist": "Opal Sunn"
+        },
+        {
+          "id": "sonar-barcelona-2027-oscar-mulero",
+          "artist": "Oscar Mulero"
+        },
+        {
+          "id": "sonar-barcelona-2027-peggy-gou",
+          "artist": "Peggy Gou"
+        },
+        {
+          "id": "sonar-barcelona-2027-romy-dj-set",
+          "artist": "Romy DJ set"
+        },
+        {
+          "id": "sonar-barcelona-2027-salome",
+          "artist": "SALOME"
+        },
+        {
+          "id": "sonar-barcelona-2027-tash-lc",
+          "artist": "Tash LC"
+        },
+        {
+          "id": "sonar-barcelona-2027-tk-mami",
+          "artist": "TK MAMI"
+        },
+        {
+          "id": "sonar-barcelona-2027-tokischa",
+          "artist": "Tokischa"
+        },
+        {
+          "id": "sonar-barcelona-2027-yu-su",
+          "artist": "Yu Su"
+        },
+        {
+          "id": "sonar-barcelona-2027-yung-lean",
+          "artist": "Yung Lean"
+        }
+      ]
     },
     {
       "id": "glastonbury-2027",
@@ -6371,7 +9184,109 @@
       "websiteUrl": "https://szigetfestival.com",
       "instagramUrl": "https://instagram.com/szigetofficial",
       "redditUrl": "https://www.reddit.com/r/sziget/",
-      "accentColor": "#E3022D"
+      "accentColor": "#E3022D",
+      "lineup": [
+        {
+          "id": "sziget-2027-gogol-bordello",
+          "artist": "Gogol Bordello",
+          "day": "2027-08-10"
+        },
+        {
+          "id": "sziget-2027-nothing-but-thieves",
+          "artist": "Nothing But Thieves",
+          "day": "2027-08-10"
+        },
+        {
+          "id": "sziget-2027-katseye",
+          "artist": "KATSEYE",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-rikas",
+          "artist": "Rikas",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-chris-stassy",
+          "artist": "CHRIS STASSY",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-idles",
+          "artist": "IDLES",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-tove-lo",
+          "artist": "Tove Lo",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-bicep-live",
+          "artist": "Bicep live",
+          "day": "2027-08-11"
+        },
+        {
+          "id": "sziget-2027-royel-otis",
+          "artist": "Royel Otis",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-florence-road",
+          "artist": "Florence Road",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-villanelle",
+          "artist": "Villanelle",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-brina-knauss",
+          "artist": "Brina Knauss",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-kevin-de-vries",
+          "artist": "Kevin de Vries",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-quest",
+          "artist": "Quest",
+          "day": "2027-08-12"
+        },
+        {
+          "id": "sziget-2027-kelis",
+          "artist": "Kelis",
+          "day": "2027-08-13"
+        },
+        {
+          "id": "sziget-2027-sofi-tukker",
+          "artist": "Sofi Tukker",
+          "day": "2027-08-13"
+        },
+        {
+          "id": "sziget-2027-fontaines-d-c",
+          "artist": "Fontaines D.C.",
+          "day": "2027-08-14"
+        },
+        {
+          "id": "sziget-2027-lola-young",
+          "artist": "Lola Young",
+          "day": "2027-08-14"
+        },
+        {
+          "id": "sziget-2027-cruz-beckham-the-breakers",
+          "artist": "Cruz Beckham & The Breakers",
+          "day": "2027-08-14"
+        },
+        {
+          "id": "sziget-2027-genesis-owusu",
+          "artist": "Genesis Owusu",
+          "day": "2027-08-14"
+        }
+      ]
     },
     {
       "id": "reading-festival-2027",
@@ -6411,7 +9326,94 @@
       "websiteUrl": "https://www.creamfields.com",
       "instagramUrl": "https://instagram.com/creamfieldsofficial",
       "redditUrl": "https://www.reddit.com/r/creamfields/",
-      "accentColor": "#A702C4"
+      "accentColor": "#A702C4",
+      "lineup": [
+        {
+          "id": "creamfields-2027-bicep-live",
+          "artist": "Bicep LIVE",
+          "day": "2027-08-29"
+        },
+        {
+          "id": "creamfields-2027-jamie-fielding",
+          "artist": "Jamie Fielding",
+          "day": "2027-08-29"
+        },
+        {
+          "id": "creamfields-2027-sebastian-ingrosso",
+          "artist": "Sebastian Ingrosso",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-sammy-virji",
+          "artist": "Sammy Virji",
+          "day": "2027-08-29"
+        },
+        {
+          "id": "creamfields-2027-martin-garrix",
+          "artist": "Martin Garrix",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-alesso",
+          "artist": "Alesso",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-armand-van-helden",
+          "artist": "Armand van Helden",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-carl-cox",
+          "artist": "Carl Cox",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-joseph-capriati",
+          "artist": "Joseph Capriati",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-josh-baker",
+          "artist": "Josh Baker",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-kettama",
+          "artist": "Kettama",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-prospa",
+          "artist": "Prospa",
+          "day": "2027-08-27"
+        },
+        {
+          "id": "creamfields-2027-the-prodigy",
+          "artist": "The Prodigy",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-franky-rizardo",
+          "artist": "Franky Rizardo",
+          "day": "2027-08-29"
+        },
+        {
+          "id": "creamfields-2027-hannah-laing",
+          "artist": "Hannah Laing",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-jamie-jones",
+          "artist": "Jamie Jones",
+          "day": "2027-08-28"
+        },
+        {
+          "id": "creamfields-2027-marco-carola",
+          "artist": "Marco Carola",
+          "day": "2027-08-28"
+        }
+      ]
     },
     {
       "id": "rolling-loud-california-2027",
@@ -9475,6 +12477,126 @@
       ]
     },
     {
+      "id": "tahoe-live-2026",
+      "name": "Tahoe Live 2026",
+      "tagline": "Three days on the slopes of Palisades Tahoe",
+      "location": "Olympic Valley, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Palisades Tahoe",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "websiteUrl": "https://tahoelive.net",
+      "instagramUrl": "https://instagram.com/tahoe.live",
+      "days": [],
+      "lineup": [
+        {
+          "id": "tahoe-live-2026-chris-lake",
+          "artist": "Chris Lake",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-walker-and-royce",
+          "artist": "Walker & Royce",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-noizu",
+          "artist": "Noizu",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-devault",
+          "artist": "DEVAULT",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-nala",
+          "artist": "Nala",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-cole-knight",
+          "artist": "Cole Knight",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-zaddy-b",
+          "artist": "Zaddy B",
+          "day": "2026-12-11"
+        },
+        {
+          "id": "tahoe-live-2026-griz",
+          "artist": "GRIZ",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-teddy-pain",
+          "artist": "Teddy Pain",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-ydg",
+          "artist": "YDG",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-mary-droppinz",
+          "artist": "Mary Droppinz",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-hershe",
+          "artist": "HERSHE",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-khoda-leon",
+          "artist": "KHØDA LEON",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-dj-uni",
+          "artist": "DJ UNI",
+          "day": "2026-12-12"
+        },
+        {
+          "id": "tahoe-live-2026-knock2",
+          "artist": "Knock2",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-madeon",
+          "artist": "Madeon",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-nikko",
+          "artist": "Nikko",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-klo",
+          "artist": "Klo",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-control-freak",
+          "artist": "Control Freak",
+          "day": "2026-12-13"
+        },
+        {
+          "id": "tahoe-live-2026-buns",
+          "artist": "BUNS",
+          "day": "2026-12-13"
+        }
+      ]
+    },
+    {
       "id": "blacklizt-dc-2026",
       "name": "BLACKLIZT.DC 2026",
       "tagline": "ZHU's new festival series, first stop DC: two nights, all black, 21+",
@@ -9551,6 +12673,36 @@
           "day": "2026-12-19"
         }
       ]
+    },
+    {
+      "id": "tomorrowland-belgium-2027-weekend-1",
+      "name": "Tomorrowland Belgium 2027 — Weekend One",
+      "tagline": "A new chapter awaits at De Schorre",
+      "location": "Boom, Belgium",
+      "venue": "De Schorre",
+      "websiteUrl": "https://belgium.tomorrowland.com",
+      "instagramUrl": "https://instagram.com/tomorrowland",
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/",
+      "accentColor": "#9B2261",
+      "startDate": "2027-07-16",
+      "endDate": "2027-07-18",
+      "timezone": "Europe/Brussels",
+      "days": []
+    },
+    {
+      "id": "tomorrowland-belgium-2027-weekend-2",
+      "name": "Tomorrowland Belgium 2027 — Weekend Two",
+      "tagline": "A new chapter awaits at De Schorre",
+      "location": "Boom, Belgium",
+      "venue": "De Schorre",
+      "websiteUrl": "https://belgium.tomorrowland.com",
+      "instagramUrl": "https://instagram.com/tomorrowland",
+      "redditUrl": "https://www.reddit.com/r/Tomorrowland/",
+      "accentColor": "#9B2261",
+      "startDate": "2027-07-23",
+      "endDate": "2027-07-25",
+      "timezone": "Europe/Brussels",
+      "days": []
     }
   ],
   "shows": [],
@@ -10254,7 +13406,8 @@
     },
     "Chris Lake": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-lake/135067114",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7e/f7/c8/7ef7c89a-541b-3187-815a-a14ca04a62bd/229474c8-af4b-4aab-be49-e99bb0a1c3aa_ami-identity-59a661a7306fd6e46d6475e8e53382a2-2023-06-15T21-52-14.305Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/7e/f7/c8/7ef7c89a-541b-3187-815a-a14ca04a62bd/229474c8-af4b-4aab-be49-e99bb0a1c3aa_ami-identity-59a661a7306fd6e46d6475e8e53382a2-2023-06-15T21-52-14.305Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
     },
     "Chris Liebing": {
       "appleMusicUrl": "https://music.apple.com/us/artist/chris-liebing/4382245",
@@ -10416,7 +13569,8 @@
     },
     "Daniel Allan": {
       "appleMusicUrl": "https://music.apple.com/us/artist/daniel-allan/193197922",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/19/90/80199069-2b9e-5572-0f98-a13263a9f83a/pr_source.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/80/19/90/80199069-2b9e-5572-0f98-a13263a9f83a/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
     },
     "Dannic b2b Dyro": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dannic/31481896",
@@ -10490,7 +13644,8 @@
     },
     "Devault": {
       "appleMusicUrl": "https://music.apple.com/us/artist/devault/1068294292",
-      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png"
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/Devault-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
     },
     "Die Spitz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/die-spitz/1545875931",
@@ -10968,7 +14123,8 @@
     },
     "Griz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/griz/980722716",
-      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+      "spotifyUrl": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/9b/c3/f9/9bc3f957-e873-91c0-a581-548ee7dbfd81/ami-identity-7324fc3280d80a213a3e86e59a8823b1-2025-03-11T16-17-11.603Z_cropped.png/600x600bb.jpg"
     },
     "Groove Armada": {
       "appleMusicUrl": "https://music.apple.com/us/artist/groove-armada/1727137",
@@ -11053,7 +14209,8 @@
     },
     "HerShe": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hershe/1454955985",
-      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/70/c0/6b/70c06ba9-5a0e-8a15-26b6-c0a695aec8c5/ami-identity-1a4bffb771d73c4f18737f7a2cff455f-2025-05-07T22-54-46.454Z_cropped.png/600x600bb.jpg"
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/70/c0/6b/70c06ba9-5a0e-8a15-26b6-c0a695aec8c5/ami-identity-1a4bffb771d73c4f18737f7a2cff455f-2025-05-07T22-54-46.454Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/572W2DIMj2JYViwkIpae6J"
     },
     "Hills": {
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/HILLS-PROFILE-SDE9-600x600.png",
@@ -13091,7 +16248,8 @@
     },
     "Walker & Royce": {
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/11/WALKERROYCE-PROFILE-SDE9-600x600.png",
-      "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011"
+      "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011",
+      "spotifyUrl": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
     },
     "Walker & Royce b2b VNSSA": {
       "appleMusicUrl": "https://music.apple.com/us/artist/walker-royce/497410011",
@@ -13152,7 +16310,7 @@
     },
     "YDG": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ydg/956701098",
-      "spotifyUrl": "https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi",
+      "spotifyUrl": "https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/f3/ab/23/f3ab231f-ec40-2f12-ca20-6711118721a7/ea0cb20c-845b-443d-8e13-72060fa8ce8c_file_cropped.png/600x600bb.jpg"
     },
     "YOUNG MIKO": {
@@ -13321,6 +16479,74 @@
     },
     "Łaszewo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C5%82aszewo/1438035296"
+    },
+    "Noizu": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/noizu/1228808084",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/41/e0/34/41e034ec-a9a6-31b8-14c2-65a1b84b5b9a/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+    },
+    "Nala": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nala/1257292208",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/43/12/3d4312b9-ad6b-659b-fae3-bee380f633df/pr_source.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2rTvgpXa8PA62yBCfwdQxf"
+    },
+    "Cole Knight": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cole-knight/589962652",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/ColeKnight-PROFILE-SDE9-600x600.png",
+      "spotifyUrl": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+    },
+    "Zaddy B": {
+      "spotifyUrl": "https://open.spotify.com/artist/0elfpnmpE6sM3nHIGN0P67",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/ZaddyB-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/zaddy-b/1535818376"
+    },
+    "Teddy Pain": {
+      "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/Teddy-Pain-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/t-pain/256673237"
+    },
+    "Mary Droppinz": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/mary-droppinz/1564507779",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/48/0e/a3/480ea33f-b4fd-901e-6be6-77202f6167bf/3690f9a1-0b75-41d5-8db1-7cc3a434fbba.png/600x600ac.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS"
+    },
+    "KHØDA LEON": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kh%C3%B8da-leon/6783309329",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/38/dd/fe38ddcb-7d42-4c41-1df3-d43e96530986/artwork.jpg/600x600ac.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6yFhaoqcKl9k2im56vC1Sl"
+    },
+    "Knock2": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/knock2/966450646",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e9/2c/1c/e92c1c56-6be9-e8d8-501b-343e6a8dbfa2/ami_U003aidentity_U003af9f9be96a01a77ce2252130b95f5a05d-2026-09-11T16-01-59.554Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+    },
+    "Madeon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/madeon/371199302",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/08/72/b3/0872b3ef-3b7a-e7ae-9e7b-69cedcfa3a17/file_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
+    },
+    "Nikko": {
+      "spotifyUrl": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/Nikko-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/nikko/1774688541"
+    },
+    "Klo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/klo/1503314246",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/0c/f0/9d/0cf09dc8-8749-63b7-e9f9-0d084e32c94f/67ed2f2a-fde1-4d70-834d-f1c555da4cf4_file_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
+    },
+    "Control Freak": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/control-freak/53615786",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e3/90/c7/e390c7d5-71ee-2961-bc75-fdd399c09146/ami-identity-f589dd1ab675d436428fcd19504396c9-2025-12-05T00-39-11.634Z_cropped.png/600x600bb.jpg",
+      "spotifyUrl": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
+    },
+    "BUNS": {
+      "spotifyUrl": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/BUNS-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/buns/1483356808"
+    },
+    "DJ UNI": {
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/DJ-UNI-900x900.jpg"
     }
   },
   "requestOutcomes": {
