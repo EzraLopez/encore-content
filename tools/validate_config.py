@@ -134,6 +134,21 @@ def validate_requested_as(festivals):
             err(f"{where}: requestedAs must be a list of non-empty strings")
 
 
+def validate_map_names(festivals):
+    """mapNames is optional; when present it is a list of non-empty strings,
+    one per map in mapImageUrls and in the same order (the Maps tab's
+    dropdown). Android reads it strictly."""
+    for fest in festivals:
+        if not isinstance(fest, dict) or "mapNames" not in fest:
+            continue
+        value = fest["mapNames"]
+        where = f"festival {fest.get('id')!r}"
+        if not isinstance(value, list) or not all(isinstance(n, str) and n.strip() for n in value):
+            err(f"{where}: mapNames must be a list of non-empty strings")
+        elif len(value) != len(fest.get("mapImageUrls") or []):
+            err(f"{where}: mapNames has {len(value)} name(s) for {len(fest.get('mapImageUrls') or [])} map(s) in mapImageUrls")
+
+
 def validate_accents(festivals):
     """accentColor is optional; when present it is '#RRGGBB', and two
     festivals share (or nearly share) one only when they are the same
@@ -404,6 +419,7 @@ def validate(path):
         validate_show(show, i, seen_ids)
     validate_accents(festivals)
     validate_requested_as(festivals)
+    validate_map_names(festivals)
 
     # Optional per-artist enrichment (Apple Music artist pages and
     # profile photos). Apps ignore it when absent, and ignore

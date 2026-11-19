@@ -115,6 +115,12 @@ Notes:
   lineup later lands (days go from `[]` to non-empty), followers get an
   update notification.
 - `mapImageUrl` may be omitted or `null`; the app shows its placeholder map.
+- `mapImageUrls` lists several maps in order (grounds, a stage, the
+  afterparty, parking…), and `mapNames` names each one, same order and
+  same count: `"mapNames": ["Festival grounds", "Parking & rideshare"]`.
+  The Maps tab has a dropdown with those names (from iOS 203 / Android
+  162; older builds say "Map 2 of 6"). Keep `mapImageUrl` as the first map
+  for the oldest builds.
 - `requestedAs` (optional) lists the names people asked for this festival
   by in the apps ("Request a festival"), when they differ from its own
   name: `"requestedAs": ["fs fest"]`. A phone that asked for one of them
