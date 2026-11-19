@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 187,
-    "publishedAt": "2026-11-19T07:14:47Z",
+    "version": 188,
+    "publishedAt": "2026-11-19T07:48:51Z",
     "iosBuild": 207,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 165,
@@ -13510,10 +13510,14 @@
       "spotifyUrl": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
     },
     "Zaddy B": {
-      "spotifyUrl": "https://open.spotify.com/artist/0elfpnmpE6sM3nHIGN0P67"
+      "spotifyUrl": "https://open.spotify.com/artist/0elfpnmpE6sM3nHIGN0P67",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/ZaddyB-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/zaddy-b/1535818376"
     },
     "Teddy Pain": {
-      "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+      "spotifyUrl": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/Teddy-Pain-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/t-pain/256673237"
     },
     "Mary Droppinz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mary-droppinz/1564507779",
@@ -13536,7 +13540,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc"
     },
     "Nikko": {
-      "spotifyUrl": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq"
+      "spotifyUrl": "https://open.spotify.com/artist/5fEybpxnFCsR5r5UeyEFiq",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/Nikko-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/nikko/1774688541"
     },
     "Klo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/klo/1503314246",
@@ -13549,7 +13555,12 @@
       "spotifyUrl": "https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19"
     },
     "BUNS": {
-      "spotifyUrl": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB"
+      "spotifyUrl": "https://open.spotify.com/artist/5rGiKRASfYHuoGV6tXYGMB",
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/BUNS-900x900.jpg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/buns/1483356808"
+    },
+    "DJ UNI": {
+      "imageUrl": "https://tahoelive.net/wp-content/uploads/2026/09/DJ-UNI-900x900.jpg"
     }
   },
   "requestOutcomes": {
