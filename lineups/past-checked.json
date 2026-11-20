@@ -165,5 +165,38 @@
       "https://www.catalannews.com/culture/item/the-prodigy-charlotte-de-witte-amelie-lens-full-sonar-2026-lineup-announced",
       "https://sonar.es/en"
     ]
+  },
+  "bottlerock-napa-valley-2026": {
+    "date": "2026-11-20",
+    "result": "added 81 artists with days, from press (way 2): SF Chronicle and Riff Magazine daily lists agree name for name; \"(Silent Disco)\" and \"(of ...)\" tags dropped",
+    "sources": [
+      "https://preview-prod.w.sfchronicle.com/entertainment/article/bottlerock-napa-daily-lineup-21295512.php",
+      "https://riffmagazine.com/festivals/bottlerock-napa-daily-lineups-2026/"
+    ]
+  },
+  "edc-las-vegas-2026": {
+    "date": "2026-11-20",
+    "result": "added 438 artists, 415 with days (way 1: the festival's own lineup page, Alphabetical and By Day tabs; 23 play more than one day so no day)",
+    "sources": [
+      "https://lasvegas.electricdaisycarnival.com/lineup/"
+    ]
+  },
+  "stagecoach-2026": {
+    "date": "2026-11-20",
+    "result": "added 72 artists, 71 with days (way 2: SF Shameless daily lists and mxdwn full list agree; late-night Pitbull and Ludacris days from Holler schedule; Diplo plays several days so no day; \"Ty Myers\" as mxdwn and Holler spell it; Guy Fieri's Smokehouse, Whiskey Jam and Compton Cowboys left out as not billed acts)",
+    "sources": [
+      "https://www.sfshameless.com/the-artists/2025/10/5/stagecoach-festival-announces-2026-lineup-with-cody-johnson-lainey-wilson-post-malone",
+      "https://music.mxdwn.com/2025/09/25/news/stagecoach-festival-announces-2026-lineup-featuring-post-malone-noah-cyrus-larkin-poe-more/",
+      "https://holler.country/festivals/stagecoach-festival/2026/"
+    ]
+  },
+  "rolling-loud-florida-2026": {
+    "date": "2026-11-20",
+    "result": "not verified, nothing added: press names only about 25 of 75+ acts; the official site now shows only the 2027 edition and its poster; no official 2026 poster found; web.archive.org returned 403",
+    "sources": [
+      "https://concerts.consequence.net/articles/rolling-loud-2026-lineup",
+      "https://www.melodicmag.com/news/don-toliver-playboi-carti-and-nba-youngboy-set-to-headline-rolling-loud-2026/",
+      "https://florida.rollingloud.com"
+    ]
   }
 }
