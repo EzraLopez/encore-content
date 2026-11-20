@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 222,
-    "publishedAt": "2026-11-20T03:03:46Z",
+    "version": 223,
+    "publishedAt": "2026-11-20T09:43:47Z",
     "iosBuild": 222,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 181,
@@ -9511,7 +9511,2176 @@
       "instagramUrl": "https://instagram.com/edc_lasvegas",
       "redditUrl": "https://www.reddit.com/r/electricdaisycarnival/",
       "accentColor": "#F8AA38",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "edc-las-vegas-2026-ami-g",
+          "artist": "$ami G",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-1991",
+          "artist": "1991",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-2b-happy",
+          "artist": "2b Happy",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-2dy4",
+          "artist": "2DY4",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-999999999",
+          "artist": "999999999",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-99jakes",
+          "artist": "99jakes",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-a-m-c",
+          "artist": "A.M.C",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mc-phantom",
+          "artist": "MC Phantom",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-abana",
+          "artist": "Abana"
+        },
+        {
+          "id": "edc-las-vegas-2026-juliet-mendoza",
+          "artist": "Juliet Mendoza",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-above-and-beyond",
+          "artist": "Above & Beyond",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-adiel",
+          "artist": "Adiel",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-adrian-mills",
+          "artist": "Adrián Mills",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-adriatique",
+          "artist": "Adriatique",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-adventure-club",
+          "artist": "Adventure Club",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-on-mode",
+          "artist": "ÆON:MODE",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ahee",
+          "artist": "AHEE",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-liquid-stranger",
+          "artist": "Liquid Stranger",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ahmed-spins",
+          "artist": "Ahmed Spins",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-airglo",
+          "artist": "Airglo",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-aj-ball",
+          "artist": "AJ Ball",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-ak1200",
+          "artist": "AK1200",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-alison-wonderland",
+          "artist": "Alison Wonderland",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-alpha-9",
+          "artist": "ALPHA 9",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-alves",
+          "artist": "Alves"
+        },
+        {
+          "id": "edc-las-vegas-2026-alyssa-jolee",
+          "artist": "Alyssa Jolee",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-anastazja",
+          "artist": "Anastazja",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-andrew-rayel",
+          "artist": "Andrew Rayel",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-androcided",
+          "artist": "Androcided",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-anna",
+          "artist": "ANNA",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-apx1",
+          "artist": "APX1",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ar-co",
+          "artist": "AR/CO",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-argy",
+          "artist": "Argy",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-armin-van-buuren",
+          "artist": "Armin van Buuren",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-armnhmr",
+          "artist": "ARMNHMR",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-ashley-walls",
+          "artist": "Ashley Walls",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-assembly",
+          "artist": "Assembly",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-atliens",
+          "artist": "ATLiens",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-audiofreq",
+          "artist": "Audiofreq",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-code-black",
+          "artist": "Code Black",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-toneshifterz",
+          "artist": "Toneshifterz",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-avalon-emerson",
+          "artist": "Avalon Emerson",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-avello",
+          "artist": "AVELLO",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dennett",
+          "artist": "Dennett",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-bad-ash",
+          "artist": "Bad Ash",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bad-beat",
+          "artist": "Bad Beat",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bad-boombox",
+          "artist": "Bad Boombox",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-ollie-lishman",
+          "artist": "Ollie Lishman",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-bashkka",
+          "artist": "Bashkka",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sedef-adasi",
+          "artist": "Sedef Adasï",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-baugruppe90",
+          "artist": "BAUGRUPPE90",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-beltran",
+          "artist": "Beltran",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-simas",
+          "artist": "Simas",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-benni-ola",
+          "artist": "Benni Ola",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-benwal",
+          "artist": "Benwal",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-aaron-k",
+          "artist": "Aaron K",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-billy-gillies",
+          "artist": "Billy Gillies",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-black-tiger-sex-machine",
+          "artist": "Black Tiger Sex Machine",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bolo",
+          "artist": "BOLO",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-boogie-t",
+          "artist": "Boogie T",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-distinct-motive",
+          "artist": "Distinct Motive",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bou",
+          "artist": "Bou",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-boys-noize",
+          "artist": "Boys Noize",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-brosa",
+          "artist": "BROSA",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bunt",
+          "artist": "BUNT.",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-caiiro",
+          "artist": "Caiiro",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-canary-yellow",
+          "artist": "Canary Yellow",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-cardo",
+          "artist": "Cardo",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-carneyval",
+          "artist": "Carneyval",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-carry-nation",
+          "artist": "The Carry Nation",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-cassian",
+          "artist": "Cassian",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-castor-and-pollux",
+          "artist": "Castor & Pollux",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-cc-love",
+          "artist": "CC Love",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-chainsmokers",
+          "artist": "The Chainsmokers",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-charles-feelgood",
+          "artist": "Charles Feelgood",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-charlotte-de-witte",
+          "artist": "Charlotte de Witte",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-chassi",
+          "artist": "Chassi",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-chibs",
+          "artist": "Chibs",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-chris-lorenzo",
+          "artist": "Chris Lorenzo"
+        },
+        {
+          "id": "edc-las-vegas-2026-bullet-tooth",
+          "artist": "Bullet Tooth",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-chris-metcalfe",
+          "artist": "Chris Metcalfe",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-chris-stassy",
+          "artist": "Chris Stassy",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-cid",
+          "artist": "CID",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-clawz",
+          "artist": "Clawz",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-cloonee",
+          "artist": "Cloonee",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-close-friends-only",
+          "artist": "Close Friends Only",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-juos",
+          "artist": "Juos",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-rommii",
+          "artist": "ROMMII",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-cloudy",
+          "artist": "Cloudy",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-club-angel",
+          "artist": "Club Angel",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-cold-blue",
+          "artist": "Cold Blue",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-connor-q",
+          "artist": "Connor q",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-cosmic-gate",
+          "artist": "Cosmic Gate",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-cristoph",
+          "artist": "Cristoph",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-crs",
+          "artist": "CRS?",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-culture-shock",
+          "artist": "Culture Shock",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-cutdwn",
+          "artist": "CUTDWN",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-cyclops",
+          "artist": "Cyclops",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-da-tweekaz",
+          "artist": "Da Tweekaz",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dabin",
+          "artist": "Dabin",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-damon-sharpe",
+          "artist": "Damon Sharpe",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-danni-g",
+          "artist": "Danni G",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-danny-the-wildchild",
+          "artist": "Danny The Wildchild",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-darren-porter",
+          "artist": "Darren Porter",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-darude",
+          "artist": "Darude",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dazy-duke",
+          "artist": "Dazy Duke",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dead-x",
+          "artist": "Dead X",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-delta-heavy",
+          "artist": "Delta Heavy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-demigod",
+          "artist": "Demigod",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dena",
+          "artist": "Dena",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-descendants",
+          "artist": "Descendants",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dip-vertigo",
+          "artist": "Dip Vertigo",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dirty-audio",
+          "artist": "Dirty Audio",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-discip",
+          "artist": "Discip",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-discovery-project",
+          "artist": "Discovery Project",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-disko-cowboy",
+          "artist": "Disko Cowboy",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-exile",
+          "artist": "DJ Exile",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-flapjack",
+          "artist": "DJ Flapjack",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-flite",
+          "artist": "DJ Flite",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-gigola",
+          "artist": "DJ Gigola"
+        },
+        {
+          "id": "edc-las-vegas-2026-mcr-t",
+          "artist": "MCR-T",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-isaac",
+          "artist": "DJ Isaac",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-mandy",
+          "artist": "DJ Mandy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dj-tennis",
+          "artist": "DJ Tennis"
+        },
+        {
+          "id": "edc-las-vegas-2026-chloe-caillet",
+          "artist": "Chloé Caillet",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-red-axes",
+          "artist": "Red Axes",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-doctor-p",
+          "artist": "Doctor P",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-flux-pavilion",
+          "artist": "Flux Pavilion",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-funtcase",
+          "artist": "FuntCase",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dmina",
+          "artist": "DØMINA",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-donald-glaude",
+          "artist": "Donald Glaude",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-dono-smith",
+          "artist": "Dono Smith",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-doozie",
+          "artist": "Doozie",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-dramos",
+          "artist": "Dramos",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-dreya-v",
+          "artist": "DREYA V",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-dyen",
+          "artist": "DYEN",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-eazybaked",
+          "artist": "EAZYBAKED",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-eli-and-fur",
+          "artist": "Eli & Fur",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-eli-brown",
+          "artist": "Eli Brown",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-eli-fola",
+          "artist": "Eli Fola",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-eptic",
+          "artist": "Eptic",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-space-laces",
+          "artist": "Space Laces",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-eric-davenport",
+          "artist": "Eric Davenport",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-eric-dlux",
+          "artist": "Eric Dlux",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ero808",
+          "artist": "ero808",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-espii",
+          "artist": "Espii"
+        },
+        {
+          "id": "edc-las-vegas-2026-eve-lauren",
+          "artist": "Eve Lauren",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-falko",
+          "artist": "FALKO",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-fallen",
+          "artist": "Fallen",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-fallenanddknow-mc-dino",
+          "artist": "Fallen&Dknow (MC Dino)",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-festerandoscureandthee-o",
+          "artist": "Fester&Oscure&Thee-O",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-fireworks",
+          "artist": "Fireworks"
+        },
+        {
+          "id": "edc-las-vegas-2026-fisher",
+          "artist": "Fisher",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-floyd-lavine",
+          "artist": "Floyd Lavine"
+        },
+        {
+          "id": "edc-las-vegas-2026-fluttershy",
+          "artist": "Fluttershy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-frankie-bones",
+          "artist": "Frankie Bones",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-frost-children",
+          "artist": "Frost Children",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-funk-tribu",
+          "artist": "Funk Tribu",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-fury",
+          "artist": "Fury",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-gareth-emery",
+          "artist": "Gareth Emery",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-getter",
+          "artist": "Getter",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-ghengar",
+          "artist": "Ghengar",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-gl00m13",
+          "artist": "gl00m13",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-gold-lemonade",
+          "artist": "Gold Lemonade",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-gorillat",
+          "artist": "GorillaT",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-goshfather",
+          "artist": "Goshfather",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-grant-fisher",
+          "artist": "Grant Fisher",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-gravagerz",
+          "artist": "GRAVAGERZ"
+        },
+        {
+          "id": "edc-las-vegas-2026-gravedgr",
+          "artist": "GRAVEDGR",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-griz",
+          "artist": "GRiZ",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-wooli",
+          "artist": "Wooli"
+        },
+        {
+          "id": "edc-las-vegas-2026-guari",
+          "artist": "Guari",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-gusta",
+          "artist": "Gusta",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-haai",
+          "artist": "HAAi",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-luke-alessi",
+          "artist": "Luke Alessi",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-hamdi",
+          "artist": "Hamdi",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-hannah-laing",
+          "artist": "Hannah Laing",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-hardwell",
+          "artist": "Hardwell",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-hartshorn",
+          "artist": "Hartshorn",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-hayla",
+          "artist": "HAYLA",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-heidi-lawden",
+          "artist": "Heidi Lawden",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-masha-mar",
+          "artist": "Masha Mar",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-heyz",
+          "artist": "HEYZ",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-hixxy",
+          "artist": "Hixxy",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-hntr",
+          "artist": "HNTR",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-hol",
+          "artist": "HOL!",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-holy-priest",
+          "artist": "Holy Priest"
+        },
+        {
+          "id": "edc-las-vegas-2026-hybrid-minds",
+          "artist": "Hybrid Minds",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-i-hate-models",
+          "artist": "I Hate Models",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-ilan-bluestone",
+          "artist": "Ilan Bluestone",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-indira-paganotto",
+          "artist": "Indira Paganotto",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-infekt",
+          "artist": "INFEKT",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-samplifire",
+          "artist": "Samplifire",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-innellea",
+          "artist": "Innellea",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-inspektor-gadjet",
+          "artist": "InSpeKtor GadJet",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-interplanetary-criminal",
+          "artist": "Interplanetary Criminal",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-isabella",
+          "artist": "ISAbella",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-j-patron",
+          "artist": "J Patron",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-jackie-hollander",
+          "artist": "Jackie Hollander",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-jared-jackson",
+          "artist": "Jared Jackson",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-j-splat",
+          "artist": "J. Splat",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-jem-g",
+          "artist": "Jem.G",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-jfuse",
+          "artist": "JFUSE",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-jimni-cricket",
+          "artist": "Jimni Cricket",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-joey-g",
+          "artist": "Joey G",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-johannes-schuster",
+          "artist": "Johannes Schuster",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-john-price",
+          "artist": "John Price",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-john-summit",
+          "artist": "John Summit",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-jon-bishop",
+          "artist": "Jon Bishop",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-joseph-capriati",
+          "artist": "Joseph Capriati",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-josh-baker",
+          "artist": "Josh Baker"
+        },
+        {
+          "id": "edc-las-vegas-2026-kettama",
+          "artist": "KETTAMA",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-prospa",
+          "artist": "Prospa",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-jruiz",
+          "artist": "JRuiz",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-just-shaun",
+          "artist": "Just.Shaun",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-justin-hawkes",
+          "artist": "Justin Hawkes",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-justus",
+          "artist": "Justus",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-kai-wachi",
+          "artist": "Kai Wachi",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-kandyman",
+          "artist": "The Kandyman",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-kaskade",
+          "artist": "Kaskade",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-kb-da-dj",
+          "artist": "KB da DJ",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-kelland",
+          "artist": "Kelland",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-kendo",
+          "artist": "Kendo",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-kevin-de-vries",
+          "artist": "Kevin de Vries",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ki-ki",
+          "artist": "KI/KI"
+        },
+        {
+          "id": "edc-las-vegas-2026-kimmycat",
+          "artist": "Kimmycat",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-kinahau",
+          "artist": "KinAhau",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-klangkuenstler",
+          "artist": "Klangkuenstler",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-klo",
+          "artist": "Klo",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-koji-aiken",
+          "artist": "Koji Aiken",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-korolova",
+          "artist": "Korolova",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-kream",
+          "artist": "KREAM",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-kuko",
+          "artist": "KUKO",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-kuta",
+          "artist": "Kuta",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-kygore",
+          "artist": "Kygore",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-lady-faith",
+          "artist": "Lady Faith",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lny-tnz",
+          "artist": "LNY TNZ",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lady-sinclair",
+          "artist": "Lady Sinclair",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-laidback-luke",
+          "artist": "Laidback Luke",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-chuckie",
+          "artist": "Chuckie",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-layton-giordani",
+          "artist": "Layton Giordani",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-level-up",
+          "artist": "Level Up",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-levity",
+          "artist": "Levity",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-lexxy-jax",
+          "artist": "Lexxy Jax",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-lil-texas",
+          "artist": "Lil Texas",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lilly-palmer",
+          "artist": "Lilly Palmer",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-linney",
+          "artist": "Linney",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-linska",
+          "artist": "Linska",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-louis-love",
+          "artist": "Louis Love",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-love2hate",
+          "artist": "Love2Hate",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lu-re",
+          "artist": "Lu.Re",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-luciano",
+          "artist": "Luciano",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lucky-lou",
+          "artist": "Lucky Lou"
+        },
+        {
+          "id": "edc-las-vegas-2026-lucky-rabbit",
+          "artist": "Lucky Rabbit",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-luke-alexander",
+          "artist": "Luke Alexander",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-luke-dean",
+          "artist": "Luke Dean",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-luuk-van-dijk",
+          "artist": "Luuk van Dijk",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-machete",
+          "artist": "Machete",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-maddix",
+          "artist": "Maddix",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-madds",
+          "artist": "Madds",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-madgrrl",
+          "artist": "MADGRRL",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-vessel",
+          "artist": "VESSEL",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-malugi",
+          "artist": "MALUGI",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-marc-v",
+          "artist": "Marc V",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mark-e-quark",
+          "artist": "Mark E Quark",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mark-lewis",
+          "artist": "Mark Lewis",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mars",
+          "artist": "Mars",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-martin-garrix",
+          "artist": "Martin Garrix",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mary-droppinz",
+          "artist": "Mary Droppinz",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-masquerade",
+          "artist": "The Masquerade",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-massano",
+          "artist": "Massano",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-massimiliano-pagliara",
+          "artist": "Massimiliano Pagliara",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-mateezy",
+          "artist": "Mateezy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mathame",
+          "artist": "Mathame",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-matt-faulk",
+          "artist": "Matt Faulk",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mattilo",
+          "artist": "Mattilo",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-matty-ralph",
+          "artist": "Matty Ralph",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-max-dean",
+          "artist": "Max Dean",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-max-low",
+          "artist": "Max Low",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-meduza",
+          "artist": "Meduza",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-meedy",
+          "artist": "Meedy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mellinfunk",
+          "artist": "Mellinfunk",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mer-bear",
+          "artist": "Mer Bear",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-mestiza",
+          "artist": "MËSTIZA",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-micah-martin",
+          "artist": "Micah Martin",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mink",
+          "artist": "mink",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-mish",
+          "artist": "Mish",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-moonpup",
+          "artist": "Moonpup",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-morgan-seatree",
+          "artist": "Morgan Seatree",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-mph",
+          "artist": "MPH",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-mr-deeds",
+          "artist": "MR DEEDS",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-mtk",
+          "artist": "MTK",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-munequita",
+          "artist": "Muñequita",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-murphy-s-law",
+          "artist": "Murphy's Law",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-muzz",
+          "artist": "MUZZ",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-n0where-g1rl",
+          "artist": "N0where G1rl",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-nativesun",
+          "artist": "Nativesun",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-nekter",
+          "artist": "NEKTER",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-neon-deluz",
+          "artist": "Neon Deluz",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-nerz",
+          "artist": "Nerz",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "edc-las-vegas-2026-nightstalker",
+          "artist": "Nightstalker",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-nightstalkeranddknow-mc-dino",
+          "artist": "Nightstalker&Dknow (MC Dino)",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-noizu",
+          "artist": "Noizu",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-nostalgix",
+          "artist": "Nostalgix",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-not-not",
+          "artist": "Not Not",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-notion",
+          "artist": "Notion",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-nxsty",
+          "artist": "NXSTY",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-obskur",
+          "artist": "Obskür",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-odd-language",
+          "artist": "Odd Language"
+        },
+        {
+          "id": "edc-las-vegas-2026-off-in-lala",
+          "artist": "Off in LALA",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-omar",
+          "artist": "Omar+",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-omnom",
+          "artist": "OMNOM",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-outlaw",
+          "artist": "The Outlaw",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-paramida",
+          "artist": "PARAMIDA",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-paul-oakenfold",
+          "artist": "Paul Oakenfold",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-paul-van-dyk",
+          "artist": "Paul van Dyk",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-peekaboo",
+          "artist": "Peekaboo",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-pegassi",
+          "artist": "Pegassi",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-peggy-gou",
+          "artist": "Peggy Gou"
+        },
+        {
+          "id": "edc-las-vegas-2026-phnx",
+          "artist": "PHNX",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-pizzi",
+          "artist": "Pizzi",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-player-dave",
+          "artist": "Player Dave",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-plsandty",
+          "artist": "PLS&TY",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-polar-bears",
+          "artist": "Polar Bears",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-porter-robinson",
+          "artist": "Porter Robinson",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-prodigy",
+          "artist": "The Prodigy",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-puking-spice-latte",
+          "artist": "Puking Spice Latte",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-punky-brewstar",
+          "artist": "Punky Brewstar",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-purge",
+          "artist": "The Purge",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-r-a-w",
+          "artist": "R.A.W.",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-raje",
+          "artist": "RAJE"
+        },
+        {
+          "id": "edc-las-vegas-2026-ray-volpe",
+          "artist": "Ray Volpe",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-rebekah",
+          "artist": "Rebekah",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-rebuke",
+          "artist": "Rebūke",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-reid-speed",
+          "artist": "Reid Speed",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-restricted",
+          "artist": "Restricted",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-riot",
+          "artist": "RIOT",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-roadhouse",
+          "artist": "Roadhouse",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-rob-gee",
+          "artist": "Rob Gee",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-lenny-dee",
+          "artist": "Lenny Dee",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-robert-hood",
+          "artist": "Robert Hood",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-roddy-lima",
+          "artist": "Roddy Lima",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-rohaan",
+          "artist": "Rohaan",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ron-d-core",
+          "artist": "Ron D Core",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-rooler",
+          "artist": "Rooler",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-roxy-ferrari",
+          "artist": "Roxy Ferrari",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-rz",
+          "artist": "RØZ",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sabine-blaizin",
+          "artist": "Sabine Blaizin",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-the-saints",
+          "artist": "The Saints",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-salute",
+          "artist": "salute",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-sammy-virji",
+          "artist": "Sammy Virji",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-samson",
+          "artist": "Samson",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-san-holo",
+          "artist": "San Holo",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-san-pacho",
+          "artist": "San Pacho",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-sarah-de-warren",
+          "artist": "Sarah de Warren",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-scooba",
+          "artist": "Scooba",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-serafina",
+          "artist": "Serafina",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-seven-lions",
+          "artist": "Seven Lions",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-shingo-nakamura",
+          "artist": "Shingo Nakamura",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ship-wrek",
+          "artist": "Ship Wrek",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sidney-charles",
+          "artist": "Sidney Charles",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-bushbaby",
+          "artist": "Bushbaby",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sihk",
+          "artist": "Sihk",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-silva-bumpa",
+          "artist": "Silva Bumpa",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-silver-panda",
+          "artist": "Silver Panda",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-silvie-loto",
+          "artist": "Silvie Loto",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-simon-apex",
+          "artist": "Simon Apex",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sippy",
+          "artist": "Sippy",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sisto",
+          "artist": "SISTO",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-skanka",
+          "artist": "Skanka",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-skibkid",
+          "artist": "SKIBKID",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-skilah",
+          "artist": "Skilah",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-skream",
+          "artist": "Skream",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-slamm",
+          "artist": "SLAMM",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-slim-mcgraw",
+          "artist": "Slim McGraw",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-slugg",
+          "artist": "Slugg",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sofi-tukker",
+          "artist": "Sofi Tukker",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-solomun",
+          "artist": "Solomun",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sommer-ray",
+          "artist": "Sommer Ray",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-soraya",
+          "artist": "Soraya",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-soso-dru",
+          "artist": "Soso Drü",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-spray",
+          "artist": "Spray",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sqishi",
+          "artist": "Sqishi",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-stacy-christine",
+          "artist": "Stacy Christine",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-stan-christ",
+          "artist": "Stan Christ",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-starrza",
+          "artist": "Starrza",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-steve-aoki",
+          "artist": "Steve Aoki",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-steve-leclair",
+          "artist": "Steve Leclair",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-steve-loria",
+          "artist": "Steve Loria",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-sub-focus",
+          "artist": "Sub Focus",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sub-zero-project",
+          "artist": "Sub Zero Project",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-superstrings",
+          "artist": "SUPERSTRINGS",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-sussybaka",
+          "artist": "Sussybaka",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-synnhaven",
+          "artist": "Synnhaven",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-t78",
+          "artist": "T78",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-tavatli",
+          "artist": "Tavatli",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-taylor-kade",
+          "artist": "Taylor Kade"
+        },
+        {
+          "id": "edc-las-vegas-2026-tensteps",
+          "artist": "Tensteps",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-thomas-schumacher",
+          "artist": "Thomas Schumacher",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-tiesto",
+          "artist": "Tiësto",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-tiga",
+          "artist": "Tiga",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-tim-clark",
+          "artist": "Tim Clark",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-tinlicker",
+          "artist": "Tinlicker",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-toman",
+          "artist": "Toman",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-tony-gamboa",
+          "artist": "Tony Gamboa",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-topcat",
+          "artist": "Topcat",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-trace",
+          "artist": "Trace"
+        },
+        {
+          "id": "edc-las-vegas-2026-trouble",
+          "artist": "Trouble",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-tsu-nami",
+          "artist": "Tsu Nami",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-underworld",
+          "artist": "Underworld",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-valentina-soto",
+          "artist": "Valentina Soto"
+        },
+        {
+          "id": "edc-las-vegas-2026-vicious",
+          "artist": "Vicious",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-vieze-asbak",
+          "artist": "Vieze Asbak",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-vigro-deep",
+          "artist": "Vigro Deep"
+        },
+        {
+          "id": "edc-las-vegas-2026-vintage-culture",
+          "artist": "Vintage Culture",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-viperactive",
+          "artist": "Viperactive",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-virtual-riot",
+          "artist": "Virtual Riot",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-vtss",
+          "artist": "VTSS",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-vulkauf",
+          "artist": "Vulkauf",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-walker-and-royce",
+          "artist": "Walker & Royce",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-vnssa",
+          "artist": "VNSSA",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-ward-andrews",
+          "artist": "Ward Andrews",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-warface",
+          "artist": "Warface",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-warung",
+          "artist": "Warung",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-wax-motif",
+          "artist": "Wax Motif",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-westend",
+          "artist": "Westend",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-whethan",
+          "artist": "Whethan",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-william-black",
+          "artist": "William Black",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-willie-pake",
+          "artist": "Willie Pake",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-wolfie",
+          "artist": "Wolfie",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-ydg",
+          "artist": "YDG",
+          "day": "2026-05-16"
+        },
+        {
+          "id": "edc-las-vegas-2026-yosuf",
+          "artist": "Yosuf",
+          "day": "2026-05-17"
+        },
+        {
+          "id": "edc-las-vegas-2026-zaanee",
+          "artist": "Zaanee",
+          "day": "2026-05-15"
+        },
+        {
+          "id": "edc-las-vegas-2026-zakes-bantwini",
+          "artist": "Zakes Bantwini"
+        },
+        {
+          "id": "edc-las-vegas-2026-zedd",
+          "artist": "Zedd",
+          "day": "2026-05-17"
+        }
+      ]
     },
     {
       "id": "ultra-miami-2026",
@@ -9586,7 +11755,368 @@
       "endDate": "2026-04-26",
       "websiteUrl": "https://www.stagecoachfestival.com",
       "instagramUrl": "https://instagram.com/stagecoach",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "stagecoach-2026-cody-johnson",
+          "artist": "Cody Johnson",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-bailey-zimmerman",
+          "artist": "Bailey Zimmerman",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-red-clay-strays",
+          "artist": "Red Clay Strays",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-ella-langley",
+          "artist": "Ella Langley",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-counting-crows",
+          "artist": "Counting Crows",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-sam-barber",
+          "artist": "Sam Barber",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-nate-smith",
+          "artist": "Nate Smith",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-chase-rice",
+          "artist": "Chase Rice",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-wynonna-judd",
+          "artist": "Wynonna Judd",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-bigxthaplug",
+          "artist": "BigXthaPlug",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-lyle-lovett",
+          "artist": "Lyle Lovett",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-noah-cyrus",
+          "artist": "Noah Cyrus",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-marcus-king-band",
+          "artist": "Marcus King Band",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-josh-ross",
+          "artist": "Josh Ross",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-ole-60",
+          "artist": "Ole 60",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-avery-anna",
+          "artist": "Avery Anna",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-larkin-poe",
+          "artist": "Larkin Poe",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-adrien-nunez",
+          "artist": "Adrien Nunez",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-julia-cole",
+          "artist": "Julia Cole",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-noah-rinker",
+          "artist": "Noah Rinker",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-tayler-holder",
+          "artist": "Tayler Holder",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-hannah-mcfarland",
+          "artist": "Hannah McFarland",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-neon-union",
+          "artist": "Neon Union",
+          "day": "2026-04-24"
+        },
+        {
+          "id": "stagecoach-2026-lainey-wilson",
+          "artist": "Lainey Wilson",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-riley-green",
+          "artist": "Riley Green",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-journey",
+          "artist": "Journey",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-little-big-town",
+          "artist": "Little Big Town",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-bush",
+          "artist": "Bush",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-gavin-adcock",
+          "artist": "Gavin Adcock",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-teddy-swims",
+          "artist": "Teddy Swims",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-treaty-oak-revival",
+          "artist": "Treaty Oak Revival",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-charles-wesley-godwin",
+          "artist": "Charles Wesley Godwin",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-corey-kent",
+          "artist": "Corey Kent",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-billy-bob-thornton-and-the-boxmasters",
+          "artist": "Billy Bob Thornton & The Boxmasters",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-michael-marcagi",
+          "artist": "Michael Marcagi",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-chase-matthew",
+          "artist": "Chase Matthew",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-benjamin-tod",
+          "artist": "Benjamin Tod",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-tyler-braden",
+          "artist": "Tyler Braden",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-willow-avalon",
+          "artist": "Willow Avalon",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-redferrin",
+          "artist": "Redferrin",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-elizabeth-nichols",
+          "artist": "Elizabeth Nichols",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-lane-pittman",
+          "artist": "Lane Pittman",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-braxton-keith",
+          "artist": "Braxton Keith",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-kevin-smiley",
+          "artist": "Kevin Smiley",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-s-g-goodman",
+          "artist": "S.G. Goodman",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-something-out-west",
+          "artist": "Something Out West",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-post-malone",
+          "artist": "Post Malone",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-brooks-and-dunn",
+          "artist": "Brooks & Dunn",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-hootie-and-the-blowfish",
+          "artist": "Hootie & The Blowfish",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-warren-zeiders",
+          "artist": "Warren Zeiders",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-third-eye-blind",
+          "artist": "Third Eye Blind",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-wyatt-flores",
+          "artist": "Wyatt Flores",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-brett-young",
+          "artist": "Brett Young",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-ty-myers",
+          "artist": "Ty Myers",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-the-wallflowers",
+          "artist": "The Wallflowers",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-max-mcnown",
+          "artist": "Max McNown",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-hudson-westbrook",
+          "artist": "Hudson Westbrook",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-kameron-marlowe",
+          "artist": "Kameron Marlowe",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-ryan-hurd",
+          "artist": "Ryan Hurd",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-amos-lee",
+          "artist": "Amos Lee",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-ink",
+          "artist": "Ink",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-cameron-whitcomb",
+          "artist": "Cameron Whitcomb",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-eli-young-band",
+          "artist": "Eli Young Band",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-bayker-blankenship",
+          "artist": "Bayker Blankenship",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-jake-worthington",
+          "artist": "Jake Worthington",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-gabriella-rose",
+          "artist": "Gabriella Rose",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-brandon-wisham",
+          "artist": "Brandon Wisham",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-zach-john-king",
+          "artist": "Zach John King",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-the-road",
+          "artist": "The Road",
+          "day": "2026-04-26"
+        },
+        {
+          "id": "stagecoach-2026-diplo",
+          "artist": "Diplo"
+        },
+        {
+          "id": "stagecoach-2026-pitbull",
+          "artist": "Pitbull",
+          "day": "2026-04-25"
+        },
+        {
+          "id": "stagecoach-2026-ludacris",
+          "artist": "Ludacris",
+          "day": "2026-04-26"
+        }
+      ]
     },
     {
       "id": "rolling-loud-florida-2026",
@@ -9615,7 +12145,414 @@
       "websiteUrl": "https://www.bottlerocknapavalley.com",
       "instagramUrl": "https://instagram.com/bottlerocknapa",
       "days": [],
-      "accentColor": "#2A6AB1"
+      "accentColor": "#2A6AB1",
+      "lineup": [
+        {
+          "id": "bottlerock-napa-valley-2026-lorde",
+          "artist": "Lorde",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-teddy-swims",
+          "artist": "Teddy Swims",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-lil-wayne",
+          "artist": "Lil Wayne",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-papa-roach",
+          "artist": "Papa Roach",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-jon-bellion",
+          "artist": "Jon Bellion",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-chaka-khan",
+          "artist": "Chaka Khan",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-tash-sultana",
+          "artist": "Tash Sultana",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-del-water-gap",
+          "artist": "Del Water Gap",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-brns",
+          "artist": "Børns",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-men-at-work",
+          "artist": "Men at Work",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-natasha-bedingfield",
+          "artist": "Natasha Bedingfield",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-rev-run",
+          "artist": "Rev Run",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-beths",
+          "artist": "The Beths",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-chevy-metal",
+          "artist": "Chevy Metal",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-treach",
+          "artist": "Treach",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-melt",
+          "artist": "Melt",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-nilufer-yanya",
+          "artist": "Nilüfer Yanya",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-meredith-marks",
+          "artist": "Meredith Marks",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-paradox",
+          "artist": "The Paradox",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-penelope-road",
+          "artist": "Penelope Road",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-new-constellations",
+          "artist": "New Constellations",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-hannah-cohen",
+          "artist": "Hannah Cohen",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-indy",
+          "artist": "Indy",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-chin-chins",
+          "artist": "The Chin Chins",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-khatumu",
+          "artist": "Khatumu",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-malick-koly",
+          "artist": "Malick Koly",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-rookie5",
+          "artist": "The Rookie5",
+          "day": "2026-05-22"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-foo-fighters",
+          "artist": "Foo Fighters",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-lcd-soundsystem",
+          "artist": "LCD Soundsystem",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-zedd",
+          "artist": "Zedd",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-rilo-kiley",
+          "artist": "Rilo Kiley",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-ajr",
+          "artist": "AJR",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-busta-rhymes",
+          "artist": "Busta Rhymes",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-joan-jett-and-the-blackhearts",
+          "artist": "Joan Jett and the Blackhearts",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-bush",
+          "artist": "Bush",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-flipturn",
+          "artist": "flipturn",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-maoli",
+          "artist": "Maoli",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-better-than-ezra",
+          "artist": "Better Than Ezra",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-arrested-development",
+          "artist": "Arrested Development",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-almost-monday",
+          "artist": "almost monday",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-warning",
+          "artist": "The Warning",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-midnight-generation",
+          "artist": "Midnight Generation",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-paris-jackson",
+          "artist": "Paris Jackson",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-return-of-jackie-and-judy",
+          "artist": "The Return of Jackie and Judy",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-charlotte-lawrence",
+          "artist": "Charlotte Lawrence",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-dj-pauly-d",
+          "artist": "DJ Pauly D",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-zinadelphia",
+          "artist": "Zinadelphia",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-saxsquatch",
+          "artist": "Saxsquatch",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-folk-bitch-trio",
+          "artist": "Folk Bitch Trio",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-alive",
+          "artist": "The Alive",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-moonalice",
+          "artist": "Moonalice",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-jake-zimma",
+          "artist": "Jake Zimma",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-dj-umami",
+          "artist": "DJ Umami",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-bettina-maurennji",
+          "artist": "Bettina Maurennji",
+          "day": "2026-05-23"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-backstreet-boys",
+          "artist": "Backstreet Boys",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-sombr",
+          "artist": "SOMBR",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-ludacris",
+          "artist": "Ludacris",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-mt-joy",
+          "artist": "Mt. Joy",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-slightly-stoopid",
+          "artist": "Slightly Stoopid",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-bigxthaplug",
+          "artist": "BigXthaPlug",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-kool-and-the-gang",
+          "artist": "Kool & The Gang",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-matt-maeson",
+          "artist": "Matt Maeson",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-tom-morello",
+          "artist": "Tom Morello",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-cut-copy",
+          "artist": "Cut Copy",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-larkin-poe",
+          "artist": "Larkin Poe",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-california-honeydrops",
+          "artist": "The California Honeydrops",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-sons-of-the-east",
+          "artist": "Sons of the East",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-good-neighbours",
+          "artist": "Good Neighbours",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-paco-versailles",
+          "artist": "Paco Versailles",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-buffalo-traffic-jam",
+          "artist": "Buffalo Traffic Jam",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-absolutely",
+          "artist": "Absolutely",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-heavy-heavy",
+          "artist": "The Heavy Heavy",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-jess-king",
+          "artist": "Jess King",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-paper-kites",
+          "artist": "The Paper Kites",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-izzy-escobar",
+          "artist": "Izzy Escobar",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-girl-tones",
+          "artist": "Girl Tones",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-nat-myers",
+          "artist": "Nat Myers",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-alec-shaw",
+          "artist": "Alec Shaw",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-betty-taylor",
+          "artist": "Betty Taylor",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-the-silverado-pickups",
+          "artist": "The Silverado Pickups",
+          "day": "2026-05-24"
+        },
+        {
+          "id": "bottlerock-napa-valley-2026-napa-valley-youth-symphony",
+          "artist": "Napa Valley Youth Symphony",
+          "day": "2026-05-24"
+        }
+      ]
     },
     {
       "id": "movement-detroit-2026",
