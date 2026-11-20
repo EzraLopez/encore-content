@@ -408,6 +408,21 @@ a festival window the run reads the catalog and makes no Instagram
 call. Output is appended to `~/Library/Logs/katla/instagram-watch.log`.
 No server is involved. A cloud routine is not wired.
 
+## Where a festival is (Nov 19, 2026)
+
+`latitude` and `longitude` (decimal degrees, both or neither) put a festival
+on the map tab of profiles. In the cloud routines, or anywhere,
+`python3 tools/add_coordinates.py --write` fills in any that are missing by
+the festival's `location` (Open-Meteo's free geocoder); the validator warns
+about a festival without them. On a Mac, Apple's geocoder by venue is more
+precise:
+`swiftc -O tools/geocode.swift -o /tmp/geocode`, then feed it
+`id<TAB>venue, location` lines on stdin; it prints `id<TAB>lat<TAB>lon`
+(`-` when nothing was found: try the location alone). Check the result on a
+map before publishing; the geocoder sometimes picks a same-named place
+elsewhere (Grant Park, IL for Chicago's Grant Park). Builds without the map
+ignore the fields.
+
 ## Telling the apps a newer build is out
 
 `meta.iosBuild` / `meta.androidBuild` (with `iosUpdateUrl` /
