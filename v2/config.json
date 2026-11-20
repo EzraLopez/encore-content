@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 221,
-    "publishedAt": "2026-11-19T20:51:16Z",
+    "version": 222,
+    "publishedAt": "2026-11-20T03:03:46Z",
     "iosBuild": 222,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 181,
@@ -13339,6 +13339,79 @@
       "endDate": "2027-07-25",
       "timezone": "Europe/Brussels",
       "days": []
+    },
+    {
+      "days": [],
+      "endDate": "2026-11-28",
+      "id": "give-thanks-2026",
+      "location": "San Jose, CA",
+      "timezone": "America/Los_Angeles",
+      "name": "Give Thanks 2026",
+      "startDate": "2026-11-25",
+      "tagline": "Three nights of bass over Thanksgiving weekend: Wed, Fri and Sat",
+      "venue": "San Jose Convention Center",
+      "latitude": 37.3297,
+      "longitude": -121.889,
+      "websiteUrl": "https://givethanksfestival.com",
+      "instagramUrl": "https://instagram.com/givethanksfestival",
+      "lineup": [
+        {
+          "id": "give-thanks-2026-automhate-b2b-beastboii",
+          "artist": "AUTOMHATE b2b BEASTBOII"
+        },
+        {
+          "id": "give-thanks-2026-avello-presents-monochrome",
+          "artist": "Avello presents Monochrome"
+        },
+        {
+          "id": "give-thanks-2026-barely-alive-b2b-cyclops",
+          "artist": "Barely Alive b2b Cyclops"
+        },
+        {
+          "id": "give-thanks-2026-capochino-b2b-ag",
+          "artist": "Capochino b2b AG"
+        },
+        {
+          "id": "give-thanks-2026-fairlane-b2b-hoang",
+          "artist": "Fairlane b2b Hoang"
+        },
+        {
+          "id": "give-thanks-2026-jason-ross-b2b-nurko",
+          "artist": "Jason Ross b2b Nurko"
+        },
+        {
+          "id": "give-thanks-2026-kompany-b2b-tynan",
+          "artist": "Kompany b2b TYNAN"
+        },
+        {
+          "id": "give-thanks-2026-nikita-the-wicked-b2b-klo",
+          "artist": "Nikita, the Wicked b2b KLO"
+        },
+        {
+          "id": "give-thanks-2026-peekaboo-b2b-lyny",
+          "artist": "Peekaboo b2b LYNY"
+        },
+        {
+          "id": "give-thanks-2026-richard-finger-b2b-richard-finger",
+          "artist": "Richard Finger b2b Richard Finger"
+        },
+        {
+          "id": "give-thanks-2026-slander-b2b-seven-lions",
+          "artist": "SLANDER b2b Seven Lions"
+        },
+        {
+          "id": "give-thanks-2026-skull-machine-black-tiger-sex-machine-x-kai-wachi",
+          "artist": "Skull Machine (Black Tiger Sex Machine x Kai Wachi)"
+        },
+        {
+          "id": "give-thanks-2026-wankdat-crankdat-b2b-wooli",
+          "artist": "WANKDAT (Crankdat b2b Wooli)"
+        },
+        {
+          "id": "give-thanks-2026-zeds-dead-b2b-levity",
+          "artist": "Zeds Dead b2b Levity"
+        }
+      ]
     }
   ],
   "shows": [],
