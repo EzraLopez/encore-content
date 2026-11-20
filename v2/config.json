@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 223,
-    "publishedAt": "2026-11-20T09:43:47Z",
+    "version": 224,
+    "publishedAt": "2026-11-20T10:12:15Z",
     "iosBuild": 222,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 181,
@@ -8208,7 +8208,185 @@
       "websiteUrl": "https://www.lightninginabottle.org",
       "instagramUrl": "https://instagram.com/libfestival",
       "redditUrl": "https://www.reddit.com/r/LightningInABottle/",
-      "accentColor": "#12529A"
+      "accentColor": "#12529A",
+      "lineup": [
+        {
+          "id": "lightning-in-a-bottle-2027-justice",
+          "artist": "Justice"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-jungle",
+          "artist": "JUNGLE"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-pretty-lights",
+          "artist": "Pretty Lights"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-sofi-tukker",
+          "artist": "SOFI TUKKER"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-amelie-lens",
+          "artist": "Amelie Lens"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-basement-jaxx",
+          "artist": "Basement Jaxx"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-rl-grime",
+          "artist": "RL Grime"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-whethan",
+          "artist": "Whethan"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-honey-dijon",
+          "artist": "Honey Dijon"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-carlita",
+          "artist": "Carlita"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-chloe-caillet",
+          "artist": "Chloé Caillet"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-dj-minx",
+          "artist": "DJ Minx"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-tinzo-jojo",
+          "artist": "Tinzo + Jojo"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-luke-alessi",
+          "artist": "Luke Alessi"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-eliza-rose",
+          "artist": "Eliza Rose"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-jackie-hollander",
+          "artist": "Jackie Hollander"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-rafael",
+          "artist": "Rafael"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-matisa",
+          "artist": "Matisa"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-digital-mystikz",
+          "artist": "Digital Mystikz"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-distinct-motive",
+          "artist": "Distinct Motive"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-mia-koden",
+          "artist": "Mia Koden"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-effin",
+          "artist": "Effin"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-sippy",
+          "artist": "SIPPY"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-mary-droppinz",
+          "artist": "Mary Droppinz"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-nikita-the-wicked",
+          "artist": "Nikita, The Wicked"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-andy-c",
+          "artist": "Andy C"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-hybrid-minds",
+          "artist": "Hybrid Minds"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-notion",
+          "artist": "Notion"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-bushbaby",
+          "artist": "Bushbaby"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-champion",
+          "artist": "Champion"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-fcukers-djs",
+          "artist": "Fcukers DJs"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-dj-dave",
+          "artist": "DJ_Dave"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-teed",
+          "artist": "TEED"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-haai",
+          "artist": "HAAi"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-x-club",
+          "artist": "X CLUB"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-leon-vynehall",
+          "artist": "Leon Vynehall"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-jennifer-loveless",
+          "artist": "Jennifer Loveless"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-nimino",
+          "artist": "nimino"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-vandelux",
+          "artist": "Vandelux"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-the-glitch-mob",
+          "artist": "The Glitch Mob"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-dirtwire",
+          "artist": "Dirtwire"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-dj-habibeats",
+          "artist": "DJ Habibeats"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-baby-j",
+          "artist": "Baby J"
+        },
+        {
+          "id": "lightning-in-a-bottle-2027-arthi",
+          "artist": "Arthi"
+        }
+      ]
     },
     {
       "id": "bottlerock-napa-valley-2027",
@@ -9170,7 +9348,269 @@
       "websiteUrl": "https://www.glastonburyfestivals.co.uk",
       "instagramUrl": "https://instagram.com/glastofest",
       "redditUrl": "https://www.reddit.com/r/glastonbury_festival/",
-      "accentColor": "#1AA0CB"
+      "accentColor": "#1AA0CB",
+      "lineup": [
+        {
+          "id": "glastonbury-2027-sam-fender",
+          "artist": "Sam Fender"
+        },
+        {
+          "id": "glastonbury-2027-harry-styles",
+          "artist": "Harry Styles"
+        },
+        {
+          "id": "glastonbury-2027-billie-eilish",
+          "artist": "Billie Eilish"
+        },
+        {
+          "id": "glastonbury-2027-cher",
+          "artist": "Cher"
+        },
+        {
+          "id": "glastonbury-2027-massive-attack",
+          "artist": "Massive Attack"
+        },
+        {
+          "id": "glastonbury-2027-sombr",
+          "artist": "Sombr"
+        },
+        {
+          "id": "glastonbury-2027-little-simz",
+          "artist": "Little Simz"
+        },
+        {
+          "id": "glastonbury-2027-chase-status",
+          "artist": "Chase & Status"
+        },
+        {
+          "id": "glastonbury-2027-the-xx",
+          "artist": "The xx"
+        },
+        {
+          "id": "glastonbury-2027-lily-allen",
+          "artist": "Lily Allen"
+        },
+        {
+          "id": "glastonbury-2027-ezra-collective",
+          "artist": "Ezra Collective"
+        },
+        {
+          "id": "glastonbury-2027-kraftwerk",
+          "artist": "Kraftwerk"
+        },
+        {
+          "id": "glastonbury-2027-adela",
+          "artist": "Adéla"
+        },
+        {
+          "id": "glastonbury-2027-angine-de-poitrine",
+          "artist": "Angine de Poitrine"
+        },
+        {
+          "id": "glastonbury-2027-atarashii-gakko",
+          "artist": "Atarashii Gakko!"
+        },
+        {
+          "id": "glastonbury-2027-the-avalanches",
+          "artist": "The Avalanches"
+        },
+        {
+          "id": "glastonbury-2027-basement-jaxx",
+          "artist": "Basement Jaxx"
+        },
+        {
+          "id": "glastonbury-2027-blood-orange",
+          "artist": "Blood Orange"
+        },
+        {
+          "id": "glastonbury-2027-bonobo",
+          "artist": "Bonobo"
+        },
+        {
+          "id": "glastonbury-2027-christine-and-the-queens",
+          "artist": "Christine and the Queens"
+        },
+        {
+          "id": "glastonbury-2027-chvrches",
+          "artist": "CHVRCHES"
+        },
+        {
+          "id": "glastonbury-2027-confidence-man",
+          "artist": "Confidence Man"
+        },
+        {
+          "id": "glastonbury-2027-crowded-house",
+          "artist": "Crowded House"
+        },
+        {
+          "id": "glastonbury-2027-de-la-soul",
+          "artist": "De La Soul"
+        },
+        {
+          "id": "glastonbury-2027-dinosaur-jr",
+          "artist": "Dinosaur Jr."
+        },
+        {
+          "id": "glastonbury-2027-ecca-vandal",
+          "artist": "Ecca Vandal"
+        },
+        {
+          "id": "glastonbury-2027-ellie-goulding",
+          "artist": "Ellie Goulding"
+        },
+        {
+          "id": "glastonbury-2027-fat-freddy-s-drop",
+          "artist": "Fat Freddy's Drop"
+        },
+        {
+          "id": "glastonbury-2027-fka-twigs",
+          "artist": "FKA twigs"
+        },
+        {
+          "id": "glastonbury-2027-flo",
+          "artist": "FLO"
+        },
+        {
+          "id": "glastonbury-2027-florence-road",
+          "artist": "Florence Road"
+        },
+        {
+          "id": "glastonbury-2027-getdown-services",
+          "artist": "Getdown Services"
+        },
+        {
+          "id": "glastonbury-2027-hot-chip",
+          "artist": "Hot Chip"
+        },
+        {
+          "id": "glastonbury-2027-jamie-t",
+          "artist": "Jamie T"
+        },
+        {
+          "id": "glastonbury-2027-josh-baker-b2b-kettama-b2b-prospa",
+          "artist": "Josh Baker b2b Kettama b2b Prospa"
+        },
+        {
+          "id": "glastonbury-2027-kacey-musgraves",
+          "artist": "Kacey Musgraves"
+        },
+        {
+          "id": "glastonbury-2027-keo",
+          "artist": "KEO"
+        },
+        {
+          "id": "glastonbury-2027-kingfishr",
+          "artist": "Kingfishr"
+        },
+        {
+          "id": "glastonbury-2027-king-gizzard-and-the-lizard-wizard",
+          "artist": "King Gizzard and the Lizard Wizard"
+        },
+        {
+          "id": "glastonbury-2027-leon-bridges",
+          "artist": "Leon Bridges"
+        },
+        {
+          "id": "glastonbury-2027-lianne-la-havas",
+          "artist": "Lianne La Havas"
+        },
+        {
+          "id": "glastonbury-2027-lola-young",
+          "artist": "Lola Young"
+        },
+        {
+          "id": "glastonbury-2027-mike-d-5d",
+          "artist": "Mike D 5D"
+        },
+        {
+          "id": "glastonbury-2027-moonchild-sanelly",
+          "artist": "Moonchild Sanelly"
+        },
+        {
+          "id": "glastonbury-2027-nao",
+          "artist": "Nao"
+        },
+        {
+          "id": "glastonbury-2027-nia-archives",
+          "artist": "Nia Archives"
+        },
+        {
+          "id": "glastonbury-2027-primal-scream",
+          "artist": "Primal Scream"
+        },
+        {
+          "id": "glastonbury-2027-robyn",
+          "artist": "Robyn"
+        },
+        {
+          "id": "glastonbury-2027-saint-etienne",
+          "artist": "Saint Etienne"
+        },
+        {
+          "id": "glastonbury-2027-sammy-virji",
+          "artist": "Sammy Virji"
+        },
+        {
+          "id": "glastonbury-2027-sienna-spiro",
+          "artist": "Sienna Spiro"
+        },
+        {
+          "id": "glastonbury-2027-skye-newman",
+          "artist": "Skye Newman"
+        },
+        {
+          "id": "glastonbury-2027-thee-sacred-souls",
+          "artist": "Thee Sacred Souls"
+        },
+        {
+          "id": "glastonbury-2027-the-streets",
+          "artist": "The Streets"
+        },
+        {
+          "id": "glastonbury-2027-teddy-swims",
+          "artist": "Teddy Swims"
+        },
+        {
+          "id": "glastonbury-2027-texas",
+          "artist": "Texas"
+        },
+        {
+          "id": "glastonbury-2027-thundercat",
+          "artist": "Thundercat"
+        },
+        {
+          "id": "glastonbury-2027-tinariwen",
+          "artist": "Tinariwen"
+        },
+        {
+          "id": "glastonbury-2027-underscores",
+          "artist": "Underscores"
+        },
+        {
+          "id": "glastonbury-2027-underworld",
+          "artist": "Underworld"
+        },
+        {
+          "id": "glastonbury-2027-the-war-on-drugs",
+          "artist": "The War on Drugs"
+        },
+        {
+          "id": "glastonbury-2027-westside-cowboy",
+          "artist": "Westside Cowboy"
+        },
+        {
+          "id": "glastonbury-2027-the-womack-sisters",
+          "artist": "The Womack Sisters"
+        },
+        {
+          "id": "glastonbury-2027-wunderhorse",
+          "artist": "Wunderhorse"
+        },
+        {
+          "id": "glastonbury-2027-young-fathers",
+          "artist": "Young Fathers"
+        }
+      ]
     },
     {
       "id": "defqon1-2027",
@@ -9214,7 +9654,33 @@
       "days": [],
       "websiteUrl": "https://untold.com",
       "instagramUrl": "https://instagram.com/untoldfestival",
-      "accentColor": "#2C1462"
+      "accentColor": "#2C1462",
+      "lineup": [
+        {
+          "id": "untold-2027-dj-snake",
+          "artist": "DJ Snake"
+        },
+        {
+          "id": "untold-2027-pitbull",
+          "artist": "Pitbull"
+        },
+        {
+          "id": "untold-2027-timmy-trumpet",
+          "artist": "Timmy Trumpet"
+        },
+        {
+          "id": "untold-2027-boris-brejcha",
+          "artist": "Boris Brejcha"
+        },
+        {
+          "id": "untold-2027-holy-priest",
+          "artist": "Holy Priest"
+        },
+        {
+          "id": "untold-2027-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U"
+        }
+      ]
     },
     {
       "id": "outside-lands-2027",
