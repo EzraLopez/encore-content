@@ -255,7 +255,9 @@ def main() -> int:
     cutoff = (date.today() - timedelta(days=MISS_DAYS)).isoformat()
     misses = {} if force or not MISSES.exists() else json.loads(MISSES.read_text(encoding="utf-8"))
     stats = {"am": 0, "img": 0, "both": 0, "none": 0}
-    searched = skipped_misses = 0
+    searched = skipped_misses = reused = 0
+    # normalized name -> an entry that already has an Apple Music link
+    linked = {norm(name): e for name, e in artists.items() if "appleMusicUrl" in e}
     blocked = None
     for billing in billings:
         # Fill what an entry is missing (a Spotify-only entry still gets
@@ -266,6 +268,17 @@ def main() -> int:
         if recent_miss:
             skipped_misses += 1
         entry = dict(artists.get(billing, {}))
+        # Reuse before searching: the same artist already linked under
+        # another spelling ("Artbat" / "ARTBAT"), or, for "A b2b B", the
+        # first-billed act's own entry (it supplies the billing's fields).
+        for cand in candidates(billing)[:2]:
+            known = linked.get(norm(cand))
+            if known:
+                for field in ("appleMusicUrl", "imageUrl"):
+                    if field in known and field not in entry:
+                        entry[field] = known[field]
+                reused += 1
+                break
         answered = True  # every search for this billing got an answer
         for cand in candidates(billing):
             if "appleMusicUrl" not in entry and not recent_miss and not blocked:
@@ -288,6 +301,7 @@ def main() -> int:
         if entry:
             artists[billing] = entry
         if "appleMusicUrl" in entry:
+            linked.setdefault(norm(billing), entry)
             misses.pop(billing, None)
         elif answered and not recent_miss and not blocked:
             misses[billing] = today
@@ -329,7 +343,8 @@ def main() -> int:
     print(f"spotify: {added_spotify} of {len(want)} billings matched on Wikidata")
 
     save(config, artists, misses)
-    print(f"apple music: searched {searched} names, skipped {skipped_misses} "
+    print(f"apple music: searched {searched} names, reused {reused} existing "
+          f"entries, skipped {skipped_misses} "
           f"not found in the last {MISS_DAYS} days"
           + (f"; search stopped early: {blocked}" if blocked else ""))
     print(f"artists entries: {len(artists)} "

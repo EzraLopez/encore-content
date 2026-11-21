@@ -265,6 +265,9 @@ short:
   `tools/enrich_misses.json` with the date, and is not searched again
   for 30 days. A run therefore only searches new names (`--force`
   ignores the file and searches everything).
+- A billing that is the same artist as one already linked under another
+  spelling ("Artbat" / "ARTBAT"), or a "A b2b B" billing whose first act
+  is already linked, takes that entry's link and photo with no search.
 - The config is saved every 25 searches, so a run that is stopped keeps
   what it found.
 - After 10 failed searches in a row (HTTP 403, no network) the script
