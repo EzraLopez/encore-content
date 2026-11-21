@@ -268,6 +268,12 @@ short:
 - A billing that is the same artist as one already linked under another
   spelling ("Artbat" / "ARTBAT"), or a "A b2b B" billing whose first act
   is already linked, takes that entry's link and photo with no search.
+- A search result is taken only when it is the same name as the
+  billing (ignoring case, accents, punctuation, a set label such as
+  "(DJ Set)", "Live", "presents ..." and a leading "The"). A name that
+  merely contains the other ("Jackson" / "Michael Jackson") is another
+  artist: no link is better than a wrong one. Apple Books authors and
+  old itunes.apple.com pages are ignored.
 - The config is saved every 25 searches, so a run that is stopped keeps
   what it found.
 - After 10 failed searches in a row (HTTP 403, no network) the script
