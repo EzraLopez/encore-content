@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 229,
-    "publishedAt": "2026-11-21T20:27:11Z",
+    "publishedAt": "2026-11-21T20:28:37Z",
     "iosBuild": 239,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 186,
@@ -19624,38 +19624,76 @@
     "Alabama Shakes": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alabama-shakes/498509884"
     },
+    "Alan Fitzpatrick B2B Marco Faraone": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alan-fitzpatrick/267096379"
+    },
     "Alan Walker": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alan-walker/1062085272",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/ed/2b/66/ed2b6697-02fc-0a39-36ca-949fa2ca82ea/pr_source.png/600x600bb.jpg"
+    },
+    "Alarico B2B Yanamaste": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alarico/1551723479"
     },
     "Alaska": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alaska-thunderfuck/594338626",
       "spotifyUrl": "https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/32/d5/a5/32d5a5ed-38eb-fd3b-fed1-cf97b16e81e6/ami_U003aidentity_U003a39c31073243cc40428156c4f0ffe6df8-2026-09-11T16-46-59.559Z_cropped.png/600x600bb.jpg"
     },
+    "Alcalá Norte": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alcal%C3%A1-norte/1677627681"
+    },
     "Alec Michael": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alec-michael/1479090657",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/da/ff/39/daff39ac-a209-7924-bb57-fbead5c6b694/00_Cover_Art.jpg/600x600ac.jpg"
+    },
+    "Alec Shaw": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alec-shaw/1464684069"
+    },
+    "Alemeda": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alemeda/1573514299"
     },
     "Alesso": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alesso/432464201",
       "spotifyUrl": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/63/47/4e/63474eb0-9134-3901-8d1a-3acc73fb5f33/ami-identity-036a7e142d84a31d841e966c74b780ba-2026-02-04T21-20-52.082Z_cropped.png/600x600bb.jpg"
     },
+    "Alesso B2B Martin Garrix": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alesso/432464201",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/63/47/4e/63474eb0-9134-3901-8d1a-3acc73fb5f33/ami-identity-036a7e142d84a31d841e966c74b780ba-2026-02-04T21-20-52.082Z_cropped.png/600x600bb.jpg"
+    },
+    "Alex G": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alex-g/871667491"
+    },
+    "Alexander Som": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alexander-som/359363364"
+    },
     "Alien Ant Farm": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alien-ant-farm/3446405",
       "spotifyUrl": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b1/10/af/b110afa8-208a-fb47-17e9-2e8c935c05b4/ami-identity-4a00794d485c839ede0e01b91a4b5a8d-2025-12-18T06-56-52.363Z_cropped.png/600x600bb.jpg"
+    },
+    "Aline Rocha b2b Ratier": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aline-rocha/1206144005"
     },
     "Alison Wonderland": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alison-wonderland/669831761",
       "spotifyUrl": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/af/09/a4/af09a406-261f-7f0e-e882-2d3367e8ed71/ami-identity-c043689c018a1fed2a0fc6d338834c7c-2025-08-01T06-17-08.374Z_cropped.png/600x600bb.jpg"
     },
+    "Alison Wonderland b2b Tiffany Day": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alison-wonderland/669831761",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/af/09/a4/af09a406-261f-7f0e-e882-2d3367e8ed71/ami-identity-c043689c018a1fed2a0fc6d338834c7c-2025-08-01T06-17-08.374Z_cropped.png/600x600bb.jpg"
+    },
+    "All Matter B2B Moisees": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/moisees/1250138840"
+    },
     "Alok": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alok/324709167",
       "spotifyUrl": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/5b/b2/94/5bb2942d-bada-a4cd-f369-7c919ba43644/ami-identity-0862132c8861392244261ef144c19a13-2026-06-25T14-46-36.245Z_cropped.png/600x600bb.jpg"
+    },
+    "Alt8": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alt8/1441978705"
     },
     "Alt8 b2b Emilija": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alt8/1441978705",
@@ -19666,9 +19704,28 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/alves/1579622162",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/70/70/98/7070984b-d928-03e6-23b9-1cdb6b3e8ae5/mzl.vyfpzics.jpg/600x600bb.jpg"
     },
+    "Aly & AJ": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aly-aj/33989931"
+    },
+    "Alyssa Jolee": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alyssa-jolee/1819635092"
+    },
+    "Al·lèrgiques al pol·len": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/al-l%C3%A8rgiques-al-pol-len/1680169270"
+    },
+    "Amber Broos": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amber-broos/1449969484"
+    },
     "Amble": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amble/1671435415",
       "spotifyUrl": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+    },
+    "Amelie Lens": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amelie-lens/1078801898"
+    },
+    "Amelie Lens B2B Sara Landry": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amelie-lens/1078801898",
+      "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/07/SaraLandry-PROFILE-SDE9-600x600.png"
     },
     "American Football": {
       "appleMusicUrl": "https://music.apple.com/us/artist/american-football/27560658",
@@ -19678,6 +19735,9 @@
     "Amira Elfeky": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amira-elfeky/1534139424",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ff/e6/8d/ffe68d2a-de9d-661f-9858-a7ffb26e958c/ami_U003aidentity_U003a10d0c3bb7316bff83c159e57962235b3-2026-09-29T17-07-30.210Z_cropped.png/600x600bb.jpg"
+    },
+    "Amos Lee": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/amos-lee/45539761"
     },
     "Amy Wiles": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amy-wiles/1498607119"
