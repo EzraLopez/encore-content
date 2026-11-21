@@ -44,6 +44,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "v2" / "config.json"
+# Names the iTunes search answered with no matching artist, with the date
+# of that answer: they are not searched again for MISS_DAYS, so a run only
+# pays for new names instead of re-searching every past miss.
+MISSES = ROOT / "tools" / "enrich_misses.json"
+MISS_DAYS = 30
+# Save the config every this many billings, so a run that is stopped
+# keeps what it found.
+SAVE_EVERY = 25
+# This many lookups failing in a row (HTTP 403, no network) means the
+# search is refusing this machine: stop searching instead of spending an
+# hour on 3-second waits that find nothing.
+MAX_FAILS_IN_A_ROW = 10
 SEISMIC_LINEUP_URL = "https://www.seismicdanceevent.com/lineup"
 UA = {"User-Agent": "Mozilla/5.0 (Encore catalog enrichment)"}
 
@@ -76,6 +88,11 @@ def seismic_image_slugs() -> dict:
 
 
 _cache: dict = {}
+_fails = {"in_a_row": 0}
+
+
+class LookupBlocked(Exception):
+    """The iTunes search keeps failing: give up on it for this run."""
 
 
 def itunes_artist_url(candidate: str):
@@ -107,8 +124,12 @@ def itunes_artist_url(candidate: str):
                 break
     except Exception as exc:  # network hiccup: leave unmatched, retry next run
         print(f"  ! lookup failed for {candidate!r}: {exc}", file=sys.stderr)
+        _fails["in_a_row"] += 1
+        if _fails["in_a_row"] >= MAX_FAILS_IN_A_ROW:
+            raise LookupBlocked(str(exc)) from exc
         time.sleep(3.1)
         return None
+    _fails["in_a_row"] = 0
     _cache[key] = url
     time.sleep(3.1)
     return url
@@ -229,16 +250,35 @@ def main() -> int:
     print(f"{len(slugs)} Seismic profile images")
 
     artists = dict(existing)
+    from datetime import date, timedelta
+    today = date.today().isoformat()
+    cutoff = (date.today() - timedelta(days=MISS_DAYS)).isoformat()
+    misses = {} if force or not MISSES.exists() else json.loads(MISSES.read_text(encoding="utf-8"))
     stats = {"am": 0, "img": 0, "both": 0, "none": 0}
+    searched = skipped_misses = 0
+    blocked = None
     for billing in billings:
         # Fill what an entry is missing (a Spotify-only entry still gets
         # its Apple Music link and photo looked up).
         if "appleMusicUrl" in artists.get(billing, {}):
             continue
+        recent_miss = misses.get(billing, "") >= cutoff
+        if recent_miss:
+            skipped_misses += 1
         entry = dict(artists.get(billing, {}))
+        answered = True  # every search for this billing got an answer
         for cand in candidates(billing):
-            if "appleMusicUrl" not in entry:
-                found = itunes_artist_url(cand)
+            if "appleMusicUrl" not in entry and not recent_miss and not blocked:
+                if norm(cand) not in _cache:
+                    searched += 1
+                try:
+                    found = itunes_artist_url(cand)
+                except LookupBlocked as exc:
+                    blocked, found = str(exc), None
+                    print(f"apple music search keeps failing ({blocked}); "
+                          "stopping the search for this run", file=sys.stderr)
+                if norm(cand) not in _cache:
+                    answered = False
                 if found:
                     entry["appleMusicUrl"] = found
             if "imageUrl" not in entry and norm(cand) in slugs:
@@ -247,6 +287,12 @@ def main() -> int:
                 break
         if entry:
             artists[billing] = entry
+        if "appleMusicUrl" in entry:
+            misses.pop(billing, None)
+        elif answered and not recent_miss and not blocked:
+            misses[billing] = today
+        if searched and searched % SAVE_EVERY == 0:
+            save(config, artists, misses)
         if "appleMusicUrl" in entry:
             stats["am"] += 1
         if "imageUrl" in entry:
@@ -282,25 +328,41 @@ def main() -> int:
             added_spotify += 1
     print(f"spotify: {added_spotify} of {len(want)} billings matched on Wikidata")
 
+    save(config, artists, misses)
+    print(f"apple music: searched {searched} names, skipped {skipped_misses} "
+          f"not found in the last {MISS_DAYS} days"
+          + (f"; search stopped early: {blocked}" if blocked else ""))
+    print(f"artists entries: {len(artists)} "
+          f"(appleMusic {stats['am']}, images {stats['img']}, "
+          f"both {stats['both']}, unmatched-new {stats['none']})")
+    return 1 if blocked else 0
+
+
+_bump: dict = {}
+
+
+def save(config, artists, misses) -> None:
+    """Write the artists map (and meta) to the config, and the misses file."""
     config["artists"] = dict(sorted(artists.items()))
     from datetime import datetime, timezone
-    # One bump per branch: main's version + 1, however often this runs.
-    try:
-        import subprocess
-        main_doc = subprocess.run(
-            ["git", "show", "origin/main:v2/config.json"], cwd=ROOT,
-            capture_output=True, text=True, check=True).stdout
-        config["meta"]["version"] = int(json.loads(main_doc)["meta"]["version"]) + 1
-    except Exception:  # noqa: BLE001 - no git or no origin/main: plain bump
-        config["meta"]["version"] = int(config["meta"].get("version", 1)) + 1
+    # One bump per branch: main's version + 1, however often this runs
+    # (worked out once per run, since a run saves more than once).
+    if "version" not in _bump:
+        try:
+            import subprocess
+            main_doc = subprocess.run(
+                ["git", "show", "origin/main:v2/config.json"], cwd=ROOT,
+                capture_output=True, text=True, check=True).stdout
+            _bump["version"] = int(json.loads(main_doc)["meta"]["version"]) + 1
+        except Exception:  # noqa: BLE001 - no git or no origin/main: plain bump
+            _bump["version"] = int(config["meta"].get("version", 1)) + 1
+    config["meta"]["version"] = _bump["version"]
     config["meta"]["publishedAt"] = (
         datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
     CONFIG.write_text(json.dumps(config, indent=2, ensure_ascii=False) + "\n",
                       encoding="utf-8")
-    print(f"artists entries: {len(artists)} "
-          f"(appleMusic {stats['am']}, images {stats['img']}, "
-          f"both {stats['both']}, unmatched-new {stats['none']})")
-    return 0
+    MISSES.write_text(json.dumps(dict(sorted(misses.items())), indent=2,
+                                 ensure_ascii=False) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":

@@ -255,6 +255,22 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+### How long a run takes (Nov 21, 2026)
+
+The Apple Music link search (iTunes Search API) allows about 20 calls a
+minute, so the script waits 3 seconds between searches. To keep runs
+short:
+
+- A name the search answered with no match is written to
+  `tools/enrich_misses.json` with the date, and is not searched again
+  for 30 days. A run therefore only searches new names (`--force`
+  ignores the file and searches everything).
+- The config is saved every 25 searches, so a run that is stopped keeps
+  what it found.
+- After 10 failed searches in a row (HTTP 403, no network) the script
+  stops searching for that run, still adds Spotify links and photos, and
+  exits with status 1. Failed searches are never recorded as misses.
+
 ## Request outcomes (Nov 13, 2026)
 
 `requestOutcomes` (optional, top level) tells the apps what the request
