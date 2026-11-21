@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 229,
-    "publishedAt": "2026-11-21T20:25:45Z",
+    "publishedAt": "2026-11-21T20:27:11Z",
     "iosBuild": 239,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 186,
@@ -19453,9 +19453,15 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/amyl-and-the-sniffers/1215764503",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f8/66/07/f86607b5-d567-da2c-30a5-f871b87abe6e/c498458a-66f5-4362-89b1-40a9c2a94f32_ami-identity-2991b53dc5b5a6cfcc79c892ca4a9c6e-2024-09-25T10-15-17.133Z_cropped.png/600x600bb.jpg"
     },
+    "ANNA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/anna/1354964026"
+    },
     "ANNIE DIRUSSO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/annie-dirusso/1213903929",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f9/85/67/f98567d8-f76c-a394-1b31-08a8881c4920/ami-identity-a6dce9baaf56a6f18d9b9f6e469b2146-2025-01-10T05-34-24.825Z_cropped.png/600x600bb.jpg"
+    },
+    "ANOHNI": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/anohni/1061675501"
     },
     "AR/CO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ar-co/1549227526",
@@ -19490,6 +19496,9 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/audrey-hobert/1812750994",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/6d/c7/b1/6dc7b10d-39a2-8640-162f-8a178cf58803/mzl.lejxtrkt.jpg/600x600bb.jpg"
     },
+    "AUTOMHATE b2b BEASTBOII": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/automhate/1458290986"
+    },
     "AVELLO": {
       "appleMusicUrl": "https://music.apple.com/us/artist/avello/476861072",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/98/42/e8/9842e8f4-cbc7-8f71-1a0f-23603393e15e/ami-identity-0e3eb84b0def686fe959d04db902b52a-2025-03-06T03-59-22.597Z_cropped.png/600x600bb.jpg"
@@ -19502,6 +19511,10 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/ayybo/1603701193",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/71/da/4a/71da4ae4-af4d-0105-a476-fafad904ceb3/file_cropped.png/600x600bb.jpg"
     },
+    "AZZECCA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/azzecca/1627777746",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/fb/b6/10/fbb610ed-b37c-3984-5887-55e9753db6e9/ami-identity-0f9516a731419e283182a97dd37569a0-2026-04-07T21-57-39.012Z_cropped.png/600x600bb.jpg"
+    },
     "Aaron Hibell": {
       "appleMusicUrl": "https://music.apple.com/us/artist/aaron-hibell/1126849981",
       "spotifyUrl": "https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj",
@@ -19510,6 +19523,9 @@
     "Aaron Hibell (Live)": {
       "appleMusicUrl": "https://music.apple.com/us/artist/aaron-hibell/1126849981",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/df/4b/4c/df4b4cdf-abb4-b899-0fdc-6fa746772ac8/pr_source.png/600x600bb.jpg"
+    },
+    "Aaron K": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aaron-k/1446203647"
     },
     "Above & Beyond": {
       "appleMusicUrl": "https://music.apple.com/us/artist/above-beyond/20318188",
@@ -19520,10 +19536,22 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/above-beyond/20318188",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4b/b8/a0/4bb8a017-ba9c-37ed-d268-27c107879a23/ami-identity-4773370484caf0aa096d664fefb21bb3-2025-07-17T12-42-30.169Z_cropped.png/600x600bb.jpg"
     },
+    "Absolutely": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/absolutely/1690413236"
+    },
     "Ace Ventura": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ace-ventura/73027816",
       "spotifyUrl": "https://open.spotify.com/artist/7bSyjB4y9NAhoUDrZTpYt4",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/22/51/f9/2251f95a-bce8-c72b-3d1b-758b057f38ca/pr_source.png/600x600bb.jpg"
+    },
+    "Adalamoon": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adalamoon/547669951"
+    },
+    "Adam Beyer": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adam-beyer/101672291"
+    },
+    "Adam Beyer B2B Joseph Capriati": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adam-beyer/101672291"
     },
     "Adam Sellouk": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adam-sellouk/1546131877",
@@ -19534,14 +19562,35 @@
       "spotifyUrl": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/16/b1/1b/16b11b07-02d0-897b-5255-0a459d118a71/ami-identity-5fdd9f94dae2fdaa02a266c21f366cb4-2025-06-27T15-20-14.661Z_cropped.png/600x600bb.jpg"
     },
+    "Addison Rae": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/addison-rae/1513956049"
+    },
+    "Adiel": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adiel/1476101197"
+    },
+    "Adiel B2B Quest": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adiel/1476101197"
+    },
+    "Adriatique": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adriatique/374559168"
+    },
     "Adrián Mills": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adrian-mills/1472462429",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a7/ac/18/a7ac186b-96f9-7245-ff07-60f0679e9646/file_cropped.png/600x600bb.jpg"
+    },
+    "Adult Hits": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/adult-hits/1609109812"
     },
     "Adventure Club": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adventure-club/253082649",
       "spotifyUrl": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/94/89/66/948966d3-e5f4-7984-ffcf-73ad82ec0876/pr_source.png/600x600bb.jpg"
+    },
+    "Aerea": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aerea/1584427330"
+    },
+    "Aeronave Adolescente": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aeronave-adolescente/1534112934"
     },
     "Afrojack": {
       "appleMusicUrl": "https://music.apple.com/us/artist/afrojack/211210469",
@@ -19553,12 +19602,27 @@
       "spotifyUrl": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/3b/3b/c7/3b3bc7bb-9f4c-d8cd-c03c-60ec3af89107/ami_U003aidentity_U003a3f4b9e1f22eb1f3f63be8f43f7e8aa02-2026-09-17T18-05-39.458Z_cropped.png/600x600bb.jpg"
     },
+    "After Midnight": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/after-midnight/1870259521"
+    },
+    "Agents of Time": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/agents-of-time/794971951"
+    },
+    "Ahmed Spins": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ahmed-spins/1518050767"
+    },
+    "Airglo": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/airglo/1526308915"
+    },
     "Airrica": {
       "appleMusicUrl": "https://music.apple.com/us/artist/airrica/1651846188"
     },
     "Airwolf Paradise": {
       "appleMusicUrl": "https://music.apple.com/us/artist/airwolf-paradise/272547821",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/b2/b9/5d/b2b95d6b-96b8-a6da-f452-b0d27411bb71/ami-identity-6dd0e4dd7f51c97314bf070f59297f48-2025-02-07T04-54-41.518Z_cropped.png/600x600bb.jpg"
+    },
+    "Alabama Shakes": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/alabama-shakes/498509884"
     },
     "Alan Walker": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alan-walker/1062085272",
