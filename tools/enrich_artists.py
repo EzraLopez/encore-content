@@ -110,6 +110,8 @@ def same_artist(found: str, wanted: str) -> bool:
     ("Jackson" / "Michael Jackson", "Malóne" / "Post Malone") is
     another artist, and the apps' search fallback is better than a
     wrong link."""
+    if not norm(wanted):  # no letters or digits ("@"): only the same text
+        return found.strip().casefold() == wanted.strip().casefold()
     return norm(found) == norm(wanted) or (
         bool(bare(found)) and bare(found) == bare(wanted))
 
