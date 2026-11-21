@@ -115,12 +115,17 @@ def itunes_artist_url(candidate: str):
                     raise
                 time.sleep(30 * (attempt + 1))
         for result in data.get("results", []):
+            # The search also returns Apple Books authors and old iTunes
+            # pages under the same name: only an Apple Music artist page
+            # is the musician (the validator refuses anything else).
+            link = (result.get("artistLinkUrl") or "").split("?")[0]
+            if not link.startswith("https://music.apple.com/"):
+                continue
             name = result.get("artistName", "")
             if norm(name) == key or (
                 len(key) >= 3 and (key in norm(name) or norm(name) in key)
             ):
-                link = result.get("artistLinkUrl", "")
-                url = link.split("?")[0] if link else None
+                url = link
                 break
     except Exception as exc:  # network hiccup: leave unmatched, retry next run
         print(f"  ! lookup failed for {candidate!r}: {exc}", file=sys.stderr)
