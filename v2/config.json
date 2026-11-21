@@ -1,7 +1,7 @@
 {
   "meta": {
     "version": 229,
-    "publishedAt": "2026-11-21T20:28:37Z",
+    "publishedAt": "2026-11-21T20:30:05Z",
     "iosBuild": 239,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 186,
@@ -19742,16 +19742,38 @@
     "Amy Wiles": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amy-wiles/1498607119"
     },
+    "Anastazja": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/anastazja/1819546134"
+    },
     "Andrew Parsons": {
       "appleMusicUrl": "https://music.apple.com/us/artist/andrew-parsons/164647411",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/58/ff/dd/58ffddd2-e898-2e49-971f-0025a950a404/Andrew_Parsons_Shwann_Face_Off_2500x2500.jpg/600x600ac.jpg"
+    },
+    "Andrew Rayel": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andrew-rayel/398302807"
+    },
+    "Andy C": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andy-c/111544331"
     },
     "Andy Moor": {
       "appleMusicUrl": "https://music.apple.com/us/artist/andy-moor/80627354",
       "spotifyUrl": "https://open.spotify.com/artist/0Fn4agIyGMwQsKHrx1i8Dn",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features125/v4/70/be/4b/70be4bf6-93af-ba41-98bc-2712059f678a/mzl.gumozekv.jpg/600x600bb.jpg"
     },
+    "Andy Pate B2B Rod B.": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andy-pate/324323674"
+    },
+    "Andy Stott": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/andy-stott/282665089"
+    },
+    "Anetha": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/anetha/1084459155"
+    },
     "Angine De Poitrine": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/angine-de-poitrine/1750092191",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a5/43/81/a5438154-b1eb-59c5-0993-9a972d14ec59/ami-identity-98a36afcbfe546930be76822cc59f879-2026-03-09T19-43-42.604Z_cropped.png/600x600bb.jpg"
+    },
+    "Angine de Poitrine": {
       "appleMusicUrl": "https://music.apple.com/us/artist/angine-de-poitrine/1750092191",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/a5/43/81/a5438154-b1eb-59c5-0993-9a972d14ec59/ami-identity-98a36afcbfe546930be76822cc59f879-2026-03-09T19-43-42.604Z_cropped.png/600x600bb.jpg"
     },
@@ -19760,18 +19782,35 @@
       "spotifyUrl": "https://open.spotify.com/artist/3EbiMr7AC6OqfPcrEHPVtL",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/b1/6e/c1/b16ec106-7540-bc56-34f2-026e9f05a4df/2176edc2-0152-43c4-8483-6931541dab7d_file_cropped.png/600x600bb.jpg"
     },
+    "Antdot": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/antdot/1088949199"
+    },
+    "Anyma": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/anyma/1505813449"
+    },
     "Apollonia": {
       "appleMusicUrl": "https://music.apple.com/us/artist/apollonia/82353967",
       "spotifyUrl": "https://open.spotify.com/artist/3anL0yEu608Dg2YcVFLUZn",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features124/v4/f8/ea/c5/f8eac50a-92a9-4920-589e-ed98fb3d14bc/mzl.tpciexfv.jpg/600x600bb.jpg"
     },
+    "Arca": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arca/948498542"
+    },
     "Archie Hamilton": {
       "appleMusicUrl": "https://music.apple.com/us/artist/archie-hamilton/357718075",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/68/e4/bb/68e4bbe3-f948-e83a-d960-74754ccb8c7d/pr_source.png/600x600bb.jpg"
     },
+    "Arcy Drive": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arcy-drive/1623935681",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/3a/e1/06/3ae10676-6da5-e6af-13d8-26aafc727bfa/ami-identity-48f63197cbc5de00f51f72bae8716598-2026-04-24T16-01-23.469Z_cropped.png/600x600bb.jpg"
+    },
     "Argy": {
       "appleMusicUrl": "https://music.apple.com/us/artist/argy/67916691",
       "spotifyUrl": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/42/d0/78/42d0787a-27cb-ebb8-5cb9-562979e8e614/ami-identity-51b842260198fd4b600eb99cbc9b9c2b-2026-01-26T16-37-10.084Z_cropped.png/600x600bb.jpg"
+    },
+    "Argy B2B Mind Against": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/argy/67916691",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/42/d0/78/42d0787a-27cb-ebb8-5cb9-562979e8e614/ami-identity-51b842260198fd4b600eb99cbc9b9c2b-2026-01-26T16-37-10.084Z_cropped.png/600x600bb.jpg"
     },
     "Aria": {
@@ -19782,9 +19821,41 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/arlo/1539312703",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f5/61/30/f5613029-8217-8615-00c0-cd78aff494d2/ami-identity-1b45988dd54d732f707fbfccfdfa87e3-2026-01-08T23-59-07.570Z_cropped.png/600x600bb.jpg"
     },
+    "Armand van Helden": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armand-van-helden/7431216"
+    },
+    "Armin van Buuren": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armin-van-buuren/17976294"
+    },
+    "Armin van Buuren B2B Marlon Hoffstadt": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armin-van-buuren/17976294"
+    },
+    "Armnhmr": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armnhmr/885439866",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/55/49/97/55499752-07a8-31a4-54b2-216b8a7b893e/ami-identity-735143fc26a86d12bfefcfed518fb698-2026-05-12T13-37-41.299Z_cropped.png/600x600bb.jpg"
+    },
+    "Arodes": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arodes/1573928335"
+    },
+    "Arrested Development": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/arrested-development/543044"
+    },
+    "Artbat": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/artbat/1026939906",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/09/56/db/0956dbc5-b4ac-648a-337a-f5f932bf2741/ami-identity-14e5a128aef9efd2dc5e1705d5accda4-2025-08-11T16-18-51.363Z_cropped.png/600x600bb.jpg"
+    },
     "Artifakts": {
       "appleMusicUrl": "https://music.apple.com/us/artist/artifakts/571672367",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/9b/d4/b8/9bd4b8aa-2130-06eb-d761-03ed4f6382ca/ami-identity-625c474722bc4771a8ca3e9a67c7362f-2025-02-28T06-02-52.951Z_cropped.png/600x600bb.jpg"
+    },
+    "Ashibah": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ashibah/479666630"
+    },
+    "Ashley Walls": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ashley-walls/1127230221"
+    },
+    "Assembly": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/assembly/1849657130"
     },
     "Astrix": {
       "appleMusicUrl": "https://music.apple.com/us/artist/astrix/71080670",
