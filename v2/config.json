@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 227,
-    "publishedAt": "2026-11-21T05:53:56Z",
+    "version": 228,
+    "publishedAt": "2026-11-21T09:40:45Z",
     "iosBuild": 239,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 186,
@@ -11696,7 +11696,812 @@
       "instagramUrl": "https://instagram.com/ultra",
       "redditUrl": "https://www.reddit.com/r/UMF/",
       "days": [],
-      "accentColor": "#9C3586"
+      "accentColor": "#9C3586",
+      "lineup": [
+        {
+          "id": "ultra-miami-2026-999999999",
+          "artist": "999999999",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-adam-beyer-b2b-joseph-capriati",
+          "artist": "Adam Beyer B2B Joseph Capriati",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-adriatique",
+          "artist": "Adriatique",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-afrojack",
+          "artist": "Afrojack",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-alan-fitzpatrick-b2b-marco-faraone",
+          "artist": "Alan Fitzpatrick B2B Marco Faraone",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-alan-walker",
+          "artist": "Alan Walker",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-alesso-b2b-martin-garrix",
+          "artist": "Alesso B2B Martin Garrix",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-alexander-som",
+          "artist": "Alexander Som",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-alt8",
+          "artist": "Alt8",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-amelie-lens-b2b-sara-landry",
+          "artist": "Amelie Lens B2B Sara Landry",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-andy-ares",
+          "artist": "Andy Ares",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-andy-c",
+          "artist": "Andy C",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-andy-pate-b2b-rod-b",
+          "artist": "Andy Pate B2B Rod B.",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-argy-b2b-mind-against",
+          "artist": "Argy B2B Mind Against",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-armin-van-buuren",
+          "artist": "Armin van Buuren"
+        },
+        {
+          "id": "ultra-miami-2026-armin-van-buuren-b2b-marlon-hoffstadt",
+          "artist": "Armin van Buuren B2B Marlon Hoffstadt",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-armnhmr",
+          "artist": "Armnhmr",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-artbat",
+          "artist": "Artbat",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-audiofreq",
+          "artist": "Audiofreq",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-audiosal",
+          "artist": "Audiosal",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-bassett-b2b-christopher-james",
+          "artist": "Bassett B2B Christopher James",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-big-florida",
+          "artist": "Big Florida",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-bill-kelly",
+          "artist": "Bill Kelly",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-black-fancy",
+          "artist": "Black Fancy",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-black-tiger-sex-machine-presents-connected-fighters",
+          "artist": "Black Tiger Sex Machine Presents Connected Fighters",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-bloody-beetroots",
+          "artist": "Bloody Beetroots",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-boiish",
+          "artist": "Boiish",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-bolo",
+          "artist": "Bolo",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-boris-brejcha",
+          "artist": "Boris Brejcha",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-bou",
+          "artist": "Bou",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-boys-noize-live",
+          "artist": "Boys Noize Live",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-brutalismus-3000",
+          "artist": "Brutalismus 3000",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-bzrp",
+          "artist": "Bzrp",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-carl-cox",
+          "artist": "Carl Cox",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-cassian",
+          "artist": "Cassian",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-cgk",
+          "artist": "Cgk",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-cimeo",
+          "artist": "Cimeo",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-clara-cuve",
+          "artist": "Clara Cuvé",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-colyn-b2b-innellea",
+          "artist": "Colyn B2B Innellea",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-confidence-man",
+          "artist": "Confidence Man",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-coone",
+          "artist": "Coone",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-cvmrn",
+          "artist": "Cvmrn",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-d-sturb",
+          "artist": "D-Sturb",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-da-tweekaz",
+          "artist": "Da Tweekaz",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-daniel-allan",
+          "artist": "Daniel Allan",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-darksiderz",
+          "artist": "Darksiderz",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-deep-dish",
+          "artist": "Deep Dish",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-dennis-cruz-b2b-seth-troxler",
+          "artist": "Dennis Cruz B2B Seth Troxler",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-distinct-motive",
+          "artist": "Distinct Motive",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-dj-gigola",
+          "artist": "DJ Gigola",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-dj-hannah",
+          "artist": "DJ Hannah",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-dj-snake",
+          "artist": "DJ Snake",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-dual-damage",
+          "artist": "Dual Damage",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-dubplates-and-dragons",
+          "artist": "Dubplates & Dragons",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-eera",
+          "artist": "Eera",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-eli-brown",
+          "artist": "Eli Brown",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-eric-prydz",
+          "artist": "Eric Prydz",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-excision",
+          "artist": "Excision",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-fcukers",
+          "artist": "Fcukers",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-frank-walker",
+          "artist": "Frank Walker",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-frost-children",
+          "artist": "Frost Children",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-gil-glaze",
+          "artist": "Gil Glaze",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-godtripper",
+          "artist": "Godtripper",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-halo",
+          "artist": "Halō",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-hamdi",
+          "artist": "Hamdi",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-hardwell",
+          "artist": "Hardwell",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-hol",
+          "artist": "Hol!",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-holy-priest",
+          "artist": "Holy Priest",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-hymm-marley",
+          "artist": "Hymm Marley",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-illenium",
+          "artist": "Illenium",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-isoxo",
+          "artist": "Isoxo",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-jack-vice",
+          "artist": "Jack Vice",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-jay-p",
+          "artist": "Jay P",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-jessica-audiffred",
+          "artist": "Jessica Audiffred",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-joa",
+          "artist": "Joa",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-john-summit",
+          "artist": "John Summit",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-joris-voorn-b2b-korolova",
+          "artist": "Joris Voorn B2B Korolova",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-jstjr",
+          "artist": "Jstjr",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-julian-cross",
+          "artist": "Julian Cross",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-juliet-fox",
+          "artist": "Juliet Fox",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-juno-b3b-wyzzard-b3b-bebe-breaks",
+          "artist": "Juno B3B Wyzzard B3B Bebe Breaks",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-kai-wachi",
+          "artist": "Kai Wachi",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-kapuchon",
+          "artist": "Kapuchon",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-kasia",
+          "artist": "Kasia",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-kauro",
+          "artist": "Kauro",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-laidback-luke",
+          "artist": "Laidback Luke",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-layz",
+          "artist": "Layz",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-levity-presents-lasership",
+          "artist": "Levity Presents Lasership",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-lily-palmer",
+          "artist": "Lily Palmer",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-linney",
+          "artist": "Linney",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-los-de-la-vega",
+          "artist": "Los de la Vega",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-loud-luxury",
+          "artist": "Loud Luxury",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-louis-the-child",
+          "artist": "Louis the Child",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-luca-testa",
+          "artist": "Luca Testa",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-lucy-guo",
+          "artist": "Lucy Guo",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-luke-hunter",
+          "artist": "Luke Hunter",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-m-o-n-r-o-e",
+          "artist": "M.o.n.r.o.e.",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-maddix",
+          "artist": "Maddix",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-madeon",
+          "artist": "Madeon",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-major-lazer",
+          "artist": "Major Lazer",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-malone",
+          "artist": "Malóne",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-mar-t",
+          "artist": "Mar-t",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-marco-ninni",
+          "artist": "Marco Ninni",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-marlon-hoffstadt",
+          "artist": "Marlon Hoffstadt",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-massano",
+          "artist": "Massano",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-matty-ralph",
+          "artist": "Matty Ralph",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-mcr-t",
+          "artist": "MCR-T",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-me-n-u",
+          "artist": "Me n ü",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-metaphysical",
+          "artist": "Metaphysical",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-mish",
+          "artist": "Mish",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-miss-bashful",
+          "artist": "Miss Bashful",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-miss-monique",
+          "artist": "Miss Monique",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-mykris",
+          "artist": "Mykris",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-nicky-romero",
+          "artist": "Nicky Romero",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-nundo",
+          "artist": "Nundo",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-of-the-trees",
+          "artist": "Of the Trees",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-olympe",
+          "artist": "Olympe",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-ookay",
+          "artist": "Ookay",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-outlaw-b2b-trym",
+          "artist": "Outlaw B2B Trym",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-parisi",
+          "artist": "Parisi",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-peekaboo",
+          "artist": "Peekaboo",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-peterblue",
+          "artist": "Peterblue",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-pinto",
+          "artist": "Pinto",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-plastik-funk",
+          "artist": "Plastik Funk",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-prada2000",
+          "artist": "Prada2000",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-purple",
+          "artist": "Purple",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-r3hab",
+          "artist": "R3hab",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-ray-volpe-b2b-sullivan-king",
+          "artist": "Ray Volpe B2B Sullivan King",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-richard-fraioli-b3b-jimmy-page-b3b-dj-ideal",
+          "artist": "Richard Fraioli B3B Jimmy Page B3B DJ Ideal",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-riot-ten",
+          "artist": "Riot Ten",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-rivo",
+          "artist": "Rivo",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-rodrigo-vieira",
+          "artist": "Rodrigo Vieira",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-rossi",
+          "artist": "Rossi.",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-sara-landry",
+          "artist": "Sara Landry",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-sasha-and-john-digweed",
+          "artist": "Sasha & John Digweed",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-scenarios",
+          "artist": "Scenarios",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-sebastian-ingrosso-b2b-steve-angello",
+          "artist": "Sebastian Ingrosso B2B Steve Angello",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-sebastian-morxx",
+          "artist": "Sebastian Morxx",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-shima",
+          "artist": "Shima",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-sidequest",
+          "artist": "Sidequest",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-snow-strippers",
+          "artist": "Snow Strippers",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-soren",
+          "artist": "Soren",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-soul-goodman-b2b-dabura",
+          "artist": "Soul Goodman B2B Dabura",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-steve-aoki",
+          "artist": "Steve Aoki"
+        },
+        {
+          "id": "ultra-miami-2026-superstrings",
+          "artist": "Superstrings",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-tak-shak",
+          "artist": "Tak Shak",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-the-martinez-brothers",
+          "artist": "The Martinez Brothers",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-the-purge",
+          "artist": "The Purge",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-the-saints",
+          "artist": "The Saints",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-tim3less",
+          "artist": "Tim3less",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-vini-vici",
+          "artist": "Vini Vici",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-vintage-culture",
+          "artist": "Vintage culture",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-voyd",
+          "artist": "Voyd",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-wags-b2b-lemony-snickettes",
+          "artist": "Wags B2B Lemony Snickettes",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-wally-lopez",
+          "artist": "Wally Lopez",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-wankdat",
+          "artist": "Wankdat",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-worship",
+          "artist": "Worship",
+          "day": "2026-03-27"
+        },
+        {
+          "id": "ultra-miami-2026-x-club",
+          "artist": "X Club",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-x-con-b3b-marvin-delgado-b3b-cj",
+          "artist": "X-Con B3B Marvin Delgado B3B CJ",
+          "day": "2026-03-29"
+        },
+        {
+          "id": "ultra-miami-2026-yousuke-yukimatsu",
+          "artist": "Yousuke Yukimatsu",
+          "day": "2026-03-28"
+        },
+        {
+          "id": "ultra-miami-2026-zhu",
+          "artist": "Zhu",
+          "day": "2026-03-29"
+        }
+      ]
     },
     {
       "id": "beyond-wonderland-socal-2026",
@@ -11711,7 +12516,537 @@
       "websiteUrl": "https://socal.beyondwonderland.com",
       "instagramUrl": "https://instagram.com/beyondwland",
       "days": [],
-      "accentColor": "#0299FA"
+      "accentColor": "#0299FA",
+      "lineup": [
+        {
+          "id": "beyond-wonderland-socal-2026-alison-wonderland",
+          "artist": "Alison Wonderland"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-alok",
+          "artist": "Alok"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-alvyn",
+          "artist": "Alvyn"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-andy-c",
+          "artist": "Andy C"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-armnhmr",
+          "artist": "ARMNHMR"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-atliens",
+          "artist": "ATLiens"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-avello",
+          "artist": "AVELLO"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-bad-boombox-b2b-tta",
+          "artist": "Bad Boombox B2B ØTTA"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-bad-girl-bailey",
+          "artist": "Bad Girl Bailey"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-badger",
+          "artist": "Badger"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-bart-skils",
+          "artist": "Bart Skils"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-baugruppe90",
+          "artist": "BAUGRUPPE90"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-bear-weigle",
+          "artist": "Bear Weigle"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-benny-benassi",
+          "artist": "Benny Benassi"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-billy-gillies",
+          "artist": "Billy Gillies"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-biscits",
+          "artist": "Biscits"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-black-tiger-sex-machine",
+          "artist": "Black Tiger Sex Machine"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-bolo",
+          "artist": "BOLO"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-brennan-heart",
+          "artist": "Brennan Heart"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-chanel-west-coast",
+          "artist": "Chanel West Coast"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-chaney",
+          "artist": "Chaney"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-chassi-k-pop-set",
+          "artist": "Chassi (K-Pop Set)"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-chris-metcalfe",
+          "artist": "Chris Metcalfe"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-chyl",
+          "artist": "CHYL"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-cntrl-alt-d-l-t",
+          "artist": "Cntrl Alt DΞLΞTΞ"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-cold-blue",
+          "artist": "Cold Blue"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-conrad",
+          "artist": "Conrad."
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-coone",
+          "artist": "Coone"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-d-sturb",
+          "artist": "D-Sturb"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-d-o-d",
+          "artist": "D.O.D"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-dabin",
+          "artist": "Dabin"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-david-forbes",
+          "artist": "David Forbes"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-dazy-duke",
+          "artist": "Dazy Duke"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-deathpact",
+          "artist": "Deathpact"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-delta-heavy",
+          "artist": "Delta Heavy"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-deorro",
+          "artist": "Deorro"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-dirty-audio-yeedm-set",
+          "artist": "Dirty Audio (Yeedm Set)"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-dj-diesel",
+          "artist": "DJ Diesel"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-eptic-b2b-space-laces",
+          "artist": "Eptic B2B Space Laces"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ethan-ramos",
+          "artist": "Ethan Ramos"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-future-666",
+          "artist": "future.666"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-gareth-emery",
+          "artist": "Gareth Emery"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-giuseppe-ottaviani-ilan-bluestone",
+          "artist": "Giuseppe Ottaviani + Ilan Bluestone"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-gorillat",
+          "artist": "GorillaT"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-grafix",
+          "artist": "Grafix"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-grave-rave",
+          "artist": "Grave Rave"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-gravedgr",
+          "artist": "GRAVEDGR"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-griz",
+          "artist": "GRiZ"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-hedex",
+          "artist": "Hedex"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-hi-lo",
+          "artist": "HI-LO"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-hoang",
+          "artist": "Hoang"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-holy-priest",
+          "artist": "Holy Priest"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ian-asher",
+          "artist": "Ian Asher"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ian-asher-b2b-wuki",
+          "artist": "Ian Asher B2B Wuki"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-infected-mushroom",
+          "artist": "Infected Mushroom"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-interplanetary-criminal",
+          "artist": "Interplanetary Criminal"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-it-s-murph",
+          "artist": "it's murph"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ivarr",
+          "artist": "Ivarr"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-iznyrs",
+          "artist": "IZNYRS"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-james-poole",
+          "artist": "James Poole"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-jazzy",
+          "artist": "Jazzy"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-johnny-chay",
+          "artist": "Johnny Chay"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-jstjr",
+          "artist": "JSTJR"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-juji",
+          "artist": "JUJI"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-justin-hawkes",
+          "artist": "Justin Hawkes"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-klangkuenstler",
+          "artist": "Klangkuenstler"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-lady-faith",
+          "artist": "Lady Faith"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-aszewo",
+          "artist": "Łaszewo"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-layton-giordani",
+          "artist": "Layton Giordani"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-layz",
+          "artist": "LAYZ"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-leondis",
+          "artist": "Leondis"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-lil-texas",
+          "artist": "Lil Texas"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-lilly-palmer",
+          "artist": "Lilly Palmer"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-loco-dice",
+          "artist": "Loco Dice"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-lucky-lou",
+          "artist": "Lucky Lou"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-mad-hatter",
+          "artist": "Mad Hatter"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-madds-yeedm-set",
+          "artist": "Madds (Yeedm Set)"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-marie-vaunt",
+          "artist": "Marie Vaunt"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-mary-droppinz",
+          "artist": "Mary Droppinz"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-matroda",
+          "artist": "Matroda"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-max-low",
+          "artist": "Max Low"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-merakii",
+          "artist": "MERAKII"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-murphy-s-law",
+          "artist": "Murphy's Law"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-muzz",
+          "artist": "MUZZ"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-nic-fanciulli",
+          "artist": "Nic Fanciulli"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-nico-moreno",
+          "artist": "Nico Moreno"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-nicole-moudaber",
+          "artist": "Nicole Moudaber"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-nitti",
+          "artist": "NITTI"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-noizu",
+          "artist": "Noizu"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-notd",
+          "artist": "NOTD"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-novah",
+          "artist": "NOVAH"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-omnom",
+          "artist": "OMNOM"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-pennywild",
+          "artist": "Pennywild"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-phrva",
+          "artist": "phrva"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-pinke",
+          "artist": "Pinke"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-probcause",
+          "artist": "Probcause"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ranger-trucco",
+          "artist": "Ranger Trucco"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-reaper",
+          "artist": "Reaper"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-reid-speed",
+          "artist": "Reid Speed"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-restricted",
+          "artist": "Restricted"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-rhome-tfti",
+          "artist": "RHOME, TFTI"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sanzu",
+          "artist": "Sanzu"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-selective-response",
+          "artist": "Selective Response"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sequence-six",
+          "artist": "Sequence Six"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-shy-fx",
+          "artist": "Shy FX"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sidepiece",
+          "artist": "SIDEPIECE"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sihk",
+          "artist": "Sihk"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-skanka",
+          "artist": "Skanka"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-skepsis-b2b-turno",
+          "artist": "Skepsis B2B Turno"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-slander",
+          "artist": "SLANDER"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-slim-mcgraw",
+          "artist": "Slim McGraw"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sonny-fodera",
+          "artist": "Sonny Fodera"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-soup-b2b-hyfen",
+          "artist": "SOUP B2B HYFEN"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-steve-angello",
+          "artist": "Steve Angello"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sub-zero-project",
+          "artist": "Sub Zero Project"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-sullivan-king",
+          "artist": "Sullivan King"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-tiesto",
+          "artist": "Tiësto"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-tinzo-jojo",
+          "artist": "Tinzo + Jojo"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-trace",
+          "artist": "Trace"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-trivecta",
+          "artist": "Trivecta"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-troyboi",
+          "artist": "TroyBoi"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-trym",
+          "artist": "Trym"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-valentino-khan",
+          "artist": "Valentino Khan"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-vini-vici",
+          "artist": "Vini Vici"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-wenzday",
+          "artist": "Wenzday"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-westend",
+          "artist": "Westend"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-willie-pake",
+          "artist": "Willie Pake"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-ydg",
+          "artist": "YDG"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-yetep",
+          "artist": "yetep"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-yunify",
+          "artist": "YUNIFY"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-zedd",
+          "artist": "Zedd"
+        },
+        {
+          "id": "beyond-wonderland-socal-2026-zyrok",
+          "artist": "ZYROK"
+        }
+      ]
     },
     {
       "id": "coachella-2026-weekend-1",
@@ -11726,7 +13061,823 @@
       "websiteUrl": "https://www.coachella.com",
       "instagramUrl": "https://instagram.com/coachella",
       "redditUrl": "https://www.reddit.com/r/Coachella/",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "coachella-2026-weekend-1-andfriends",
+          "artist": "&friends",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-54-ultra",
+          "artist": "54 Ultra",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-addison-rae",
+          "artist": "Addison Rae",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-adriatique",
+          "artist": "Adriatique",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-afrojack-x-shimza",
+          "artist": "Afrojack x Shimza",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-alex-g",
+          "artist": "Alex G",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-anyma",
+          "artist": "Anyma",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-armin-van-buuren-x-adam-beyer",
+          "artist": "Armin van Buuren x Adam Beyer",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-arodes",
+          "artist": "Arodes",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-azzecca",
+          "artist": "AZZECCA",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bedouin",
+          "artist": "Bedouin",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-ben-sterling",
+          "artist": "Ben Sterling",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bia",
+          "artist": "BIA",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bigbang",
+          "artist": "BIGBANG",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bini",
+          "artist": "BINI",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-black-flag",
+          "artist": "Black Flag",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-blondshell",
+          "artist": "Blondshell",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-blood-orange",
+          "artist": "Blood Orange",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bob-baker-marionettes",
+          "artist": "Bob Baker Marionettes",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-boys-noize",
+          "artist": "Boys Noize",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-bunt",
+          "artist": "BUNT.",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-cachirula-and-loojan",
+          "artist": "Cachirula & Loojan",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-cahuilla-bird-singers-and-dancers",
+          "artist": "Cahuilla Bird Singers and Dancers",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-carlita-x-josh-baker",
+          "artist": "Carlita x Josh Baker",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-carolina-durante",
+          "artist": "Carolina Durante",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-central-cee",
+          "artist": "Central Cee",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-ceremony",
+          "artist": "Ceremony",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-clipse",
+          "artist": "CLIPSE",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-cmat",
+          "artist": "CMAT",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-cobrah",
+          "artist": "COBRAH",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-creepy-nuts",
+          "artist": "Creepy Nuts",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-dabeull",
+          "artist": "Dabeull",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-david-byrne",
+          "artist": "David Byrne",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-david-guetta",
+          "artist": "David Guetta",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-davido",
+          "artist": "Davido",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-deep-dish",
+          "artist": "Deep Dish",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-devo",
+          "artist": "Devo",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-die-spitz",
+          "artist": "Die Spitz",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-dijon",
+          "artist": "Dijon",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-disclosure",
+          "artist": "Disclosure",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-doom-dave",
+          "artist": "Doom Dave",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-drain",
+          "artist": "DRAIN",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-duke-dumont",
+          "artist": "Duke Dumont",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-ecca-vandal",
+          "artist": "Ecca Vandal",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-ethel-cain",
+          "artist": "Ethel Cain",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-fakemink",
+          "artist": "fakemink",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-fatboy-slim",
+          "artist": "Fatboy Slim",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-febuary",
+          "artist": "Febuary",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-fka-twigs",
+          "artist": "FKA twigs",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-fleshwater",
+          "artist": "Fleshwater",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-flowerovlove",
+          "artist": "flowerovlove",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-foster-the-people",
+          "artist": "Foster the People",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-freak-slug",
+          "artist": "Freak Slug",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-french-police",
+          "artist": "French Police",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-fujii-kaze",
+          "artist": "Fujii Kaze",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-gabe-real",
+          "artist": "Gabe Real",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-geese",
+          "artist": "Geese",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-genesi",
+          "artist": "GENESI",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-gigi-perez",
+          "artist": "Gigi Perez",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-girl-math-vnssa-x-nala",
+          "artist": "Girl Math (VNSSA x NALA)",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-giveon",
+          "artist": "GIVĒON",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-glitterer",
+          "artist": "Glitterer",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-gordo",
+          "artist": "Gordo",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-green-velvet-x-ayybo",
+          "artist": "Green Velvet x AYYBO",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-groove-armada-dj-set",
+          "artist": "Groove Armada (DJ Set)",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-hamdi",
+          "artist": "Hamdi",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-holly-humberstone",
+          "artist": "Holly Humberstone",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-hot-mulligan",
+          "artist": "Hot Mulligan",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-hugel",
+          "artist": "HUGEL",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-iggy-pop",
+          "artist": "Iggy Pop",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-interpol",
+          "artist": "Interpol",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-jack-white",
+          "artist": "Jack White",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-jane-remover",
+          "artist": "Jane Remover",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-jaqck-glam",
+          "artist": "Jaqck Glam",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-jazzy",
+          "artist": "Jazzy"
+        },
+        {
+          "id": "coachella-2026-weekend-1-jessica-brankka",
+          "artist": "Jessica Brankka",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-joezi",
+          "artist": "Joezi",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-joost",
+          "artist": "Joost",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-joy-anonymous",
+          "artist": "JOY (Anonymous)",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-joyce-manor",
+          "artist": "Joyce Manor",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-juicewon",
+          "artist": "Juicewon",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-justin-bieber",
+          "artist": "Justin Bieber",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-karol-g",
+          "artist": "KAROL G",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-kaskade",
+          "artist": "Kaskade",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-katseye",
+          "artist": "KATSEYE",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-kettama",
+          "artist": "Kettama",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-labrinth",
+          "artist": "Labrinth",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-laufey",
+          "artist": "Laufey",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-le-yora",
+          "artist": "LE YORA",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-levity",
+          "artist": "Levity",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-little-simz",
+          "artist": "Little Simz",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-loboman",
+          "artist": "LOBOMAN",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-los-hermanos-flores",
+          "artist": "Los Hermanos Flores",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-los-retros",
+          "artist": "Los Retros",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-luisa-sonza",
+          "artist": "Luísa Sonza",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-lykke-li",
+          "artist": "Lykke Li",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-mahmut-orhan",
+          "artist": "Mahmut Orhan",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-major-lazer",
+          "artist": "Major Lazer",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-marlon-hoffstadt",
+          "artist": "Marlon Hoffstadt",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-massio",
+          "artist": "MASSIO",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-max-dean-x-luke-dean",
+          "artist": "Max Dean x Luke Dean",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-max-styler",
+          "artist": "Max Styler",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-mind-enterprises",
+          "artist": "Mind Enterprises",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-moby",
+          "artist": "Moby",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-mochakk",
+          "artist": "Mochakk",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-model-actriz",
+          "artist": "Model/Actriz",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-morat",
+          "artist": "Morat",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-mestiza",
+          "artist": "MËSTIZA",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-newdad",
+          "artist": "NewDad",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-ninajirachi",
+          "artist": "Ninajirachi",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-nine-inch-noize",
+          "artist": "Nine Inch Noize",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-noga-erez",
+          "artist": "Noga Erez",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-not-for-radio",
+          "artist": "Not For Radio",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-novasoul",
+          "artist": "Novasoul",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-oklou",
+          "artist": "Oklou",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-panda-and-chok",
+          "artist": "Panda & Chok",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-pawsa",
+          "artist": "PAWSA",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-pinkpantheress",
+          "artist": "PinkPantheress",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-prospa",
+          "artist": "Prospa",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-record-safari",
+          "artist": "Record Safari",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-rezz",
+          "artist": "REZZ",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-riordan",
+          "artist": "Riordan",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-rossi-x-chloe-caillet",
+          "artist": "Rossi. x Chloé Caillet",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-royel-otis",
+          "artist": "Royel Otis",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-rusowsky",
+          "artist": "rusowsky",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-royksopp-dj-set",
+          "artist": "Röyksopp (DJ Set)",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-r-z",
+          "artist": "RØZ",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-sabrina-carpenter",
+          "artist": "Sabrina Carpenter",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-sahar-z",
+          "artist": "Sahar Z",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-samia",
+          "artist": "Samia",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-seek-one",
+          "artist": "Seek-One",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-sexyy-red",
+          "artist": "Sexyy Red",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-slayyyter",
+          "artist": "Slayyyter",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-sombr",
+          "artist": "SOMBR",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-sosa",
+          "artist": "SOSA",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-suicidal-tendencies",
+          "artist": "Suicidal Tendencies",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-swae-lee",
+          "artist": "Swae Lee",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-taemin",
+          "artist": "Taemin",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-teddy-swims",
+          "artist": "Teddy Swims",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-teed",
+          "artist": "TEED",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-the-chats",
+          "artist": "The Chats",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-the-rapture",
+          "artist": "The Rapture",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-the-strokes",
+          "artist": "The Strokes",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-the-two-lips",
+          "artist": "The Two Lips",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-the-xx",
+          "artist": "The xx",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-tiffany-tyson",
+          "artist": "Tiffany Tyson",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-tiga",
+          "artist": "Tiga",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-tijuana-panthers",
+          "artist": "Tijuana Panthers",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-tomora",
+          "artist": "TOMORA",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-triste-juventud",
+          "artist": "Triste Juventud",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-turnstile",
+          "artist": "Turnstile",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-wednesday",
+          "artist": "Wednesday",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-wet-leg",
+          "artist": "Wet Leg",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-whatmore",
+          "artist": "WHATMORE",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-whomadewho",
+          "artist": "WhoMadeWho",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-worship-sub-focus-dimension-culture-shock-1991",
+          "artist": "Worship (Sub Focus, Dimension, Culture Shock, 1991)",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-wyldeflower",
+          "artist": "wyldeflower",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-yamagucci",
+          "artist": "Yamagucci",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-youna",
+          "artist": "Youna",
+          "day": "2026-04-10"
+        },
+        {
+          "id": "coachella-2026-weekend-1-young-thug",
+          "artist": "Young Thug",
+          "day": "2026-04-12"
+        },
+        {
+          "id": "coachella-2026-weekend-1-zulan",
+          "artist": "ZULAN",
+          "day": "2026-04-11"
+        },
+        {
+          "id": "coachella-2026-weekend-1-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U",
+          "day": "2026-04-11"
+        }
+      ]
     },
     {
       "id": "coachella-2026-weekend-2",
@@ -11741,7 +13892,824 @@
       "websiteUrl": "https://www.coachella.com",
       "instagramUrl": "https://instagram.com/coachella",
       "redditUrl": "https://www.reddit.com/r/Coachella/",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "coachella-2026-weekend-2-andfriends",
+          "artist": "&friends",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-54-ultra",
+          "artist": "54 Ultra",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-addison-rae",
+          "artist": "Addison Rae",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-adriatique",
+          "artist": "Adriatique",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-alex-g",
+          "artist": "Alex G",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-anyma",
+          "artist": "Anyma",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-armin-van-buuren-x-adam-beyer",
+          "artist": "Armin van Buuren x Adam Beyer",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-arodes",
+          "artist": "Arodes",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-azzecca",
+          "artist": "AZZECCA",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bad-gal-gali",
+          "artist": "Bad Gal Gali",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bedouin",
+          "artist": "Bedouin",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-ben-sterling",
+          "artist": "Ben Sterling",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bia",
+          "artist": "BIA",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bigbang",
+          "artist": "BIGBANG",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bini",
+          "artist": "BINI",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-black-flag",
+          "artist": "Black Flag",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-blondshell",
+          "artist": "Blondshell",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-blood-orange",
+          "artist": "Blood Orange",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bob-baker-marionettes",
+          "artist": "Bob Baker Marionettes",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-boys-noize",
+          "artist": "Boys Noize",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bulletballet",
+          "artist": "Bulletballet",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-bunt",
+          "artist": "BUNT.",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-buster-jarvis",
+          "artist": "Buster Jarvis",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-cachirula-and-loojan",
+          "artist": "Cachirula & Loojan",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-cahuilla-bird-singers-and-dancers",
+          "artist": "Cahuilla Bird Singers and Dancers",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-carlita-x-josh-baker",
+          "artist": "Carlita x Josh Baker",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-carolina-durante",
+          "artist": "Carolina Durante",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-central-cee",
+          "artist": "Central Cee",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-ceremony",
+          "artist": "Ceremony",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-clipse",
+          "artist": "CLIPSE",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-cmat",
+          "artist": "CMAT",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-cobrah",
+          "artist": "COBRAH",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-creepy-nuts",
+          "artist": "Creepy Nuts",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-dabeull",
+          "artist": "Dabeull",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-darco",
+          "artist": "Darco",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-david-byrne",
+          "artist": "David Byrne",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-davido",
+          "artist": "Davido",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-devault",
+          "artist": "Devault",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-devo",
+          "artist": "Devo",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-die-spitz",
+          "artist": "Die Spitz",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-dijon",
+          "artist": "Dijon",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-disclosure",
+          "artist": "Disclosure",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-dj-snake-x-knock2",
+          "artist": "DJ Snake x Knock2",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-dj-snake-x-rl-grime-x-flosstradamus",
+          "artist": "DJ Snake x RL Grime x Flosstradamus",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-dj-snake-s-pardon-my-french",
+          "artist": "DJ Snake's Pardon My French",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-drain",
+          "artist": "DRAIN",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-duke-dumont",
+          "artist": "Duke Dumont",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-ecca-vandal",
+          "artist": "Ecca Vandal",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-el-ethos",
+          "artist": "El Ethos",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-ethel-cain",
+          "artist": "Ethel Cain",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-fakemink",
+          "artist": "fakemink",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-febuary",
+          "artist": "Febuary",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-fka-twigs",
+          "artist": "FKA twigs",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-fleshwater",
+          "artist": "Fleshwater",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-flowerovlove",
+          "artist": "flowerovlove",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-foster-the-people",
+          "artist": "Foster the People",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-franky-rizardo",
+          "artist": "Franky Rizardo",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-freak-slug",
+          "artist": "Freak Slug",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-french-police",
+          "artist": "French Police",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-fujii-kaze",
+          "artist": "Fujii Kaze",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-fundido",
+          "artist": "Fundido",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-gabe-real",
+          "artist": "Gabe Real",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-geese",
+          "artist": "Geese",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-genesi",
+          "artist": "GENESI",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-gigi-perez",
+          "artist": "Gigi Perez",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-gingee",
+          "artist": "GINGEE",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-girl-math-vnssa-x-nala",
+          "artist": "Girl Math (VNSSA x NALA)",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-giveon",
+          "artist": "GIVĒON",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-glitterer",
+          "artist": "Glitterer",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-gordo",
+          "artist": "Gordo",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-green-velvet-x-ayybo",
+          "artist": "Green Velvet x AYYBO",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-groove-armada-dj-set",
+          "artist": "Groove Armada (DJ Set)",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-hamdi",
+          "artist": "Hamdi",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-holly-humberstone",
+          "artist": "Holly Humberstone",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-hot-mulligan",
+          "artist": "Hot Mulligan",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-hugel",
+          "artist": "HUGEL",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-iggy-pop",
+          "artist": "Iggy Pop",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-interpol",
+          "artist": "Interpol",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-jane-remover",
+          "artist": "Jane Remover",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-jaqck-glam",
+          "artist": "Jaqck Glam",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-jeremiah-red",
+          "artist": "Jeremiah Red",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-jessica-brankka",
+          "artist": "Jessica Brankka",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-jim-smith",
+          "artist": "Jim Smith",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-joost",
+          "artist": "Joost",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-joyce-manor",
+          "artist": "Joyce Manor",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-juicewon",
+          "artist": "Juicewon",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-justin-bieber",
+          "artist": "Justin Bieber",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-kacey-musgraves",
+          "artist": "Kacey Musgraves",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-karol-g",
+          "artist": "KAROL G",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-kaskade",
+          "artist": "Kaskade",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-katseye",
+          "artist": "KATSEYE",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-kettama",
+          "artist": "Kettama",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-labrinth",
+          "artist": "Labrinth",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-laufey",
+          "artist": "Laufey",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-le-yora",
+          "artist": "LE YORA",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-levity",
+          "artist": "Levity",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-linska",
+          "artist": "Linska",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-little-simz",
+          "artist": "Little Simz",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-los-hermanos-flores",
+          "artist": "Los Hermanos Flores",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-los-retros",
+          "artist": "Los Retros",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-lp-giobbi",
+          "artist": "LP Giobbi",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-luisa-sonza",
+          "artist": "Luísa Sonza",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-lykke-li",
+          "artist": "Lykke Li",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-madeon",
+          "artist": "Madeon",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-mahmut-orhan",
+          "artist": "Mahmut Orhan",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-major-lazer",
+          "artist": "Major Lazer",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-marlon-hoffstadt",
+          "artist": "Marlon Hoffstadt",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-max-dean-x-luke-dean",
+          "artist": "Max Dean x Luke Dean",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-max-styler",
+          "artist": "Max Styler",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-megatone",
+          "artist": "Megatone",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-mind-enterprises",
+          "artist": "Mind Enterprises",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-moby",
+          "artist": "Moby",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-mochakk",
+          "artist": "Mochakk",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-model-actriz",
+          "artist": "Model/Actriz",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-morat",
+          "artist": "Morat",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-mestiza",
+          "artist": "MËSTIZA",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-newdad",
+          "artist": "NewDad",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-ninajirachi",
+          "artist": "Ninajirachi",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-nine-inch-noize",
+          "artist": "Nine Inch Noize",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-noga-erez",
+          "artist": "Noga Erez",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-oklou",
+          "artist": "Oklou",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-pinkpantheress",
+          "artist": "PinkPantheress",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-prospa",
+          "artist": "Prospa",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-record-safari",
+          "artist": "Record Safari",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-rezz",
+          "artist": "REZZ",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-riordan",
+          "artist": "Riordan",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-rossi-x-chloe-caillet",
+          "artist": "Rossi. x Chloé Caillet",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-royel-otis",
+          "artist": "Royel Otis",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-rusowsky",
+          "artist": "rusowsky",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-royksopp-dj-set",
+          "artist": "Röyksopp (DJ Set)",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-r-z",
+          "artist": "RØZ",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sabrina-carpenter",
+          "artist": "Sabrina Carpenter",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sahar-z",
+          "artist": "Sahar Z",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-samia",
+          "artist": "Samia",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sara-landry-s-blood-oath",
+          "artist": "Sara Landry's Blood Oath",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sexyy-red",
+          "artist": "Sexyy Red",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-slayyyter",
+          "artist": "Slayyyter",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sombr",
+          "artist": "SOMBR",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-sosa",
+          "artist": "SOSA",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-subtronics",
+          "artist": "Subtronics",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-suicidal-tendencies",
+          "artist": "Suicidal Tendencies",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-swae-lee",
+          "artist": "Swae Lee",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-taemin",
+          "artist": "Taemin",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-teddy-swims",
+          "artist": "Teddy Swims",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-teed",
+          "artist": "TEED",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-the-chats",
+          "artist": "The Chats",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-the-rapture",
+          "artist": "The Rapture",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-the-strokes",
+          "artist": "The Strokes",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-the-two-lips",
+          "artist": "The Two Lips",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-the-xx",
+          "artist": "The xx",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-tijuana-panthers",
+          "artist": "Tijuana Panthers",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-tomora",
+          "artist": "TOMORA",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-turnstile",
+          "artist": "Turnstile",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-wednesday",
+          "artist": "Wednesday",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-wet-leg",
+          "artist": "Wet Leg",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-whatmore",
+          "artist": "WHATMORE",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-whomadewho",
+          "artist": "WhoMadeWho",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-worship-sub-focus-dimension-culture-shock-1991",
+          "artist": "Worship (Sub Focus, Dimension, Culture Shock, 1991)",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-yamagucci",
+          "artist": "Yamagucci",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-youna",
+          "artist": "Youna",
+          "day": "2026-04-17"
+        },
+        {
+          "id": "coachella-2026-weekend-2-young-thug",
+          "artist": "Young Thug",
+          "day": "2026-04-19"
+        },
+        {
+          "id": "coachella-2026-weekend-2-zulan",
+          "artist": "ZULAN",
+          "day": "2026-04-18"
+        },
+        {
+          "id": "coachella-2026-weekend-2-u-uk-uk1mat-u",
+          "artist": "¥ØU$UK€ ¥UK1MAT$U",
+          "day": "2026-04-18"
+        }
+      ]
     },
     {
       "id": "stagecoach-2026",

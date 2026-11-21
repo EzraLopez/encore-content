@@ -198,5 +198,42 @@
       "https://www.melodicmag.com/news/don-toliver-playboi-carti-and-nba-youngboy-set-to-headline-rolling-loud-2026/",
       "https://florida.rollingloud.com"
     ]
+  },
+  "coachella-2026-weekend-1": {
+    "date": "2026-11-21",
+    "result": "added 163 artists with days, from the official AEG artists.json and shows.json (that weekend's own shows; artists playing more than one day have no day; SURPRISE and the Radiohead film screening left out)",
+    "sources": [
+      "https://events.aegamp.com/app/711/2g4uo3jiai93brm3/artists.json",
+      "https://events.aegamp.com/app/711/2g4uo3jiai93brm3/shows.json",
+      "https://www.coachella.com/lineup"
+    ]
+  },
+  "coachella-2026-weekend-2": {
+    "date": "2026-11-21",
+    "result": "added 163 artists with days, from the official AEG artists.json and shows.json (that weekend's own shows; artists playing more than one day have no day; SURPRISE and the Radiohead film screening left out)",
+    "sources": [
+      "https://events.aegamp.com/app/711/2g4uo3jiai93brm3/artists.json",
+      "https://events.aegamp.com/app/711/2g4uo3jiai93brm3/shows.json",
+      "https://www.coachella.com/lineup"
+    ]
+  },
+  "beyond-wonderland-socal-2026": {
+    "date": "2026-11-21",
+    "result": "added 132 artists, no days, from the festival's own lineup page (published as '2026 Lineup'); left out the activity 'Line Dancing with The Redheaded Cowgirl'",
+    "sources": [
+      "https://socal.beyondwonderland.com/lineup/",
+      "https://press.insomniac.com/blog/beyond-wonderland-socal-announces-full-lineup-for-2026-edition-at-nos-event-center",
+      "https://www.edmtunes.com/2026/01/05/beyond-wonderland-socal-full-lineup-2026/"
+    ]
+  },
+  "ultra-miami-2026": {
+    "date": "2026-11-21",
+    "result": "added 161 artists with days, from two outlets that agree name for name (Miami New Times set times, Local10 daily lineups); artists on more than one day have no day; Afrobeta and Nostalgix (only one outlet) and 'Special guest B2B special guest' left out",
+    "sources": [
+      "https://www.miaminewtimes.com/music/here-are-the-ultra-music-festival-2026-set-times-40534436/",
+      "https://www.local10.com/entertainment/2026/03/26/ultra-music-festivals-day-1-here-is-the-lineup-for-friday/",
+      "https://www.local10.com/entertainment/2026/03/26/ultra-music-festivals-day-2-here-is-the-lineup-for-saturday/",
+      "https://www.local10.com/entertainment/2026/03/27/ultra-music-festivals-day-3-here-is-the-lineup-for-sunday/"
+    ]
   }
 }
