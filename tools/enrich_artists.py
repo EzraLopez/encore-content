@@ -23,9 +23,10 @@ Sources, all keyless:
     token is never written anywhere by this script.
 
 Matching is conservative: a result is only accepted when the
-normalized names agree (accents/case/punctuation stripped), so a
-wrong artist is never linked. For "A b2b B" billings the
-first-billed artist supplies both fields. Re-runnable: existing
+names agree (accents/case/punctuation stripped, and set labels such
+as "(DJ Set)", "Live" or a leading "The" ignored); a name that only
+contains the other is never taken, so a wrong artist is not linked.
+For "A b2b B" billings the first-billed artist supplies both fields. Re-runnable: existing
 entries are kept unless --force is passed.
 
 Usage: python3 tools/enrich_artists.py [--force]
@@ -60,8 +61,12 @@ SEISMIC_LINEUP_URL = "https://www.seismicdanceevent.com/lineup"
 UA = {"User-Agent": "Mozilla/5.0 (Encore catalog enrichment)"}
 
 
+# Letters NFKD does not split into a base letter and an accent.
+_FOLD = str.maketrans({"ł": "l", "Ł": "L", "ø": "o", "Ø": "O", "đ": "d", "Đ": "D"})
+
+
 def norm(name: str) -> str:
-    decomposed = unicodedata.normalize("NFKD", name)
+    decomposed = unicodedata.normalize("NFKD", name.translate(_FOLD))
     ascii_only = "".join(c for c in decomposed if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9]", "", ascii_only.lower())
 
@@ -85,6 +90,28 @@ def seismic_image_slugs() -> dict:
         # Prefer the 600x600 variant for every slug.
         slugs[norm(slug)] = re.sub(r"(-\d+x\d+)?\.png$", "-600x600.png", url)
     return slugs
+
+
+def bare(name: str) -> str:
+    """The name without what a festival adds to it: a set label in
+    brackets ("(DJ Set)"), a trailing "Live", "presents ..." and a
+    leading "The"."""
+    name = re.sub(r"\s*[(\[][^)\]]*[)\]]", "", name)
+    name = re.split(r"\s+(?:presents|pres\.)\s+", name, flags=re.IGNORECASE)[0]
+    name = re.sub(r"\s+live$", "", name.strip(), flags=re.IGNORECASE)
+    name = re.sub(r"^the\s+", "", name.strip(), flags=re.IGNORECASE)
+    return norm(name)
+
+
+def same_artist(found: str, wanted: str) -> bool:
+    """Whether the search result `found` is the billed artist `wanted`.
+    The names must be the same, apart from case, accents, punctuation
+    and the labels bare() removes. A name that only contains the other
+    ("Jackson" / "Michael Jackson", "Malóne" / "Post Malone") is
+    another artist, and the apps' search fallback is better than a
+    wrong link."""
+    return norm(found) == norm(wanted) or (
+        bool(bare(found)) and bare(found) == bare(wanted))
 
 
 _cache: dict = {}
@@ -122,9 +149,7 @@ def itunes_artist_url(candidate: str):
             if not link.startswith("https://music.apple.com/"):
                 continue
             name = result.get("artistName", "")
-            if norm(name) == key or (
-                len(key) >= 3 and (key in norm(name) or norm(name) in key)
-            ):
+            if same_artist(name, candidate):
                 url = link
                 break
     except Exception as exc:  # network hiccup: leave unmatched, retry next run
