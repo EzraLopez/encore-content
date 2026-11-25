@@ -255,6 +255,33 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+### How long a run takes (Nov 21, 2026)
+
+The Apple Music link search (iTunes Search API) allows about 20 calls a
+minute, so the script waits 3 seconds between searches. To keep runs
+short:
+
+- A name the search answered with no match is written to
+  `tools/enrich_misses.json` with the date, and is not searched again
+  for 30 days. A run therefore only searches new names (`--force`
+  ignores the file and searches everything).
+- A billing that is the same artist as one already linked under another
+  spelling ("Artbat" / "ARTBAT"), or a "A b2b B" billing whose first act
+  is already linked, takes that entry's link and photo with no search.
+- A search result is taken only when it is the same name as the
+  billing (ignoring case, accents, punctuation, recognized performance
+  labels such as "(DJ Set)", and a leading "The"). Other parenthetical
+  qualifiers remain part of the name. A name that
+  merely contains the other ("Jackson" / "Michael Jackson") is another
+  artist: no link is better than a wrong one. Apple Books authors and
+  old itunes.apple.com pages are ignored.
+- The config is saved every 25 searches, so a run that is stopped keeps
+  what it found.
+- If Apple rate-limits the search (HTTP 429), or 10 searches in a row
+  fail, the script stops searching for that run, still adds Spotify links
+  and photos, and
+  exits with status 1. Failed searches are never recorded as misses.
+
 ## Request outcomes (Nov 13, 2026)
 
 `requestOutcomes` (optional, top level) tells the apps what the request

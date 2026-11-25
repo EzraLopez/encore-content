@@ -23,9 +23,10 @@ Sources, all keyless:
     token is never written anywhere by this script.
 
 Matching is conservative: a result is only accepted when the
-normalized names agree (accents/case/punctuation stripped), so a
-wrong artist is never linked. For "A b2b B" billings the
-first-billed artist supplies both fields. Re-runnable: existing
+names agree (accents/case/punctuation stripped, and set labels such
+as "(DJ Set)", "Live" or a leading "The" ignored); a name that only
+contains the other is never taken, so a wrong artist is not linked.
+For "A b2b B" billings the first-billed artist supplies both fields. Re-runnable: existing
 entries are kept unless --force is passed.
 
 Usage: python3 tools/enrich_artists.py [--force]
@@ -44,12 +45,28 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "v2" / "config.json"
+# Names the iTunes search answered with no matching artist, with the date
+# of that answer: they are not searched again for MISS_DAYS, so a run only
+# pays for new names instead of re-searching every past miss.
+MISSES = ROOT / "tools" / "enrich_misses.json"
+MISS_DAYS = 30
+# Save the config every this many billings, so a run that is stopped
+# keeps what it found.
+SAVE_EVERY = 25
+# This many lookups failing in a row (HTTP 403, no network) means the
+# search is refusing this machine: stop searching instead of spending an
+# hour on 3-second waits that find nothing.
+MAX_FAILS_IN_A_ROW = 10
 SEISMIC_LINEUP_URL = "https://www.seismicdanceevent.com/lineup"
 UA = {"User-Agent": "Mozilla/5.0 (Encore catalog enrichment)"}
 
 
+# Letters NFKD does not split into a base letter and an accent.
+_FOLD = str.maketrans({"ł": "l", "Ł": "L", "ø": "o", "Ø": "O", "đ": "d", "Đ": "D"})
+
+
 def norm(name: str) -> str:
-    decomposed = unicodedata.normalize("NFKD", name)
+    decomposed = unicodedata.normalize("NFKD", name.translate(_FOLD))
     ascii_only = "".join(c for c in decomposed if not unicodedata.combining(c))
     return re.sub(r"[^a-z0-9]", "", ascii_only.lower())
 
@@ -75,52 +92,88 @@ def seismic_image_slugs() -> dict:
     return slugs
 
 
+def bare(name: str) -> str:
+    """The name without what a festival adds to it: a set label in
+    brackets ("(DJ Set)"), a trailing "Live", "presents ..." and a
+    leading "The"."""
+    name = re.sub(
+        r"\s*(?:\((?:dj set|live|live set|island set)\)|"
+        r"\[(?:dj set|live|live set|island set)\])$",
+        "", name.strip(), flags=re.IGNORECASE,
+    )
+    name = re.split(r"\s+(?:presents|pres\.)\s+", name, flags=re.IGNORECASE)[0]
+    name = re.sub(r"\s+live$", "", name.strip(), flags=re.IGNORECASE)
+    name = re.sub(r"^the\s+", "", name.strip(), flags=re.IGNORECASE)
+    return norm(name)
+
+
+def same_artist(found: str, wanted: str) -> bool:
+    """Whether the search result `found` is the billed artist `wanted`.
+    The names must be the same, apart from case, accents, punctuation
+    and the labels bare() removes. A name that only contains the other
+    ("Jackson" / "Michael Jackson", "Malóne" / "Post Malone") is
+    another artist, and the apps' search fallback is better than a
+    wrong link."""
+    if not norm(wanted):  # no letters or digits ("@"): only the same text
+        return found.strip().casefold() == wanted.strip().casefold()
+    return norm(found) == norm(wanted) or (
+        bool(bare(found)) and bare(found) == bare(wanted))
+
+
 _cache: dict = {}
+_fails = {"in_a_row": 0}
+
+
+class LookupBlocked(Exception):
+    """The iTunes search keeps failing: give up on it for this run."""
+
+
+def lookup_key(candidate: str) -> str:
+    return norm(candidate) or candidate.strip().casefold()
 
 
 def itunes_artist_url(candidate: str):
     """The Apple Music artist page URL for `candidate`, or None."""
-    key = norm(candidate)
+    key = lookup_key(candidate)
     if key in _cache:
         return _cache[key]
     url = None
     try:
         query = urllib.parse.urlencode(
             {"term": candidate, "entity": "musicArtist", "limit": 5, "country": "US"})
-        # The iTunes Search API allows about 20 calls a minute; on a 429
-        # wait and retry rather than leaving the artist unmatched.
-        for attempt in range(4):
-            try:
-                data = json.loads(fetch(f"https://itunes.apple.com/search?{query}"))
-                break
-            except urllib.error.HTTPError as exc:
-                if exc.code != 429 or attempt == 3:
-                    raise
-                time.sleep(30 * (attempt + 1))
+        data = json.loads(fetch(f"https://itunes.apple.com/search?{query}"))
         for result in data.get("results", []):
+            # The search also returns Apple Books authors and old iTunes
+            # pages under the same name: only an Apple Music artist page
+            # is the musician (the validator refuses anything else).
+            link = (result.get("artistLinkUrl") or "").split("?")[0]
+            if not link.startswith("https://music.apple.com/"):
+                continue
             name = result.get("artistName", "")
-            if norm(name) == key or (
-                len(key) >= 3 and (key in norm(name) or norm(name) in key)
-            ):
-                link = result.get("artistLinkUrl", "")
-                url = link.split("?")[0] if link else None
+            if same_artist(name, candidate):
+                url = link
                 break
     except Exception as exc:  # network hiccup: leave unmatched, retry next run
         print(f"  ! lookup failed for {candidate!r}: {exc}", file=sys.stderr)
+        _fails["in_a_row"] += 1
+        if ((isinstance(exc, urllib.error.HTTPError) and exc.code == 429)
+                or _fails["in_a_row"] >= MAX_FAILS_IN_A_ROW):
+            raise LookupBlocked(str(exc)) from exc
         time.sleep(3.1)
         return None
+    _fails["in_a_row"] = 0
     _cache[key] = url
     time.sleep(3.1)
     return url
 
 
 def candidates(billing: str):
-    parts = re.split(r"\s+b2b\s+", billing, flags=re.IGNORECASE)
+    parts = re.split(r"\s+b2b\s+", billing, maxsplit=1, flags=re.IGNORECASE)
     seen, out = set(), []
-    for part in [billing, *parts]:
+    for part in (billing, parts[0]):
         part = part.strip()
-        if part and norm(part) not in seen:
-            seen.add(norm(part))
+        if part and lookup_key(part) not in seen:
+            seen.add(lookup_key(part))
             out.append(part)
     return out
 
@@ -229,16 +282,49 @@ def main() -> int:
     print(f"{len(slugs)} Seismic profile images")
 
     artists = dict(existing)
+    from datetime import date, timedelta
+    today = date.today().isoformat()
+    cutoff = (date.today() - timedelta(days=MISS_DAYS)).isoformat()
+    misses = {} if force or not MISSES.exists() else json.loads(MISSES.read_text(encoding="utf-8"))
     stats = {"am": 0, "img": 0, "both": 0, "none": 0}
+    searched = skipped_misses = reused = 0
+    next_save = SAVE_EVERY
+    # normalized name -> an entry that already has an Apple Music link
+    linked = {norm(name): e for name, e in artists.items() if "appleMusicUrl" in e}
+    blocked = None
     for billing in billings:
         # Fill what an entry is missing (a Spotify-only entry still gets
         # its Apple Music link and photo looked up).
         if "appleMusicUrl" in artists.get(billing, {}):
             continue
+        recent_miss = misses.get(billing, "") >= cutoff
+        if recent_miss:
+            skipped_misses += 1
         entry = dict(artists.get(billing, {}))
+        # Reuse before searching: the same artist already linked under
+        # another spelling ("Artbat" / "ARTBAT"), or, for "A b2b B", the
+        # first-billed act's own entry (it supplies the billing's fields).
         for cand in candidates(billing):
-            if "appleMusicUrl" not in entry:
-                found = itunes_artist_url(cand)
+            known = linked.get(norm(cand))
+            if known:
+                for field in ("appleMusicUrl", "imageUrl"):
+                    if field in known and field not in entry:
+                        entry[field] = known[field]
+                reused += 1
+                break
+        answered = True  # every search for this billing got an answer
+        for cand in candidates(billing):
+            if "appleMusicUrl" not in entry and not recent_miss and not blocked:
+                if lookup_key(cand) not in _cache:
+                    searched += 1
+                try:
+                    found = itunes_artist_url(cand)
+                except LookupBlocked as exc:
+                    blocked, found = str(exc), None
+                    print(f"apple music search keeps failing ({blocked}); "
+                          "stopping the search for this run", file=sys.stderr)
+                if lookup_key(cand) not in _cache:
+                    answered = False
                 if found:
                     entry["appleMusicUrl"] = found
             if "imageUrl" not in entry and norm(cand) in slugs:
@@ -247,6 +333,14 @@ def main() -> int:
                 break
         if entry:
             artists[billing] = entry
+        if "appleMusicUrl" in entry:
+            linked.setdefault(norm(billing), entry)
+            misses.pop(billing, None)
+        elif answered and not recent_miss and not blocked:
+            misses[billing] = today
+        if searched >= next_save:
+            save(config, artists, misses)
+            next_save = (searched // SAVE_EVERY + 1) * SAVE_EVERY
         if "appleMusicUrl" in entry:
             stats["am"] += 1
         if "imageUrl" in entry:
@@ -282,25 +376,42 @@ def main() -> int:
             added_spotify += 1
     print(f"spotify: {added_spotify} of {len(want)} billings matched on Wikidata")
 
+    save(config, artists, misses)
+    print(f"apple music: searched {searched} names, reused {reused} existing "
+          f"entries, skipped {skipped_misses} "
+          f"not found in the last {MISS_DAYS} days"
+          + (f"; search stopped early: {blocked}" if blocked else ""))
+    print(f"artists entries: {len(artists)} "
+          f"(appleMusic {stats['am']}, images {stats['img']}, "
+          f"both {stats['both']}, unmatched-new {stats['none']})")
+    return 1 if blocked else 0
+
+
+_bump: dict = {}
+
+
+def save(config, artists, misses) -> None:
+    """Write the artists map (and meta) to the config, and the misses file."""
     config["artists"] = dict(sorted(artists.items()))
     from datetime import datetime, timezone
-    # One bump per branch: main's version + 1, however often this runs.
-    try:
-        import subprocess
-        main_doc = subprocess.run(
-            ["git", "show", "origin/main:v2/config.json"], cwd=ROOT,
-            capture_output=True, text=True, check=True).stdout
-        config["meta"]["version"] = int(json.loads(main_doc)["meta"]["version"]) + 1
-    except Exception:  # noqa: BLE001 - no git or no origin/main: plain bump
-        config["meta"]["version"] = int(config["meta"].get("version", 1)) + 1
+    # One bump per branch: main's version + 1, however often this runs
+    # (worked out once per run, since a run saves more than once).
+    if "version" not in _bump:
+        try:
+            import subprocess
+            main_doc = subprocess.run(
+                ["git", "show", "origin/main:v2/config.json"], cwd=ROOT,
+                capture_output=True, text=True, check=True).stdout
+            _bump["version"] = int(json.loads(main_doc)["meta"]["version"]) + 1
+        except Exception:  # noqa: BLE001 - no git or no origin/main: plain bump
+            _bump["version"] = int(config["meta"].get("version", 1)) + 1
+    config["meta"]["version"] = _bump["version"]
     config["meta"]["publishedAt"] = (
         datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"))
     CONFIG.write_text(json.dumps(config, indent=2, ensure_ascii=False) + "\n",
                       encoding="utf-8")
-    print(f"artists entries: {len(artists)} "
-          f"(appleMusic {stats['am']}, images {stats['img']}, "
-          f"both {stats['both']}, unmatched-new {stats['none']})")
-    return 0
+    MISSES.write_text(json.dumps(dict(sorted(misses.items())), indent=2,
+                                 ensure_ascii=False) + "\n", encoding="utf-8")
 
 
 if __name__ == "__main__":
