@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 236,
-    "publishedAt": "2026-11-25T05:33:01Z",
+    "version": 237,
+    "publishedAt": "2026-11-25T14:00:40Z",
     "iosBuild": 255,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 188,
@@ -19399,6 +19399,708 @@
       "websiteUrl": "https://givethanksfestival.com",
       "instagramUrl": "https://instagram.com/givethanksfestival",
       "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/give-thanks-2026.jpg"
+    },
+    {
+      "id": "groove-cruise-2027",
+      "name": "Groove Cruise 2027",
+      "tagline": "Electronic music at sea from Miami to Nassau",
+      "venue": "Allure of the Seas (departs PortMiami)",
+      "location": "Miami, FL",
+      "timezone": "America/New_York",
+      "latitude": 25.7781,
+      "longitude": -80.1761,
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-25",
+      "websiteUrl": "https://www.groovecruise.com/groove-cruise",
+      "days": [],
+      "lineup": [
+        {
+          "id": "groove-cruise-2027-22-weeks",
+          "artist": "22 WEEKS"
+        },
+        {
+          "id": "groove-cruise-2027-adam-beyer",
+          "artist": "ADAM BEYER"
+        },
+        {
+          "id": "groove-cruise-2027-adam-scott",
+          "artist": "ADAM SCOTT"
+        },
+        {
+          "id": "groove-cruise-2027-adina-butar",
+          "artist": "ADINA BUTAR"
+        },
+        {
+          "id": "groove-cruise-2027-alley-kay",
+          "artist": "ALLEY KAY"
+        },
+        {
+          "id": "groove-cruise-2027-amidy",
+          "artist": "AMIDY"
+        },
+        {
+          "id": "groove-cruise-2027-amprs-nd",
+          "artist": "AMPRS&ND"
+        },
+        {
+          "id": "groove-cruise-2027-amy-wiles",
+          "artist": "AMY WILES"
+        },
+        {
+          "id": "groove-cruise-2027-anabel-englund",
+          "artist": "ANABEL ENGLUND"
+        },
+        {
+          "id": "groove-cruise-2027-andrew-bayer",
+          "artist": "ANDREW BAYER"
+        },
+        {
+          "id": "groove-cruise-2027-anthony-attalla",
+          "artist": "ANTHONY ATTALLA"
+        },
+        {
+          "id": "groove-cruise-2027-bella-renee",
+          "artist": "BELLA RENEE"
+        },
+        {
+          "id": "groove-cruise-2027-brookie",
+          "artist": "BROOKIE"
+        },
+        {
+          "id": "groove-cruise-2027-bryan-lubliner",
+          "artist": "BRYAN LUBLINER"
+        },
+        {
+          "id": "groove-cruise-2027-bunt",
+          "artist": "BUNT."
+        },
+        {
+          "id": "groove-cruise-2027-cazztek",
+          "artist": "CAZZTEK"
+        },
+        {
+          "id": "groove-cruise-2027-ciaran-mcauley",
+          "artist": "CIARAN MCAULEY"
+        },
+        {
+          "id": "groove-cruise-2027-cicale",
+          "artist": "CICALE"
+        },
+        {
+          "id": "groove-cruise-2027-cid",
+          "artist": "CID"
+        },
+        {
+          "id": "groove-cruise-2027-collelo",
+          "artist": "COLLELO"
+        },
+        {
+          "id": "groove-cruise-2027-dansyn",
+          "artist": "DANSYN"
+        },
+        {
+          "id": "groove-cruise-2027-dave-neven",
+          "artist": "DAVE NEVEN"
+        },
+        {
+          "id": "groove-cruise-2027-daxson",
+          "artist": "DAXSON"
+        },
+        {
+          "id": "groove-cruise-2027-deeper-purpose",
+          "artist": "DEEPER PURPOSE"
+        },
+        {
+          "id": "groove-cruise-2027-deepfake",
+          "artist": "DEEPFAKE"
+        },
+        {
+          "id": "groove-cruise-2027-deerock",
+          "artist": "DEEROCK"
+        },
+        {
+          "id": "groove-cruise-2027-dimibo",
+          "artist": "DIMIBO"
+        },
+        {
+          "id": "groove-cruise-2027-disco-lines",
+          "artist": "DISCO LINES"
+        },
+        {
+          "id": "groove-cruise-2027-distant-matter",
+          "artist": "DISTANT MATTER"
+        },
+        {
+          "id": "groove-cruise-2027-dj-susan",
+          "artist": "DJ SUSAN"
+        },
+        {
+          "id": "groove-cruise-2027-doc-brown",
+          "artist": "DOC BROWN"
+        },
+        {
+          "id": "groove-cruise-2027-d-o-d",
+          "artist": "D.O.D"
+        },
+        {
+          "id": "groove-cruise-2027-dose",
+          "artist": "DOSE"
+        },
+        {
+          "id": "groove-cruise-2027-drums-of-the-sun",
+          "artist": "DRUMS OF THE SUN"
+        },
+        {
+          "id": "groove-cruise-2027-dxn3",
+          "artist": "DXN3"
+        },
+        {
+          "id": "groove-cruise-2027-eli-brown",
+          "artist": "ELI BROWN"
+        },
+        {
+          "id": "groove-cruise-2027-ely-oaks",
+          "artist": "ELY OAKS"
+        },
+        {
+          "id": "groove-cruise-2027-eskuche",
+          "artist": "ESKUCHE"
+        },
+        {
+          "id": "groove-cruise-2027-fallon",
+          "artist": "FALLON"
+        },
+        {
+          "id": "groove-cruise-2027-friends",
+          "artist": "&FRIENDS"
+        },
+        {
+          "id": "groove-cruise-2027-gene-farris",
+          "artist": "GENE FARRIS"
+        },
+        {
+          "id": "groove-cruise-2027-gravagerz",
+          "artist": "GRAVAGERZ"
+        },
+        {
+          "id": "groove-cruise-2027-grube-hovsepian",
+          "artist": "GRUBE & HOVSEPIAN"
+        },
+        {
+          "id": "groove-cruise-2027-gudfella",
+          "artist": "GUDFELLA"
+        },
+        {
+          "id": "groove-cruise-2027-jackie-hollander",
+          "artist": "JACKIE HOLLANDER"
+        },
+        {
+          "id": "groove-cruise-2027-jason-ross",
+          "artist": "JASON ROSS"
+        },
+        {
+          "id": "groove-cruise-2027-joshwa",
+          "artist": "JOSHWA"
+        },
+        {
+          "id": "groove-cruise-2027-k3ss",
+          "artist": "K3SS"
+        },
+        {
+          "id": "groove-cruise-2027-kettama",
+          "artist": "KETTAMA"
+        },
+        {
+          "id": "groove-cruise-2027-ksofresko",
+          "artist": "KSOFRESKO"
+        },
+        {
+          "id": "groove-cruise-2027-laszewo",
+          "artist": "LASZEWO"
+        },
+        {
+          "id": "groove-cruise-2027-laura-van-dam",
+          "artist": "LAURA VAN DAM"
+        },
+        {
+          "id": "groove-cruise-2027-leah-loredo",
+          "artist": "LEAH LOREDO"
+        },
+        {
+          "id": "groove-cruise-2027-leena-punks",
+          "artist": "LEENA PUNKS"
+        },
+        {
+          "id": "groove-cruise-2027-linney",
+          "artist": "LINNEY"
+        },
+        {
+          "id": "groove-cruise-2027-lizzy-jane",
+          "artist": "LIZZY JANE"
+        },
+        {
+          "id": "groove-cruise-2027-luccio",
+          "artist": "LUCCIO"
+        },
+        {
+          "id": "groove-cruise-2027-luci",
+          "artist": "LUCI"
+        },
+        {
+          "id": "groove-cruise-2027-luke-alexander",
+          "artist": "LUKE ALEXANDER"
+        },
+        {
+          "id": "groove-cruise-2027-maesic",
+          "artist": "MAESIC"
+        },
+        {
+          "id": "groove-cruise-2027-marco-faraone",
+          "artist": "MARCO FARAONE"
+        },
+        {
+          "id": "groove-cruise-2027-marco-strous",
+          "artist": "MARCO STROUS"
+        },
+        {
+          "id": "groove-cruise-2027-marie-vaunt",
+          "artist": "MARIE VAUNT"
+        },
+        {
+          "id": "groove-cruise-2027-markus-schulz",
+          "artist": "MARKUS SCHULZ"
+        },
+        {
+          "id": "groove-cruise-2027-maxinne",
+          "artist": "MAXINNE"
+        },
+        {
+          "id": "groove-cruise-2027-max-low",
+          "artist": "MAX LOW"
+        },
+        {
+          "id": "groove-cruise-2027-me-n-u",
+          "artist": "ME N Ü"
+        },
+        {
+          "id": "groove-cruise-2027-mitis",
+          "artist": "MITIS"
+        },
+        {
+          "id": "groove-cruise-2027-mph",
+          "artist": "MPH"
+        },
+        {
+          "id": "groove-cruise-2027-nate-wyatt",
+          "artist": "NATE WYATT"
+        },
+        {
+          "id": "groove-cruise-2027-nathan-bliss",
+          "artist": "NATHAN BLISS"
+        },
+        {
+          "id": "groove-cruise-2027-new-girl",
+          "artist": "NEW GIRL"
+        },
+        {
+          "id": "groove-cruise-2027-nicky-genesis",
+          "artist": "NICKY GENESIS"
+        },
+        {
+          "id": "groove-cruise-2027-nifra",
+          "artist": "NIFRA"
+        },
+        {
+          "id": "groove-cruise-2027-okayval",
+          "artist": "OKAYVAL"
+        },
+        {
+          "id": "groove-cruise-2027-pretty-pink",
+          "artist": "PRETTY PINK"
+        },
+        {
+          "id": "groove-cruise-2027-quackson",
+          "artist": "QUACKSON"
+        },
+        {
+          "id": "groove-cruise-2027-raecola",
+          "artist": "RAECOLA"
+        },
+        {
+          "id": "groove-cruise-2027-ragie-ban",
+          "artist": "RAGIE BAN"
+        },
+        {
+          "id": "groove-cruise-2027-ranger-trucco",
+          "artist": "RANGER TRUCCO"
+        },
+        {
+          "id": "groove-cruise-2027-ravnzen",
+          "artist": "RAVNZEN"
+        },
+        {
+          "id": "groove-cruise-2027-rinaly",
+          "artist": "RINALY"
+        },
+        {
+          "id": "groove-cruise-2027-roddy-lima",
+          "artist": "RODDY LIMA"
+        },
+        {
+          "id": "groove-cruise-2027-romeo",
+          "artist": "ROMEO"
+        },
+        {
+          "id": "groove-cruise-2027-sad-bois",
+          "artist": "SAD BOIS"
+        },
+        {
+          "id": "groove-cruise-2027-sam-feldt",
+          "artist": "SAM FELDT"
+        },
+        {
+          "id": "groove-cruise-2027-sarah-de-warren",
+          "artist": "SARAH DE WARREN"
+        },
+        {
+          "id": "groove-cruise-2027-scooter-lavelle",
+          "artist": "SCOOTER & LAVELLE"
+        },
+        {
+          "id": "groove-cruise-2027-scotty-boy",
+          "artist": "SCOTTY BOY"
+        },
+        {
+          "id": "groove-cruise-2027-sebastian-morxx",
+          "artist": "SEBASTIAN MORXX"
+        },
+        {
+          "id": "groove-cruise-2027-shannon-scott-williams",
+          "artist": "SHANNON SCOTT WILLIAMS"
+        },
+        {
+          "id": "groove-cruise-2027-ship-wrek",
+          "artist": "SHIP WREK"
+        },
+        {
+          "id": "groove-cruise-2027-silva-bumpa",
+          "artist": "SILVA BUMPA"
+        },
+        {
+          "id": "groove-cruise-2027-sloane-motion",
+          "artist": "SLOANE MOTION"
+        },
+        {
+          "id": "groove-cruise-2027-somnity",
+          "artist": "SOMNITY"
+        },
+        {
+          "id": "groove-cruise-2027-space-92",
+          "artist": "SPACE 92"
+        },
+        {
+          "id": "groove-cruise-2027-tee-so",
+          "artist": "TEE SO"
+        },
+        {
+          "id": "groove-cruise-2027-the-brothers-grim",
+          "artist": "THE BROTHERS GRIM"
+        },
+        {
+          "id": "groove-cruise-2027-tini-gessler",
+          "artist": "TINI GESSLER"
+        },
+        {
+          "id": "groove-cruise-2027-tinykvt",
+          "artist": "TINYKVT"
+        },
+        {
+          "id": "groove-cruise-2027-tom-higgenson",
+          "artist": "TOM HIGGENSON"
+        },
+        {
+          "id": "groove-cruise-2027-travis-clark",
+          "artist": "TRAVIS CLARK"
+        },
+        {
+          "id": "groove-cruise-2027-trivecta",
+          "artist": "TRIVECTA"
+        },
+        {
+          "id": "groove-cruise-2027-wes-miles",
+          "artist": "WES MILES"
+        },
+        {
+          "id": "groove-cruise-2027-whipped-cream",
+          "artist": "WHIPPED CREAM"
+        },
+        {
+          "id": "groove-cruise-2027-years-of-war",
+          "artist": "YEARS OF WAR"
+        }
+      ]
+    },
+    {
+      "id": "edsea-2027",
+      "name": "EDSea 2027",
+      "tagline": "Five nights at sea from Miami to Harvest Caye, Belize",
+      "venue": "Norwegian Joy (departs PortMiami)",
+      "location": "Miami, FL",
+      "timezone": "America/New_York",
+      "latitude": 25.7781,
+      "longitude": -80.1761,
+      "startDate": "2027-01-26",
+      "endDate": "2027-01-31",
+      "websiteUrl": "https://www.edsea.com/",
+      "days": [],
+      "lineup": [
+        {
+          "id": "edsea-2027-acraze",
+          "artist": "ACRAZE"
+        },
+        {
+          "id": "edsea-2027-adame-twins",
+          "artist": "ADAME TWINS"
+        },
+        {
+          "id": "edsea-2027-adrian-mills",
+          "artist": "ADRIÁN MILLS"
+        },
+        {
+          "id": "edsea-2027-avello",
+          "artist": "AVELLO"
+        },
+        {
+          "id": "edsea-2027-bardo",
+          "artist": "BARDO"
+        },
+        {
+          "id": "edsea-2027-bolo",
+          "artist": "BOLO"
+        },
+        {
+          "id": "edsea-2027-bou",
+          "artist": "BOU"
+        },
+        {
+          "id": "edsea-2027-boys-noize",
+          "artist": "BOYS NOIZE"
+        },
+        {
+          "id": "edsea-2027-casey-club",
+          "artist": "CASEY CLUB"
+        },
+        {
+          "id": "edsea-2027-chris-lorenzo",
+          "artist": "Chris Lorenzo"
+        },
+        {
+          "id": "edsea-2027-clara-cuve",
+          "artist": "Clara Cuvé"
+        },
+        {
+          "id": "edsea-2027-close-friends-only",
+          "artist": "CLOSE FRIENDS ONLY"
+        },
+        {
+          "id": "edsea-2027-cole-knight",
+          "artist": "COLE KNIGHT"
+        },
+        {
+          "id": "edsea-2027-cole-terrazas",
+          "artist": "COLE TERRAZAS"
+        },
+        {
+          "id": "edsea-2027-costa",
+          "artist": "Costa"
+        },
+        {
+          "id": "edsea-2027-crankdat",
+          "artist": "Crankdat"
+        },
+        {
+          "id": "edsea-2027-devault",
+          "artist": "Devault"
+        },
+        {
+          "id": "edsea-2027-diplo",
+          "artist": "Diplo"
+        },
+        {
+          "id": "edsea-2027-discip",
+          "artist": "DISCIP"
+        },
+        {
+          "id": "edsea-2027-dj-guestlist",
+          "artist": "DJ GUESTLIST"
+        },
+        {
+          "id": "edsea-2027-elvis-guetta",
+          "artist": "ELVIS GUETTA"
+        },
+        {
+          "id": "edsea-2027-ero808",
+          "artist": "ERO808"
+        },
+        {
+          "id": "edsea-2027-fatboy-slim",
+          "artist": "FATBOY SLIM"
+        },
+        {
+          "id": "edsea-2027-friction",
+          "artist": "FRICTION"
+        },
+        {
+          "id": "edsea-2027-greg-99",
+          "artist": "GREG 99"
+        },
+        {
+          "id": "edsea-2027-hershe",
+          "artist": "HERSHE"
+        },
+        {
+          "id": "edsea-2027-hntr",
+          "artist": "HNTR"
+        },
+        {
+          "id": "edsea-2027-jai-wolf",
+          "artist": "JAI WOLF"
+        },
+        {
+          "id": "edsea-2027-jon-casey",
+          "artist": "Jon Casey"
+        },
+        {
+          "id": "edsea-2027-juos",
+          "artist": "JUOS"
+        },
+        {
+          "id": "edsea-2027-justin-martin",
+          "artist": "Justin Martin"
+        },
+        {
+          "id": "edsea-2027-kaleena-zanders",
+          "artist": "KALEENA ZANDERS"
+        },
+        {
+          "id": "edsea-2027-kinahau",
+          "artist": "KinAhau"
+        },
+        {
+          "id": "edsea-2027-kompany",
+          "artist": "KOMPANY"
+        },
+        {
+          "id": "edsea-2027-kream",
+          "artist": "KREAM"
+        },
+        {
+          "id": "edsea-2027-lavern",
+          "artist": "LAVERN"
+        },
+        {
+          "id": "edsea-2027-layton-giordani",
+          "artist": "Layton Giordani"
+        },
+        {
+          "id": "edsea-2027-mary-droppinz",
+          "artist": "Mary Droppinz"
+        },
+        {
+          "id": "edsea-2027-matroda",
+          "artist": "Matroda"
+        },
+        {
+          "id": "edsea-2027-max-styler",
+          "artist": "Max Styler"
+        },
+        {
+          "id": "edsea-2027-mellizos",
+          "artist": "MELLIZOS"
+        },
+        {
+          "id": "edsea-2027-mindchatter",
+          "artist": "MINDCHATTER"
+        },
+        {
+          "id": "edsea-2027-nghtmre",
+          "artist": "NGHTMRE"
+        },
+        {
+          "id": "edsea-2027-nocapz",
+          "artist": "NOCAPZ."
+        },
+        {
+          "id": "edsea-2027-osmosis-jones",
+          "artist": "OSMOSIS JONES"
+        },
+        {
+          "id": "edsea-2027-rommii",
+          "artist": "ROMMII"
+        },
+        {
+          "id": "edsea-2027-salome",
+          "artist": "SALOME"
+        },
+        {
+          "id": "edsea-2027-san-holo",
+          "artist": "SAN HOLO"
+        },
+        {
+          "id": "edsea-2027-san-pacho",
+          "artist": "San Pacho"
+        },
+        {
+          "id": "edsea-2027-serafina",
+          "artist": "SERAFINA"
+        },
+        {
+          "id": "edsea-2027-slander",
+          "artist": "Slander"
+        },
+        {
+          "id": "edsea-2027-trouble",
+          "artist": "Trouble"
+        },
+        {
+          "id": "edsea-2027-tape-b",
+          "artist": "TAPE B"
+        },
+        {
+          "id": "edsea-2027-troyboi",
+          "artist": "TroyBoi"
+        },
+        {
+          "id": "edsea-2027-uniiqu3",
+          "artist": "UNIIQU3"
+        },
+        {
+          "id": "edsea-2027-vtss",
+          "artist": "VTSS"
+        },
+        {
+          "id": "edsea-2027-walker-royce",
+          "artist": "Walker & Royce"
+        },
+        {
+          "id": "edsea-2027-wooli",
+          "artist": "Wooli"
+        }
+      ]
+    },
+    {
+      "id": "dreamstate-socal-2027",
+      "name": "Dreamstate SoCal 2027",
+      "tagline": "Two nights of trance in Long Beach",
+      "venue": "Queen Mary Waterfront",
+      "location": "Long Beach, CA",
+      "timezone": "America/Los_Angeles",
+      "latitude": 33.7635,
+      "longitude": -118.1977,
+      "startDate": "2027-11-19",
+      "endDate": "2027-11-20",
+      "websiteUrl": "https://socal.dreamstateusa.com/",
+      "days": []
     }
   ],
   "shows": [],

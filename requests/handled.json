@@ -123,5 +123,41 @@
       "https://press.insomniac.com/blog/give-thanks-festival-reveals-lineup-for-landmark-2026-edition-in-san-jose-11-25-11-26-11-27"
     ],
     "note": "Asked for from SJ. Wed Nov 25, Fri Nov 27, Sat Nov 28, 2026 (no Thursday), 6 PM-1 AM, San Jose Convention Center. Lineup A-Z from Insomniac (unnamed ??? acts left out); no set times. Ezra asked for it."
+  },
+  "groove cruise": {
+    "outcome": "added",
+    "date": "2026-11-25",
+    "festivalIds": [
+      "groove-cruise-2027"
+    ],
+    "sources": [
+      "https://www.groovecruise.com/groove-cruise",
+      "https://www.groovecruise.com/lineup2027"
+    ],
+    "note": "2027-01-21 to 2027-01-25, Allure of the Seas (departs PortMiami). Organizer lineup; set times pending."
+  },
+  "edsea": {
+    "outcome": "added",
+    "date": "2026-11-25",
+    "festivalIds": [
+      "edsea-2027"
+    ],
+    "sources": [
+      "https://www.edsea.com/",
+      "https://www.edsea.com/lineup/"
+    ],
+    "note": "2027-01-26 to 2027-01-31, Norwegian Joy (departs PortMiami). Organizer lineup; set times pending."
+  },
+  "dreamstate socal": {
+    "outcome": "added",
+    "date": "2026-11-25",
+    "festivalIds": [
+      "dreamstate-socal-2027"
+    ],
+    "sources": [
+      "https://socal.dreamstateusa.com/",
+      "https://dreamstate.frontgatetickets.com/event/ij0q6g63xncre4aa"
+    ],
+    "note": "2027-11-19 to 2027-11-20, Queen Mary Waterfront. Lineup pending."
   }
 }
