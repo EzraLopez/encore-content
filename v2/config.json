@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 235,
-    "publishedAt": "2026-11-23T09:53:49Z",
+    "version": 236,
+    "publishedAt": "2026-11-25T05:33:01Z",
     "iosBuild": 255,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 188,
@@ -19397,7 +19397,8 @@
       "latitude": 37.3297,
       "longitude": -121.889,
       "websiteUrl": "https://givethanksfestival.com",
-      "instagramUrl": "https://instagram.com/givethanksfestival"
+      "instagramUrl": "https://instagram.com/givethanksfestival",
+      "mapImageUrl": "https://raw.githubusercontent.com/EzraLopez/encore-content/main/v1/maps/give-thanks-2026.jpg"
     }
   ],
   "shows": [],
