@@ -506,5 +506,10 @@ the server reads itself wins its own night. This file is separate from
 - `region` is the city's id in encore-android `functions/showSources.js`.
 - Run `python3 tools/validate_shows.py` before pushing; the function drops a
   row it can't use without saying so.
+- **Every run checks every big room.** The routine's step A names the arenas
+  and large halls; each one gets its own search on every run, and the pull
+  request lists every room with what was found there ("nothing electronic"
+  counts). A room left unsearched is an unfinished run: go back and search it
+  before opening the pull request (the Nov 26, 2026 run skipped ten).
 - The routine "Encore NYC shows → catalog PR" keeps `shows/new-york.json`
   current on the branch `shows/new-york`, by pull request.
