@@ -4,33 +4,6 @@
   "updatedAt": "2026-11-26",
   "shows": [
     {
-      "title": "MPH: New York, Forever",
-      "date": "2026-11-28",
-      "startTime": "22:00",
-      "venue": "Knockdown Center",
-      "venueLocation": "Queens, NY",
-      "venueAddress": "52-19 Flushing Ave",
-      "artists": [
-        "MPH"
-      ],
-      "ages": "21+",
-      "link": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets",
-      "found": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets"
-    },
-    {
-      "title": "SVDDEN DEATH",
-      "date": "2026-11-28",
-      "startTime": "23:00",
-      "venue": "The Brooklyn Monarch",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "23 Meadow St",
-      "artists": [
-        "SVDDEN DEATH"
-      ],
-      "link": "https://www.axs.com/events/1582121/svdden-death-tickets",
-      "found": "https://www.axs.com/events/1582121/svdden-death-tickets"
-    },
-    {
       "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
       "date": "2026-11-27",
       "startTime": "23:00",
@@ -48,6 +21,64 @@
       "found": "https://publicrecords.nyc/calendar"
     },
     {
+      "title": "John Summit: CTRL ESCAPE Arena Tour",
+      "date": "2026-11-28",
+      "startTime": "19:00",
+      "venue": "Barclays Center",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "620 Atlantic Ave",
+      "artists": [
+        "John Summit",
+        "Cassian",
+        "Jackie Hollander"
+      ],
+      "genres": "tech house, house",
+      "link": "https://www.barclayscenter.com/events/detail/john-summit-2026",
+      "found": "https://www.barclayscenter.com/events/detail/john-summit-2026"
+    },
+    {
+      "title": "MPH: New York, Forever",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "Knockdown Center",
+      "venueLocation": "Queens, NY",
+      "venueAddress": "52-19 Flushing Ave",
+      "artists": [
+        "MPH"
+      ],
+      "ages": "21+",
+      "link": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets",
+      "found": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets"
+    },
+    {
+      "title": "Curiouser & Curiouser",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "House of Yes",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "2 Wyckoff Avenue",
+      "artists": [
+        "Felix Da Housecat",
+        "L3ni",
+        "Peter Napoli"
+      ],
+      "link": "https://calendar.houseofyes.org/e/5h7xL1B0zU",
+      "found": "https://calendar.houseofyes.org/"
+    },
+    {
+      "title": "SVDDEN DEATH",
+      "date": "2026-11-28",
+      "startTime": "23:00",
+      "venue": "The Brooklyn Monarch",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "23 Meadow St",
+      "artists": [
+        "SVDDEN DEATH"
+      ],
+      "link": "https://www.axs.com/events/1582121/svdden-death-tickets",
+      "found": "https://www.axs.com/events/1582121/svdden-death-tickets"
+    },
+    {
       "title": "Cinthie, Amir Alexander / Snad, Jenifa Mayanja / Edan",
       "date": "2026-11-28",
       "startTime": "23:00",
@@ -62,6 +93,22 @@
       ],
       "link": "https://link.dice.fm/Xf91ddb5063f",
       "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "John Summit: CTRL ESCAPE Arena Tour",
+      "date": "2026-11-29",
+      "startTime": "19:00",
+      "venue": "Barclays Center",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "620 Atlantic Ave",
+      "artists": [
+        "John Summit",
+        "Cassian",
+        "Jackie Hollander"
+      ],
+      "genres": "tech house, house",
+      "link": "https://www.barclayscenter.com/events/detail/john-summit-2026",
+      "found": "https://www.barclayscenter.com/events/detail/john-summit-2026"
     },
     {
       "title": "FACETIME: Victor Calderone (Techno Set), Eric Umble",
@@ -93,35 +140,6 @@
       "found": "https://publicrecords.nyc/calendar"
     },
     {
-      "title": "Timmy Regisford, Lovie / GE-OLOGY",
-      "date": "2026-12-05",
-      "startTime": "23:00",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "artists": [
-        "Timmy Regisford",
-        "Lovie",
-        "GE-OLOGY"
-      ],
-      "link": "https://link.dice.fm/f54e2118ef92",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Curiouser & Curiouser",
-      "date": "2026-11-28",
-      "startTime": "22:00",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "artists": [
-        "Felix Da Housecat",
-        "L3ni",
-        "Peter Napoli"
-      ],
-      "link": "https://calendar.houseofyes.org/e/5h7xL1B0zU",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
       "title": "Snow Ball",
       "date": "2026-12-05",
       "startTime": "22:00",
@@ -136,6 +154,20 @@
       "ages": "21+",
       "link": "https://calendar.houseofyes.org/e/DgqKVyRcgT",
       "found": "https://calendar.houseofyes.org/"
+    },
+    {
+      "title": "Timmy Regisford, Lovie / GE-OLOGY",
+      "date": "2026-12-05",
+      "startTime": "23:00",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Timmy Regisford",
+        "Lovie",
+        "GE-OLOGY"
+      ],
+      "link": "https://link.dice.fm/f54e2118ef92",
+      "found": "https://publicrecords.nyc/calendar"
     }
   ]
 }
