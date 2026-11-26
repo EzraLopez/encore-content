@@ -10,7 +10,9 @@
       "venue": "Knockdown Center",
       "venueLocation": "Queens, NY",
       "venueAddress": "52-19 Flushing Ave",
-      "artists": ["MPH"],
+      "artists": [
+        "MPH"
+      ],
       "ages": "21+",
       "link": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets",
       "found": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets"
@@ -22,9 +24,118 @@
       "venue": "The Brooklyn Monarch",
       "venueLocation": "Brooklyn, NY",
       "venueAddress": "23 Meadow St",
-      "artists": ["SVDDEN DEATH"],
+      "artists": [
+        "SVDDEN DEATH"
+      ],
       "link": "https://www.axs.com/events/1582121/svdden-death-tickets",
       "found": "https://www.axs.com/events/1582121/svdden-death-tickets"
+    },
+    {
+      "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
+      "date": "2026-11-27",
+      "startTime": "23:00",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Anthony Linell",
+        "Jin Synth",
+        "Trailcam",
+        "320",
+        "R Gamble",
+        "Scallywag"
+      ],
+      "link": "https://link.dice.fm/p7ffcae9d842",
+      "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "Cinthie, Amir Alexander / Snad, Jenifa Mayanja / Edan",
+      "date": "2026-11-28",
+      "startTime": "23:00",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Cinthie",
+        "Amir Alexander",
+        "Snad",
+        "Jenifa Mayanja",
+        "Edan"
+      ],
+      "link": "https://link.dice.fm/Xf91ddb5063f",
+      "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "FACETIME: Victor Calderone (Techno Set), Eric Umble",
+      "date": "2026-12-03",
+      "startTime": "22:30",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Victor Calderone",
+        "Eric Umble"
+      ],
+      "link": "https://link.dice.fm/w58326ac64d2",
+      "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "GiGi FM, Mui Mui / Markus Suckut, Julia Govor / e-Lite",
+      "date": "2026-12-04",
+      "startTime": "23:00",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "GiGi FM",
+        "Mui Mui",
+        "Markus Suckut",
+        "Julia Govor",
+        "e-Lite"
+      ],
+      "link": "https://link.dice.fm/S2b8b2034eea",
+      "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "Timmy Regisford, Lovie / GE-OLOGY",
+      "date": "2026-12-05",
+      "startTime": "23:00",
+      "venue": "Public Records",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Timmy Regisford",
+        "Lovie",
+        "GE-OLOGY"
+      ],
+      "link": "https://link.dice.fm/f54e2118ef92",
+      "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "Curiouser & Curiouser",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "House of Yes",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "2 Wyckoff Avenue",
+      "artists": [
+        "Felix Da Housecat",
+        "L3ni",
+        "Peter Napoli"
+      ],
+      "link": "https://calendar.houseofyes.org/e/5h7xL1B0zU",
+      "found": "https://calendar.houseofyes.org/"
+    },
+    {
+      "title": "Snow Ball",
+      "date": "2026-12-05",
+      "startTime": "22:00",
+      "venue": "House of Yes",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "2 Wyckoff Avenue",
+      "artists": [
+        "Eelke Kleijn (LIVE)",
+        "Alice Iguchi",
+        "Sanvero"
+      ],
+      "ages": "21+",
+      "link": "https://calendar.houseofyes.org/e/DgqKVyRcgT",
+      "found": "https://calendar.houseofyes.org/"
     }
   ]
 }
