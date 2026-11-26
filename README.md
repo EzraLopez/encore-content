@@ -501,7 +501,7 @@ the server reads itself wins its own night. This file is separate from
   see it.
 - Only rooms the server doesn't already read. **Rooms the server reads
   (never list these):** Good Room, H0L0, Elsewhere, Silo, Brooklyn Pacha
-  (Pacha New York), Nebula. Keep this line in step with encore-android
+  (Pacha New York), Nebula, Signal, Superior Ingredients, Somewhere Nowhere. Keep this line in step with encore-android
   `functions/venueCalendars.js`. Remove nights that are over.
 - `region` is the city's id in encore-android `functions/showSources.js`.
 - Run `python3 tools/validate_shows.py` before pushing; the function drops a
