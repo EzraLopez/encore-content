@@ -1,0 +1,30 @@
+{
+  "region": 20,
+  "city": "New York",
+  "updatedAt": "2026-11-26",
+  "shows": [
+    {
+      "title": "MPH: New York, Forever",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "Knockdown Center",
+      "venueLocation": "Queens, NY",
+      "venueAddress": "52-19 Flushing Ave",
+      "artists": ["MPH"],
+      "ages": "21+",
+      "link": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets",
+      "found": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets"
+    },
+    {
+      "title": "SVDDEN DEATH",
+      "date": "2026-11-28",
+      "startTime": "23:00",
+      "venue": "The Brooklyn Monarch",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "23 Meadow St",
+      "artists": ["SVDDEN DEATH"],
+      "link": "https://www.axs.com/events/1582121/svdden-death-tickets",
+      "found": "https://www.axs.com/events/1582121/svdden-death-tickets"
+    }
+  ]
+}

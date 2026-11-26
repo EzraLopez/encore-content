@@ -458,3 +458,51 @@ an older build shows "A newer Encore is ready" on Home. Set them with
 `tools/set_app_build.py ios 95` or `tools/set_app_build.py android 70`
 once a build has reached the testers (the Friends TestFlight group, Play
 internal testing), then commit and push.
+
+## Hand-kept show lists (`shows/`)
+
+Some cities have rooms whose calendars the server can't read (a bot check in
+front of the site, or listings that only exist on a ticketing or listing
+site). `shows/<city>.json` is a short list kept by hand for those gaps (Ezra,
+Nov 26, 2026). The `cityShows` function reads it from
+`raw.githubusercontent.com` at most every 6 hours and merges it with the
+venues' own calendars (encore-android `functions/curatedShows.js`); a room
+the server reads itself wins its own night. This file is separate from
+`v2/config.json`: no version bump, and nobody is notified.
+
+```json
+{
+  "region": 20,
+  "city": "New York",
+  "updatedAt": "2026-11-26",
+  "shows": [
+    {
+      "title": "MPH: New York, Forever",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "Knockdown Center",
+      "venueLocation": "Queens, NY",
+      "venueAddress": "52-19 Flushing Ave",
+      "artists": ["MPH"],
+      "ages": "21+",
+      "genres": "uk garage",
+      "link": "https://…the ticket page…",
+      "found": "https://…where this was confirmed…"
+    }
+  ]
+}
+```
+
+- Required: `title`, `date` (the night's local date), `venue`,
+  `venueLocation` ("Brooklyn, NY"), `link` (https, the ticket or event page a
+  person should open). Everything else is optional; leave out what isn't
+  known rather than guessing (`startTime` is 24-hour local time).
+- `found` is for reviewers: the page that confirms the row. The apps never
+  see it.
+- Only rooms the server doesn't already read (encore-android
+  `functions/venueCalendars.js` lists those). Remove nights that are over.
+- `region` is the city's id in encore-android `functions/showSources.js`.
+- Run `python3 tools/validate_shows.py` before pushing; the function drops a
+  row it can't use without saying so.
+- The routine "Encore NYC shows → catalog PR" keeps `shows/new-york.json`
+  current on the branch `shows/new-york`, by pull request.
