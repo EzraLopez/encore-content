@@ -2,7 +2,21 @@
   "region": 1,
   "city": "San Francisco Bay Area",
   "updatedAt": "2026-11-27",
-  "shows": [],
+  "shows": [
+    {
+      "title": "Slipknot: (sic)est Tour at Golden Gate Park",
+      "date": "2027-08-15",
+      "venue": "Golden Gate Park",
+      "venueLocation": "San Francisco, CA",
+      "artists": [
+        "Slipknot"
+      ],
+      "genres": "metal",
+      "link": "https://goldengateparkconcerts.com/artist/slipknot/",
+      "found": "https://goldengateparkconcerts.com/artist/slipknot/",
+      "startTime": "16:00"
+    }
+  ],
   "lineups": [
     {
       "date": "2027-01-01",

@@ -299,6 +299,64 @@
       "venue": "Public Records",
       "venueLocation": "Brooklyn, NY",
       "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "Iron Maiden: Run For Your Lives World Tour",
+      "date": "2027-05-11",
+      "venue": "UBS Arena",
+      "venueLocation": "Elmont, NY",
+      "artists": [
+        "Iron Maiden",
+        "Bullet for My Valentine",
+        "The Raven Age"
+      ],
+      "genres": "metal",
+      "link": "https://ubsarena.com/event/iron-maiden-run-for-your-lives-north-american-tour-2027/",
+      "found": "https://ubsarena.com/event/iron-maiden-run-for-your-lives-north-american-tour-2027/",
+      "startTime": "18:30"
+    },
+    {
+      "title": "Deftones: North American Tour",
+      "date": "2027-06-17",
+      "venue": "Forest Hills Stadium",
+      "venueLocation": "Forest Hills, NY",
+      "artists": [
+        "Deftones",
+        "Knocked Loose",
+        "Julie"
+      ],
+      "genres": "metal",
+      "link": "https://www.axs.com/events/1673205/deftones-tickets",
+      "found": "https://www.axs.com/events/1673205/deftones-tickets",
+      "startTime": "18:00"
+    },
+    {
+      "title": "Deftones: North American Tour",
+      "date": "2027-06-18",
+      "venue": "Forest Hills Stadium",
+      "venueLocation": "Forest Hills, NY",
+      "artists": [
+        "Deftones",
+        "Knocked Loose",
+        "Julie"
+      ],
+      "genres": "metal",
+      "link": "https://www.axs.com/events/1705189/deftones-tickets",
+      "found": "https://www.axs.com/events/1705189/deftones-tickets",
+      "startTime": "18:00"
+    },
+    {
+      "title": "Slipknot: (sic)est Stadium Tour",
+      "date": "2027-07-18",
+      "venue": "Citi Field",
+      "venueLocation": "Queens, NY",
+      "artists": [
+        "Slipknot"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+      "found": "https://www.ticketmaster.com/slipknot-sicest-stadium-tour-queens-new-york-07-18-2027/event/1D006533A84229EC",
+      "startTime": "18:00"
     }
   ]
 }
