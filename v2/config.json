@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 237,
-    "publishedAt": "2026-11-25T14:19:22Z",
+    "version": 238,
+    "publishedAt": "2026-11-27T00:08:16Z",
     "iosBuild": 255,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 188,
@@ -22532,7 +22532,8 @@
     },
     "John Summit": {
       "appleMusicUrl": "https://music.apple.com/us/artist/john-summit/1387587503",
-      "spotifyUrl": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+      "spotifyUrl": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/86/f7/5e/86f75ee5-adfc-e373-8000-ab912f07f2da/file_cropped.png/600x600bb.jpg"
     },
     "Jon Casey": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jon-casey/477268278",
@@ -25008,7 +25009,8 @@
     },
     "Adam Beyer": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adam-beyer/101672291",
-      "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+      "spotifyUrl": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/2f/1e/5a/2f1e5a14-978d-d9aa-9a2b-2c1ac3b20e79/ami-identity-22955bd278cba48272cd6f05472e64dd-2025-07-27T18-02-02.596Z_cropped.png/600x600bb.jpg"
     },
     "Adam Beyer B2B Joseph Capriati": {
       "appleMusicUrl": "https://music.apple.com/us/artist/adam-beyer/101672291",
@@ -25115,7 +25117,8 @@
     },
     "Amelie Lens": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amelie-lens/1078801898",
-      "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+      "spotifyUrl": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/cf/87/4b/cf874b7a-5324-ed22-7b6c-7bed6ce1c13d/file_cropped.png/600x600bb.jpg"
     },
     "Amelie Lens B2B Sara Landry": {
       "appleMusicUrl": "https://music.apple.com/us/artist/amelie-lens/1078801898",
@@ -25161,7 +25164,8 @@
     },
     "Anyma": {
       "appleMusicUrl": "https://music.apple.com/us/artist/anyma/1505813449",
-      "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+      "spotifyUrl": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/ac/ef/eb/acefeb6e-4c5b-a162-b30c-272e84c4590b/ami-identity-0d1ca0eb8bee5c4c6398a24f8af27489-2026-09-01T19-20-20.414Z_cropped.png/600x600bb.jpg"
     },
     "Apashe": {
       "spotifyUrl": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN",
@@ -25186,7 +25190,8 @@
     },
     "Armin van Buuren": {
       "appleMusicUrl": "https://music.apple.com/us/artist/armin-van-buuren/17976294",
-      "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+      "spotifyUrl": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/fb/87/46/fb8746ab-c45f-f248-430a-759c96417dcb/ami-identity-133f8309f7cce6851c2ea8fc76b416b0-2025-10-06T08-58-01.615Z_cropped.png/600x600bb.jpg"
     },
     "Armin van Buuren B2B Marlon Hoffstadt": {
       "appleMusicUrl": "https://music.apple.com/us/artist/armin-van-buuren/17976294",
@@ -25612,7 +25617,8 @@
     },
     "Carl Cox": {
       "spotifyUrl": "https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS",
-      "appleMusicUrl": "https://music.apple.com/us/artist/carl-cox/2811492"
+      "appleMusicUrl": "https://music.apple.com/us/artist/carl-cox/2811492",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/7d/8f/ec/7d8fec6e-a41c-5899-b6cc-b4398b3769ea/ami-identity-3c3859d785984cc483fad6b7f11ca5c5-2026-09-02T15-17-14.164Z_cropped.png/600x600bb.jpg"
     },
     "Carneyval": {
       "appleMusicUrl": "https://music.apple.com/us/artist/carneyval/951747933"
@@ -25639,7 +25645,8 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/casey-club/1732526802"
     },
     "Cassian": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/cassian/332261342"
+      "appleMusicUrl": "https://music.apple.com/us/artist/cassian/332261342",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/1f/ed/2e/1fed2eed-6186-e2a1-24f4-678626d209ab/ami_U003aidentity_U003a5fc1764c6e70891364dbcf3232ba8e20-2026-11-16T19-30-39.420Z_cropped.png/600x600bb.jpg"
     },
     "Castle Rat": {
       "appleMusicUrl": "https://music.apple.com/us/artist/castle-rat/1500181837"
@@ -26059,7 +26066,8 @@
     },
     "Dimitri Vegas": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dimitri-vegas/255512881",
-      "spotifyUrl": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+      "spotifyUrl": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/28/d4/3e/28d43ec5-f880-d44a-a82f-37e6b228a1e6/ami-identity-940c94c4857f1ebd93d6ce19c66d1fea-2025-03-31T09-06-32.398Z_cropped.png/600x600bb.jpg"
     },
     "Dino Lenny": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dino-lenny/66026195"
@@ -26073,7 +26081,8 @@
     },
     "Diplo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/diplo/1468290871",
-      "spotifyUrl": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+      "spotifyUrl": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/38/f2/29/38f229d2-44e1-41ca-c4d6-45781277a98d/ami_U003aidentity_U003ae2cfa91d8e6f4b507976bb4f592a39b0-2026-11-13T15-31-35.278Z_cropped.png/600x600cc.jpg"
     },
     "Dirty Audio": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dirty-audio/446454072"
@@ -26326,7 +26335,8 @@
     },
     "Fisher": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fisher/1256012920",
-      "spotifyUrl": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+      "spotifyUrl": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/4e/ac/77/4eac7756-e229-b0b2-ad65-95bd316ee988/ami-identity-7e8b0ad9eb34429792a4de55b6fdaa20-2025-07-02T19-27-42.005Z_cropped.png/600x600bb.jpg"
     },
     "Fleshwater": {
       "appleMusicUrl": "https://music.apple.com/us/artist/fleshwater/1499835469"
@@ -26627,7 +26637,8 @@
     },
     "Holy Priest": {
       "appleMusicUrl": "https://music.apple.com/us/artist/holy-priest/315818977",
-      "spotifyUrl": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06"
+      "spotifyUrl": "https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6e/9c/2f/6e9c2f79-6b21-22bc-2bc5-eb275e929f0f/ami-identity-6bda6339ecd02ac5c061b5591d339220-2025-11-06T22-43-54.802Z_cropped.png/600x600cc.jpg"
     },
     "Hootie & The Blowfish": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hootie-the-blowfish/204062"
@@ -27914,7 +27925,8 @@
       "spotifyUrl": "https://open.spotify.com/artist/0BwXkr7FklFfuIXGD6wEy7"
     },
     "Omiki": {
-      "appleMusicUrl": "https://music.apple.com/us/artist/omiki/532617791"
+      "appleMusicUrl": "https://music.apple.com/us/artist/omiki/532617791",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c9/ac/cc/c9acccde-f981-e931-a8f4-bc0ea4cd10cf/ami-identity-154a3b9b1449c5ace173a0c5c6b6b8ae-2025-07-05T07-34-32.215Z_cropped.png/600x600bb.jpg"
     },
     "Omnom": {
       "appleMusicUrl": "https://music.apple.com/us/artist/omnom/1160083701"
@@ -28097,14 +28109,16 @@
     },
     "REZZ": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rezz/1046759940",
-      "spotifyUrl": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+      "spotifyUrl": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/81/40/36/8140367d-94d1-255b-552c-3b8b89c5c0b6/file_cropped.png/600x600bb.jpg"
     },
     "RIOT": {
       "appleMusicUrl": "https://music.apple.com/us/artist/riot/437755921"
     },
     "RL Grime": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rl-grime/583453223",
-      "spotifyUrl": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP"
+      "spotifyUrl": "https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/c4/ce/ed/c4ceedb9-ac19-fd69-44b4-c7d987f6a0ea/8e5238b4-6ea2-4ea7-aa4c-60455076bb54_ami-identity-bf40693e36152d08bf37222b5d4b19db-2023-06-06T19-43-39.513Z_cropped.png/600x600bb.jpg"
     },
     "ROMMII": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rommii/1404188409"
@@ -29193,6 +29207,10 @@
     "ØTTA B2B SPFDJ": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%C3%B8tta/1605814517",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features211/v4/53/98/64/5398644c-4af6-76c3-61c5-0d1a4801be21/mzl.mrvhlwzz.jpg/600x600bb.jpg"
+    },
+    "Bicep live": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bicep/406148755",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/67/a3/9d/67a39d7b-ba00-cc20-6931-ffa207e68527/ami_U003aidentity_U003a3403da42c958543090eb508a10f52429-2026-09-25T09-58-15.471Z_cropped.png/600x600bb.jpg"
     }
   },
   "requestOutcomes": {
