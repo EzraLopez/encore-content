@@ -1,7 +1,7 @@
 {
   "region": 20,
   "city": "New York",
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "shows": [
     {
       "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
@@ -240,6 +240,20 @@
       "venue": "Public Records",
       "venueLocation": "Brooklyn, NY",
       "found": "https://publicrecords.nyc/calendar"
+    },
+    {
+      "title": "Jai Wolf: 10 Year Anniversary Tour",
+      "date": "2026-12-12",
+      "startTime": "20:00",
+      "venue": "Brooklyn Steel",
+      "venueLocation": "Brooklyn, NY",
+      "venueAddress": "319 Frost St",
+      "artists": [
+        "Jai Wolf"
+      ],
+      "ages": "18+",
+      "link": "https://www.axs.com/events/1496634/jai-wolf-tickets",
+      "found": "https://new-york.events/tickets/jai-wolf-brooklyn-saturday-december-12-2026-800-pm/"
     },
     {
       "title": "Moxie, Shanti Celeste / Frank & Tony / A lana",
