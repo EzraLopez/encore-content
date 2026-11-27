@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 242,
-    "publishedAt": "2026-11-27T07:58:00Z",
+    "version": 243,
+    "publishedAt": "2026-11-27T11:11:52Z",
     "iosBuild": 269,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 189,
@@ -20667,6 +20667,29 @@
       "endDate": "2027-11-20",
       "websiteUrl": "https://socal.dreamstateusa.com/",
       "days": []
+    },
+    {
+      "id": "seismic-dance-event-2027",
+      "name": "Seismic Dance Event 10.0",
+      "tagline": "Three days of house, techno, and underground dance music",
+      "location": "Austin, TX",
+      "timezone": "America/Chicago",
+      "venue": "The Concourse Project",
+      "latitude": 30.180472,
+      "longitude": -97.686183,
+      "startDate": "2027-11-12",
+      "endDate": "2027-11-14",
+      "websiteUrl": "https://www.seismicdanceevent.com/",
+      "instagramUrl": "https://instagram.com/seismicdanceevent",
+      "days": [],
+      "notice": {
+        "id": "seismic-2027-ticket-on-sale",
+        "title": "Tickets go on sale December 1",
+        "body": "Loyalty presale starts November 30, 2026 at 3 PM CT for Seismic 9.0 ticket buyers. General sale starts December 1, 2026 at 3 PM CT.",
+        "notify": false,
+        "linkUrl": "https://www.seismicdanceevent.com/seismic-10-0-dates-announced/",
+        "linkLabel": "Ticket announcement"
+      }
     }
   ],
   "shows": [],
