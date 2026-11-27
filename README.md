@@ -498,7 +498,8 @@ site). `shows/<city>.json` is a short list kept by hand for those gaps (Ezra,
 Nov 26, 2026). The `cityShows` function reads it from
 `raw.githubusercontent.com` at most every 6 hours and merges it with the
 venues' own calendars (encore-android `functions/curatedShows.js`); a room
-the server reads itself wins its own night. This file is separate from
+the server reads itself wins its own night. Announced picks can be listed
+beyond the live feeds’ 60-day window. This file is separate from
 `v2/config.json`: no version bump, and nobody is notified.
 
 ```json

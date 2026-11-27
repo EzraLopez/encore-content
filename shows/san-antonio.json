@@ -1,0 +1,22 @@
+{
+  "region": 19,
+  "city": "San Antonio",
+  "updatedAt": "2026-11-27",
+  "shows": [
+    {
+      "title": "Metallica: M72 World Tour",
+      "date": "2027-05-22",
+      "venue": "Alamodome",
+      "venueLocation": "San Antonio, TX",
+      "artists": [
+        "Metallica",
+        "Limp Bizkit",
+        "Avatar"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/metallica-m72-world-tour-san-antonio-texas-05-22-2027/event/3A00652DE5A33846",
+      "found": "https://www.metallica.com/tour/2027-05-22-san-antonio-texas.html",
+      "startTime": "18:00"
+    }
+  ]
+}
