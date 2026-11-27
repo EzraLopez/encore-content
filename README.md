@@ -335,6 +335,33 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Auto-merge and the requests log (Nov 27, 2026)
+
+Ezra, Nov 27, 2026: "if all we are doing is enriching the catalog then
+auto merge. Just make sure we keep a log somewhere."
+
+The requests routine merges its own `requests/pending` pull request,
+without waiting for Ezra, when the change only enriches the catalog.
+`python3 tools/catalog_only_diff.py origin/main requests/pending` decides:
+it says `catalog-only` (exit 0) when the branch changes nothing but
+`v2/config.json`, `requests/handled.json` and `requests/log.md`, and the
+config only gains festivals (no existing festival edited or removed,
+`shows` and `artists` untouched, `meta` changing only `version` and
+`publishedAt`; `requestOutcomes` may change). Anything else (an edit to an
+existing festival, a removal, a show, a lineup, any other file) stays an
+open pull request for Ezra, as before.
+
+Before merging: rebase on main, set `meta.version` to main's + 1, run
+`python3 tools/validate_config.py`, run the check again, push, then merge.
+After merging, answer and close the research issues as usual.
+
+Every run that changes the branch appends one entry to `requests/log.md`
+(newest first) in the same commit: the date, the pull request, whether it
+was auto-merged or left for review (and the check's reasons when left),
+what was added with dates and place, and the keys given an outcome. Like
+the rest of this repository it is public: never who asked, how many, from
+where or on which platform.
+
 ## Instagram watch (Nov 15, 2026)
 
 `tools/watch_instagram.py --file-changes` runs every hour on Ezra's Mac
