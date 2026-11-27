@@ -255,6 +255,64 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+When adding or replacing an artist portrait, calculate its card colors from
+the same image before publishing. On a Mac use the Swift tool; elsewhere
+install Pillow for the Python one (`python3 -m pip install Pillow`). Both
+apply the same rule. Pass the affected catalog billing names:
+
+```sh
+swift tools/artist_colors.swift --only "John Summit" "Cassian" > /tmp/encore-colors.json
+# or: python3 tools/artist_colors.py --only "John Summit" "Cassian" > /tmp/encore-colors.json
+python3 tools/apply_artist_colors.py --no-copy /tmp/encore-colors.json
+```
+
+Each artist gets two colors (Nov 26, 2026; Ezra: "we should look into
+improving our color matching algorithms for cards", and he chose this rule
+from mocks, https://claude.ai/artifact/4sGUgPC8o6rTqFj7vwpp7B):
+
+- `color`: the card's top, the portrait's most telling color at its own
+  strength (skin and paper white count for little), darkened only as far as
+  white text needs (4.6:1).
+- `color2`: the card's bottom, the portrait's next telling color of another
+  hue, made safe the same way; a deeper shade of `color` when there is none.
+- A black-and-white portrait gets a deep neutral leaning the way its tones
+  lean, never a color unrelated to the person.
+
+Both hold 4.5:1 with white text, and the validator refuses either below
+that. The apps draw the pair as they are; builds before Nov 26, 2026 read
+`color` alone and still darken it as before. A `color` without `color2` is
+the older one-hue rule (HSL 62% / 52%): run the Swift tool without `--only`
+to recompute every artist that has a photo and no `color2`
+(`--force` recomputes all). The rule is written out at the top of
+`tools/artist_colors.swift`; keep the Python tool in step with it.
+
+### How long a run takes (Nov 21, 2026)
+
+The Apple Music link search (iTunes Search API) allows about 20 calls a
+minute, so the script waits 3 seconds between searches. To keep runs
+short:
+
+- A name the search answered with no match is written to
+  `tools/enrich_misses.json` with the date, and is not searched again
+  for 30 days. A run therefore only searches new names (`--force`
+  ignores the file and searches everything).
+- A billing that is the same artist as one already linked under another
+  spelling ("Artbat" / "ARTBAT"), or a "A b2b B" billing whose first act
+  is already linked, takes that entry's link and photo with no search.
+- A search result is taken only when it is the same name as the
+  billing (ignoring case, accents, punctuation, recognized performance
+  labels such as "(DJ Set)", and a leading "The"). Other parenthetical
+  qualifiers remain part of the name. A name that
+  merely contains the other ("Jackson" / "Michael Jackson") is another
+  artist: no link is better than a wrong one. Apple Books authors and
+  old itunes.apple.com pages are ignored.
+- The config is saved every 25 searches, so a run that is stopped keeps
+  what it found.
+- If Apple rate-limits the search (HTTP 429), or 10 searches in a row
+  fail, the script stops searching for that run, still adds Spotify links
+  and photos, and
+  exits with status 1. Failed searches are never recorded as misses.
+
 ## Request outcomes (Nov 13, 2026)
 
 `requestOutcomes` (optional, top level) tells the apps what the request
@@ -431,3 +489,70 @@ an older build shows "A newer Encore is ready" on Home. Set them with
 `tools/set_app_build.py ios 95` or `tools/set_app_build.py android 70`
 once a build has reached the testers (the Friends TestFlight group, Play
 internal testing), then commit and push.
+
+## Hand-kept show lists (`shows/`)
+
+Some cities have rooms whose calendars the server can't read (a bot check in
+front of the site, or listings that only exist on a ticketing or listing
+site). `shows/<city>.json` is a short list kept by hand for those gaps (Ezra,
+Nov 26, 2026). The `cityShows` function reads it from
+`raw.githubusercontent.com` at most every 6 hours and merges it with the
+venues' own calendars (encore-android `functions/curatedShows.js`); a room
+the server reads itself wins its own night. This file is separate from
+`v2/config.json`: no version bump, and nobody is notified.
+
+```json
+{
+  "region": 20,
+  "city": "New York",
+  "updatedAt": "2026-11-26",
+  "shows": [
+    {
+      "title": "MPH: New York, Forever",
+      "date": "2026-11-28",
+      "startTime": "22:00",
+      "venue": "Knockdown Center",
+      "venueLocation": "Queens, NY",
+      "venueAddress": "52-19 Flushing Ave",
+      "artists": ["MPH"],
+      "ages": "21+",
+      "genres": "uk garage",
+      "link": "https://…the ticket page…",
+      "found": "https://…where this was confirmed…"
+    }
+  ]
+}
+```
+
+- Required: `title`, `date` (the night's local date), `venue`,
+  `venueLocation` ("Brooklyn, NY"), `link` (https, the ticket or event page a
+  person should open). Everything else is optional; leave out what isn't
+  known rather than guessing (`startTime` is 24-hour local time).
+- `found` is for reviewers: the page that confirms the row. The apps never
+  see it.
+- Only rooms the server doesn't already read. **Rooms the server reads
+  (never list these):** Good Room, H0L0, Elsewhere, Silo, Brooklyn Pacha
+  (Pacha New York), Nebula, Signal, Superior Ingredients, Somewhere Nowhere. Keep this line in step with encore-android
+  `functions/venueCalendars.js`. Remove nights that are over.
+- `region` is the city's id in encore-android `functions/showSources.js`.
+- Run `python3 tools/validate_shows.py` before pushing; the function drops a
+  row it can't use without saying so.
+- **`lineups`** (Nov 27, 2026; Ezra: "you forgot to include Sara Landry in
+  fresh start"): a second list in the same file, for a night the server does
+  read but whose acts the listing doesn't carry. 19hz writes a title once, so
+  an act added later is missing, and some titles name nobody ("It's A New Day
+  + Breakfast Of Champions 2027 Block Party"). Each entry is `date`, `venue`
+  (as the listing spells it; letters and digits are compared), `artists` in
+  billing order, an optional `event` (the name the apps show for a one-day
+  festival, when the title's own reading should be replaced) and an optional
+  `note` saying where the lineup came from. The row for that night at that
+  venue takes the lineup's acts; shows people already saved take them the next
+  time the app opens. One lineup per night and venue. `shows/san-francisco.json`
+  holds only lineups (`"shows": []`).
+- **Every run checks every big room.** The routine's step A names the arenas
+  and large halls; each one gets its own search on every run, and the pull
+  request lists every room with what was found there ("nothing electronic"
+  counts). A room left unsearched is an unfinished run: go back and search it
+  before opening the pull request (the Nov 26, 2026 run skipped ten).
+- The routine "Encore NYC shows → catalog PR" keeps `shows/new-york.json`
+  current on the branch `shows/new-york`, by pull request.
