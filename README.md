@@ -255,6 +255,37 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+When adding or replacing an artist portrait, calculate its card colors from
+the same image before publishing. On a Mac use the Swift tool; elsewhere
+install Pillow for the Python one (`python3 -m pip install Pillow`). Both
+apply the same rule. Pass the affected catalog billing names:
+
+```sh
+swift tools/artist_colors.swift --only "John Summit" "Cassian" > /tmp/encore-colors.json
+# or: python3 tools/artist_colors.py --only "John Summit" "Cassian" > /tmp/encore-colors.json
+python3 tools/apply_artist_colors.py --no-copy /tmp/encore-colors.json
+```
+
+Each artist gets two colors (Nov 26, 2026; Ezra: "we should look into
+improving our color matching algorithms for cards", and he chose this rule
+from mocks, https://claude.ai/artifact/4sGUgPC8o6rTqFj7vwpp7B):
+
+- `color`: the card's top, the portrait's most telling color at its own
+  strength (skin and paper white count for little), darkened only as far as
+  white text needs (4.6:1).
+- `color2`: the card's bottom, the portrait's next telling color of another
+  hue, made safe the same way; a deeper shade of `color` when there is none.
+- A black-and-white portrait gets a deep neutral leaning the way its tones
+  lean, never a color unrelated to the person.
+
+Both hold 4.5:1 with white text, and the validator refuses either below
+that. The apps draw the pair as they are; builds before Nov 26, 2026 read
+`color` alone and still darken it as before. A `color` without `color2` is
+the older one-hue rule (HSL 62% / 52%): run the Swift tool without `--only`
+to recompute every artist that has a photo and no `color2`
+(`--force` recomputes all). The rule is written out at the top of
+`tools/artist_colors.swift`; keep the Python tool in step with it.
+
 ### How long a run takes (Nov 21, 2026)
 
 The Apple Music link search (iTunes Search API) allows about 20 calls a
@@ -506,5 +537,22 @@ the server reads itself wins its own night. This file is separate from
 - `region` is the city's id in encore-android `functions/showSources.js`.
 - Run `python3 tools/validate_shows.py` before pushing; the function drops a
   row it can't use without saying so.
+- **`lineups`** (Nov 27, 2026; Ezra: "you forgot to include Sara Landry in
+  fresh start"): a second list in the same file, for a night the server does
+  read but whose acts the listing doesn't carry. 19hz writes a title once, so
+  an act added later is missing, and some titles name nobody ("It's A New Day
+  + Breakfast Of Champions 2027 Block Party"). Each entry is `date`, `venue`
+  (as the listing spells it; letters and digits are compared), `artists` in
+  billing order, an optional `event` (the name the apps show for a one-day
+  festival, when the title's own reading should be replaced) and an optional
+  `note` saying where the lineup came from. The row for that night at that
+  venue takes the lineup's acts; shows people already saved take them the next
+  time the app opens. One lineup per night and venue. `shows/san-francisco.json`
+  holds only lineups (`"shows": []`).
+- **Every run checks every big room.** The routine's step A names the arenas
+  and large halls; each one gets its own search on every run, and the pull
+  request lists every room with what was found there ("nothing electronic"
+  counts). A room left unsearched is an unfinished run: go back and search it
+  before opening the pull request (the Nov 26, 2026 run skipped ten).
 - The routine "Encore NYC shows → catalog PR" keeps `shows/new-york.json`
   current on the branch `shows/new-york`, by pull request.
