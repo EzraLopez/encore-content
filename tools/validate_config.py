@@ -91,6 +91,15 @@ def require_str(obj, field, where):
     return value
 
 
+def contrast_with_white(hex_color):
+    """WCAG contrast of white text on '#RRGGBB'."""
+    def linear(channel):
+        return channel / 12.92 if channel <= 0.04045 else ((channel + 0.055) / 1.055) ** 2.4
+
+    r, g, b = (linear(int(hex_color[i:i + 2], 16) / 255) for i in (1, 3, 5))
+    return 1.05 / (0.2126 * r + 0.7152 * g + 0.0722 * b + 0.05)
+
+
 def lab(hex_color):
     """'#RRGGBB' -> CIE L*a*b* (D65), for a perceptual distance."""
     def linear(channel):
@@ -459,6 +468,23 @@ def validate(path):
         if "appleMusicUrl" in entry and not str(
                 entry["appleMusicUrl"]).startswith("https://music.apple.com/"):
             err(f"{where}: appleMusicUrl must be a music.apple.com artist page")
+        # Card colours (tools/artist_colors.swift). `color` alone is the older
+        # one-colour rule, which the apps darken for text. With `color2` the
+        # two are the card's ends exactly as drawn (Nov 26, 2026), so both
+        # must already hold 4.5:1 with white text.
+        for field in ("color", "color2"):
+            value = entry.get(field)
+            if value is not None and not (isinstance(value, str) and ACCENT_RE.match(value)):
+                err(f"{where}: {field} {value!r} is not a '#RRGGBB' color")
+        if "color2" in entry:
+            if "color" not in entry:
+                err(f"{where}: color2 needs color (the card's top)")
+            for field in ("color", "color2"):
+                value = entry.get(field)
+                if isinstance(value, str) and ACCENT_RE.match(value):
+                    ratio = contrast_with_white(value)
+                    if ratio < 4.5:
+                        err(f"{where}: {field} {value} holds {ratio:.2f}:1 with white text; it needs 4.5:1")
 
     # Optional: what the daily request research decided for requests it
     # didn't add (Nov 13, 2026). Keyed by request key (lowercase, no
