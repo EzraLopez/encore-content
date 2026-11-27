@@ -532,9 +532,13 @@ beyond the live feeds’ 60-day window. This file is separate from
 - `found` is for reviewers: the page that confirms the row. The apps never
   see it.
 - Only rooms the server doesn't already read. **Rooms the server reads
-  (never list these):** Good Room, H0L0, Elsewhere, Silo, Brooklyn Pacha
-  (Pacha New York), Nebula, Signal, Superior Ingredients, Somewhere Nowhere. Keep this line in step with encore-android
-  `functions/venueCalendars.js`. Remove nights that are over.
+  (never list these):** New York: Good Room, H0L0, Elsewhere, Silo, Brooklyn
+  Pacha (Pacha New York), Nebula, Signal, Superior Ingredients, Somewhere
+  Nowhere, Bowery Palace, Market Hotel, Baby's All Right, The Broadway. San
+  Francisco Bay Area: The Chapel, Great American Music Hall, The Independent,
+  Brick & Mortar Music Hall, Neck of the Woods, Bottom of the Hill, Café du
+  Nord, Ivy Room (rock rooms, Nov 27, 2026). Keep this line in step with
+  encore-android `functions/venueCalendars.js`. Remove nights that are over.
 - `region` is the city's id in encore-android `functions/showSources.js`.
 - Run `python3 tools/validate_shows.py` before pushing; the function drops a
   row it can't use without saying so.
