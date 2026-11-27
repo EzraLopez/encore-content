@@ -537,6 +537,18 @@ the server reads itself wins its own night. This file is separate from
 - `region` is the city's id in encore-android `functions/showSources.js`.
 - Run `python3 tools/validate_shows.py` before pushing; the function drops a
   row it can't use without saying so.
+- **`lineups`** (Nov 27, 2026; Ezra: "you forgot to include Sara Landry in
+  fresh start"): a second list in the same file, for a night the server does
+  read but whose acts the listing doesn't carry. 19hz writes a title once, so
+  an act added later is missing, and some titles name nobody ("It's A New Day
+  + Breakfast Of Champions 2027 Block Party"). Each entry is `date`, `venue`
+  (as the listing spells it; letters and digits are compared), `artists` in
+  billing order, an optional `event` (the name the apps show for a one-day
+  festival, when the title's own reading should be replaced) and an optional
+  `note` saying where the lineup came from. The row for that night at that
+  venue takes the lineup's acts; shows people already saved take them the next
+  time the app opens. One lineup per night and venue. `shows/san-francisco.json`
+  holds only lineups (`"shows": []`).
 - **Every run checks every big room.** The routine's step A names the arenas
   and large halls; each one gets its own search on every run, and the pull
   request lists every room with what was found there ("nothing electronic"

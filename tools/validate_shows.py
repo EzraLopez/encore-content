@@ -20,6 +20,10 @@ TIME_RE = re.compile(r"^([01]\d|2[0-3]):[0-5]\d$")
 ALLOWED = {"title", "date", "startTime", "venue", "venueLocation", "venueAddress", "artists", "genres", "ages", "link", "found"}
 REQUIRED = ("title", "date", "venue", "venueLocation", "link")
 MAX_SHOWS = 300
+# A lineup for a night at a venue (Nov 27, 2026): the acts a listing doesn't
+# carry (one added after the listing was written, or a title that names none).
+LINEUP_ALLOWED = {"date", "venue", "event", "artists", "note"}
+MAX_LINEUP = 120
 
 errors = []
 
@@ -78,6 +82,47 @@ def check(path):
         key = (s.get("date"), str(s.get("venue", "")).lower(), str(s.get("title", "")).lower())
         if key in seen:
             err(path, f"{where}: listed twice")
+        seen.add(key)
+    check_lineups(path, data.get("lineups", []))
+
+
+def check_lineups(path, lineups):
+    if not isinstance(lineups, list):
+        err(path, "`lineups` must be a list, or left out")
+        return
+    seen = set()
+    for i, l in enumerate(lineups):
+        where = f"lineups[{i}]" + (f" ({l.get('event') or l.get('venue')})" if isinstance(l, dict) else "")
+        if not isinstance(l, dict):
+            err(path, f"{where}: not an object")
+            continue
+        for k in set(l) - LINEUP_ALLOWED:
+            err(path, f"{where}: unknown field `{k}`")
+        d = l.get("date")
+        if not (isinstance(d, str) and DATE_RE.match(d)):
+            err(path, f"{where}: `date` must be YYYY-MM-DD")
+        else:
+            try:
+                date.fromisoformat(d)
+            except ValueError:
+                err(path, f"{where}: `date` is not a real day")
+        if not isinstance(l.get("venue"), str) or not l["venue"].strip():
+            err(path, f"{where}: `venue` is required (as the listing spells it)")
+        artists = l.get("artists")
+        if not (isinstance(artists, list) and artists and all(isinstance(a, str) and a.strip() for a in artists)):
+            err(path, f"{where}: `artists` must be a list of names, at least one")
+        else:
+            if len(artists) > MAX_LINEUP:
+                err(path, f"{where}: more than {MAX_LINEUP} acts")
+            folded = [a.strip().lower() for a in artists]
+            for a in sorted({a for a in folded if folded.count(a) > 1}):
+                err(path, f"{where}: `{a}` is listed twice")
+        for k in ("event", "note"):
+            if k in l and not (isinstance(l[k], str) and l[k].strip()):
+                err(path, f"{where}: `{k}` must be text, or left out")
+        key = (d, str(l.get("venue", "")).lower())
+        if key in seen:
+            err(path, f"{where}: two lineups for one night at one venue")
         seen.add(key)
 
 
