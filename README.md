@@ -255,6 +255,18 @@ which this repo never holds:
 
 Without a token the pass prints a note and is skipped.
 
+When adding or replacing an artist portrait, calculate its card color from
+the same image before publishing. Install Pillow for the Python extractor
+(`python3 -m pip install Pillow`), then pass the affected catalog billing names:
+
+```sh
+python3 tools/artist_colors.py --only "John Summit" "Cassian" > /tmp/encore-colors.json
+python3 tools/apply_artist_colors.py --no-copy /tmp/encore-colors.json
+```
+
+The extractor uses the portrait's dominant vivid hue. If the portrait has
+too little color, the apps derive the card color from the artist's name.
+
 ### How long a run takes (Nov 21, 2026)
 
 The Apple Music link search (iTunes Search API) allows about 20 calls a
