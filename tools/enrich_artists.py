@@ -78,8 +78,14 @@ def fetch(url: str) -> bytes:
 
 
 def seismic_image_slugs() -> dict:
-    """slug -> 600x600 profile image URL, from the lineup page."""
-    html = fetch(SEISMIC_LINEUP_URL).decode("utf-8", "ignore")
+    """slug -> 600x600 profile image URL, from the lineup page. Empty when
+    the page is gone (it 404s between editions, Nov 26, 2026): the
+    Apple Music pass still runs."""
+    try:
+        html = fetch(SEISMIC_LINEUP_URL).decode("utf-8", "ignore")
+    except Exception as exc:  # noqa: BLE001 - an optional source
+        print(f"seismic lineup page unavailable ({exc}); skipping its photos")
+        return {}
     urls = set(re.findall(
         r"https://www\.seismicdanceevent\.com/wp-content/uploads/[^\"'\s]*-PROFILE-SDE9(?:-\d+x\d+)?\.png",
         html))
