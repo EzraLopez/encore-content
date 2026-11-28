@@ -1,0 +1,51 @@
+{
+  "region": 11,
+  "city": "Chicago",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-05-28",
+      "venue": "Credit Union 1 Amphitheatre",
+      "venueLocation": "Tinley Park, IL",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
+    {
+      "title": "Fall Out Boy: Twilight of the Punks Tour",
+      "date": "2027-07-24",
+      "startTime": "17:30",
+      "venue": "Soldier Field",
+      "venueLocation": "Chicago, IL",
+      "artists": [
+        "Fall Out Boy",
+        "The Offspring",
+        "Good Charlotte",
+        "The Story So Far"
+      ],
+      "genres": "rock, pop punk",
+      "link": "https://www.ticketnews.com/2026/11/fall-out-boy-chicago-tickets-on-sale-at-soldier-field/",
+      "found": "https://www.ticketnews.com/2026/11/fall-out-boy-chicago-tickets-on-sale-at-soldier-field/"
+    },
+    {
+      "title": "Slipknot: (sic)est Stadium Tour",
+      "date": "2027-07-25",
+      "venue": "Soldier Field",
+      "venueLocation": "Chicago, IL",
+      "artists": [
+        "Slipknot",
+        "Bring Me The Horizon",
+        "Lamb of God"
+      ],
+      "genres": "metal",
+      "link": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour",
+      "found": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "region": 13,
+  "city": "Boston",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-06-12",
+      "venue": "Xfinity Center",
+      "venueLocation": "Mansfield, MA",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
+    {
+      "title": "Slipknot: (sic)est Stadium Tour",
+      "date": "2027-07-31",
+      "venue": "Fenway Park",
+      "venueLocation": "Boston, MA",
+      "artists": [
+        "Slipknot",
+        "Bring Me The Horizon",
+        "Lorna Shore"
+      ],
+      "genres": "metal",
+      "link": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour",
+      "found": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour"
+    }
+  ]
+}

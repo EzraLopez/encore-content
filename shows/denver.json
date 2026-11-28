@@ -1,0 +1,35 @@
+{
+  "region": 10,
+  "city": "Denver",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-05-26",
+      "venue": "Red Rocks Amphitheatre",
+      "venueLocation": "Morrison, CO",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
+    {
+      "title": "Slipknot: (sic)est Stadium Tour",
+      "date": "2027-08-09",
+      "venue": "Dick's Sporting Goods Park",
+      "venueLocation": "Commerce City, CO",
+      "artists": [
+        "Slipknot",
+        "Bring Me The Horizon",
+        "Loathe"
+      ],
+      "genres": "metal",
+      "link": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour",
+      "found": "https://blabbermouth.net/news/slipknot-announces-summer-2027-worldwide-sicest-stadium-tour"
+    }
+  ]
+}

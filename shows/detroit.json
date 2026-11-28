@@ -1,0 +1,21 @@
+{
+  "region": 12,
+  "city": "Detroit",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-06-04",
+      "venue": "Pine Knob Music Theatre",
+      "venueLocation": "Clarkston, MI",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    }
+  ]
+}

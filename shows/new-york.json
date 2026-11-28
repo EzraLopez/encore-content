@@ -4,6 +4,58 @@
   "updatedAt": "2026-11-28",
   "shows": [
     {
+      "title": "Phish",
+      "date": "2026-12-30",
+      "startTime": "19:30",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Phish"
+      ],
+      "genres": "rock, jam band",
+      "link": "https://www.ticketnews.com/2026/10/phish-new-york-tickets-on-sale-for-madison-square-garden-shows/",
+      "found": "https://www.ticketnews.com/2026/10/phish-msg-new-years-100th-show/"
+    },
+    {
+      "title": "Phish",
+      "date": "2026-12-31",
+      "startTime": "19:30",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Phish"
+      ],
+      "genres": "rock, jam band",
+      "link": "https://www.ticketnews.com/2026/10/phish-new-york-tickets-on-sale-for-madison-square-garden-shows/",
+      "found": "https://www.ticketnews.com/2026/10/phish-msg-new-years-100th-show/"
+    },
+    {
+      "title": "Phish",
+      "date": "2027-01-01",
+      "startTime": "19:30",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Phish"
+      ],
+      "genres": "rock, jam band",
+      "link": "https://www.ticketnews.com/2026/10/phish-new-york-tickets-on-sale-for-madison-square-garden-shows/",
+      "found": "https://www.ticketnews.com/2026/10/phish-msg-new-years-100th-show/"
+    },
+    {
+      "title": "Phish",
+      "date": "2027-01-02",
+      "startTime": "19:30",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Phish"
+      ],
+      "genres": "rock, jam band",
+      "link": "https://www.ticketnews.com/2026/10/phish-new-york-tickets-on-sale-for-madison-square-garden-shows/",
+      "found": "https://www.ticketnews.com/2026/10/phish-msg-new-years-100th-show/"
+    },
+    {
       "title": "Greta Van Fleet: Into The Beginning",
       "date": "2027-03-08",
       "startTime": "19:00",
@@ -93,6 +145,20 @@
       "found": "https://www.barclayscenter.com/events/detail/papa-roach-2027"
     },
     {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-06-15",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
+    {
       "title": "Deftones: North American Tour",
       "date": "2027-06-17",
       "venue": "Forest Hills Stadium",
@@ -121,6 +187,21 @@
       "link": "https://www.axs.com/events/1705189/deftones-tickets",
       "found": "https://www.axs.com/events/1705189/deftones-tickets",
       "startTime": "18:00"
+    },
+    {
+      "title": "Def Leppard and Goo Goo Dolls",
+      "date": "2027-06-23",
+      "startTime": "19:00",
+      "venue": "Madison Square Garden",
+      "venueLocation": "New York, NY",
+      "artists": [
+        "Def Leppard",
+        "Goo Goo Dolls",
+        "The Struts"
+      ],
+      "genres": "rock, hard rock",
+      "link": "https://www.ticketnews.com/2026/10/def-leppard-new-york-tickets-on-sale-at-madison-square-garden/",
+      "found": "https://www.ticketnews.com/2026/10/def-leppard-new-york-tickets-on-sale-at-madison-square-garden/"
     },
     {
       "title": "Slipknot: (sic)est Stadium Tour",
