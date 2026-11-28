@@ -1,0 +1,33 @@
+{
+  "region": 17,
+  "city": "Dallas-Fort Worth",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-06-22",
+      "venue": "The Pavilion at Toyota Music Factory",
+      "venueLocation": "Irving, TX",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
+    {
+      "title": "Fall Out Boy: Twilight of the Punks Tour",
+      "date": "2027-07-13",
+      "venue": "Globe Life Field",
+      "venueLocation": "Arlington, TX",
+      "artists": [
+        "Fall Out Boy"
+      ],
+      "genres": "rock, pop punk",
+      "link": "https://www.ticketnews.com/2026/11/fall-out-boy-announces-36-date-twilight-of-the-punks-world-tour-for-2027/",
+      "found": "https://www.ticketnews.com/2026/11/fall-out-boy-announces-36-date-twilight-of-the-punks-world-tour-for-2027/"
+    }
+  ]
+}

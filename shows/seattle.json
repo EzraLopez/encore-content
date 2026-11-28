@@ -1,0 +1,66 @@
+{
+  "region": 3,
+  "city": "Seattle",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Greta Van Fleet: Into The Beginning",
+      "date": "2027-03-24",
+      "startTime": "19:00",
+      "venue": "Climate Pledge Arena",
+      "venueLocation": "Seattle, WA",
+      "artists": [
+        "Greta Van Fleet",
+        "The Kooks",
+        "Sana Sana Musica"
+      ],
+      "genres": "rock, hard rock",
+      "link": "https://www.livenation.com/event/vvG1HZ_KM-zRdh/greta-van-fleet-into-the-beginning",
+      "found": "https://www.livenation.com/event/vvG1HZ_KM-zRdh/greta-van-fleet-into-the-beginning"
+    },
+    {
+      "title": "Nickelback: Everything Under The Sun Tour",
+      "date": "2027-04-10",
+      "startTime": "18:30",
+      "venue": "Climate Pledge Arena",
+      "venueLocation": "Seattle, WA",
+      "artists": [
+        "Nickelback",
+        "Don Broco",
+        "The Props"
+      ],
+      "genres": "rock, hard rock",
+      "link": "https://www.livenation.com/event/vvG1HZ_f5MpSJC/nickelback-everything-under-the-sun-tour",
+      "found": "https://www.livenation.com/event/vvG1HZ_f5MpSJC/nickelback-everything-under-the-sun-tour"
+    },
+    {
+      "title": "Queens of the Stone Age: Perfecth World Tour",
+      "date": "2027-05-07",
+      "startTime": "18:30",
+      "venue": "Climate Pledge Arena",
+      "venueLocation": "Seattle, WA",
+      "artists": [
+        "Queens of the Stone Age",
+        "Pixies",
+        "Wheelchair Sports Camp"
+      ],
+      "genres": "rock, alternative",
+      "link": "https://www.livenation.com/event/vvG1HZ_43n59AY/queens-of-the-stone-age-perfecth-world-tour",
+      "found": "https://www.livenation.com/event/vvG1HZ_43n59AY/queens-of-the-stone-age-perfecth-world-tour"
+    },
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-05-22",
+      "venue": "White River Amphitheatre",
+      "venueLocation": "Auburn, WA",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    }
+  ]
+}

@@ -1,8 +1,22 @@
 {
   "region": 2,
   "city": "Los Angeles",
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "shows": [
+    {
+      "title": "Megadeth: Outbreak: Vaccination of the Nations",
+      "date": "2027-05-19",
+      "venue": "Kia Forum",
+      "venueLocation": "Inglewood, CA",
+      "artists": [
+        "Megadeth",
+        "Anthrax",
+        "Kerry King"
+      ],
+      "genres": "metal, thrash metal",
+      "link": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king",
+      "found": "https://blabbermouth.net/news/megadeth-announces-2027-north-american-tour-with-anthrax-and-kerry-king"
+    },
     {
       "title": "System of a Down: Live at the Rose Bowl",
       "date": "2027-06-05",
@@ -58,6 +72,21 @@
       "link": "https://www.ticketmaster.com/system-of-a-down-live-at-the-rose-bowl-pasadena-06-12-2027/event/0B006556AD38634F",
       "found": "https://www.ticketmaster.com/System-of-a-Down-tickets/artist/726146",
       "startTime": "18:30"
+    },
+    {
+      "title": "Slipknot: (sic)est Stadium Tour",
+      "date": "2027-08-13",
+      "venue": "SoFi Stadium",
+      "venueLocation": "Inglewood, CA",
+      "artists": [
+        "Slipknot",
+        "Bring Me The Horizon",
+        "Loathe"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/event/0A006535D8E4F6FD",
+      "found": "https://www.sofistadium.com/news/detail/slipknot-announce-worldwide-sicest-stadium-tour-with-stop-at-sofi-stadium-on-friday-august-13",
+      "startTime": "19:00"
     }
   ]
 }

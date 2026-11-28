@@ -1,0 +1,21 @@
+{
+  "region": 16,
+  "city": "Vancouver",
+  "updatedAt": "2026-11-28",
+  "shows": [
+    {
+      "title": "Metallica: M72 World Tour",
+      "date": "2027-05-08",
+      "venue": "BC Place",
+      "venueLocation": "Vancouver, BC",
+      "artists": [
+        "Metallica",
+        "Limp Bizkit",
+        "Avatar"
+      ],
+      "genres": "metal",
+      "link": "https://blabbermouth.net/news/metallica-announces-spring-2027-north-american-tour-with-limp-bizkit-and-avatar",
+      "found": "https://blabbermouth.net/news/metallica-announces-spring-2027-north-american-tour-with-limp-bizkit-and-avatar"
+    }
+  ]
+}
