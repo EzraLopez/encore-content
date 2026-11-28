@@ -1,304 +1,66 @@
 {
   "region": 20,
   "city": "New York",
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "shows": [
     {
-      "title": "Anthony Linell, Jin Synth / Trailcam, 320 / R Gamble & Scallywag",
-      "date": "2026-11-27",
-      "startTime": "23:00",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "artists": [
-        "Anthony Linell",
-        "Jin Synth",
-        "Trailcam",
-        "320",
-        "R Gamble",
-        "Scallywag"
-      ],
-      "link": "https://link.dice.fm/p7ffcae9d842",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "John Summit: CTRL ESCAPE Arena Tour",
-      "date": "2026-11-28",
+      "title": "Greta Van Fleet: Into The Beginning",
+      "date": "2027-03-08",
       "startTime": "19:00",
       "venue": "Barclays Center",
       "venueLocation": "Brooklyn, NY",
-      "venueAddress": "620 Atlantic Ave",
       "artists": [
-        "John Summit",
-        "Cassian",
-        "Jackie Hollander"
+        "Greta Van Fleet",
+        "The Kooks",
+        "Luna Li"
       ],
-      "genres": "tech house, house",
-      "link": "https://www.barclayscenter.com/events/detail/john-summit-2026",
-      "found": "https://www.barclayscenter.com/events/detail/john-summit-2026"
+      "genres": "rock, hard rock",
+      "link": "https://www.barclayscenter.com/events/detail/greta-van-fleet-2027",
+      "found": "https://www.barclayscenter.com/events/detail/greta-van-fleet-2027"
     },
     {
-      "title": "MPH: New York, Forever",
-      "date": "2026-11-28",
-      "startTime": "22:00",
-      "venue": "Knockdown Center",
-      "venueLocation": "Queens, NY",
-      "venueAddress": "52-19 Flushing Ave",
-      "artists": [
-        "MPH"
-      ],
-      "ages": "21+",
-      "link": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets",
-      "found": "https://dice.fm/event/pybr78-mph-new-york-forever-28th-nov-knockdown-center-new-york-tickets"
-    },
-    {
-      "title": "Curiouser & Curiouser",
-      "date": "2026-11-28",
-      "startTime": "22:00",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "artists": [
-        "Felix Da Housecat",
-        "L3ni",
-        "Peter Napoli"
-      ],
-      "link": "https://calendar.houseofyes.org/e/5h7xL1B0zU",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
-      "title": "SVDDEN DEATH",
-      "date": "2026-11-28",
-      "startTime": "23:00",
-      "venue": "The Brooklyn Monarch",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "23 Meadow St",
-      "artists": [
-        "SVDDEN DEATH"
-      ],
-      "link": "https://www.axs.com/events/1582121/svdden-death-tickets",
-      "found": "https://www.axs.com/events/1582121/svdden-death-tickets"
-    },
-    {
-      "title": "Cinthie, Amir Alexander / Snad, Jenifa Mayanja / Edan",
-      "date": "2026-11-28",
-      "startTime": "23:00",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "artists": [
-        "Cinthie",
-        "Amir Alexander",
-        "Snad",
-        "Jenifa Mayanja",
-        "Edan"
-      ],
-      "link": "https://link.dice.fm/Xf91ddb5063f",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Eli Escobar, Jen Cardini",
-      "date": "2026-11-29",
-      "startTime": "16:00",
-      "artists": [
-        "Eli Escobar",
-        "Jen Cardini"
-      ],
-      "link": "https://link.dice.fm/w164bd131c8e",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "John Summit: CTRL ESCAPE Arena Tour",
-      "date": "2026-11-29",
-      "startTime": "19:00",
+      "title": "Calvin Harris: North America 2027 Tour",
+      "date": "2027-04-06",
       "venue": "Barclays Center",
       "venueLocation": "Brooklyn, NY",
-      "venueAddress": "620 Atlantic Ave",
       "artists": [
-        "John Summit",
-        "Cassian",
-        "Jackie Hollander"
+        "Calvin Harris"
       ],
-      "genres": "tech house, house",
-      "link": "https://www.barclayscenter.com/events/detail/john-summit-2026",
-      "found": "https://www.barclayscenter.com/events/detail/john-summit-2026"
+      "link": "https://www.barclayscenter.com/events/detail/calvin-harris-2027",
+      "found": "https://www.barclayscenter.com/events/detail/calvin-harris-2027"
     },
     {
-      "title": "FACETIME: Victor Calderone (Techno Set), Eric Umble",
-      "date": "2026-12-03",
-      "startTime": "22:30",
-      "venue": "Public Records",
+      "title": "Calvin Harris: North America 2027 Tour",
+      "date": "2027-04-07",
+      "venue": "Barclays Center",
       "venueLocation": "Brooklyn, NY",
       "artists": [
-        "Victor Calderone",
-        "Eric Umble"
+        "Calvin Harris"
       ],
-      "link": "https://link.dice.fm/w58326ac64d2",
-      "found": "https://publicrecords.nyc/calendar"
+      "link": "https://www.barclayscenter.com/events/detail/calvin-harris-2027",
+      "found": "https://www.barclayscenter.com/events/detail/calvin-harris-2027"
     },
     {
-      "title": "John Beltran (Live)",
-      "date": "2026-12-04",
-      "startTime": "19:00",
-      "artists": [
-        "John Beltran"
-      ],
-      "link": "https://link.dice.fm/le8dd5c3406f",
-      "venue": "Public Records",
+      "title": "Calvin Harris: North America 2027 Tour",
+      "date": "2027-04-09",
+      "venue": "Barclays Center",
       "venueLocation": "Brooklyn, NY",
-      "found": "https://publicrecords.nyc/calendar"
+      "artists": [
+        "Calvin Harris"
+      ],
+      "link": "https://www.barclayscenter.com/events/detail/calvin-harris-2027",
+      "found": "https://www.barclayscenter.com/events/detail/calvin-harris-2027"
     },
     {
-      "title": "House of Grooves: Eli Escobar All Night",
-      "date": "2026-12-04",
-      "startTime": "22:00",
-      "artists": [
-        "Eli Escobar",
-        "Sissies of Mercy"
-      ],
-      "link": "https://calendar.houseofyes.org/e/wNW0yLJuiA",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
-      "title": "GiGi FM, Mui Mui / Markus Suckut, Julia Govor / e-Lite",
-      "date": "2026-12-04",
-      "startTime": "23:00",
-      "venue": "Public Records",
+      "title": "Calvin Harris: North America 2027 Tour",
+      "date": "2027-04-10",
+      "venue": "Barclays Center",
       "venueLocation": "Brooklyn, NY",
       "artists": [
-        "GiGi FM",
-        "Mui Mui",
-        "Markus Suckut",
-        "Julia Govor",
-        "e-Lite"
+        "Calvin Harris"
       ],
-      "link": "https://link.dice.fm/S2b8b2034eea",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Snow Ball",
-      "date": "2026-12-05",
-      "startTime": "22:00",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "artists": [
-        "Eelke Kleijn (LIVE)",
-        "Alice Iguchi",
-        "Sanvero"
-      ],
-      "ages": "21+",
-      "link": "https://calendar.houseofyes.org/e/DgqKVyRcgT",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
-      "title": "Timmy Regisford, Lovie / GE-OLOGY",
-      "date": "2026-12-05",
-      "startTime": "23:00",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "artists": [
-        "Timmy Regisford",
-        "Lovie",
-        "GE-OLOGY"
-      ],
-      "link": "https://link.dice.fm/f54e2118ef92",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Glitterbox",
-      "date": "2026-12-11",
-      "startTime": "22:00",
-      "artists": [
-        "Inner City (DJ)",
-        "Kevin Saunderson",
-        "Dantiez",
-        "Catz 'N Dogz",
-        "k.tea"
-      ],
-      "link": "https://calendar.houseofyes.org/e/V932ua3gIV",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
-      "title": "Byron the Aquarius, Marco Weibel / Jadon, Infinite Jess / Zotos",
-      "date": "2026-12-11",
-      "startTime": "23:00",
-      "artists": [
-        "Byron the Aquarius",
-        "Marco Weibel",
-        "Jadon",
-        "Infinite Jess",
-        "Zotos"
-      ],
-      "link": "https://link.dice.fm/A8ba445468cc",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Jai Wolf: 10 Year Anniversary Tour",
-      "date": "2026-12-12",
-      "startTime": "20:00",
-      "venue": "Brooklyn Steel",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "319 Frost St",
-      "artists": [
-        "Jai Wolf"
-      ],
-      "ages": "18+",
-      "link": "https://www.axs.com/events/1496634/jai-wolf-tickets",
-      "found": "https://new-york.events/tickets/jai-wolf-brooklyn-saturday-december-12-2026-800-pm/"
-    },
-    {
-      "title": "Moxie, Shanti Celeste / Frank & Tony / A lana",
-      "date": "2026-12-12",
-      "startTime": "23:00",
-      "artists": [
-        "Moxie",
-        "Shanti Celeste",
-        "Frank & Tony",
-        "A lana"
-      ],
-      "link": "https://link.dice.fm/y617e061b423",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "found": "https://publicrecords.nyc/calendar"
-    },
-    {
-      "title": "Inner Sin",
-      "date": "2026-12-12",
-      "startTime": "23:30",
-      "artists": [
-        "Oliver Koletzki",
-        "Jenia Tarsol",
-        "Blokhina",
-        "Chaske",
-        "Hoss",
-        "Yamach"
-      ],
-      "link": "https://calendar.houseofyes.org/e/SnjlKzNjfT",
-      "venue": "House of Yes",
-      "venueLocation": "Brooklyn, NY",
-      "venueAddress": "2 Wyckoff Avenue",
-      "found": "https://calendar.houseofyes.org/"
-    },
-    {
-      "title": "Echo Chamber S1.E05: Sam Binga",
-      "date": "2026-12-17",
-      "startTime": "22:30",
-      "artists": [
-        "Sam Binga"
-      ],
-      "link": "https://link.dice.fm/Af1161846806",
-      "venue": "Public Records",
-      "venueLocation": "Brooklyn, NY",
-      "found": "https://publicrecords.nyc/calendar"
+      "link": "https://www.barclayscenter.com/events/detail/calvin-harris-2027",
+      "found": "https://www.barclayscenter.com/events/detail/calvin-harris-2027"
     },
     {
       "title": "Iron Maiden: Run For Your Lives World Tour",
@@ -314,6 +76,21 @@
       "link": "https://ubsarena.com/event/iron-maiden-run-for-your-lives-north-american-tour-2027/",
       "found": "https://ubsarena.com/event/iron-maiden-run-for-your-lives-north-american-tour-2027/",
       "startTime": "18:30"
+    },
+    {
+      "title": "Papa Roach: Rise of the Roach Tour",
+      "date": "2027-05-21",
+      "startTime": "19:00",
+      "venue": "Barclays Center",
+      "venueLocation": "Brooklyn, NY",
+      "artists": [
+        "Papa Roach",
+        "Ice Nine Kills",
+        "Ninth Key"
+      ],
+      "genres": "rock, metal",
+      "link": "https://www.barclayscenter.com/events/detail/papa-roach-2027",
+      "found": "https://www.barclayscenter.com/events/detail/papa-roach-2027"
     },
     {
       "title": "Deftones: North American Tour",
