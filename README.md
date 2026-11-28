@@ -335,6 +335,33 @@ optional public line of 2–120 characters. Never put who asked, how many
 or from where here: this file is public. When a festival is later added,
 remove its outcome (the apps show "Added" from the festival itself).
 
+## Auto-merge and the requests log (Nov 27, 2026)
+
+Ezra, Nov 27, 2026: "if all we are doing is enriching the catalog then
+auto merge. Just make sure we keep a log somewhere."
+
+The requests routine merges its own `requests/pending` pull request,
+without waiting for Ezra, when the change only enriches the catalog.
+`python3 tools/catalog_only_diff.py origin/main requests/pending` decides:
+it says `catalog-only` (exit 0) when the branch changes nothing but
+`v2/config.json`, `requests/handled.json` and `requests/log.md`, and the
+config only gains festivals (no existing festival edited or removed,
+`shows` and `artists` untouched, `meta` changing only `version` and
+`publishedAt`; `requestOutcomes` may change). Anything else (an edit to an
+existing festival, a removal, a show, a lineup, any other file) stays an
+open pull request for Ezra, as before.
+
+Before merging: rebase on main, set `meta.version` to main's + 1, run
+`python3 tools/validate_config.py`, run the check again, push, then merge.
+After merging, answer and close the research issues as usual.
+
+Every run that changes the branch appends one entry to `requests/log.md`
+(newest first) in the same commit: the date, the pull request, whether it
+was auto-merged or left for review (and the check's reasons when left),
+what was added with dates and place, and the keys given an outcome. Like
+the rest of this repository it is public: never who asked, how many, from
+where or on which platform.
+
 ## Instagram watch (Nov 15, 2026)
 
 `tools/watch_instagram.py --file-changes` runs every hour on Ezra's Mac
@@ -492,14 +519,44 @@ internal testing), then commit and push.
 
 ## Hand-kept show lists (`shows/`)
 
-Some cities have rooms whose calendars the server can't read (a bot check in
-front of the site, or listings that only exist on a ticketing or listing
-site). `shows/<city>.json` is a short list kept by hand for those gaps (Ezra,
-Nov 26, 2026). The `cityShows` function reads it from
-`raw.githubusercontent.com` at most every 6 hours and merges it with the
-venues' own calendars (encore-android `functions/curatedShows.js`); a room
-the server reads itself wins its own night. This file is separate from
-`v2/config.json`: no version bump, and nobody is notified.
+The `cityShows` function (encore-android `functions/`) reads most shows by
+itself, for every region, every 6 hours. **What the server reads (keep this in
+step with encore-android `functions/showSources.js`, `listingSites.js` and
+`venueCalendars.js`):**
+
+- **RA** (ra.co), every region, the next 60 days: electronic nights.
+- **Songkick**, every region's metro area, the next 60 days: concerts of every
+  genre, kept when the headliner's Apple Music genres say electronic or rock.
+- **19hz.info**, every region but New York: electronic nights.
+- **Venues' own calendars.** New York: Good Room, H0L0, Elsewhere, Silo,
+  Brooklyn Pacha (Pacha New York), Nebula, Signal, Superior Ingredients,
+  Somewhere Nowhere, Bowery Palace, Market Hotel, Baby's All Right, The
+  Broadway. San Francisco Bay Area: The Chapel, Great American Music Hall, The
+  Independent, Brick & Mortar Music Hall, Neck of the Woods, Bottom of the
+  Hill, Café du Nord, Ivy Room.
+- Ticketmaster joins when its key arrives (still pending).
+
+`shows/<city>.json` is the short list kept by hand for what those miss
+(Ezra, Nov 26, 2026; every region since Nov 28): announced shows past the
+60-day window (stadium and arena tours), nights none of the sources carry, and
+lineups the listings get wrong. The function reads the file from
+`raw.githubusercontent.com` with every answer (a warm instance keeps it 10
+minutes) and merges it: a night the sources already have at that venue keeps
+the source's row, which takes the file's details it lacks. A city with no file
+has an empty list. This is separate from `v2/config.json`: no version bump,
+and nobody is notified.
+
+**To see what the server already has**, open its live answer for the region:
+`https://us-central1-encore-ca65a.cloudfunctions.net/cityShows?locationId=<id>`
+(rows, each with its `source`; the next 60 days). Add a night only when that
+answer has nothing at that venue that night.
+
+The files, by region id (`region` in the file; encore-android
+`functions/curatedShows.js` `LISTS`): 1 san-francisco, 2 los-angeles,
+3 seattle, 4 atlanta, 5 miami, 6 washington-dc, 7 toronto, 8 iowa-nebraska,
+9 austin, 10 denver, 11 chicago, 12 detroit, 13 boston, 14 phoenix,
+15 portland, 16 vancouver, 17 dallas-fort-worth, 18 houston, 19 san-antonio,
+20 new-york. Make a city's file only when there is something to put in it.
 
 ```json
 {
@@ -528,15 +585,13 @@ the server reads itself wins its own night. This file is separate from
   `venueLocation` ("Brooklyn, NY"), `link` (https, the ticket or event page a
   person should open). Everything else is optional; leave out what isn't
   known rather than guessing (`startTime` is 24-hour local time).
+- `genres`: always for a rock or metal row (at least "rock" or "metal"); the
+  apps tell rock from electronic by it. A row with no genres counts as
+  electronic.
 - `found` is for reviewers: the page that confirms the row. The apps never
   see it.
-- Only rooms the server doesn't already read. **Rooms the server reads
-  (never list these):** Good Room, H0L0, Elsewhere, Silo, Brooklyn Pacha
-  (Pacha New York), Nebula, Signal, Superior Ingredients, Somewhere Nowhere. Keep this line in step with encore-android
-  `functions/venueCalendars.js`. Remove nights that are over.
-- `region` is the city's id in encore-android `functions/showSources.js`.
-- Run `python3 tools/validate_shows.py` before pushing; the function drops a
-  row it can't use without saying so.
+- Remove nights that are over. Run `python3 tools/validate_shows.py` before
+  pushing; the function drops a row it can't use without saying so.
 - **`lineups`** (Nov 27, 2026; Ezra: "you forgot to include Sara Landry in
   fresh start"): a second list in the same file, for a night the server does
   read but whose acts the listing doesn't carry. 19hz writes a title once, so
@@ -547,12 +602,8 @@ the server reads itself wins its own night. This file is separate from
   festival, when the title's own reading should be replaced) and an optional
   `note` saying where the lineup came from. The row for that night at that
   venue takes the lineup's acts; shows people already saved take them the next
-  time the app opens. One lineup per night and venue. `shows/san-francisco.json`
-  holds only lineups (`"shows": []`).
-- **Every run checks every big room.** The routine's step A names the arenas
-  and large halls; each one gets its own search on every run, and the pull
-  request lists every room with what was found there ("nothing electronic"
-  counts). A room left unsearched is an unfinished run: go back and search it
-  before opening the pull request (the Nov 26, 2026 run skipped ten).
-- The routine "Encore NYC shows → catalog PR" keeps `shows/new-york.json`
-  current on the branch `shows/new-york`, by pull request.
+  time the app opens. Each night at a venue can have one lineup override.
+- The routine "Encore shows → catalog PR" (daily, 6 AM Central) keeps every
+  file current: one branch `shows/daily`, one pull request, merged by the
+  routine once the validator passes. Every run checks each city's big rooms
+  and lists what it found in the pull request.

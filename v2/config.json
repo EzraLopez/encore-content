@@ -1,10 +1,10 @@
 {
   "meta": {
-    "version": 242,
-    "publishedAt": "2026-11-27T07:58:00Z",
-    "iosBuild": 269,
+    "version": 247,
+    "publishedAt": "2026-11-27T19:12:45Z",
+    "iosBuild": 278,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
-    "androidBuild": 189,
+    "androidBuild": 192,
     "androidUpdateUrl": "https://play.google.com/apps/internaltest/4699840607140778833"
   },
   "festivals": [
@@ -20667,6 +20667,164 @@
       "endDate": "2027-11-20",
       "websiteUrl": "https://socal.dreamstateusa.com/",
       "days": []
+    },
+    {
+      "id": "seismic-dance-event-2027",
+      "name": "Seismic Dance Event 10.0",
+      "tagline": "Three days of house, techno, and underground dance music",
+      "location": "Austin, TX",
+      "timezone": "America/Chicago",
+      "venue": "The Concourse Project",
+      "latitude": 30.180472,
+      "longitude": -97.686183,
+      "startDate": "2027-11-12",
+      "endDate": "2027-11-14",
+      "websiteUrl": "https://www.seismicdanceevent.com/",
+      "instagramUrl": "https://instagram.com/seismicdanceevent",
+      "days": [],
+      "notice": {
+        "id": "seismic-2027-ticket-on-sale",
+        "title": "Tickets go on sale December 1",
+        "body": "Loyalty presale starts November 30, 2026 at 3 PM CT for Seismic 9.0 ticket buyers. General sale starts December 1, 2026 at 3 PM CT.",
+        "notify": false,
+        "linkUrl": "https://www.seismicdanceevent.com/seismic-10-0-dates-announced/",
+        "linkLabel": "Ticket announcement"
+      }
+    },
+    {
+      "id": "welcome-to-rockville-2027",
+      "name": "Welcome to Rockville 2027",
+      "tagline": "Four days of rock and metal at Daytona International Speedway",
+      "location": "Daytona Beach, FL",
+      "timezone": "America/New_York",
+      "venue": "Daytona International Speedway",
+      "latitude": 29.1863,
+      "longitude": -81.0706,
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-09",
+      "websiteUrl": "https://welcometorockville.com",
+      "instagramUrl": "https://instagram.com/welcometorockville",
+      "accentColor": "#C8102E",
+      "days": []
+    },
+    {
+      "id": "welcome-to-rockville-2026",
+      "name": "Welcome to Rockville 2026",
+      "location": "Daytona Beach, FL",
+      "timezone": "America/New_York",
+      "venue": "Daytona International Speedway",
+      "latitude": 29.1863,
+      "longitude": -81.0706,
+      "startDate": "2026-05-07",
+      "endDate": "2026-05-10",
+      "websiteUrl": "https://welcometorockville.com",
+      "instagramUrl": "https://instagram.com/welcometorockville",
+      "accentColor": "#C8102E",
+      "days": []
+    },
+    {
+      "id": "inkcarceration-2027",
+      "name": "Inkcarceration 2027",
+      "tagline": "Metal, tattoos and a three-day lockdown at the Ohio State Reformatory",
+      "location": "Mansfield, OH",
+      "timezone": "America/New_York",
+      "venue": "Ohio State Reformatory",
+      "latitude": 40.7617,
+      "longitude": -82.516,
+      "startDate": "2027-07-16",
+      "endDate": "2027-07-18",
+      "websiteUrl": "https://inkcarceration.com",
+      "instagramUrl": "https://instagram.com/inkcarcerationfestival",
+      "days": []
+    },
+    {
+      "id": "aftershock-2027",
+      "name": "Aftershock 2027",
+      "tagline": "Four days of rock and metal at Sacramento's Discovery Park",
+      "location": "Sacramento, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Discovery Park",
+      "latitude": 38.6045,
+      "longitude": -121.506,
+      "startDate": "2027-09-30",
+      "endDate": "2027-10-03",
+      "websiteUrl": "https://aftershockfestival.com",
+      "instagramUrl": "https://instagram.com/aftershockfestival",
+      "days": []
+    },
+    {
+      "id": "riot-fest-2026",
+      "name": "Riot Fest 2026",
+      "tagline": "Punk's Chicago party in Douglass Park, with Tool and Alanis Morissette",
+      "location": "Chicago, IL",
+      "timezone": "America/Chicago",
+      "venue": "Douglass Park",
+      "latitude": 41.8607,
+      "longitude": -87.7162,
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "websiteUrl": "https://riotfest.org",
+      "instagramUrl": "https://instagram.com/riot_fest",
+      "days": []
+    },
+    {
+      "id": "louder-than-life-2026",
+      "name": "Louder Than Life 2026",
+      "tagline": "America's biggest rock and metal weekend, Iron Maiden and Tool in Louisville",
+      "location": "Louisville, KY",
+      "timezone": "America/New_York",
+      "venue": "Kentucky Exposition Center",
+      "latitude": 38.2002,
+      "longitude": -85.7405,
+      "startDate": "2026-09-17",
+      "endDate": "2026-09-20",
+      "websiteUrl": "https://louderthanlifefestival.com",
+      "instagramUrl": "https://instagram.com/louderthanlifefest",
+      "days": []
+    },
+    {
+      "id": "aftershock-2026",
+      "name": "Aftershock 2026",
+      "location": "Sacramento, CA",
+      "timezone": "America/Los_Angeles",
+      "venue": "Discovery Park",
+      "latitude": 38.6045,
+      "longitude": -121.506,
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-04",
+      "websiteUrl": "https://aftershockfestival.com",
+      "days": [],
+      "instagramUrl": "https://instagram.com/aftershockfestival"
+    },
+    {
+      "id": "inkcarceration-2026",
+      "name": "Inkcarceration 2026",
+      "location": "Mansfield, OH",
+      "timezone": "America/New_York",
+      "venue": "Ohio State Reformatory",
+      "latitude": 40.7617,
+      "longitude": -82.516,
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-19",
+      "websiteUrl": "https://inkcarceration.com",
+      "days": [],
+      "instagramUrl": "https://instagram.com/inkcarcerationfestival"
+    },
+    {
+      "id": "sick-new-world-las-vegas-2026",
+      "name": "Sick New World Las Vegas 2026",
+      "tagline": "System of a Down and Korn headline the Las Vegas Festival Grounds",
+      "location": "Las Vegas, NV",
+      "timezone": "America/Los_Angeles",
+      "venue": "Las Vegas Festival Grounds",
+      "latitude": 36.1431,
+      "longitude": -115.1565,
+      "startDate": "2026-04-25",
+      "endDate": "2026-04-25",
+      "websiteUrl": "https://www.sicknewworldfest.com",
+      "instagramUrl": "https://instagram.com/sicknewworld",
+      "days": [],
+      "accentColor": "#1B8F8A"
     }
   ],
   "shows": [],
@@ -35582,6 +35740,18 @@
     "abgt700": {
       "outcome": "no-dates-yet",
       "note": "ABGT700 (Sept 11–13, The Gorge) is in Encore: search for it to mark it Attended · no later dates announced"
+    },
+    "riot fest": {
+      "outcome": "no-dates-yet",
+      "note": "Riot Fest 2026 (Sept 18–20) is in Encore: search for it to mark it Attended · 2027 dates aren't official yet"
+    },
+    "louder than life": {
+      "outcome": "no-dates-yet",
+      "note": "Louder Than Life 2026 (Sept 17–20) is in Encore: search for it to mark it Attended · 2027 dates aren't out yet"
+    },
+    "sick new world": {
+      "outcome": "no-dates-yet",
+      "note": "Sick New World Las Vegas 2026 (Apr 25) is in Encore: search for it to mark it Attended · 2027 dates aren't announced yet"
     }
   }
 }

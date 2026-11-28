@@ -1,0 +1,63 @@
+{
+  "region": 2,
+  "city": "Los Angeles",
+  "updatedAt": "2026-11-27",
+  "shows": [
+    {
+      "title": "System of a Down: Live at the Rose Bowl",
+      "date": "2027-06-05",
+      "venue": "Rose Bowl",
+      "venueLocation": "Pasadena, CA",
+      "artists": [
+        "System of a Down",
+        "Pierce the Veil"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/system-of-a-down-live-at-pasadena-california-06-05-2027/event/0B00654F03C7CE96",
+      "found": "https://www.ticketmaster.com/System-of-a-Down-tickets/artist/726146",
+      "startTime": "18:30"
+    },
+    {
+      "title": "System of a Down: Live at the Rose Bowl",
+      "date": "2027-06-06",
+      "venue": "Rose Bowl",
+      "venueLocation": "Pasadena, CA",
+      "artists": [
+        "System of a Down",
+        "Pierce the Veil"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/system-of-a-down-live-at-pasadena-california-06-06-2027/event/0B006556AD256338",
+      "found": "https://www.ticketmaster.com/System-of-a-Down-tickets/artist/726146",
+      "startTime": "18:30"
+    },
+    {
+      "title": "System of a Down: Live at the Rose Bowl",
+      "date": "2027-06-10",
+      "venue": "Rose Bowl",
+      "venueLocation": "Pasadena, CA",
+      "artists": [
+        "System of a Down",
+        "Gojira"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/system-of-a-down-live-at-pasadena-california-06-10-2027/event/0B006556AD2E6341",
+      "found": "https://www.ticketmaster.com/System-of-a-Down-tickets/artist/726146",
+      "startTime": "18:30"
+    },
+    {
+      "title": "System of a Down: Live at the Rose Bowl",
+      "date": "2027-06-12",
+      "venue": "Rose Bowl",
+      "venueLocation": "Pasadena, CA",
+      "artists": [
+        "System of a Down",
+        "Gojira"
+      ],
+      "genres": "metal",
+      "link": "https://www.ticketmaster.com/system-of-a-down-live-at-the-rose-bowl-pasadena-06-12-2027/event/0B006556AD38634F",
+      "found": "https://www.ticketmaster.com/System-of-a-Down-tickets/artist/726146",
+      "startTime": "18:30"
+    }
+  ]
+}

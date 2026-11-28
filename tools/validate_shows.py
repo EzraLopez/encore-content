@@ -28,6 +28,16 @@ MAX_LINEUP = 120
 errors = []
 
 
+# The file each region's list lives in (encore-android functions/curatedShows.js
+# LISTS, Nov 28, 2026): the server reads shows/<name>.json for that region only,
+# so a file under another name, or with another region's id, is never read.
+LIST_FILES = {
+    1: "san-francisco", 2: "los-angeles", 3: "seattle", 4: "atlanta", 5: "miami", 6: "washington-dc", 7: "toronto",
+    8: "iowa-nebraska", 9: "austin", 10: "denver", 11: "chicago", 12: "detroit", 13: "boston", 14: "phoenix",
+    15: "portland", 16: "vancouver", 17: "dallas-fort-worth", 18: "houston", 19: "san-antonio", 20: "new-york",
+}
+
+
 def err(path, msg):
     errors.append(f"{path}: {msg}")
 
@@ -41,6 +51,8 @@ def check(path):
     if not isinstance(data, dict) or not isinstance(data.get("region"), int):
         err(path, "needs an integer `region` (the city's id in showSources.js)")
         return
+    if LIST_FILES.get(data["region"]) != Path(path).stem:
+        err(path, f"region {data['region']} is read from shows/{LIST_FILES.get(data['region'], '(no file)')}.json, not {Path(path).name}")
     if not DATE_RE.match(str(data.get("updatedAt", ""))):
         err(path, "`updatedAt` must be YYYY-MM-DD")
     shows = data.get("shows")
