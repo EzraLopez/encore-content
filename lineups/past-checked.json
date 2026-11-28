@@ -235,5 +235,34 @@
       "https://www.local10.com/entertainment/2026/03/26/ultra-music-festivals-day-2-here-is-the-lineup-for-saturday/",
       "https://www.local10.com/entertainment/2026/03/27/ultra-music-festivals-day-3-here-is-the-lineup-for-sunday/"
     ]
+  },
+  "riot-fest-2026": {
+    "date": "2026-11-28",
+    "result": "added 106 artists with days, from the official lineup page (William Shatner and his metal band The *uckers listed as billed)",
+    "sources": [
+      "https://riotfest.org/lineup/"
+    ]
+  },
+  "louder-than-life-2026": {
+    "date": "2026-11-28",
+    "result": "added 198 artists with days, from the official site lineup data",
+    "sources": [
+      "https://louderthanlifefestival.com/lineup/"
+    ]
+  },
+  "aftershock-2026": {
+    "date": "2026-11-28",
+    "result": "added 142 artists with days, from the official site lineup data",
+    "sources": [
+      "https://aftershockfestival.com/lineup"
+    ]
+  },
+  "inkcarceration-2026": {
+    "date": "2026-11-28",
+    "result": "added 67 artists with days, from the promoter's daily schedule announcement (names only, no set times); cross-checked headliners against Consequence",
+    "sources": [
+      "https://www.richlandsource.com/2026/05/21/daily-music-schedule-announced-for-inkcarceration-music-tattoo-festival/",
+      "https://concerts.consequence.net/articles/inkcarceration-festival-2026-lineup"
+    ]
   }
 }
