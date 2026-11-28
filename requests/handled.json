@@ -159,5 +159,82 @@
       "https://dreamstate.frontgatetickets.com/event/ij0q6g63xncre4aa"
     ],
     "note": "2027-11-19 to 2027-11-20, Queen Mary Waterfront. Lineup pending."
+  },
+  "welcome to rockville": {
+    "outcome": "added",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "welcome-to-rockville-2027",
+      "welcome-to-rockville-2026"
+    ],
+    "sources": [
+      "https://www.kerrang.com/welcome-to-rockville-confirms-dates-for-2027-edition",
+      "https://www.fox35orlando.com/news/welcome-rockville-2027-festival-dates-tickets-lineup",
+      "https://www.musicfestivalwizard.com/festivals/welcome-to-rockville-2027/",
+      "https://en.wikipedia.org/wiki/Welcome_to_Rockville"
+    ],
+    "note": "May 6-9, 2027 at Daytona International Speedway; 2026 edition (May 7-10) added as past. Full lineup page not reachable, so lineup left empty. No subreddit found."
+  },
+  "riot fest": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "riot-fest-2026"
+    ],
+    "sources": [
+      "https://www.fox32chicago.com/news/riot-fest-douglass-park-2027-new-deal",
+      "https://www.cbsnews.com/chicago/news/riot-fest-daily-lineups-2026/"
+    ],
+    "note": "Past edition added. Venue deal through 2027; 2027 dates only on resale listings (Sept 17-19), not official."
+  },
+  "inkcarceration": {
+    "outcome": "added",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "inkcarceration-2027",
+      "inkcarceration-2026"
+    ],
+    "sources": [
+      "https://metalinjection.net/tour-dates/festivals/inkcarceration-announces-2027-edition-dates-and-return-to-ohio-state-reformatory",
+      "https://themusicuniverse.com/inkcarceration-announces-2027-dates/"
+    ],
+    "note": "July 16-18, 2027."
+  },
+  "louder than life": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "louder-than-life-2026"
+    ],
+    "sources": [
+      "https://themetallist.com/en/news/2026/01/louder-than-life-2026-dates-announced/",
+      "https://louderthanlifefestival.com/about/"
+    ],
+    "note": "Past edition added; no 2027 dates found."
+  },
+  "aftershock": {
+    "outcome": "added",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "aftershock-2027",
+      "aftershock-2026"
+    ],
+    "sources": [
+      "https://www.ticketnews.com/2026/11/aftershock-2027-dates-tickets-presales/",
+      "https://themusicuniverse.com/aftershock-2027-dates-announced/"
+    ],
+    "note": "Sept 30-Oct 3, 2027, Discovery Park."
+  },
+  "sick new world": {
+    "outcome": "no-dates-yet",
+    "date": "2026-11-27",
+    "festivalIds": [
+      "sick-new-world-las-vegas-2026",
+      "sick-new-world-texas-2026"
+    ],
+    "sources": [
+      "https://www.frontstagefestivals.com/festival/sick-new-world-2027"
+    ],
+    "note": "Las Vegas 2027 listed as dates TBD."
   }
 }
