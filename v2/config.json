@@ -1,7 +1,7 @@
 {
   "meta": {
-    "version": 248,
-    "publishedAt": "2026-11-28T09:53:11Z",
+    "version": 249,
+    "publishedAt": "2026-11-28T10:28:43Z",
     "iosBuild": 278,
     "iosUpdateUrl": "https://testflight.apple.com/join/q9egDUzC",
     "androidBuild": 192,
@@ -20705,7 +20705,769 @@
       "websiteUrl": "https://welcometorockville.com",
       "instagramUrl": "https://instagram.com/welcometorockville",
       "accentColor": "#C8102E",
-      "days": []
+      "days": [],
+      "lineup": [
+        {
+          "id": "welcome-to-rockville-2027-blink-182",
+          "artist": "Blink-182",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-korn",
+          "artist": "Korn",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-pierce-the-veil",
+          "artist": "Pierce The Veil",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-bad-omens",
+          "artist": "Bad Omens",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-suicideboys",
+          "artist": "$UICIDEBOY$",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-faith-no-more",
+          "artist": "Faith No More",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-papa-roach",
+          "artist": "Papa Roach",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-mgk",
+          "artist": "MGK",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-offspring",
+          "artist": "The Offspring",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-alice-in-chains",
+          "artist": "Alice In Chains",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-prodigy",
+          "artist": "The Prodigy",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-good-charlotte",
+          "artist": "Good Charlotte",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-marilyn-manson",
+          "artist": "Marilyn Manson",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-knocked-loose",
+          "artist": "Knocked Loose",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-judas-priest",
+          "artist": "Judas Priest",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-ice-nine-kills",
+          "artist": "Ice Nine Kills",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-danzig",
+          "artist": "Danzig",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-bilmuri",
+          "artist": "Bilmuri",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-circa-survive",
+          "artist": "Circa Survive",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-i-prevail",
+          "artist": "I Prevail",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-julia-wolf",
+          "artist": "Julia Wolf",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-till-lindemann",
+          "artist": "Till Lindemann",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-cypress-hill",
+          "artist": "Cypress Hill",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-311",
+          "artist": "311",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-seether",
+          "artist": "Seether",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-stone-temple-pilots",
+          "artist": "Stone Temple Pilots",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-hot-mulligan",
+          "artist": "Hot Mulligan",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-pretty-reckless",
+          "artist": "The Pretty Reckless",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-poppy",
+          "artist": "Poppy",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-lil-jon",
+          "artist": "Lil Jon",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-bullet-for-my-valentine",
+          "artist": "Bullet For My Valentine",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-she-wants-revenge",
+          "artist": "She Wants Revenge",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-president",
+          "artist": "President",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-wage-war",
+          "artist": "Wage War",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-pendulum",
+          "artist": "Pendulum",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-meshuggah",
+          "artist": "Meshuggah",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-chiodos",
+          "artist": "Chiodos",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-black-veil-brides",
+          "artist": "Black Veil Brides",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-dashboard-confessional",
+          "artist": "Dashboard Confessional",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-kublai-khan-tx",
+          "artist": "Kublai Khan TX",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-cobra-starship",
+          "artist": "Cobra Starship",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-clutch",
+          "artist": "Clutch",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-rico-nasty",
+          "artist": "Rico Nasty",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-machine-head",
+          "artist": "Machine Head",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-crossfade",
+          "artist": "Crossfade",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-in-this-moment",
+          "artist": "In This Moment",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-coal-chamber",
+          "artist": "Coal Chamber",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-sleep-theory",
+          "artist": "Sleep Theory",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-sullivan-king",
+          "artist": "Sullivan King",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-chad-gray",
+          "artist": "Chad Gray",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-loathe",
+          "artist": "Loathe",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-sugar-ray",
+          "artist": "Sugar Ray",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-everlast",
+          "artist": "Everlast",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-testament",
+          "artist": "Testament",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-escape-the-fate",
+          "artist": "Escape The Fate",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-skid-row",
+          "artist": "Skid Row",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-hanabie",
+          "artist": "HANABIE.",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-waka-flocka-flame",
+          "artist": "Waka Flocka Flame",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-superheaven",
+          "artist": "Superheaven",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-p-o-d",
+          "artist": "P.O.D.",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-imminence",
+          "artist": "Imminence",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-thursday",
+          "artist": "Thursday",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-steve-o",
+          "artist": "Steve-O",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-from-ashes-to-new",
+          "artist": "From Ashes To New",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-kim-dracula",
+          "artist": "Kim Dracula",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-forever-the-sickest-kids",
+          "artist": "Forever The Sickest Kids",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-amity-affliction",
+          "artist": "The Amity Affliction",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-magnolia-park",
+          "artist": "Magnolia Park",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-b-o-b",
+          "artist": "B.o.B",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-saosin",
+          "artist": "Saosin",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-violent-vira",
+          "artist": "Violent Vira",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-relient-k",
+          "artist": "Relient K",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-peelingflesh",
+          "artist": "PeelingFlesh",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-kittie",
+          "artist": "Kittie",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-hey-monday",
+          "artist": "Hey Monday",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-of-mice-and-men",
+          "artist": "Of Mice & Men",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-steel-panther",
+          "artist": "Steel Panther",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-eve-6",
+          "artist": "Eve 6",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-carpenter-brut",
+          "artist": "Carpenter Brut",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-crowbar",
+          "artist": "Crowbar",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-helmet",
+          "artist": "Helmet",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-corrosion-of-conformity",
+          "artist": "Corrosion of Conformity",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-wind-rose",
+          "artist": "Wind Rose",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-crown-the-empire",
+          "artist": "Crown The Empire",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-boundaries",
+          "artist": "Boundaries",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-a-heartwell-ending",
+          "artist": "A Heartwell Ending",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-blood-incantation",
+          "artist": "Blood Incantation",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-quiet-riot",
+          "artist": "Quiet Riot",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-fit-for-an-autopsy",
+          "artist": "Fit For An Autopsy",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-after-the-burial",
+          "artist": "After The Burial",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-diggy-graves",
+          "artist": "Diggy Graves",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-stabbing-westward",
+          "artist": "Stabbing Westward",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-soulfly",
+          "artist": "Soulfly",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-funeral-portrait",
+          "artist": "The Funeral Portrait",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-palisades",
+          "artist": "Palisades",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-fear-factory",
+          "artist": "Fear Factory",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-invent-animate",
+          "artist": "Invent Animate",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-dirty-honey",
+          "artist": "Dirty Honey",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-armor-for-sleep",
+          "artist": "Armor for Sleep",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-hot-milk",
+          "artist": "Hot Milk",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-slomosa",
+          "artist": "Slomosa",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-drowning-pool",
+          "artist": "Drowning Pool",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-silent-planet",
+          "artist": "Silent Planet",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-shadows-fall",
+          "artist": "Shadows Fall",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-cute-is-what-we-aim-for",
+          "artist": "Cute Is What We Aim For",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-hellogoodbye",
+          "artist": "Hellogoodbye",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-lacuna-coil",
+          "artist": "Lacuna Coil",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-her-last-sight",
+          "artist": "Her Last Sight",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-i-see-stars",
+          "artist": "I See Stars",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-showing-teeth",
+          "artist": "Showing Teeth",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-american-hi-fi",
+          "artist": "American Hi-Fi",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-vana",
+          "artist": "Vana",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-south-arcade",
+          "artist": "South Arcade",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-metal-church",
+          "artist": "Metal Church",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-nailbomb",
+          "artist": "Nailbomb",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-kami-kehoe",
+          "artist": "Kami Kehoe",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-the-fall-of-troy",
+          "artist": "The Fall of Troy",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-emarosa",
+          "artist": "Emarosa",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-deathbyromy",
+          "artist": "DeathbyRomy",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-gideon",
+          "artist": "Gideon",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-sace6",
+          "artist": "sace6",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-mac-sabbath",
+          "artist": "Mac Sabbath",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-point-north",
+          "artist": "Point North",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-powerman-5000",
+          "artist": "Powerman 5000",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-static-dress",
+          "artist": "Static Dress",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-lower-definition",
+          "artist": "Lower Definition",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-lady-radiator",
+          "artist": "Lady Radiator",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-orgy",
+          "artist": "Orgy",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-ninth-key",
+          "artist": "Ninth Key",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-varials",
+          "artist": "Varials",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-malevolence",
+          "artist": "Malevolence",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-rev3rent",
+          "artist": "rev3rent",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-thousand-below",
+          "artist": "Thousand Below",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-silly-goose",
+          "artist": "Silly Goose",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-autumn-kings",
+          "artist": "Autumn Kings",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-tx2",
+          "artist": "TX2",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-driveways",
+          "artist": "Driveways",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-kingdom-of-giants",
+          "artist": "Kingdom of Giants",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-ho99o9",
+          "artist": "Ho99o9",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-xcomm",
+          "artist": "XCOMM",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-arankai",
+          "artist": "Arankai",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-chained-saint",
+          "artist": "Chained Saint",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-dark-divine",
+          "artist": "Dark Divine",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-sylosis",
+          "artist": "Sylosis",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-asava",
+          "artist": "ASAVA",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-ded",
+          "artist": "Ded",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-pinknoise",
+          "artist": "PINKNOISE",
+          "day": "2027-05-08"
+        },
+        {
+          "id": "welcome-to-rockville-2027-infected-rain",
+          "artist": "Infected Rain",
+          "day": "2027-05-07"
+        },
+        {
+          "id": "welcome-to-rockville-2027-zahna",
+          "artist": "ZAHNA",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-daniel-spriggs",
+          "artist": "Daniel Spriggs",
+          "day": "2027-05-09"
+        },
+        {
+          "id": "welcome-to-rockville-2027-bdywash",
+          "artist": "bødyWash",
+          "day": "2027-05-06"
+        },
+        {
+          "id": "welcome-to-rockville-2027-silent-theory",
+          "artist": "Silent Theory",
+          "day": "2027-05-09"
+        }
+      ]
     },
     {
       "id": "welcome-to-rockville-2026",
@@ -23409,6 +24171,9 @@
       "color": "#7B753B",
       "color2": "#4C4925"
     },
+    "$UICIDEBOY$": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/%24uicideboy%24/1081606072"
+    },
     "$ami G": {
       "appleMusicUrl": "https://music.apple.com/us/artist/%24ami-g/6773135774",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/18/15/1e/18151e19-e429-2818-638e-a69574db1d1a/ami-identity-4cb5b2531b70e3780d8ff603d6a6d7d8-2026-06-16T18-00-20.244Z_cropped.png/600x600bb.jpg",
@@ -24034,6 +24799,9 @@
       "color": "#BD580F",
       "color2": "#753609"
     },
+    "Aim High": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aim-high/1456347364"
+    },
     "Airglo": {
       "appleMusicUrl": "https://music.apple.com/us/artist/airglo/1526308915"
     },
@@ -24069,7 +24837,8 @@
       "color2": "#5B6436"
     },
     "Alanis Morissette": {
-      "spotifyUrl": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+      "spotifyUrl": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi",
+      "appleMusicUrl": "https://music.apple.com/us/artist/alanis-morissette/1092859"
     },
     "Alarico B2B Yanamaste": {
       "appleMusicUrl": "https://music.apple.com/us/artist/alarico/1551723479",
@@ -24140,7 +24909,8 @@
       "color2": "#7A4988"
     },
     "Alexisonfire": {
-      "spotifyUrl": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+      "spotifyUrl": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2",
+      "appleMusicUrl": "https://music.apple.com/us/artist/alexisonfire/29405104"
     },
     "Algernon Cadwallader": {
       "spotifyUrl": "https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE"
@@ -24399,7 +25169,8 @@
       "color2": "#333C6B"
     },
     "Apocalyptica": {
-      "spotifyUrl": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+      "spotifyUrl": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I",
+      "appleMusicUrl": "https://music.apple.com/us/artist/apocalyptica/411644"
     },
     "Apollonia": {
       "appleMusicUrl": "https://music.apple.com/us/artist/apollonia/82353967",
@@ -24484,6 +25255,9 @@
       "spotifyUrl": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1",
       "color": "#0C6497",
       "color2": "#572F2F"
+    },
+    "Armor for Sleep": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/armor-for-sleep/29404808"
     },
     "Arm’s Length": {
       "appleMusicUrl": "https://music.apple.com/us/artist/arms-length/1474016594"
@@ -24611,6 +25385,9 @@
       "color": "#764A2D",
       "color2": "#492E1C"
     },
+    "Aviana": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/aviana/270116272"
+    },
     "Axolotes Mexicanos": {
       "appleMusicUrl": "https://music.apple.com/us/artist/axolotes-mexicanos/579968187",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/0e/f6/40/0ef640d9-565f-7e3f-4d27-1cbb5d25609e/1fe8b4ac-b0ad-4465-96cb-bb3c171d11cd_ami-identity-ad3c5a8ea59c99844b89ae6b87d5677e-2024-05-10T08-21-22.867Z_cropped.png/600x600bb.jpg",
@@ -24678,6 +25455,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/36/94/3e/36943ea3-f8f6-fe1a-a26a-782e333dbe34/artwork.jpg/600x600ac.jpg",
       "color": "#7B3B42",
       "color2": "#954B1A"
+    },
+    "BABYMETAL": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/babymetal/477101776"
     },
     "BABYMONSTER": {
       "appleMusicUrl": "https://music.apple.com/us/artist/babymonster/1715981813",
@@ -24950,7 +25730,8 @@
       "spotifyUrl": "https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V"
     },
     "Bad Religion": {
-      "spotifyUrl": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+      "spotifyUrl": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9",
+      "appleMusicUrl": "https://music.apple.com/us/artist/bad-religion/150160"
     },
     "BadWolf": {
       "appleMusicUrl": "https://music.apple.com/us/artist/badwolf/1412998997",
@@ -25150,6 +25931,9 @@
       "color": "#35606E",
       "color2": "#904C30"
     },
+    "Ben Quad": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ben-quad/1433413372"
+    },
     "Ben Sterling": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ben-sterling/302969723",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/74/63/bc/7463bc9c-0017-4ea6-7747-39af0f577875/ami-identity-e2278b9562d844093d9990b3eb29c770-2025-09-09T14-32-26.957Z_cropped.png/600x600bb.jpg",
@@ -25310,6 +26094,9 @@
     "Billy McNicol": {
       "appleMusicUrl": "https://music.apple.com/us/artist/billy-mcnicol/602973882"
     },
+    "Bilmuri": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/bilmuri/1072442999"
+    },
     "Bipolar Sunshine": {
       "appleMusicUrl": "https://music.apple.com/us/artist/bipolar-sunshine/642896832",
       "spotifyUrl": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H",
@@ -25347,7 +26134,8 @@
       "color2": "#572F32"
     },
     "Black Veil Brides": {
-      "spotifyUrl": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+      "spotifyUrl": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs",
+      "appleMusicUrl": "https://music.apple.com/us/artist/black-veil-brides/276789923"
     },
     "Blackhaine": {
       "appleMusicUrl": "https://music.apple.com/us/artist/blackhaine/1538365614",
@@ -25395,7 +26183,8 @@
       "color2": "#201D1D"
     },
     "Blessthefall": {
-      "spotifyUrl": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+      "spotifyUrl": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9",
+      "appleMusicUrl": "https://music.apple.com/us/artist/blessthefall/202971163"
     },
     "Blondshell": {
       "appleMusicUrl": "https://music.apple.com/us/artist/blondshell/1624592688",
@@ -25403,6 +26192,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/53/73/83/53738332-f1df-eb77-dc5a-aa8fe79ec4f6/ami-identity-7b24853f0b18c4f9a82f1a88113e246e-2026-06-25T14-11-32.691Z_cropped.png/600x600bb.jpg",
       "color": "#7253AC",
       "color2": "#884949"
+    },
+    "Blood For Blood": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/blood-for-blood/7253942"
     },
     "Blood Orange": {
       "appleMusicUrl": "https://music.apple.com/us/artist/blood-orange/440698865",
@@ -25499,7 +26291,8 @@
       "spotifyUrl": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
     },
     "Born of Osiris": {
-      "spotifyUrl": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt"
+      "spotifyUrl": "https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt",
+      "appleMusicUrl": "https://music.apple.com/us/artist/born-of-osiris/265002070"
     },
     "Bou": {
       "appleMusicUrl": "https://music.apple.com/us/artist/bou/1648132782",
@@ -25646,7 +26439,8 @@
       "spotifyUrl": "https://open.spotify.com/artist/5SDYJN4TRZ3khpMNR9zZTG"
     },
     "Brujeria": {
-      "spotifyUrl": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY"
+      "spotifyUrl": "https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY",
+      "appleMusicUrl": "https://music.apple.com/us/artist/brujeria/4163922"
     },
     "Bruna Strait": {
       "appleMusicUrl": "https://music.apple.com/us/artist/bruna-strait/1485724921",
@@ -26039,6 +26833,9 @@
       "color": "#354B6E",
       "color2": "#3B6921"
     },
+    "Cardinals": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cardinals/1651654416"
+    },
     "Cardo": {
       "spotifyUrl": "https://open.spotify.com/artist/3srXXL0H2H3PqGKvLcNjkG",
       "appleMusicUrl": "https://music.apple.com/us/artist/cardo/1726638618",
@@ -26083,6 +26880,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages122/v4/64/b6/e3/64b6e3fc-639c-2ff0-b4b4-f050118b7132/c11619ca-609e-49bd-9fd2-8dc91db04e8d_ami-identity-f3f49d665e6fd8af68f9d2d428962620-2022-10-17T17-25-37.046Z_cropped.png/600x600bb.jpg",
       "color": "#9B684B",
       "color2": "#60402E"
+    },
+    "Carpenter Brut": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/carpenter-brut/593656958"
     },
     "Carré": {
       "appleMusicUrl": "https://music.apple.com/us/artist/carre/1695916096",
@@ -26522,11 +27322,17 @@
       "color": "#423838",
       "color2": "#201D1D"
     },
+    "Cobra Starship": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cobra-starship/174835391"
+    },
     "Code Black": {
       "appleMusicUrl": "https://music.apple.com/us/artist/code-black/160326269",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features69/v4/ef/cc/b8/efccb88c-2e9a-681c-44d0-533754df1fdf/mzl.uwwdewbu.jpg/600x600bb.jpg",
       "color": "#423B38",
       "color2": "#201E1D"
+    },
+    "Codefendants": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/codefendants/1656143063"
     },
     "Cody Jinks": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cody-jinks/363412711",
@@ -26542,7 +27348,8 @@
       "color2": "#201D1D"
     },
     "Coheed and Cambria": {
-      "spotifyUrl": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+      "spotifyUrl": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8",
+      "appleMusicUrl": "https://music.apple.com/us/artist/coheed-and-cambria/15031628"
     },
     "Cold Blue": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cold-blue/49264925",
@@ -26648,6 +27455,9 @@
       "color": "#35396E",
       "color2": "#63353E"
     },
+    "Corpse Pile": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/corpse-pile/1531643362"
+    },
     "Corrosion of Conformity": {
       "appleMusicUrl": "https://music.apple.com/us/artist/corrosion-of-conformity/485858",
       "spotifyUrl": "https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR"
@@ -26713,7 +27523,8 @@
       "color2": "#834846"
     },
     "Cro-Mags": {
-      "spotifyUrl": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg"
+      "spotifyUrl": "https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg",
+      "appleMusicUrl": "https://music.apple.com/us/artist/cro-mags/4110585"
     },
     "Crowded House": {
       "appleMusicUrl": "https://music.apple.com/us/artist/crowded-house/490131",
@@ -26751,6 +27562,9 @@
       "color": "#A75450",
       "color2": "#673432"
     },
+    "Cute Is What We Aim For": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/cute-is-what-we-aim-for/159378970"
+    },
     "Cvmrn": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cvmrn/1525500383"
     },
@@ -26761,7 +27575,8 @@
       "color2": "#884949"
     },
     "Cypress Hill": {
-      "spotifyUrl": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+      "spotifyUrl": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX",
+      "appleMusicUrl": "https://music.apple.com/us/artist/cypress-hill/465802"
     },
     "Cyril": {
       "appleMusicUrl": "https://music.apple.com/us/artist/cyril/1552317527",
@@ -26835,6 +27650,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/1c/04/00/1c0400ca-1844-86a9-a74c-84a16603452f/ami-identity-f2a65a07013952ea8381c08321aaabc0-2026-07-15T08-35-02.483Z_cropped.png/600x600bb.jpg",
       "color": "#970C14",
       "color2": "#5E080C"
+    },
+    "DED": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ded/1187989069"
     },
     "DEEPER PURPOSE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/deeper-purpose/790466856",
@@ -27283,6 +28101,9 @@
       "color": "#423838",
       "color2": "#201D1D"
     },
+    "Dark Divine": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dark-divine/1585229368"
+    },
     "Darksiderz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/darksiderz/478727954",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/f9/de/c1/f9dec1a2-34ec-e3df-ff2b-ffbecd840902/pr_source.png/600x600bb.jpg",
@@ -27321,6 +28142,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/02/ac/22/02ac221a-1e65-8115-5caa-b5168f1379a9/pr_source.png/600x600bb.jpg",
       "color": "#CC2A17",
       "color2": "#724A14"
+    },
+    "Dashboard Confessional": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dashboard-confessional/1798548"
     },
     "David Byrne": {
       "spotifyUrl": "https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB",
@@ -27401,6 +28225,9 @@
     "Dead Poet Society": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dead-poet-society/583985425"
     },
+    "Dead To Me": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/dead-to-me/162464895"
+    },
     "Dead X": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dead-x/1666245831",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fe/64/df/fe64dfec-bf4c-facf-89a6-b01b94abc027/663918184073.jpg/600x600ac.jpg",
@@ -27426,6 +28253,9 @@
       "color": "#35556E",
       "color2": "#755A3F"
     },
+    "Death Valley Dreams": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/death-valley-dreams/1074109141"
+    },
     "DeathbyRomy": {
       "spotifyUrl": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
     },
@@ -27446,6 +28276,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/51/8c/64/518c64b9-b2bd-2852-f3c8-47bb91295924/d60195dc-bb7b-4a70-8f7e-2d096bb634cd_ami-identity-ca03a6e3eb17107ecc03b5d22167afb9-2024-01-12T07-04-49.878Z_cropped.png/600x600bb.jpg",
       "color": "#8F1814",
       "color2": "#4D2F57"
+    },
+    "Ded": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ded/1187989069"
     },
     "Deep Dish": {
       "appleMusicUrl": "https://music.apple.com/us/artist/deep-dish/2148675",
@@ -27570,7 +28403,8 @@
       "color2": "#683843"
     },
     "Diamante": {
-      "spotifyUrl": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW"
+      "spotifyUrl": "https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW",
+      "appleMusicUrl": "https://music.apple.com/us/artist/diamante/1251231655"
     },
     "Die Spitz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/die-spitz/1545875931",
@@ -27578,6 +28412,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/5c/6f/18/5c6f18f2-aac9-26a2-89d0-da487e5588f2/ami-identity-271206d93c4c0ed9454c6a9a98ac0e70-2025-09-10T19-23-55.382Z_cropped.png/600x600bb.jpg",
       "color": "#954D0F",
       "color2": "#5C3009"
+    },
+    "Diggy Graves": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/diggy-graves/1540664179"
     },
     "Digital Mystikz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/digital-mystikz/213962295"
@@ -27805,6 +28642,9 @@
       "color": "#423838",
       "color2": "#201D1D"
     },
+    "Downswing": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/downswing/1219996618"
+    },
     "Dr. Chaii": {
       "appleMusicUrl": "https://music.apple.com/us/artist/dr-chaii/1396678160",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/3c/53/42/3c53421d-d8ff-9170-ba75-1c21dea4d5fd/6a88110a-c6b1-475c-b0b9-df8ed6e63f84_file_cropped.png/600x600bb.jpg",
@@ -27837,6 +28677,9 @@
       "imageUrl": "https://www.seismicdanceevent.com/wp-content/uploads/2026/08/DreyaV-PROFILE-SDE9-600x600.png",
       "color": "#356E63",
       "color2": "#805434"
+    },
+    "Driveways": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/driveways/1145036532"
     },
     "Drizzyclare": {
       "appleMusicUrl": "https://music.apple.com/us/artist/drizzyclare/1688455698"
@@ -28037,6 +28880,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/9f/0b/1a/9f0b1aed-390d-9c6f-62cf-ac23c052e2ee/file_cropped.png/600x600bb.jpg",
       "color": "#423838",
       "color2": "#201D1D"
+    },
+    "ERRA": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/erra/408917738"
     },
     "ESKUCHE": {
       "appleMusicUrl": "https://music.apple.com/us/artist/eskuche/559510240",
@@ -28250,6 +29096,9 @@
       "color": "#42383B",
       "color2": "#201D1E"
     },
+    "Entheos": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/entheos/65557334"
+    },
     "Eptic": {
       "appleMusicUrl": "https://music.apple.com/us/artist/eptic/410627502",
       "spotifyUrl": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ",
@@ -28364,6 +29213,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c9/94/b7/c994b7d0-d5a9-3c55-8563-cc9052aabb82/file_cropped.png/600x600bb.jpg",
       "color": "#99614A",
       "color2": "#226581"
+    },
+    "Everlast": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/everlast/394218"
     },
     "Excision": {
       "spotifyUrl": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb",
@@ -28586,6 +29438,9 @@
       "color": "#424038",
       "color2": "#20201D"
     },
+    "Fear, And Loathing in Las Vegas": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/fear-and-loathing-in-las-vegas/261086516"
+    },
     "Febuary": {
       "appleMusicUrl": "https://music.apple.com/us/artist/febuary/1739203152",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/6e/2b/3e/6e2b3e44-9529-9bf0-cfb3-b943029dfddb/file_cropped.png/600x600bb.jpg",
@@ -28642,6 +29497,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d9/ff/f4/d9fff46c-cdb3-e7b0-ace3-d10e6dbfe752/ami-identity-50a1c6b51cf88d422684bb186e9652bf-2026-08-13T16-15-47.025Z_cropped.png/600x600bb.jpg",
       "color": "#423838",
       "color2": "#201D1D"
+    },
+    "Filth": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/filth/1491827189"
     },
     "Finch": {
       "appleMusicUrl": "https://music.apple.com/us/artist/finch/1951837"
@@ -28759,6 +29617,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/08/8e/17/088e179a-03a2-47fa-8b20-aab943ca366a/ami-identity-115866eca28029d5f95b2429f0ae1db0-2026-02-19T13-40-09.060Z_cropped.png/600x600bb.jpg",
       "color": "#6E3541",
       "color2": "#442129"
+    },
+    "Forever The Sickest Kids": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/forever-the-sickest-kids/214992048"
     },
     "Foster the People": {
       "appleMusicUrl": "https://music.apple.com/us/artist/foster-the-people/414023649",
@@ -29119,6 +29980,9 @@
       "color": "#42383E",
       "color2": "#201D1F"
     },
+    "Gates To Hell": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/gates-to-hell/1474307662"
+    },
     "Gavin Adcock": {
       "appleMusicUrl": "https://music.apple.com/us/artist/gavin-adcock/1580645019",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/c7/b7/d2/c7b7d217-afe6-ee7b-dee4-744a12af0cc6/ami-identity-7e4babb41d76eabdb2ff23352d4ea988-2026-07-17T03-58-35.171Z_cropped.png/600x600bb.jpg",
@@ -29236,6 +30100,9 @@
       "color": "#982BD4",
       "color2": "#5E1B83"
     },
+    "Glixen": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/glixen/1563540304"
+    },
     "GloRilla": {
       "appleMusicUrl": "https://music.apple.com/us/artist/glorilla/1441017729",
       "spotifyUrl": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG",
@@ -29277,6 +30144,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2c/cb/49/2ccb4982-85e0-ddf7-036e-62dc981f7298/artwork.jpg/600x600ac.jpg",
       "color": "#AC53A9",
       "color2": "#6B3369"
+    },
+    "Good Charlotte": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/good-charlotte/468788"
     },
     "Good Neighbours": {
       "appleMusicUrl": "https://music.apple.com/us/artist/good-neighbours/1726004707",
@@ -29569,8 +30439,12 @@
       "color": "#5E356E",
       "color2": "#7C5740"
     },
+    "Hail The Sun": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hail-the-sun/382677770"
+    },
     "Halestorm": {
-      "spotifyUrl": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+      "spotifyUrl": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech",
+      "appleMusicUrl": "https://music.apple.com/us/artist/halestorm/3969358"
     },
     "Halō": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hal%C5%8D/6808298776",
@@ -29645,7 +30519,8 @@
       "appleMusicUrl": "https://music.apple.com/us/artist/haste-the-day/45865761"
     },
     "Hatebreed": {
-      "spotifyUrl": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV"
+      "spotifyUrl": "https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV",
+      "appleMusicUrl": "https://music.apple.com/us/artist/hatebreed/90291"
     },
     "Haute & Freddy": {
       "appleMusicUrl": "https://music.apple.com/us/artist/haute-freddy/1751891683",
@@ -29660,7 +30535,8 @@
       "color2": "#416738"
     },
     "Hawthorne Heights": {
-      "spotifyUrl": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+      "spotifyUrl": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe",
+      "appleMusicUrl": "https://music.apple.com/us/artist/hawthorne-heights/92149634"
     },
     "Hayley Williams": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hayley-williams/256673270",
@@ -29704,14 +30580,21 @@
       "color": "#9D53AC",
       "color2": "#61336B"
     },
+    "Hellogoodbye": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hellogoodbye/19819967"
+    },
     "Helmet": {
-      "spotifyUrl": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+      "spotifyUrl": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0",
+      "appleMusicUrl": "https://music.apple.com/us/artist/helmet/105500"
     },
     "Hemlocke Springs": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hemlocke-springs/1626170220",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/e8/99/32/e899328e-3f9a-1b58-b1b1-9867ae004c50/ami_U003aidentity_U003aea424676808f7301e9fecca13fdd5d02-2026-09-10T16-43-34.480Z_cropped.png/600x600bb.jpg",
       "color": "#417B86",
       "color2": "#4D6536"
+    },
+    "Her Last Sight": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/her-last-sight/1536125280"
     },
     "HerShe": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hershe/1454955985",
@@ -29741,6 +30624,9 @@
       "color": "#C132C3",
       "color2": "#781F79"
     },
+    "Ho99o9": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/ho99o9/914858329"
+    },
     "Hoang": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hoang/490974321",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/b9/4a/df/b94adf40-fba1-7d46-ab52-d547492d336e/pr_source.png/600x600bb.jpg",
@@ -29752,6 +30638,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages116/v4/a8/d1/18/a8d11859-441d-9a7c-3a4c-9a4c0da93607/05a41051-94c5-4516-9d4a-a4d5e3786576_ami-identity-35d97290ded814bc0a579c2b961e0f58-2023-05-12T18-02-17.825Z_cropped.png/600x600bb.jpg",
       "color": "#E31C1C",
       "color2": "#8D1111"
+    },
+    "Holding Absence": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/holding-absence/1148561527"
     },
     "Holly Humberstone": {
       "appleMusicUrl": "https://music.apple.com/us/artist/holly-humberstone/1495433177",
@@ -29804,6 +30693,9 @@
       "color": "#8D1624",
       "color2": "#580E17"
     },
+    "Hot Rod Circuit": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/hot-rod-circuit/3241080"
+    },
     "Hudson Westbrook": {
       "appleMusicUrl": "https://music.apple.com/us/artist/hudson-westbrook/1740125054",
       "spotifyUrl": "https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ",
@@ -29835,8 +30727,12 @@
       "color": "#42383B",
       "color2": "#201D1E"
     },
+    "I Prevail": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/i-prevail/948448824"
+    },
     "I See Stars": {
-      "spotifyUrl": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe"
+      "spotifyUrl": "https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe",
+      "appleMusicUrl": "https://music.apple.com/us/artist/i-see-stars/310523954"
     },
     "I Set My Friends On Fire": {
       "spotifyUrl": "https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0"
@@ -30189,7 +31085,8 @@
       "color2": "#213644"
     },
     "JMSN": {
-      "spotifyUrl": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+      "spotifyUrl": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l",
+      "appleMusicUrl": "https://music.apple.com/us/artist/jmsn/478526667"
     },
     "JOA": {
       "spotifyUrl": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9",
@@ -30870,7 +31767,8 @@
       "color2": "#805734"
     },
     "Jutes": {
-      "spotifyUrl": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4"
+      "spotifyUrl": "https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4",
+      "appleMusicUrl": "https://music.apple.com/us/artist/jutes/603222293"
     },
     "Jyoty": {
       "appleMusicUrl": "https://music.apple.com/us/artist/jyoty/1531956333",
@@ -31244,6 +32142,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/42/c4/3b/42c43baa-9a67-dc63-7bb4-f6b066eff4cc/file_cropped.png/600x600bb.jpg",
       "color": "#3D7F7E",
       "color2": "#57322F"
+    },
+    "Kingdom of Giants": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/kingdom-of-giants/416846306"
     },
     "Kingfishr": {
       "appleMusicUrl": "https://music.apple.com/us/artist/kingfishr/1616516476",
@@ -31753,6 +32654,9 @@
       "color": "#3130A9",
       "color2": "#43617D"
     },
+    "Largemouth": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/largemouth/1690044930"
+    },
     "Larkin Poe": {
       "appleMusicUrl": "https://music.apple.com/us/artist/larkin-poe/360929055",
       "spotifyUrl": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm",
@@ -31814,6 +32718,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/fe/dc/f8/fedcf8e0-1ab4-b0fc-e589-30714fa18b0c/968584ed-86c8-4c21-a369-873b90bf3780_ami-identity-1d04c63b53ba25f1d739a24947d7ffc7-2024-04-10T10-30-35.681Z_cropped.png/600x600bb.jpg",
       "color": "#423838",
       "color2": "#201D1D"
+    },
+    "Left To Suffer": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/left-to-suffer/1455594195"
     },
     "Lennert Wolfs": {
       "appleMusicUrl": "https://music.apple.com/us/artist/lennert-wolfs/842748734",
@@ -32054,7 +32961,8 @@
       "color2": "#7B5839"
     },
     "Lorna Shore": {
-      "spotifyUrl": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+      "spotifyUrl": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF",
+      "appleMusicUrl": "https://music.apple.com/us/artist/lorna-shore/385220213"
     },
     "Los Dutis": {
       "appleMusicUrl": "https://music.apple.com/us/artist/los-dutis/1106747017",
@@ -32631,6 +33539,9 @@
       "color": "#A5660D",
       "color2": "#663F08"
     },
+    "Magnolia Park": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/magnolia-park/1413545983"
+    },
     "Magoo": {
       "spotifyUrl": "https://open.spotify.com/artist/7pv3MRGkgkXa9Qn8sMctxT",
       "appleMusicUrl": "https://music.apple.com/us/artist/magoo/1703500618",
@@ -33073,7 +33984,8 @@
       "color2": "#201D1D"
     },
     "Mayday Parade": {
-      "spotifyUrl": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+      "spotifyUrl": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy",
+      "appleMusicUrl": "https://music.apple.com/us/artist/mayday-parade/192466619"
     },
     "Maz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/maz/1331954054",
@@ -33152,6 +34064,9 @@
       "color": "#715932",
       "color2": "#386761"
     },
+    "Melt-Banana": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/melt-banana/18870597"
+    },
     "Melvins": {
       "appleMusicUrl": "https://music.apple.com/us/artist/melvins/737433",
       "spotifyUrl": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3",
@@ -33201,6 +34116,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/e4/14/39e41418-7e45-1093-7521-2ca25fd36a8e/cover.jpg/600x600ac.jpg",
       "color": "#AE5F0E",
       "color2": "#741512"
+    },
+    "Meshuggah": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/meshuggah/17304969"
     },
     "Mesmé": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mesm%C3%A9/1512807143",
@@ -33396,7 +34314,8 @@
       "color2": "#884949"
     },
     "Missing Link": {
-      "spotifyUrl": "https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ"
+      "spotifyUrl": "https://open.spotify.com/artist/77iXzlVmGIOFyieeHf4qYZ",
+      "appleMusicUrl": "https://music.apple.com/us/artist/missing-link/1519852470"
     },
     "Moby": {
       "appleMusicUrl": "https://music.apple.com/us/artist/moby/789023",
@@ -33425,7 +34344,8 @@
       "color2": "#356664"
     },
     "Mom Jeans": {
-      "spotifyUrl": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+      "spotifyUrl": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h",
+      "appleMusicUrl": "https://music.apple.com/us/artist/mom-jeans/1126562395"
     },
     "Momma": {
       "appleMusicUrl": "https://music.apple.com/us/artist/momma/53773435",
@@ -33505,7 +34425,8 @@
       "color2": "#734918"
     },
     "Municipal Waste": {
-      "spotifyUrl": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+      "spotifyUrl": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE",
+      "appleMusicUrl": "https://music.apple.com/us/artist/municipal-waste/81322810"
     },
     "Murda Beatz": {
       "appleMusicUrl": "https://music.apple.com/us/artist/murda-beatz/1053740960",
@@ -33531,10 +34452,12 @@
       "color2": "#885245"
     },
     "Mushroomhead": {
-      "spotifyUrl": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
+      "spotifyUrl": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M",
+      "appleMusicUrl": "https://music.apple.com/us/artist/mushroomhead/89455"
     },
     "My Chemical Romance": {
-      "spotifyUrl": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      "spotifyUrl": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb",
+      "appleMusicUrl": "https://music.apple.com/us/artist/my-chemical-romance/14748659"
     },
     "Mykris": {
       "appleMusicUrl": "https://music.apple.com/us/artist/mykris/1394152209",
@@ -33579,6 +34502,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/6e/69/0f/6e690ffa-7932-82a7-d325-f642187cef0c/ami_U003aidentity_U003aacd4e5b3c7349407abc297c7e2f25640-2026-09-18T11-29-00.638Z_cropped.png/600x600bb.jpg",
       "color": "#75492E",
       "color2": "#492D1C"
+    },
+    "NAS": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nas/35307"
     },
     "NATASHA BEDINGFIELD": {
       "appleMusicUrl": "https://music.apple.com/us/artist/natasha-bedingfield/17768486",
@@ -33713,6 +34639,9 @@
       "color": "#AC5356",
       "color2": "#6B3335"
     },
+    "Nailbomb": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/nailbomb/80030521"
+    },
     "Nala": {
       "appleMusicUrl": "https://music.apple.com/us/artist/nala/1257292208",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/3d/43/12/3d4312b9-ad6b-659b-fae3-bee380f633df/pr_source.png/600x600bb.jpg",
@@ -33823,7 +34752,8 @@
       "color2": "#663D2F"
     },
     "New Found Glory": {
-      "spotifyUrl": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+      "spotifyUrl": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce",
+      "appleMusicUrl": "https://music.apple.com/us/artist/new-found-glory/65551"
     },
     "NewDad": {
       "appleMusicUrl": "https://music.apple.com/us/artist/newdad/1504144626",
@@ -33951,6 +34881,9 @@
     "No Lace": {
       "appleMusicUrl": "https://music.apple.com/us/artist/nolace/1887303030"
     },
+    "No Resolve": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/no-resolve/456421716"
+    },
     "Noah Cyrus": {
       "appleMusicUrl": "https://music.apple.com/us/artist/noah-cyrus/333158887",
       "spotifyUrl": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW",
@@ -33972,7 +34905,8 @@
       "color2": "#59412B"
     },
     "Nobro": {
-      "spotifyUrl": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+      "spotifyUrl": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs",
+      "appleMusicUrl": "https://music.apple.com/us/artist/nobro/1450330746"
     },
     "Noga Erez": {
       "appleMusicUrl": "https://music.apple.com/us/artist/noga-erez/1166657901",
@@ -34266,7 +35200,8 @@
       "color2": "#1B2F4B"
     },
     "Orianthi": {
-      "spotifyUrl": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs"
+      "spotifyUrl": "https://open.spotify.com/artist/0yNy8fi1yBBq526E6mx4Zs",
+      "appleMusicUrl": "https://music.apple.com/us/artist/orianthi/253190707"
     },
     "Oscar Mulero": {
       "appleMusicUrl": "https://music.apple.com/us/artist/oscar-mulero/7593520",
@@ -34396,7 +35331,8 @@
       "color2": "#944931"
     },
     "PUP": {
-      "spotifyUrl": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
+      "spotifyUrl": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN",
+      "appleMusicUrl": "https://music.apple.com/us/artist/pup/722031743"
     },
     "Paco Versailles": {
       "appleMusicUrl": "https://music.apple.com/us/artist/paco-versailles/1467547655",
@@ -34424,10 +35360,12 @@
       "color2": "#201D1D"
     },
     "Palaye Royale": {
-      "spotifyUrl": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI"
+      "spotifyUrl": "https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI",
+      "appleMusicUrl": "https://music.apple.com/us/artist/palaye-royale/508487574"
     },
     "Panic Shack": {
-      "spotifyUrl": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc"
+      "spotifyUrl": "https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc",
+      "appleMusicUrl": "https://music.apple.com/us/artist/panic-shack/1496961993"
     },
     "Pantera": {
       "spotifyUrl": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
@@ -34596,6 +35534,9 @@
       "color": "#467C91",
       "color2": "#7E553E"
     },
+    "Pentagram": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/pentagram/1196402662"
+    },
     "Perfect Stranger": {
       "spotifyUrl": "https://open.spotify.com/artist/1TK3GlOkabOFFAd55nVE7A",
       "appleMusicUrl": "https://music.apple.com/us/artist/perfect-stranger/73027919",
@@ -34634,6 +35575,9 @@
       "color": "#4F77A5",
       "color2": "#314A66"
     },
+    "Pierce The Veil": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/pierce-the-veil/258668501"
+    },
     "Pinegrove": {
       "appleMusicUrl": "https://music.apple.com/us/artist/pinegrove/1045791526",
       "spotifyUrl": "https://open.spotify.com/artist/2gbT6GPXMis0OAkZbEQCYB",
@@ -34667,7 +35611,8 @@
       "color2": "#534728"
     },
     "Pixies": {
-      "spotifyUrl": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+      "spotifyUrl": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT",
+      "appleMusicUrl": "https://music.apple.com/us/artist/pixies/2730151"
     },
     "Pizzi": {
       "appleMusicUrl": "https://music.apple.com/us/artist/pizzi/213032810",
@@ -34749,10 +35694,12 @@
       "color2": "#294D55"
     },
     "President": {
-      "spotifyUrl": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU"
+      "spotifyUrl": "https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU",
+      "appleMusicUrl": "https://music.apple.com/us/artist/president/1808681551"
     },
     "Pretty Girls Make Graves": {
-      "spotifyUrl": "https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN"
+      "spotifyUrl": "https://open.spotify.com/artist/3okeQxv9lGt59TGlLikfzN",
+      "appleMusicUrl": "https://music.apple.com/us/artist/pretty-girls-make-graves/2960894"
     },
     "Pretty Lights": {
       "appleMusicUrl": "https://music.apple.com/us/artist/pretty-lights/294600594",
@@ -34800,6 +35747,9 @@
     },
     "Public Enemy": {
       "spotifyUrl": "https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd"
+    },
+    "Public Image LTD": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/public-image-ltd/20942761"
     },
     "Purple": {
       "appleMusicUrl": "https://music.apple.com/us/artist/purple/1514475108",
@@ -35037,6 +35987,9 @@
       "color": "#8B6F0F",
       "color2": "#564509"
     },
+    "Rain City Drive": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rain-city-drive/882018181"
+    },
     "Rainbow Kitten Surprise": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rainbow-kitten-surprise/811537548",
       "spotifyUrl": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2",
@@ -35158,6 +36111,9 @@
       "color": "#87251C",
       "color2": "#4F6738"
     },
+    "Resolve": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/resolve/4240805"
+    },
     "Restricted": {
       "appleMusicUrl": "https://music.apple.com/us/artist/restricted/1526395853"
     },
@@ -35193,6 +36149,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d6/00/c6/d600c61a-b8f0-5ccf-49dd-f9eab77b5adf/ami_U003aidentity_U003a646f6fdcad28a4abf6ca06dd15ca309b-2026-10-05T17-12-27.401Z_cropped.png/600x600bb.jpg",
       "color": "#9B674B",
       "color2": "#60402E"
+    },
+    "Rico Nasty": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/rico-nasty/1158173683"
     },
     "Rikas": {
       "appleMusicUrl": "https://music.apple.com/us/artist/rikas/1298523758",
@@ -35720,7 +36679,8 @@
       "color2": "#4D4825"
     },
     "Sabaton": {
-      "spotifyUrl": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+      "spotifyUrl": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG",
+      "appleMusicUrl": "https://music.apple.com/us/artist/sabaton/184065032"
     },
     "Sabine Blaizin": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sabine-blaizin/1386947587",
@@ -35895,6 +36855,9 @@
       "color": "#38423F",
       "color2": "#1D201F"
     },
+    "Saturdays At Your Place": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/saturdays-at-your-place/1586460711"
+    },
     "Sawyer Hill": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sawyer-hill/1651349181",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/f9/fa/96/f9fa96ba-dc1e-94f0-91e6-8b86822fe834/ami-identity-d6e6b1f9074d82cc7ea84f486c588e25-2026-04-29T01-13-56.354Z_cropped.png/600x600bb.jpg",
@@ -35915,7 +36878,8 @@
       "color2": "#673D2B"
     },
     "Scene Queen": {
-      "spotifyUrl": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4"
+      "spotifyUrl": "https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4",
+      "appleMusicUrl": "https://music.apple.com/us/artist/scene-queen/1563763617"
     },
     "Schrotthagen": {
       "spotifyUrl": "https://open.spotify.com/artist/5lo98rtXBC7oYpOEsyLc94",
@@ -35989,6 +36953,9 @@
     "Senses Fail": {
       "spotifyUrl": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
     },
+    "Sent By Ravens": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/sent-by-ravens/219804091"
+    },
     "Sequence Six": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sequence-six/1392827692",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/76/42/ae/7642aea9-e6e0-afcd-ae1c-cecac628efa7/cover.jpg/600x600ac.jpg",
@@ -36002,7 +36969,8 @@
       "color2": "#201E1D"
     },
     "Set It Off": {
-      "spotifyUrl": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+      "spotifyUrl": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k",
+      "appleMusicUrl": "https://music.apple.com/us/artist/set-it-off/124991353"
     },
     "Seth Troxler b2b Ben Sterling": {
       "appleMusicUrl": "https://music.apple.com/us/artist/seth-troxler/156867690",
@@ -36019,7 +36987,8 @@
       "color2": "#5C0A09"
     },
     "Sevendust": {
-      "spotifyUrl": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2"
+      "spotifyUrl": "https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2",
+      "appleMusicUrl": "https://music.apple.com/us/artist/sevendust/13125174"
     },
     "Sex Pistols": {
       "spotifyUrl": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
@@ -36153,6 +37122,12 @@
       "color": "#974D49",
       "color2": "#5D2F2D"
     },
+    "Silent Planet": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/silent-planet/935501728"
+    },
+    "Silly Goose": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/silly-goose/1584399710"
+    },
     "Silva Bumpa": {
       "appleMusicUrl": "https://music.apple.com/us/artist/silva-bumpa/1660983808",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features221/v4/57/82/8a/57828a08-caca-3998-af20-7c9536c30420/mzl.jueluxjl.png/600x600bb.jpg",
@@ -36207,7 +37182,8 @@
       "color2": "#2D694E"
     },
     "Sincere Engineer": {
-      "spotifyUrl": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+      "spotifyUrl": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1",
+      "appleMusicUrl": "https://music.apple.com/us/artist/sincere-engineer/1093059581"
     },
     "Sippy": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sippy/444191039",
@@ -36235,6 +37211,9 @@
       "color": "#3B7D96",
       "color2": "#785A40"
     },
+    "Skid Row": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/skid-row/163805"
+    },
     "Skilah": {
       "appleMusicUrl": "https://music.apple.com/us/artist/skilah/1771069045",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/cd/98/f6/cd98f62b-ad3a-cc08-a53b-af266abaab0f/ami_U003aidentity_U003a35161d71013da909e18f88561ae86d03-2026-09-18T17-35-11.177Z_cropped.png/600x600bb.jpg",
@@ -36242,7 +37221,8 @@
       "color2": "#582C2A"
     },
     "Skillet": {
-      "spotifyUrl": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+      "spotifyUrl": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8",
+      "appleMusicUrl": "https://music.apple.com/us/artist/skillet/1750802"
     },
     "Skream": {
       "appleMusicUrl": "https://music.apple.com/us/artist/skream/255055183",
@@ -36305,10 +37285,12 @@
       "color2": "#83561C"
     },
     "Sleeping With Sirens": {
-      "spotifyUrl": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+      "spotifyUrl": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
+      "appleMusicUrl": "https://music.apple.com/us/artist/sleeping-with-sirens/360773035"
     },
     "Sleeping with Sirens": {
-      "spotifyUrl": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+      "spotifyUrl": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA",
+      "appleMusicUrl": "https://music.apple.com/us/artist/sleeping-with-sirens/360773035"
     },
     "Slick Rick": {
       "spotifyUrl": "https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1"
@@ -36400,7 +37382,8 @@
       "color2": "#551015"
     },
     "Soil": {
-      "spotifyUrl": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP"
+      "spotifyUrl": "https://open.spotify.com/artist/4PoYwGOztIrPpBfRIlMSxP",
+      "appleMusicUrl": "https://music.apple.com/us/artist/soil/1116779"
     },
     "Solarstone": {
       "spotifyUrl": "https://open.spotify.com/artist/1PfOXooPSLQhOTNZGrXM90",
@@ -36488,7 +37471,8 @@
       "color2": "#201D20"
     },
     "Soulfly": {
-      "spotifyUrl": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+      "spotifyUrl": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc",
+      "appleMusicUrl": "https://music.apple.com/us/artist/soulfly/15772893"
     },
     "Soulwax": {
       "appleMusicUrl": "https://music.apple.com/us/artist/soulwax/15159081",
@@ -36503,6 +37487,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/51/dc/8d/51dc8d7e-e73a-d8b5-d674-bc8c01935149/ami-identity-150c02dd25ccf70587d6138d8fe2d91a-2025-04-24T10-15-58.924Z_cropped.png/600x600bb.jpg",
       "color": "#7F743D",
       "color2": "#573B2F"
+    },
+    "South Arcade": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/south-arcade/1614415981"
     },
     "Space 92": {
       "appleMusicUrl": "https://music.apple.com/us/artist/space-92/1465556022",
@@ -36573,6 +37560,9 @@
       "color": "#423838",
       "color2": "#201D1D"
     },
+    "Stabbing Westward": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stabbing-westward/485705"
+    },
     "Stacy Christine": {
       "appleMusicUrl": "https://music.apple.com/us/artist/stacy-christine/1598630104",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/d4/c3/6e/d4c36ea4-e8a5-e342-966a-14e14cffdb8e/ami_U003aidentity_U003a84b1b819d26c553789e55e7e0bcb43c9-2026-09-24T20-59-27.494Z_cropped.png/600x600bb.jpg",
@@ -36598,7 +37588,8 @@
       "color2": "#544988"
     },
     "Starset": {
-      "spotifyUrl": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+      "spotifyUrl": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa",
+      "appleMusicUrl": "https://music.apple.com/us/artist/starset/669248603"
     },
     "Steller": {
       "appleMusicUrl": "https://music.apple.com/us/artist/steller/1513085298",
@@ -36623,6 +37614,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/1b/8a/de/1b8ade4a-9332-c8ff-06c1-88554d4f70f4/file_cropped.png/600x600bb.jpg",
       "color": "#423A38",
       "color2": "#201D1D"
+    },
+    "Stephen Egerton": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stephen-egerton/267931189"
     },
     "Stephen Wilson Jr.": {
       "appleMusicUrl": "https://music.apple.com/us/artist/stephen-wilson-jr/1456928834",
@@ -36663,8 +37657,15 @@
       "color": "#423838",
       "color2": "#201D1D"
     },
+    "Stick To Your Guns": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stick-to-your-guns/218293843"
+    },
+    "Stomach Book": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/stomach-book/1551276096"
+    },
     "Stone Temple Pilots": {
-      "spotifyUrl": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+      "spotifyUrl": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z",
+      "appleMusicUrl": "https://music.apple.com/us/artist/stone-temple-pilots/889772"
     },
     "Strawbry": {
       "appleMusicUrl": "https://music.apple.com/us/artist/strawbry/1769429836",
@@ -36758,6 +37759,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/a8/66/33/a866332c-bf9d-5672-fb9d-f77700abb38f/4cc226c2-f322-4a7f-afa6-a4e0410bc880_file_cropped.png/600x600bb.jpg",
       "color": "#423838",
       "color2": "#201D1D"
+    },
+    "Surfaced": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/surfaced/1673853896"
     },
     "Sussybaka": {
       "appleMusicUrl": "https://music.apple.com/us/artist/sussybaka/1760924061",
@@ -36987,7 +37991,8 @@
       "color2": "#84532B"
     },
     "TX2": {
-      "spotifyUrl": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+      "spotifyUrl": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H",
+      "appleMusicUrl": "https://music.apple.com/us/artist/tx2/1136613368"
     },
     "Taemin": {
       "appleMusicUrl": "https://music.apple.com/us/artist/taemin/971826499",
@@ -37009,7 +38014,8 @@
       "color2": "#1D1D20"
     },
     "Taking Back Sunday": {
-      "spotifyUrl": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+      "spotifyUrl": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1",
+      "appleMusicUrl": "https://music.apple.com/us/artist/taking-back-sunday/16053322"
     },
     "Talón": {
       "appleMusicUrl": "https://music.apple.com/us/artist/tal%C3%B3n/1667963838",
@@ -37100,6 +38106,9 @@
       "color": "#383A42",
       "color2": "#1D1D20"
     },
+    "Teen Mortgage": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/teen-mortgage/1225603761"
+    },
     "Telykast": {
       "appleMusicUrl": "https://music.apple.com/us/artist/telykast/1133299760",
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages221/v4/88/51/5d/88515d85-e172-f264-1c40-b7a0e0d687ff/file_cropped.png/600x600bb.jpg",
@@ -37134,7 +38143,8 @@
       "color2": "#20201D"
     },
     "The Acacia Strain": {
-      "spotifyUrl": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+      "spotifyUrl": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-acacia-strain/253042890"
     },
     "The Alive": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-alive/269373640",
@@ -37143,7 +38153,11 @@
       "color2": "#1E1D20"
     },
     "The All-American Rejects": {
-      "spotifyUrl": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
+      "spotifyUrl": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-all-american-rejects/3447642"
+    },
+    "The Amity Affliction": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-amity-affliction/449513466"
     },
     "The Ataris": {
       "spotifyUrl": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
@@ -37155,6 +38169,9 @@
       "color": "#7A740A",
       "color2": "#146D17"
     },
+    "The Barbarians of California": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-barbarians-of-california/1724096474"
+    },
     "The Beths": {
       "spotifyUrl": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin",
       "appleMusicUrl": "https://music.apple.com/us/artist/the-beths/1110150231",
@@ -37163,7 +38180,8 @@
       "color2": "#8E436C"
     },
     "The Black Dahlia Murder": {
-      "spotifyUrl": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
+      "spotifyUrl": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-black-dahlia-murder/53265055"
     },
     "The Blessed Madonna": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-blessed-madonna/1524829861",
@@ -37178,6 +38196,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/79/f2/a8/79f2a89c-9143-bce2-74f5-ec5f08f6855c/ami_U003aidentity_U003a8d1c22bc7471aa5155d2c1bae385edcc-2026-09-23T15-41-57.645Z_cropped.png/600x600bb.jpg",
       "color": "#9F654C",
       "color2": "#623F2F"
+    },
+    "The Callous Daoboys": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-callous-daoboys/1219545532"
     },
     "The Carry Nation": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-carry-nation/508777419",
@@ -37211,6 +38232,9 @@
       "color": "#42383B",
       "color2": "#201D1E"
     },
+    "The Crimson Armada": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-crimson-armada/317835215"
+    },
     "The Damned": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-damned/3184019",
       "spotifyUrl": "https://open.spotify.com/artist/6VeL8VhaMjHTPc5uovFl3h",
@@ -37231,8 +38255,15 @@
       "color": "#35696E",
       "color2": "#214144"
     },
+    "The Devil Wears Prada": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-devil-wears-prada/189224243"
+    },
     "The Fall of Troy": {
-      "spotifyUrl": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P"
+      "spotifyUrl": "https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-fall-of-troy/21865177"
+    },
+    "The Flatliners": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-flatliners/41735804"
     },
     "The Fray": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-fray/31239777",
@@ -37242,7 +38273,8 @@
       "color2": "#831A1D"
     },
     "The Ghost Inside": {
-      "spotifyUrl": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+      "spotifyUrl": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-ghost-inside/276963639"
     },
     "The Glitch Mob": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-glitch-mob/314913876",
@@ -37263,8 +38295,12 @@
       "color": "#3F3842",
       "color2": "#1F1D20"
     },
+    "The Home Team": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-home-team/1351116388"
+    },
     "The Iron Roses": {
-      "spotifyUrl": "https://open.spotify.com/artist/4E39TiZAnl2g2uCpWI9L96"
+      "spotifyUrl": "https://open.spotify.com/artist/4E39TiZAnl2g2uCpWI9L96",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-iron-roses/1654902863"
     },
     "The Mainliners": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-mainliners/1618881604",
@@ -37295,7 +38331,8 @@
       "color2": "#1D1D20"
     },
     "The Offspring": {
-      "spotifyUrl": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+      "spotifyUrl": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-offspring/2820865"
     },
     "The Outlaw": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-outlaw/6506034",
@@ -37319,6 +38356,9 @@
     "The Pretty Reckless": {
       "spotifyUrl": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
     },
+    "The Pretty Wild": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-pretty-wild/1576555346"
+    },
     "The Prodigy": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-prodigy/1093102",
       "spotifyUrl": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB",
@@ -37341,10 +38381,12 @@
       "color2": "#634523"
     },
     "The Rasmus": {
-      "spotifyUrl": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+      "spotifyUrl": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-rasmus/6929309"
     },
     "The Red Jumpsuit Apparatus": {
-      "spotifyUrl": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
+      "spotifyUrl": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-red-jumpsuit-apparatus/130037074"
     },
     "The Resistance": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-resistance/1745299729",
@@ -37387,6 +38429,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/b7/91/c7/b791c7e6-1a6d-014a-6b77-eb4a1b3093b8/artwork.jpg/600x600ac.jpg",
       "color": "#824B3F",
       "color2": "#502F27"
+    },
+    "The Starting Line": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-starting-line/14788139"
     },
     "The Stews": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-stews/1562590817",
@@ -37439,10 +38484,12 @@
       "color2": "#683237"
     },
     "The Union Underground": {
-      "spotifyUrl": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb"
+      "spotifyUrl": "https://open.spotify.com/artist/54akiBa0DkNM3qkhnGRflb",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-union-underground/467007"
     },
     "The Used": {
-      "spotifyUrl": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+      "spotifyUrl": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL",
+      "appleMusicUrl": "https://music.apple.com/us/artist/the-used/799141"
     },
     "The Wallflowers": {
       "appleMusicUrl": "https://music.apple.com/us/artist/the-wallflowers/107946",
@@ -37498,7 +38545,8 @@
       "color2": "#513627"
     },
     "Theory of a Deadman": {
-      "spotifyUrl": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+      "spotifyUrl": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ",
+      "appleMusicUrl": "https://music.apple.com/us/artist/theory-of-a-deadman/16169450"
     },
     "Third Eye Blind": {
       "appleMusicUrl": "https://music.apple.com/us/artist/third-eye-blind/733629",
@@ -37527,10 +38575,12 @@
       "color2": "#643E24"
     },
     "Three 6 Mafia": {
-      "spotifyUrl": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT"
+      "spotifyUrl": "https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT",
+      "appleMusicUrl": "https://music.apple.com/us/artist/three-6-mafia/1889116"
     },
     "Thrice": {
-      "spotifyUrl": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+      "spotifyUrl": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE",
+      "appleMusicUrl": "https://music.apple.com/us/artist/thrice/1663706"
     },
     "Thundercat": {
       "appleMusicUrl": "https://music.apple.com/us/artist/thundercat/367322286",
@@ -37570,6 +38620,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/da/fa/73/dafa73f1-d0b0-3ce7-bcf7-8d34aa80c9b5/mzl.shklvcun.jpg/600x600bb.jpg",
       "color": "#8D3541",
       "color2": "#572128"
+    },
+    "Till Lindemann": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/till-lindemann/20851094"
     },
     "Tim Clark": {
       "appleMusicUrl": "https://music.apple.com/us/artist/tim-clark/88693001",
@@ -37677,7 +38730,8 @@
       "color2": "#51461D"
     },
     "Tool": {
-      "spotifyUrl": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+      "spotifyUrl": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8",
+      "appleMusicUrl": "https://music.apple.com/us/artist/tool/140870416"
     },
     "Topcat": {
       "appleMusicUrl": "https://music.apple.com/us/artist/top-cat/3217052",
@@ -37716,6 +38770,9 @@
       "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages211/v4/e9/0c/55/e90c555c-dda0-a0a7-8dcc-aa11176ae9eb/file_cropped.png/600x600bb.jpg",
       "color": "#42383C",
       "color2": "#201D1E"
+    },
+    "Traverse The Abyss": {
+      "appleMusicUrl": "https://music.apple.com/us/artist/traverse-the-abyss/1175403013"
     },
     "Treach": {
       "appleMusicUrl": "https://music.apple.com/us/artist/treach/1466270",
@@ -37821,7 +38878,8 @@
       "color2": "#43627D"
     },
     "Twitching Tongues": {
-      "spotifyUrl": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy"
+      "spotifyUrl": "https://open.spotify.com/artist/3k1tPUpSlWppOSbIV1ivQy",
+      "appleMusicUrl": "https://music.apple.com/us/artist/twitching-tongues/428128911"
     },
     "Ty Myers": {
       "appleMusicUrl": "https://music.apple.com/us/artist/ty-myers/1674345303",
